@@ -9,7 +9,7 @@ import time
 def get_new_chunk(current_border, tmp_border):
     print("Current Border: " + current_border + ", tmp_border: " + tmp_border)
 
-    url_new_chunk="https://clinicaltrials.gov/api/query/study_fields?min_rnk=" + current_border +"&max_rnk="+tmp_border+"&fields=NCTId,Condition,OverallStatus,PrimaryOutcomeMeasure,PrimaryOutcomeTimeFrame,SecondaryOutcomeMeasure,SecondaryOutcomeTimeFrame,WhyStopped,BaselineMeasureTitle&fmt=csv"
+    url_new_chunk="https://clinicaltrials.gov/api/query/study_fields?expr=Type+2+Diabetes&min_rnk=" + current_border +"&max_rnk="+tmp_border+"&fields=NCTId,Condition,OverallStatus,PrimaryOutcomeMeasure,PrimaryOutcomeTimeFrame,SecondaryOutcomeMeasure,SecondaryOutcomeTimeFrame,WhyStopped,BaselineMeasureTitle&fmt=csv"
 
     data_new_chunk = pd.read_csv(url_new_chunk,  skiprows = 11, names=["NCTId","Condition","OverallStatus","PrimaryOutcomeMeasure","PrimaryTimeFrame","SecondaryOutcomeMeasure","SecondaryTimeFrame", "WhyStopped", "BaselineMeasureTitle"])
     return data_new_chunk

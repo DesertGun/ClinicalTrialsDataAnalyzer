@@ -4,35 +4,74 @@
     <b-container class="container">
       <b-row class="projectForm">
         <b-col class="varCol">
-          <h4>Test.1</h4>
+          <h4>Variable - Settings</h4>
           <div>
             <b-form class="forms">
               <b-form-group
                 id="projectName"
-                description="Name of a new project is required"
-                label="Project name:"
-                label-for="projectNameInput"
+                description="Enter the change type"
+                label="Change:"
+                label-for="changeInput"
               >
                 <b-form-input
-                  id="projectNameInput"
-                  v-model="projectName"
-                  class="projectNameInput"
-                  placeholder="Enter project Name"
+                  id="changeInput"
+                  v-model="change"
+                  class="changeInput"
+                  placeholder="E.g., Count of Participants"
                   required
                   type="text"
                 />
               </b-form-group>
 
               <b-form-group
-                id="projectDesc"
-                description="Description is optional"
-                label="Project description:"
-                label-for="inputProjectDesc"
+                id="reference"
+                description="Enter the reference"
+                label="Reference:"
+                label-for="referenceInput"
               >
                 <b-form-input
-                  id="inputProjectDesc"
-                  v-model="projectDesc"
-                  placeholder="Enter project-description"
+                  id="referenceInput"
+                  v-model="reference"
+                  placeholder="E.g., Number of Participants Analyzed"
+                  type="text"
+                />
+              </b-form-group>
+              <b-form-group
+                id="variable"
+                description="Enter the Variable"
+                label="Variable:"
+                label-for="variableInput"
+              >
+                <b-form-input
+                  id="variableInput"
+                  v-model="variable"
+                  placeholder="E.g., Abnormal Electrocardiogram (ECG) Interval"
+                  type="text"
+                />
+              </b-form-group>
+              <b-form-group
+                id="timepoint"
+                description="Enter the Timepoint"
+                label="Timepoint:"
+                label-for="timepointInput"
+              >
+                <b-form-input
+                  id="timepointInput"
+                  v-model="timepoint"
+                  placeholder="E.g., Approximately 42 days"
+                  type="text"
+                />
+              </b-form-group>
+              <b-form-group
+                id="condition"
+                description="Enter the Condition"
+                label="Condition:"
+                label-for="conditionInput"
+              >
+                <b-form-input
+                  id="conditionInput"
+                  v-model="condition"
+                  placeholder="E.g., Type 2 Diabetes"
                   type="text"
                 />
               </b-form-group>
@@ -42,7 +81,7 @@
         </b-col>
         <b-col />
         <b-col class="outCol">
-          <h4>Test.2</h4>
+          <h4>Results</h4>
           <div>
             <b-table striped hover :items="items"></b-table>
           </div>
@@ -57,11 +96,36 @@ export default {
   data() {
     return {
       items: [
-        { age: 40, first_name: 'Dickerson', last_name: 'Macdonald' },
-        { age: 21, first_name: 'Larsen', last_name: 'Shaw' },
-        { age: 89, first_name: 'Geneva', last_name: 'Wilson' },
-        { age: 38, first_name: 'Jami', last_name: 'Carney' },
+        {
+          NCTId: 'NCT01814787',
+          Change: 'Adjusted Mean Change',
+          Reference: 'Baseline',
+          Variable: 'Fasting Plasma Glucose',
+          TimePoint: 'approximately 42 days',
+          Condition: 'Type 2 Diabetes',
+        },
+        {
+          NCTId: 'NCT01814787',
+          Change: 'Count of Participants',
+          Reference: 'Number of Participants Analyzed',
+          Variable: 'Abnormal Electrocardiogram (ECG) Interval',
+          TimePoint: 'maximum 42 days',
+          Condition: 'Cancer',
+        },
+        {
+          NCTId: 'NCT01851478',
+          Change: 'Not mentioned',
+          Reference: 'Not mentioned',
+          Variable: 'VTE incidence risk evaluation',
+          TimePoint: 'approximately 23 weeks',
+          Condition: 'Cancer',
+        },
       ],
+      change: null,
+      variable: null,
+      reference: null,
+      condition: null,
+      timepoint: null,
     }
   },
 }
@@ -103,10 +167,10 @@ export default {
 }
 
 .varCol {
-  min-width: 45%;
+  min-width: 40%;
 }
 
 .outCol {
-  min-width: 45%;
+  min-width: 55%;
 }
 </style>

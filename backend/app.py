@@ -2,6 +2,7 @@ from flask import Flask, jsonify
 from flask_cors import CORS
 import threading
 from update_database import download_data
+import time
 
 
 # configuration
@@ -16,11 +17,13 @@ CORS(app, resources={r'/*': {'origins': '*'}})
 
 @app.before_first_request
 def activate_update_job():
+    update_needed = True
     def run_job():
-        while True:
+        while update_needed:
             print("Run update task")
             # TODO: Destinction whether the data is still valid or needs to be downloaded
             download_data()
+            update_needed = False
             time.sleep(3)
 
     thread = threading.Thread(target=run_job)
