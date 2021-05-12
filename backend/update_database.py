@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import time
-
+import datetime
 
 
 
@@ -62,7 +62,8 @@ def download_data():
     input_data = pd.concat(concat_frames)
 
     # create input_data.csv
-    input_data.to_csv("input_data_raw.csv")
+    date_new = datetime.datetime.now().strftime("%m%d%Y")
+    input_data.to_csv("input_data_raw_" + date_new +".csv")
     filtered = input_data[(input_data["OverallStatus"] == "Completed") & (input_data["WhyStopped"].astype(str) == "nan")]
     export = filtered.drop(columns=["WhyStopped"], axis = 1)
     export.to_csv("input_data.csv")
