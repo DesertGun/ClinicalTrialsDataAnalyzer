@@ -1,0 +1,6 @@
+NCTId,Condition,Change,Reference,Variable,Timepoint
+NCT01814787,Type 2 Diabetes,Count of participants,Number of participants analyzed,Documented Risk Factors,12 months
+NCT01346033,Type 2 Diabetes,Not mentioned,Algorithm detection,Validation,1 day
+NCT04765631,Type 2 Diabetes,Not mentioned,Density,Volumetric bone mineral density(vBMD),Not mentioned
+NCT03979768,Type2 Diabetes,Count of participant,Number of participants analyzed,Not mentioned,2 months
+NCT03979768,Type2 Diabetes,Count of participants,Number of participants analyzed,Hb1Ac-measurement Group(Hb1Ac-group),Baseline

@@ -65,5 +65,6 @@ def download_data():
     date_new = datetime.datetime.now().strftime("%m%d%Y")
     input_data.to_csv("input_data_raw_" + date_new +".csv")
     filtered = input_data[(input_data["OverallStatus"] == "Completed") & (input_data["WhyStopped"].astype(str) == "nan")]
-    export = filtered.drop(columns=["WhyStopped"], axis = 1)
-    export.to_csv("input_data.csv")
+    export = filtered.drop(columns=["WhyStopped", "OverallStatus"], axis = 1)
+    export[0:100].to_csv("input_data_filtered.csv")
+    # TODO: Prototype will be using only 100 rows! In full version the whole data will be used

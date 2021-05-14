@@ -95,37 +95,25 @@
 export default {
   data() {
     return {
-      items: [
-        {
-          NCTId: 'NCT01814787',
-          Change: 'Adjusted Mean Change',
-          Reference: 'Baseline',
-          Variable: 'Fasting Plasma Glucose',
-          TimePoint: 'approximately 42 days',
-          Condition: 'Type 2 Diabetes',
-        },
-        {
-          NCTId: 'NCT01814787',
-          Change: 'Count of Participants',
-          Reference: 'Number of Participants Analyzed',
-          Variable: 'Abnormal Electrocardiogram (ECG) Interval',
-          TimePoint: 'maximum 42 days',
-          Condition: 'Cancer',
-        },
-        {
-          NCTId: 'NCT01851478',
-          Change: 'Not mentioned',
-          Reference: 'Not mentioned',
-          Variable: 'VTE incidence risk evaluation',
-          TimePoint: 'approximately 23 weeks',
-          Condition: 'Cancer',
-        },
-      ],
+      items: [],
       change: null,
       variable: null,
       reference: null,
       condition: null,
       timepoint: null,
+    }
+  },
+  async mounted() {
+    try {
+      const response = await this.$axios.get('/results')
+
+      this.items = response.data.map((JSON) => {
+        return {
+          ...JSON,
+        }
+      })
+    } catch (e) {
+      alert(e.toString())
     }
   },
 }
