@@ -82,8 +82,15 @@
         <b-col />
         <b-col class="outCol">
           <h4>Results</h4>
-          <div>
-            <b-table striped hover :items="items"></b-table>
+          <div class="mb-2">
+            <b-table
+              sticky-header="500px"
+              :no-border-collapse="noCollapse"
+              responsive
+              striped
+              hover
+              :items="items"
+            ></b-table>
           </div>
         </b-col>
       </b-row>
@@ -95,6 +102,8 @@
 export default {
   data() {
     return {
+      stickyHeader: true,
+      noCollapse: false,
       items: [],
       change: null,
       variable: null,
@@ -155,10 +164,10 @@ export default {
 }
 
 .varCol {
-  min-width: 40%;
+  min-width: 50%;
 }
 
 .outCol {
-  min-width: 55%;
+  min-width: 60%;
 }
 </style>
