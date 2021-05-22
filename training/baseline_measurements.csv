@@ -1,0 +1,4934 @@
+,units,param_type
+0,micro volts,Median
+1,weeks of amenorrhea,Mean
+2,units on a scale (%),Median
+3,Antihypertensive Medications per Patient,Mean
+4,miligrams per liter,Mean
+5,International Units/milliliter (IU/mL),Mean
+6,percentage of work time missed,Mean
+7,Participant selections,Number
+8,events/week,Mean
+9,P. acne counts,Mean
+10,Kilograms per metre square,Mean
+11,Percentage of participants,Mean
+12,% Symmetry,Mean
+13,subject,Number
+14,copies/milliliter (copies/mL),Mean
+15,percentage of predicted FEV1,Mean
+16,kilograms per meter squared (kg/m^2),Median
+17,liters,Median
+18,Percentage of Parabasal Cells,Mean
+19,nighttime incontinence episodes,Mean
+20,Stools/day,Mean
+21,incontinent episodes per week,Mean
+22,mcg/min,Mean
+23,Letters,Mean
+24,occurrences,Median
+25,psychotic episodes,Median
+26,Number of patients,Number
+27,gm/dL,Median
+28,percent risk for cardiac surgery,Mean
+29,cells/cubic mL,Mean
+30,percentage of blood volume,Mean
+31,Percentage of psoriasis involvement,Mean
+32,change in mOD/min at 412nm,Mean
+33,sites,Median
+34,kg/height in meters^2,Mean
+35,percentage of saturation,Mean
+36,Dollars,Mean
+37,Acid Fast Bacilli/field,Median
+38,Clinics,Number
+39,Pressure Ulcers,Mean
+40,cells /mm2,Mean
+41,Kg,Median
+42,Micro unit per milliliter,Mean
+43,Units on a scale of 0 (low) to 12 (most),Mean
+44,kg per meter squared,Median
+45,percentage of participants,Number
+46,units/liter,Median
+47,units on scale 0-16,Mean
+48,pack/years,Mean
+49,percentage of BSA,Median
+50,g/L,Median
+51,cigarettes/day,Median
+52,Units Per Millilitre (U/mL),Median
+53,MET minutes per week,Mean
+54,number of tender joints,Mean
+55,kilograms per meter square (kg/m^2),Mean
+56,fL,Mean
+57,Participants,Number
+58,kg per meters squared,Mean
+59,BPND (Binding Potential),Mean
+60,Avg # of admissions,Mean
+61,kg/m2,Median
+62,units per milliliter,Median
+63,number of treatments,Mean
+64,cm,Number
+65,yr,Mean
+66,percentage of JROM,Mean
+67,g/DL,Mean
+68,gestational age (days),Median
+69,points,Mean
+70,kilogram per square meter (kg/m^2),Mean
+71,periodontal pocket,Mean
+72,ug/L,Mean
+73,grams 40% alcohol/drinking day,Mean
+74,Number of Participants,Number
+75,Beta value,Mean
+76,No. of events,Mean
+77,Medicare Case-Mix Index/year,Mean
+78,seizures per day,Mean
+79,pmol*h/L,Mean
+80,g per cm squared,Mean
+81,Correct Fixations,Mean
+82,Milligram (mg)/ Deciliter (dL),Mean
+83,gm/24hrs,Mean
+84,Newtons,Mean
+85,number of joints,Mean
+86,percent platelet aggregation,Mean
+87,beat/minute,Mean
+88,(kg/m^2,Mean
+89,Log10 IU/mL,Median
+90,ml/min/1.73m2,Mean
+91,Unit,Mean
+92,Grade,Mean
+93,nanogram/deciliter,Mean
+94,Points,Median
+95,percentage of CO2,Mean
+96,hours),Median
+97,10^3 cell per μL,Median
+98,Vaginal births per participant,Mean
+99,cells/uL,Mean
+100,Percent words Intellegible,Mean
+101,lung clearance index,Mean
+102,millimeters of mercury (mm Hg),Mean
+103,mmol*h/L,Mean
+104,liter (L),Mean
+105,Mothers' Age in years,Mean
+106,HOMA-IR score,Mean
+107,mg/L,Mean
+108,g.m^2.h,Mean
+109,Fractures,Number
+110,milliliters per second (mL/sec),Mean
+111,weight in kg/ height m^2,Mean
+112,millimetres,Median
+113,Participants,Mean
+114,multiples,Mean
+115,mm/h,Median
+116,percentage of whole-lung clearance,Mean
+117,comorbid conditions,Median
+118,servings/day,Mean
+119,dyn*sec/cm^5,Median
+120,Days per Week,Mean
+121,min,Mean
+122,parotid glands,Count of Units
+123,letter score,Median
+124,stents,Mean
+125,ng/mL,Mean
+126,Nanogram per milliliter (ng/mL),Mean
+127,percentage of TWPI,Mean
+128,Episodes,Median
+129,kg//m^2^,Mean
+130,Ru/ml,Mean
+131,mg protein,Median
+132,tooth,Number
+133,HOMA IR score,Mean
+134,kilogram/ square meter,Mean
+135,percentage of normal sperm cells,Mean
+136,mmole/liter,Median
+137,Meters (m),Mean
+138,Wood Units,Mean
+139,international units (IU),Mean
+140,g/dl,Mean
+141,degrees Farenheit,Mean
+142,kg/square of m.,Mean
+143,U/kg/day,Median
+144,"age, years",Mean
+145,cells/microliter,Geometric Mean
+146,Number of CAM therapies,Mean
+147,Number of episodes,Median
+148,μM,Median
+149,% total fatty acids,Mean
+150,Units on a Scale,Mean
+151,IQ points,Mean
+152,Treatments,Median
+153,number of previous episodes,Mean
+154,percentage of glycosylated hemoglobin,Mean
+155,index of beta-cell function,Median
+156,hours per day,Mean
+157,milligrams per deciliter,Median
+158,nursing homes,Number
+159,ng/mL,Geometric Mean
+160,Taka,Median
+161,micrograms/ml,Mean
+162,intrinsic beats/minute,Mean
+163,Percent Adherence,Mean
+164,percentage of mineralizing surface,Mean
+165,Number of joints,Mean
+166,Ratio of SBP ankle/SBP arm,Mean
+167,percentage of insulin regimen,Number
+168,g/m^2*h,Mean
+169,Scores on a scale from 1 to 5,Mean
+170,MS relapses,Median
+171,drinks/drinking day,Mean
+172,Quality of Life Scores on a Scale,Mean
+173,%Gag-specific CD40L+CD4+ T-cells,Median
+174,z-score,Median
+175,lbs/in^2,Mean
+176,Kilogram (Kg),Mean
+177,ppb,Mean
+178,dyad,Count of Units
+179,Scores on a scale,Mean
+180,nanograms per deciliter,Mean
+181,pg/mg CR,Median
+182,g/m^2/hr,Mean
+183,mg powder,Median
+184,Microns Squared,Mean
+185,nocturnal awakenings,Mean
+186,pack-years,Median
+187,samples,Number
+188,Cycles,Median
+189,percentage of pockets,Mean
+190,milliliter/minute,Median
+191,Percentage of predicted FEV1,Mean
+192,systemic anticancer regimens,Mean
+193,Attacks per month,Mean
+194,Gestational Age in Week,Mean
+195,Percentage of perdicted TLC,Mean
+196,Percent Dilation,Median
+197,units on a scale; 0-21,Mean
+198,antiarrhythmic drugs,Mean
+199,miligram (mg),Mean
+200,percentage total blood in left ventricle,Mean
+201,picomole per liter (pmol/L),Mean
+202,percentage affected,Mean
+203,percent risk,Mean
+204,Cells/mm^3,Median
+205,square meter,Mean
+206,Year,Mean
+207,kg//m^2,Mean
+208,kilogram per square meter (kg/m²),Mean
+209,Percentage of Predicted TLC,Mean
+210,log IU/mL,Mean
+211,Global sleep quality score,Mean
+212,square centrimeter,Mean
+213,days/month,Mean
+214,L,Median
+215,Ratio (X100),Mean
+216,cubic centimeters (cc),Mean
+217,percent of predicted total force,Mean
+218,degrees C,Mean
+219,percentage of refill gap-days per year,Mean
+220,Percent of blood ejected,Mean
+221,L/min (liters per minute),Mean
+222,gram per deciliter (g/dL),Mean
+223,micrograms per liter (mcg/L),Mean
+224,milliliters(mL)/minute(min) per 1.73 m^2,Mean
+225,Menstrual Blood Loss (ml),Mean
+226,proportion of days used alcohol,Mean
+227,bursts/100 heartbeats,Mean
+228,Cm,Mean
+229,Percentage of dilation,Mean
+230,unit per liter (U/L),Mean
+231,Picogram per milliliter (pg/mL),Median
+232,ft,Mean
+233,newtons,Mean
+234,grams per square centimeters,Mean
+235,mg:mg,Mean
+236,percentage of patients,Number
+237,cells/ml,Mean
+238,mU/L x mg/dL,Mean
+239,Percentage of hemoglobin,Mean
+240,Cells/µL,Mean
+241,dB HL,Mean
+242,cm3,Median
+243,kilograms/meter^2,Mean
+244,Z score,Mean
+245,Trials,Count of Units
+246,Log10(parasites/µL),Median
+247,%Bw*Ht,Mean
+248,passes,Mean
+249,kilograms/(meters squared),Mean
+250,weeks post menstrual age,Mean
+251,m²,Median
+252,number of medications,Mean
+253,g,Median
+254,cm on Visual Analogue Scale (0-10),Mean
+255,lesion Count,Mean
+256,umol/l,Mean
+257,admissions,Median
+258,# cigarettes smoked per day,Mean
+259,ML/min,Mean
+260,milimeters,Mean
+261,Karnofsky performance scale,Mean
+262,urge incontinence episodes,Mean
+263,micrograms per milliliter (ug/mL),Mean
+264,kilogram/meter^2,Mean
+265,millimeter/kilograms,Mean
+266,log copies/10^6 CD4+T cells,Median
+267,thousand platelets/microliter,Mean
+268,percentage of fat mass,Mean
+269,live birth,Median
+270,percentage of correctly recalled words,Mean
+271,pmol/L:pmol/L,Geometric Mean
+272,Proportion Heavy drinking days,Mean
+273,kilograms/square meter,Mean
+274,Percent,Mean
+275,Nanomole per liter (nmol/L),Mean
+276,kilogram per meter squared (kg/m²),Mean
+277,centimeter,Median
+278,milligrams per deciliter (mg/dL),Median
+279,Surgeries,Mean
+280,% Achieving MVPA Standard,Number
+281,% of Hemoglobin A1c,Mean
+282,micromoles/liter,Mean
+283,hours,Mean
+284,cubic centimeters,Median
+285,units/L,Median
+286,lines,Median
+287,Kilogram [kg],Mean
+288,liter,Mean
+289,degree,Median
+290,number of viable pregnancies,Median
+291,Cells per cubic mm,Mean
+292,% predicted,Median
+293,,Mean
+294,times/person/year,Mean
+295,degrees celcius,Mean
+296,Number of teeth with stressful occlusion,Number
+297,severity on Likert-type scale,Mean
+298,Vaginal Births,Mean
+299,cm/s,Mean
+300,Systolic BP (mmHg),Mean
+301,mL/min/1.73 m^2,Mean
+302,partcipants,Number
+303,quit-attempts,Mean
+304,kilogram per squaremeter (kg/m^2),Mean
+305,units per milliliter,Mean
+306,% of ejected ventricular vol of blood,Mean
+307,meters (m),Mean
+308,Percent Glycated Hemoglobin (unadjusted),Mean
+309,percentage of participants,Median
+310,percent of cells in sputum sample,Median
+311,milli volt,Mean
+312,kgˆm2,Mean
+313,cms,Median
+314,Units of PRBC (packed red blood cells),Median
+315,Attending Takeovers,Number
+316,percentage of saturated oxygen,Median
+317,Unit per liter,Median
+318,Lesion type,Number
+319,Nano mole per Liter (nmol/L),Median
+320,percent HbA1c,Median
+321,mL/min/1.75m^2,Mean
+322,weeks gestation,Mean
+323,min/day,Mean
+324,cells/mm^3,Median
+325,percent of clot lysis at 30 minutes,Median
+326,percentage of peripheral blood,Mean
+327,mL/min/1.73 m^2,Median
+328,percent of glycated hemoglobin,Mean
+329,A1C (%),Mean
+330,ng/l,Median
+331,pH,Median
+332,Incorrect responses,Mean
+333,micromoles per liter (μmol/L),Mean
+334,g/24hrs,Mean
+335,Medications,Median
+336,milliliters per kilogram per minute,Mean
+337,Events/hour,Mean
+338,mcg/ml,Mean
+339,percentage of expected mortality,Mean
+340,Metastatic sites,Mean
+341,relapses,Number
+342,mg/dL,Median
+343,bouts,Mean
+344,Centimeter,Median
+345,MET min/week,Mean
+346,number of remembered items,Mean
+347,hours/week,Mean
+348,metastatic sites,Mean
+349,kilogram (kg),Median
+350,log10 CFU/ml,Median
+351,% fat mass,Mean
+352,"""OFF"" Episodes/day",Number
+353,gram/liter,Mean
+354,MilliUnits per Liter,Mean
+355,percentage,Number
+356,drinks/week,Median
+357,Milliseconds,Mean
+358,Percentage of predicted SpO2,Mean
+359,kilograms/meters squared,Mean
+360,Percent insulin sensitivity,Mean
+361,mg*uU/dl*ml,Mean
+362,drinks per week,Mean
+363,kilograms/meters squared (kg/m^2),Mean
+364,cells per cmm,Median
+365,Percent (of blood emptied),Mean
+366,mAU/mL,Median
+367,participant,Mean
+368,Kcal/session,Mean
+369,percentage of total skin area,Mean
+370,number of migraine attacks per month,Mean
+371,units on a 1-5 Likert scale,Mean
+372,Percentage of Potential Donors,Mean
+373,mcg/24 hours,Mean
+374,years old,Mean
+375,log10 copies/mL,Median
+376,in-patient admissions,Mean
+377,Number of exacerbations per participant,Mean
+378,mg/liter,Median
+379,log10 copies/ml,Median
+380,mg/cm3,Mean
+381,Units on a Scale,Median
+382,participants with images collected,Number
+383,% of ejection fraction,Mean
+384,centimete (cm),Mean
+385,repetitions x sets/week,Mean
+386,Central apneas per hour,Median
+387,u/l,Median
+388,swollen joints,Mean
+389,Tests,Mean
+390,(kg/mg^2),Mean
+391,average of z-scores,Mean
+392,centimeters-squared,Median
+393,minutes,Mean
+394,Hospitalizations,Mean
+395,ISQ scores,Mean
+396,eosinophils/high powered field,Mean
+397,Percentage of body fat,Mean
+398,milligram/kilogram/day,Median
+399,Penetration-aspiration scale (1 is best),Median
+400,D,Mean
+401,CPD,Mean
+402,% transferrin,Mean
+403,percent HbA1c in blood,Mean
+404,Lbs.,Mean
+405,mins of moderate and intense activity,Mean
+406,lesion counts,Median
+407,Month,Mean
+408,Kilograms/meters²,Mean
+409,millimetres,Mean
+410,count of binge episodes per week,Mean
+411,Participants by scale,Number
+412,SDS,Mean
+413,kiligram per meter² (kg/m²),Mean
+414,cubic millimetre,Median
+415,milligrams/deciliter (mg/dl),Mean
+416,pH units,Mean
+417,Percent predicted,Geometric Mean
+418,mmHg (Goldmann tonometer),Mean
+419,cells in a cubic millimetre (cells/mm3),Mean
+420,Percentage of CD4 lymphocytes,Mean
+421,units/kg,Number
+422,percentage of total blast cells,Mean
+423,Invasive Ablation Approaches,Number
+424,case,Number
+425,%predicted,Median
+426,kilograms per square meter (kg/m^2),Mean
+427,lesion,Mean
+428,bpm,Mean
+429,dB,Mean
+430,micromoles per liter,Mean
+431,Percentage of ICU female patient volume,Mean
+432,deliveries per participant,Median
+433,Patient Visit,Count of Units
+434,kg/㎡,Mean
+435,standard uptake value ratio (SUVr),Mean
+436,percent motility,Mean
+437,"%vital capacity, relative to EEL",Mean
+438,week,Median
+439,LDL-C:HDL-C ratio,Mean
+440,kg / m^2,Mean
+441,incontinent days per week,Mean
+442,Percentage of LVEF,Mean
+443,beats per minute,Median
+444,percentage of total lymphocytes,Median
+445,mU per liter,Mean
+446,Gray units,Mean
+447,1/ms,Mean
+448,microgram per milliliter (mcg/mL),Mean
+449,% predicted,Mean
+450,degrees Fahrenheit (F),Mean
+451,watts,Mean
+452,Beats per minute (BPM),Mean
+453,Number of lesions,Mean
+454,no units,Mean
+455,binge episodes/week,Mean
+456,ng/mg creatinine,Median
+457,(mm Hg),Median
+458,percent of participants,Number
+459,crying time in minutes,Mean
+460,years,Mean
+461,Events per hour of sleep,Mean
+462,log10 (IU/ml),Mean
+463,percentage of abundance,Mean
+464,Percentage of mass,Median
+465,ml/minute/1.73m2,Mean
+466,μg/mL,Mean
+467,Log10 copies/mL,Mean
+468,par/µL,Mean
+469,grams (g),Mean
+470,index,Mean
+471,percentage of time,Mean
+472,patient,Number
+473,mcg/kg/min,Median
+474,Fat/Fat+Water (%),Median
+475,Patient,Number
+476,milli meters,Mean
+477,kilograms per square meters,Mean
+478,pg/dL,Mean
+479,mg/ dl,Mean
+480,g/d,Median
+481,Kenyan Shillings,Mean
+482,Kilogramme,Mean
+483,miligram per decilitre,Mean
+484,People in household,Median
+485,Cigarettes per day,Mean
+486,u/L,Median
+487,cells / mm^3,Mean
+488,decibels,Mean
+489,pulmonary Exacerbations/year,Mean
+490,seizure rate,Mean
+491,units/week,Median
+492,percent positive urine tox. screenings,Mean
+493,Metastatic Lines,Median
+494,mcg/L,Mean
+495,micrometers (μm),Mean
+496,IU/mL,Mean
+497,grade,Mean
+498,mL/min/173m2,Mean
+499,number of times quit smoking,Mean
+500,cms,Mean
+501,mmol/24hr/1.73m^2,Mean
+502,pictures named,Mean
+503,Celcius,Mean
+504,Applications,Median
+505,number of swollen joints,Mean
+506,total raw scores by study group,Mean
+507,kilograms/square meter (kg/m²),Mean
+508,migraines,Mean
+509,urgency episodes,Mean
+510,Microns,Median
+511,"Mean percent of legible letters, & words",Mean
+512,Count of 'low' responses (1 or 2),Mean
+513,mciu*hr/ml,Mean
+514,ratio,Median
+515,weeks of gestation,Median
+516,Log₁₀ IU/mL,Median
+517,International Unit per kilogram (IU/kg),Mean
+518,Number of hot flashes per day,Mean
+519,LOG counts of bacterial cells,Mean
+520,percentage of EBMI loss,Median
+521,joint count,Mean
+522,psychiatric hospitalizations,Mean
+523,log copies/10^6 PBMC,Median
+524,milligram per Liter (mg/L),Mean
+525,Percentage of risk,Median
+526,mEq,Mean
+527,clients,Mean
+528,total hours/week,Mean
+529,Deliveries,Median
+530,Hours,Median
+531,Years of Education,Mean
+532,kilogram/square meter,Mean
+533,mohths,Median
+534,lymphocyte count/µL,Mean
+535,IU/L,Mean
+536,kU/L,Median
+537,log(picograms/mL),Mean
+538,number of times consumed per day,Mean
+539,percentage of total body surface area,Mean
+540,multiples of ULN,Mean
+541,Percent A1c,Mean
+542,x10^12/L,Mean
+543,nanograms per milliliter,Mean
+544,% of nitrogen ingested,Mean
+545,Percent,Median
+546,tick bites,Mean
+547,Centemeters,Mean
+548,millimeters of mercury [mmHg],Mean
+549,SUV,Mean
+550,g/mg,Median
+551,percentage of predicted (%),Median
+552,Spoken syllables per inspiration,Mean
+553,(uIU/mL),Mean
+554,ug/mL,Median
+555,µV,Mean
+556,urgent incontinent episodes per week,Mean
+557,AEDs,Mean
+558,degrees/second,Mean
+559,sum of z scores,Mean
+560,%predicted,Mean
+561,Degrees Fahrenheit,Mean
+562,mm squared,Mean
+563,percentage of time <70 mg/dL,Mean
+564,kilogram,Median
+565,decibel Hearing Level,Mean
+566,Percentage of correct naming,Mean
+567,Grams per centimeter squared,Mean
+568,Tender joints,Mean
+569,score: 0-47,Mean
+570,Quit attempts,Mean
+571,logMAR units,Mean
+572,kilograms/square centimeters (kg/cm^2),Mean
+573,g / m² / h,Mean
+574,number of incompatibilities,Mean
+575,Bleeds,Mean
+576,chemotherapies,Median
+577,g/(Kg*d),Mean
+578,Pharmacy,Count of Units
+579,units on a pain scale,Mean
+580,stairs,Mean
+581,kilograms (kg),Mean
+582,cm2,Mean
+583,arbitrary units,Mean
+584,nocturnal voids,Mean
+585,total drinks per week,Mean
+586,% drug using/heavy drinking days,Median
+587,decibels,Median
+588,milligrams per day,Median
+589,mL/second,Mean
+590,cases,Number
+591,Urgency Incontinence Episodes,Mean
+592,meters squared,Mean
+593,kilogram/square meter (kg/m^2),Mean
+594,Years Completed,Mean
+595,percentage points,Mean
+596,*10^6 cells/µL,Mean
+597,% of Hemoglobin A1C,Mean
+598,kilograms per meter squared,Median
+599,microgram/L,Mean
+600,VAS 0mm (better) - 100mm (worse),Mean
+601,% - percentage,Median
+602,visits per patient per year,Mean
+603,nmol/mL,Mean
+604,percentage of maximum total score,Median
+605,micrometer,Median
+606,Natural log of k-value,Mean
+607,average number of transfusions/patient,Mean
+608,Children,Mean
+609,% of predicted volume,Mean
+610,x10^9 cells/L,Mean
+611,nmol/l,Median
+612,T-score mean of 50,Median
+613,millimeters/hour (mm/hr),Mean
+614,Grams,Median
+615,kilogram/m^2,Mean
+616,grams/dL,Mean
+617,pills/day,Mean
+618,Millimeter^3,Mean
+619,subjects,Number
+620,℃,Median
+621,number of quit attempts,Mean
+622,Number of times pregnant,Mean
+623,"% of doses taken, past month",Mean
+624,square millimeters,Mean
+625,Microgram per milliliter (mcg/mL),Mean
+626,trials,Mean
+627,millimeters of Mercury (mm Hg),Mean
+628,Giga/Liter (L),Mean
+629,nanograms per mililiter (ng/mL),Median
+630,Years,Median
+631,µm^3/µm^2/year,Mean
+632,Percentage of glycosylated hemoglobin,Mean
+633,feet,Median
+634,Numbers of therapy,Mean
+635,Times,Mean
+636,equivalents total,Mean
+637,Tender Joints,Mean
+638,push-ups,Mean
+639,x 10^6 cells/kg,Mean
+640,kcal/wk,Mean
+641,percent of total hemoglobin,Mean
+642,Expected % Max FVC,Mean
+643,Beats per minute,Median
+644,male sexual partners,Mean
+645,ratios,Mean
+646,mismatched antigens,Mean
+647,positions recalled,Mean
+648,symptom days,Mean
+649,mg/gCR,Mean
+650,units on a scale,Number
+651,percent of predicted FEV1,Mean
+652,kg/(meters squared),Mean
+653,μg/day,Mean
+654,percentage of glycossylated hemoglobin,Mean
+655,ng per ml,Mean
+656,picograms per milliliter,Mean
+657,log 10 copies/mL,Median
+658,percentage of EWL,Median
+659,Erythromycin-resistant lesion count,Mean
+660,pmol.hr/L,Mean
+661,Log10(copies/mL),Mean
+662,Hemoglobin A1c percentage,Median
+663,kg/m∧2,Mean
+664,cells/mm^3,Mean
+665,None (Index),Mean
+666,percentage of BSA,Mean
+667,ng/dl,Median
+668,kg/m^(2),Mean
+669,Percent of doses taken,Mean
+670,post menstrual age (PMA) weeks,Mean
+671,x 10^9/L,Mean
+672,Percent Saturation,Mean
+673,"""OFF"" episodes/day",Mean
+674,weighted scores on a scale,Mean
+675,hour*picogram per milliliter (h*pg/mL),Mean
+676,% of CD8+ T-cells,Median
+677,Pound,Mean
+678,cubic centimeters,Mean
+679,Percent of predicted operative mortality,Mean
+680,U/L,Median
+681,prism diopters,Mean
+682,events per hour,Median
+683,milliliter (ml),Median
+684,kcal/d,Mean
+685,log10(IU/ml),Mean
+686,ml/min/m^2,Mean
+687,kilograms per square meter,Mean
+688,percentage of days abstinent,Mean
+689,units on scale 0 to 12,Mean
+690,log(pmol/mg),Mean
+691,min-1,Mean
+692,grams per deciliter,Mean
+693,unit/kg/day,Mean
+694,Micrometer,Mean
+695,summary score,Mean
+696,grams per day,Mean
+697,µg/dL,Mean
+698,µEq/mL,Mean
+699,Count of pregnancies,Median
+700,g/cm^2,Median
+701,pg/mg creatinine,Mean
+702,percentage of oxygen saturation,Mean
+703,Days,Median
+704,hour,Median
+705,Units/day,Mean
+706,unit on scale,Mean
+707,μM,Mean
+708,number of previous deliveries,Mean
+709,%Gag-specific MIP1B+ CD8+ T-cells,Median
+710,(% of Body Weight),Mean
+711,kilograms per square metter (kg/m^2),Mean
+712,cigarette packs,Median
+713,weight (kg) / height (m)^2,Mean
+714,GPA,Median
+715,percentage of body surface area,Mean
+716,μm,Mean
+717,mL O2/kg/min,Mean
+718,Number of responses,Number
+719,percentage of glycosylated haemoglobin,Mean
+720,Percentile adjusted for weight and heigh,Mean
+721,(kg/m^2),Median
+722,IU/dL,Mean
+723,kg^m2,Median
+724,Previous Live Births,Mean
+725,seizures,Median
+726,injections,Mean
+727,Kg/M^2,Median
+728,cells/uL,Median
+729,tender joint count,Mean
+730,kg/(m*m),Mean
+731,psi,Mean
+732,number of previous recurrences,Mean
+733,kUA/L,Median
+734,mL/minute/1.73 /m^2,Mean
+735,milligrams per liter (mg/L),Mean
+736,ml per meter-squared,Mean
+737,m²,Mean
+738,gm/cm2,Mean
+739,cans per week,Mean
+740,gm/dl,Mean
+741,Study features,Number
+742,percent of correct answers,Mean
+743,Pounds,Mean
+744,percentage of blood,Mean
+745,Number,Median
+746,mg*min/dL,Mean
+747,%saturation,Mean
+748,Log10 CFU (colony forming unit),Mean
+749,"Currency, US dollars",Mean
+750,Joint counts,Mean
+751,Percent Body Mass,Mean
+752,lbs/(in^2)*703,Mean
+753,square meters,Median
+754,Dyn*sec/cm^5,Mean
+755,units on a scale from 0-10,Median
+756,Percentage Points of LVEF (%),Median
+757,WASI Score,Mean
+758,0-10 units on a Visual Analog scale,Mean
+759,mm^3,Mean
+760,meter squared,Mean
+761,Units on scale,Mean
+762,ml/hr,Mean
+763,% of predicted normal,Mean
+764,Percent Eosinophils,Mean
+765,Scores on a scale,Median
+766,Rand (South African Currency) per month,Mean
+767,Nanograms per milliliter (ng/mL),Median
+768,units on a scale -50 to +50,Mean
+769,respiratory events per hour,Mean
+770,microns,Median
+771,kilograms per square meter (kg/m2),Mean
+772,participant,Number
+773,ECOG units on a scale 0 Best-5 Worst,Mean
+774,seizure cluster episodes,Median
+775,units on a scale 0-80,Mean
+776,FVC percent predicted,Mean
+777,Index,Median
+778,KPa,Mean
+779,log 10 copies,Median
+780,weeks,Mean
+781,10^3 cells/microL,Mean
+782,births,Median
+783,Intramuscular morphine equivalents,Mean
+784,Percent Body Fat,Mean
+785,uU/ml,Mean
+786,sum of points,Median
+787,10^9 cells/L,Median
+788,CDRS-R Score,Mean
+789,(IU/L),Mean
+790,Normalized units on a scale,Mean
+791,millimoles per liter,Mean
+792,tooth surface,Mean
+793,percentage of TBSA,Mean
+794,units on CSDD scale,Mean
+795,count of drinks per week,Mean
+796,PNES per week,Median
+797,10^3 cells per mm^3,Mean
+798,Particiapnts,Number
+799,mL/min/1.73m^2,Median
+800,Lesions,Median
+801,cel/µL,Median
+802,Kilogram/Square Meter (kg/m²),Mean
+803,kilgrams/(meter squared),Median
+804,ml/min/kg,Mean
+805,cells/µl,Median
+806,number of current antidepressant trials,Mean
+807,pads/week,Mean
+808,alcoolic drinks/week,Mean
+809,,Number
+810,Percent of participants,Mean
+811,log10(pg/mL),Median
+812,percentage of CV,Mean
+813,%,Median
+814,Births,Mean
+815,mTBIs,Mean
+816,Age at time of randomisation - years,Mean
+817,min*mmol/l,Mean
+818,DLCO % predicted,Mean
+819,average minutes/day,Mean
+820,meq/d,Mean
+821,(percent change) *minutes,Mean
+822,min^-1,Mean
+823,Count,Mean
+824,Number of metastatic sites,Median
+825,grams,Median
+826,hips,Number
+827,eos/hpf,Mean
+828,exacerbations,Median
+829,cigarettes/day in previous week,Mean
+830,sentinel nodes,Number
+831,K per microL,Mean
+832,millimoles per litre (mmol/L),Mean
+833,percentage of HBA1C in blood,Mean
+834,percent days in a week,Mean
+835,cell dose per kilogram (x10^-6),Median
+836,Microliters,Mean
+837,kilogramm/ square meter,Mean
+838,percent hemoglobin,Mean
+839,Coronary Calcium Score,Mean
+840,biologic medications,Mean
+841,years or weeks,Mean
+842,gram,Median
+843,BMI,Mean
+844,letters correctly read,Mean
+845,m^2,Mean
+846,kilograms per meter-squared (kg/m^2),Mean
+847,ug/min,Median
+848,units/L,Mean
+849,Gleason grading,Median
+850,diopter,Mean
+851,Nm,Mean
+852,number of concomitant medications,Median
+853,%Gag-specific TNF-alpha CD4+ T-cells,Median
+854,diopters (D),Mean
+855,dB HL,Median
+856,g/cm2,Mean
+857,packs per year,Mean
+858,log10 IU/ML,Median
+859,ug/g,Mean
+860,milliliter per minute/1.73 square meter,Mean
+861,chronic DDD,Mean
+862,g/dl,Median
+863,ng/ml,Least Squares Mean
+864,Concentration Ratio,Mean
+865,Steps,Mean
+866,Unit of measure (kg/m2),Median
+867,milligram/deciliter*minute (mg/dL*min),Mean
+868,Episodes,Count of Units
+869,ml/min/1.73m²,Median
+870,% left ventricular end-diastolic volume,Median
+871,Percentage of glycated hemoglobin,Mean
+872,partiipants,Number
+873,RU/mL,Mean
+874,participants who were treated,Number
+875,kilogram/square meter (kg/m2),Mean
+876,Percentage of blood,Mean
+877,unit/liter,Median
+878,kg per meter squared (kg/m^2),Median
+879,(g/dL),Mean
+880,Percent of surfaces with plaque,Mean
+881,ml/kg(min),Mean
+882,micromol/l x min,Mean
+883,percentage of body fat,Median
+884,Liter (L),Mean
+885,number of digital ulcers,Mean
+886,miu/ml,Number
+887,nanograms per deciliter (ng/dL),Mean
+888,umol/ml,Mean
+889,People in operating room,Mean
+890,Kilograms,Number
+891,Standard Deviations (SD),Mean
+892,limbs,Number
+893,kidney stone episodes,Mean
+894,Percentage capillary oxygen saturation,Median
+895,unitless (ratio),Mean
+896,Z Score,Mean
+897,flanks,Number
+898,Number of HLA marker mismatches,Mean
+899,HAE attacks/week,Mean
+900,percent of pre treatment value,Mean
+901,Percentage of O2 saturation,Mean
+902,GA impairments,Mean
+903,YEARS,Median
+904,comorbidities,Mean
+905,mm/s,Mean
+906,minute,Median
+907,%Ki67+ CD4+ T-cells,Median
+908,number of patients,Number
+909,miligrams per deciliter,Mean
+910,EDSS Score,Mean
+911,number of times shot gun,Mean
+912,millimeters square (mm^2),Mean
+913,Newton Meters,Mean
+914,children,Mean
+915,units on a scale (T-Score),Mean
+916,Percentage of time asleep while in bed,Mean
+917,number of condomless sex acts,Mean
+918,years,Number
+919,Number of targets found,Mean
+920,Percentage of indicated parameter,Mean
+921,Centimeter (cm),Mean
+922,mmols/mol,Mean
+923,number of people,Mean
+924,cigarettes,Median
+925,mmol/day,Mean
+926,msec^2,Mean
+927,percent impairment,Mean
+928,kg per square meter (kg/m^2),Mean
+929,*10^9 cells/L,Mean
+930,percentage,Median
+931,units of insulin/kg/day,Median
+932,Nanometer (nm),Mean
+933,log10 copies/million CD4 cells,Median
+934,Cm^2,Mean
+935,log mg/dL,Mean
+936,100% X (BMI-50th %ile)/50th %ile,Mean
+937,mg/dL,Mean
+938,percent Hemoglobin A1c,Mean
+939,Pounds-Force,Median
+940,units Standardized Outcome Measu,Mean
+941,Gram per deciliter (g/dL),Mean
+942,Number of hospitalizations,Median
+943,"dose of medication, mg",Mean
+944,errors at task,Mean
+945,milliliters/minute/1.73 meters^2,Mean
+946,kg / m2,Mean
+947,% cells positive,Geometric Mean
+948,Units,Mean
+949,ribs,Mean
+950,hospitalizations per patient per year,Mean
+951,decibel,Median
+952,Number of participants,Number
+953,% * minutes,Mean
+954,Scores on a scale,Number
+955,kilogram per m^2,Median
+956,uU/mL,Median
+957,No units (ratio),Mean
+958,Newton-meters,Median
+959,percentage of bone volume,Mean
+960,Log 10 (PMN/mL),Mean
+961,g/d,Mean
+962,10E9/L,Mean
+963,number of deliveries,Median
+964,% composition of blood,Mean
+965,kg),Mean
+966,lymph nodes,Median
+967,Medication (single active ingredient),Mean
+968,percentage of predicted value,Mean
+969,titers,Median
+970,BCVA Letters,Mean
+971,Wood Units (mmHg/L/min),Mean
+972,T-scores of units on a scale,Mean
+973,seizures per 4 weeks,Mean
+974,partipants,Number
+975,Pack-years,Number
+976,gram/liter,Median
+977,Pascal/min,Mean
+978,µm,Mean
+979,ln(percent),Mean
+980,Number of children born,Median
+981,mg / dl,Mean
+982,km,Mean
+983,lbs/in^2,Median
+984,case,Count of Units
+985,meter square,Mean
+986,kilograms per meters squared (kg/m2),Mean
+987,Percent of FVC,Mean
+988,m/s,Mean
+989,Cells x1000/ml,Median
+990,µm,Number
+991,participants,Median
+992,calories/day (kcal/day),Mean
+993,mEq/L,Median
+994,10^6 cells/L,Mean
+995,% to target dose,Mean
+996,units on a 0-10 scale (higher is worse),Mean
+997,Genital herpes recurrences,Mean
+998,specialists,Mean
+999,each,Number
+1000,MINUTES,Mean
+1001,episodes,Number
+1002,percentage level of methemoglobin,Mean
+1003,glucose [mmol/L] × insulin [pmol/L]/22.5,Mean
+1004,Total categories,Mean
+1005,Ratio of mRNA copy numbers (IL-6/5HKGs),Mean
+1006,Minutes of exercise per day,Mean
+1007,bleeding episodes,Mean
+1008,feet in 15 seconds,Mean
+1009,nmol/day,Mean
+1010,Score on scale,Mean
+1011,cells/microliter,Median
+1012,percent of cells,Mean
+1013,days of gestation,Median
+1014,percent of scalp,Mean
+1015,Hot flashes per 24 hr,Mean
+1016,percent of maximum HS impact,Mean
+1017,AU (Arbitrary Unit),Mean
+1018,Centimeters,Median
+1019,nmol/l,Mean
+1020,kU/l,Median
+1021,Number of ED visits over past 3 months,Mean
+1022,grade,Median
+1023,(mg/dL),Median
+1024,incontinence episodes/24 hours,Mean
+1025,Number of Drinks Per Day,Mean
+1026,Micturitions,Mean
+1027,Percent BSA moveable sclerosis,Number
+1028,Swollen joint count,Mean
+1029,mm hG,Mean
+1030,log 2 titers,Median
+1031,arousals per hour,Mean
+1032,µIU/mL,Mean
+1033,Percentage A1C,Mean
+1034,(µU/ml),Mean
+1035,Scores on a 0-100 scale.,Mean
+1036,grams per liter,Mean
+1037,inch,Mean
+1038,Swollen joints,Mean
+1039,percent of female participants,Number
+1040,milligrams/deciliter (mg/dl),Median
+1041,mm3,Mean
+1042,Number of games,Mean
+1043,ln (ng/ml),Mean
+1044,Degrees Celsius,Mean
+1045,Episodes,Mean
+1046,participants per site,Mean
+1047,nmol,Mean
+1048,Number of pregnancies,Mean
+1049,number of episodes,Mean
+1050,mg/dl,Least Squares Mean
+1051,Percentage of maximum score,Mean
+1052,prior therapies,Median
+1053,Total score in points,Mean
+1054,kilograms / meter square,Mean
+1055,kg/m^2 (BMI),Mean
+1056,Percent normal,Mean
+1057,Degree celcius,Mean
+1058,milligrams of hydromorphone,Mean
+1059,percentage of blood leaving the heart,Mean
+1060,milligram/deciliter (mg/dl),Mean
+1061,children,Median
+1062,percent of LV ejection fraction,Mean
+1063,g/dL,Mean
+1064,Standard letters,Median
+1065,Binge eating episodes/week,Mean
+1066,minutes per week,Mean
+1067,millimole/Liter,Mean
+1068,Log10 CFU/cm^2,Median
+1069,(cells/microlitre),Mean
+1070,Beats Per minute,Mean
+1071,percent of glycosylated hemoglobin,Mean
+1072,percentage of vessel diameter,Median
+1073,mEq/24 hrs,Mean
+1074,ml.kg-1.min-1,Mean
+1075,ml/min/1.73 m2,Mean
+1076,perfusion units,Mean
+1077,number of leaks per day,Mean
+1078,mg,Median
+1079,Percent predicted value,Mean
+1080,mL/Kg/min,Mean
+1081,m㎡/s,Mean
+1082,number of exacerbations/18 months,Mean
+1083,(nmol/mL),Mean
+1084,10^9 cells/L,Mean
+1085,10^9 platelets/L,Median
+1086,symptom complexes,Number
+1087,% of patricipants,Number
+1088,illnesses,Mean
+1089,picograms/mL,Mean
+1090,medication,Mean
+1091,nanomole/liter (nmol/L),Mean
+1092,Z-score,Mean
+1093,potentially inappropriate medications,Median
+1094,international unit per litre,Mean
+1095,kg per meters-squared,Mean
+1096,liters per min,Mean
+1097,CSBMs per week,Mean
+1098,Milligrams per Litre (mg/L),Mean
+1099,µU/mL,Mean
+1100,T Score,Mean
+1101,square centimeters,Mean
+1102,kilogramm (kg),Mean
+1103,dynes*second/centimeter^5,Mean
+1104,points,Median
+1105,Correct responses,Mean
+1106,fraction of phosphorus excreted,Mean
+1107,units on a scale from 0-1,Mean
+1108,kilogram per squaremeter,Mean
+1109,units on scale 0-10,Mean
+1110,mol/L,Mean
+1111,kg/meters squared,Mean
+1112,cm-H20,Median
+1113,mmol/mol,Number
+1114,gram per deciliter (g/dL),Median
+1115,Score on MCQ 4 Factor Total scale,Mean
+1116,log of min angle of resolution (logMAR),Mean
+1117,Urgency Episodes,Mean
+1118,mmol/mol,Mean
+1119,mgA/L,Median
+1120,affected organs,Number
+1121,log10(parasites per microliter),Mean
+1122,Degrees Celisius,Mean
+1123,(m),Mean
+1124,number of metastatic sites,Median
+1125,L/min/m^2,Mean
+1126,vegetable/day,Mean
+1127,Unit of PDQ-39,Mean
+1128,Percent Fraction,Mean
+1129,CSBMs/week,Mean
+1130,percentage (%),Mean
+1131,kUA/I,Mean
+1132,Percent Hemoglobin,Median
+1133,number of lesions,Mean
+1134,exams,Number
+1135,Headaches,Mean
+1136,microns (μm),Mean
+1137,Gene expression ratio (Log2 scale),Mean
+1138,percentage of Glycated hemoglobin,Mean
+1139,microgram per deciliter (mg/dL),Mean
+1140,milliliters per minute (ml/min),Mean
+1141,milliseconds,Median
+1142,meters,Median
+1143,nanogram/liter (ng/L),Mean
+1144,percentage of total blood volume,Median
+1145,dynes·sec·cm-5,Mean
+1146,Cells/μL,Mean
+1147,Score on a questionnaire,Mean
+1148,percentage of Hemoglobin A1c,Mean
+1149,Participans,Number
+1150,Pound,Number
+1151,steps per second,Mean
+1152,C7 Expression (% of normal skin),Mean
+1153,newton squared,Mean
+1154,% of total lymphocytes,Median
+1155,percentage occluded,Mean
+1156,hospitalizations,Mean
+1157,percentage of daily off time,Mean
+1158,Scores on a Scale,Number
+1159,%PD1+ CD8+ T-cells,Median
+1160,number of cells per micro-liter,Median
+1161,prior lines of therapy,Median
+1162,partecipants,Number
+1163,Events,Median
+1164,Percent of muscle fibres expressing MHCd,Mean
+1165,pmol/L,Mean
+1166,mg/day,Median
+1167,Millimoles/Liter (mmol/L),Mean
+1168,colonoscopies,Mean
+1169,proportion of 1·0,Mean
+1170,percentage of normal beta cells function,Mean
+1171,Standard Score,Mean
+1172,Log Total Activity Count,Mean
+1173,logMAR BCVA,Mean
+1174,% of time in bed person is asleep,Mean
+1175,Dollar Amount,Mean
+1176,Birth Gestational Age (Weeks),Mean
+1177,transplants,Median
+1178,logMAR best corrected visual acuity,Mean
+1179,mcg/L,Median
+1180,"Units of measure ""kg/m^2""",Median
+1181,number of pregnancies,Median
+1182,Ratio,Number
+1183,gm/cm^2,Mean
+1184,g/day,Mean
+1185,Percent of Days Abstinent,Mean
+1186,Seconds (sec),Mean
+1187,entheses,Median
+1188,Therapies,Mean
+1189,International Units (IU),Mean
+1190,total 1st MMSE score parameters,Mean
+1191,mg/dL,Number
+1192,wounds,Count of Units
+1193,units on a scale (1 best to 75 worst),Median
+1194,Degrees Centigrade,Mean
+1195,liters/sec,Mean
+1196,Rib Fractures,Mean
+1197,suicide attempts,Mean
+1198,µg/g,Median
+1199,percentage pain relief from medication,Mean
+1200,kg/ m^2,Median
+1201,E-ETDRS letters,Mean
+1202,mL/kg/min,Mean
+1203,mg/kg,Median
+1204,µM,Mean
+1205,number of,Number
+1206,Teeth,Count of Units
+1207,pYears,Mean
+1208,mm^3,Median
+1209,percentage of drinking days,Mean
+1210,% risk of CVD within 10 years,Mean
+1211,mV,Mean
+1212,regimens,Number
+1213,meters^2,Median
+1214,kilogram (Kg),Mean
+1215,M value,Mean
+1216,degrees^2,Median
+1217,milliliter/minute/1.73 meter squared,Mean
+1218,Units on Scale,Mean
+1219,Kilogram (kg)/m^2,Mean
+1220,cells per cubic millimeter,Median
+1221,*10^03 cells/µL,Mean
+1222,percentage of fluid expelled,Mean
+1223,Percentage of red blood cells,Mean
+1224,Total FSFI score,Mean
+1225,cc/m^2,Mean
+1226,score on a scale for each domain of SPI,Mean
+1227,Quit attempts,Median
+1228,g/cm^3,Mean
+1229,Number on a Scale,Median
+1230,gm/dL,Mean
+1231,kg\m^2,Mean
+1232,millimeters,Median
+1233,lbs,Median
+1234,percentage of alpha-SMA,Mean
+1235,Caucasian,Number
+1236,(%),Mean
+1237,percentage of stromal TILs,Median
+1238,kilograms/square meter (kg/m^2),Mean
+1239,instances,Median
+1240,10^3 platelets per microliter,Mean
+1241,dimensionless ratio,Mean
+1242,nmole/L,Mean
+1243,children at sites,Number
+1244,units on a scale,Least Squares Mean
+1245,HIV tests,Median
+1246,percentage of fat,Number
+1247,percent of total white blood cell count,Median
+1248,Total Score,Mean
+1249,Unit per liter,Mean
+1250,Percent of Hemoglobin,Mean
+1251,L/min,Mean
+1252,morphine equivalents milligrams,Median
+1253,attacks,Number
+1254,terminal hairs/cm^2,Mean
+1255,Kilogram/square meter,Median
+1256,Cigarettes,Mean
+1257,µg/week,Mean
+1258,milligrams,Median
+1259,milligrams per Liter (mg/L),Median
+1260,number of behaviors reported,Mean
+1261,patients and clinicians,Number
+1262,frequency per year,Mean
+1263,warts,Count of Units
+1264,Gestational Age (weeks),Mean
+1265,µmol/L,Median
+1266,kilgram per square meter,Mean
+1267,Weeks of post menstrual age,Median
+1268,flares,Mean
+1269,Ejection Fraction Percentage,Mean
+1270,Insulin Dose Units,Mean
+1271,Liter per minute (L/min),Mean
+1272,% of predicted value,Mean
+1273,Units on a scale,Mean
+1274,Percent reversibility,Mean
+1275,degree Celsius,Mean
+1276,Scores on a Scale,Mean
+1277,uM,Median
+1278,number of incontinence episodes per week,Median
+1279,Kg/m٨2,Mean
+1280,Vaginal deliveries,Mean
+1281,milliliters (mL),Mean
+1282,micromoles/L,Mean
+1283,millimeters (mm),Mean
+1284,10^9 white blood cells per liter,Median
+1285,l/min,Mean
+1286,Percentage of affected area,Mean
+1287,Multiple of Normal,Mean
+1288,1000 cells/microL,Median
+1289,percentage of uptake,Median
+1290,percentage fat,Mean
+1291,number of cigarettes/day,Mean
+1292,% of Predicted Max Value,Mean
+1293,cannabis cigarettes used per day,Mean
+1294,kg/m**2,Mean
+1295,mm⁴,Median
+1296,milligram,Median
+1297,percentage of A1C,Mean
+1298,packed cell volume,Mean
+1299,Composite Score,Mean
+1300,percentage of cells,Median
+1301,percent staining,Median
+1302,millimeters mercury,Mean
+1303,Items per month,Mean
+1304,mL,Mean
+1305,cells/μL,Median
+1306,ml/min/1.73m^2,Mean
+1307,months (at time of dx),Median
+1308,Gray (Gy),Median
+1309,Percentile adjusted for sex and age,Mean
+1310,microunits*dL/mg*mL,Mean
+1311,Percent BSA nonmoveable sclerosis,Number
+1312,incontinence episodes per day,Mean
+1313,mg/ml,Geometric Mean
+1314,uM (micrometer),Mean
+1315,Beats/minute,Mean
+1316,percent of subjects with elevated PRA,Number
+1317,Grams per deciltre (g/dL),Mean
+1318,proportion difference,Mean
+1319,milligrams per kilogram (mg/kg),Median
+1320,KG/M^2,Mean
+1321,milliliter (mL),Mean
+1322,kilograms per meters squared,Median
+1323,average cigarettes per day at baseline,Mean
+1324,log₁₀ IU/mL,Mean
+1325,estradiol to testosterone ratio,Mean
+1326,days/week,Mean
+1327,percentage of work productivity impairme,Mean
+1328,kilograms (kg),Number
+1329,units on a scale (0 - 50),Mean
+1330,mU/dL,Mean
+1331,US dollars,Mean
+1332,international normalized ratio,Mean
+1333,Percentage %,Median
+1334,log_10 CFU per gram,Mean
+1335,percent area stain positive,Median
+1336,percent heavy drinking days,Mean
+1337,white blood cells *10^9 per L,Mean
+1338,point,Mean
+1339,kilograms per square meter (kg/m2),Median
+1340,surgeries,Mean
+1341,ln(mU/L),Mean
+1342,μmol/L,Mean
+1343,cells x10^9/l,Median
+1344,operations,Median
+1345,attacks per subject,Mean
+1346,pressure ulcers,Mean
+1347,units on a scale (0-4). 0 = normal.,Mean
+1348,seizures/28 days,Mean
+1349,Basal insulin claims,Mean
+1350,1 × 10⁹ cells/L,Mean
+1351,Quit Attempts,Mean
+1352,score on a scale.,Mean
+1353,number previous deliveries,Mean
+1354,Percent beta-cell function,Mean
+1355,year,Median
+1356,Milligram per deciliter (mg/dL),Median
+1357,health conditions,Mean
+1358,number of resources/devices used,Mean
+1359,gram per square centimeter (g/cm^2),Mean
+1360,ETDRS BCVA Letters,Mean
+1361,standard deviations,Mean
+1362,percentage of intended medication,Mean
+1363,cm on dyspnea analog scale,Mean
+1364,meters squared (m^2),Mean
+1365,"Years (Min, Max)",Median
+1366,Total Score,Median
+1367,micro-mole/litre,Median
+1368,parasites/µl blood,Mean
+1369,smoking days per week,Mean
+1370,kg/m^2 (kilogram/meter^2),Mean
+1371,micromol/L,Mean
+1372,years of age,Median
+1373,percentage of HbA1C,Median
+1374,prior therapies,Mean
+1375,International Units/Milliliter (IU/mL),Mean
+1376,Number of therapies,Median
+1377,ml/min,Mean
+1378,CAG repeats*years,Mean
+1379,percentage of FEV1/FVC,Mean
+1380,lines of treatment,Median
+1381,Mental Score,Mean
+1382,advanced therapies,Number
+1383,meq/L,Mean
+1384,percentage of transferrin saturation,Mean
+1385,cm^2,Mean
+1386,number of doses per day,Median
+1387,cells 10^9/L,Mean
+1388,degrees Fahrenheit,Mean
+1389,% of leg length,Mean
+1390,Percentage of whole body mass,Mean
+1391,L (BTPS),Mean
+1392,kg/cm^2,Mean
+1393,kg/ m2,Mean
+1394,decibels (dB),Mean
+1395,mg/day (milligrams/day),Mean
+1396,swollen joint count,Mean
+1397,urgent care/ED visits per year,Mean
+1398,Hours after midnight,Mean
+1399,Rand (South African currency) per month,Mean
+1400,Hospitals,Number
+1401,Euro/participant-month,Mean
+1402,mm/L,Median
+1403,Percentage of predicted FVC,Mean
+1404,mIU/mL,Mean
+1405,(mm),Median
+1406,Count of pregnancies,Mean
+1407,Eyes,Count of Units
+1408,kilogram /meter squared (kg/m2),Mean
+1409,picograms/milliliter,Median
+1410,mL/kg predicted body weight,Mean
+1411,missing teeth,Mean
+1412,mg/ kg . min,Mean
+1413,International Units per milliliter,Mean
+1414,Level,Number
+1415,HOMA-R Score,Mean
+1416,meter,Median
+1417,percentage of phosphorus excreted,Mean
+1418,ms,Median
+1419,cells/μl,Mean
+1420,gestational age (weeks),Median
+1421,Percentile,Mean
+1422,ng/ml,Median
+1423,Score on a Scale,Mean
+1424,percent of sleep time,Median
+1425,mU/mL,Mean
+1426,milligram / liter,Median
+1427,unit a scale,Mean
+1428,micro International Unit/milliliter,Mean
+1429,k/uL,Median
+1430,infants,Number
+1431,Lifetime Episodes of Depression,Mean
+1432,Nanogram (ng)/mL,Mean
+1433,percent retention,Mean
+1434,Stools per day,Mean
+1435,total initial scores by study group,Mean
+1436,LogMar,Mean
+1437,% left ventricular function,Median
+1438,number of surgery,Mean
+1439,mL/min,Mean
+1440,ukat/L,Median
+1441,Hertz,Median
+1442,cells/ug,Mean
+1443,correct answers,Mean
+1444,Kgs,Mean
+1445,UI/L,Median
+1446,scores on a scale,Mean
+1447,liters/minute/square meter (L/min/m^2),Mean
+1448,mm^2,Mean
+1449,Centimeter,Mean
+1450,Kilograms/m^2,Median
+1451,Log10 Genome Equivalent/ml,Mean
+1452,ml.beat-1,Mean
+1453,T scores,Mean
+1454,kilograms per meter squared (kg/m2),Mean
+1455,Children,Median
+1456,Average Minute/Day,Mean
+1457,AU(arbitrary unit),Mean
+1458,number of participants,Number
+1459,millimeter of mercury (mmHg),Mean
+1460,mL/mmHg x 100,Mean
+1461,Centimeters,Mean
+1462,Mm,Mean
+1463,umol/L,Median
+1464,number of absolute scotomatous points,Mean
+1465,pg/mL*min,Mean
+1466,lbs,Mean
+1467,prior interventions,Median
+1468,Number,Number
+1469,kg/m ^ 2,Mean
+1470,% diameter stenosis,Mean
+1471,Operative Days,Count of Units
+1472,number of hospitalizations,Mean
+1473,pills per day,Median
+1474,international units per liter (IU/L),Mean
+1475,liters per second,Mean
+1476,mg/dl,Mean
+1477,SBM per week,Mean
+1478,0 to 10 low to high scale,Mean
+1479,milliliter per watt (mL/watt),Mean
+1480,number of discrete school suspensions,Mean
+1481,limbs,Count of Units
+1482,participants with diagnosis,Number
+1483,organs affected by cGVHD,Median
+1484,kg/m^2,Median
+1485,milliequivalent day-1,Mean
+1486,Number of letters,Mean
+1487,kilograms/metres2,Mean
+1488,ng/L,Median
+1489,µl.min-1.ml-1,Mean
+1490,picomole/liter (pmol/L),Mean
+1491,square meters (m2),Mean
+1492,nanogram per millilitre,Mean
+1493,Vaginal pH,Mean
+1494,percent of total body fat,Mean
+1495,percent predicted FVC,Mean
+1496,Inch,Mean
+1497,mmoL/moL,Mean
+1498,nanograms per milliliter (ng/mL),Median
+1499,millimoles per Liter,Mean
+1500,daytime micturitions,Mean
+1501,Number of cells infused x 10^6/kg,Mean
+1502,percent affected,Mean
+1503,Standard drinks of alcohol,Mean
+1504,Clinidamycin-resistant p. acne counts,Mean
+1505,number of vocalizations,Mean
+1506,Score,Median
+1507,kilogram/(meter*meter),Mean
+1508,mass,Number
+1509,Percentage HbA1c,Mean
+1510,mg/24 hours,Mean
+1511,month,Mean
+1512,mg*h/dL,Mean
+1513,Nanograms per milliliter (ng/ml),Mean
+1514,Vaginal deliveries,Median
+1515,diagnoses,Mean
+1516,units on GAF scale,Mean
+1517,kg/M2 x g/L,Mean
+1518,pg/dl,Mean
+1519,Centimeter per second (cm/s),Mean
+1520,parts per billion,Median
+1521,10^9 cells per liter,Median
+1522,Anti-hypertensive medications,Median
+1523,Percentage of Carlories,Mean
+1524,Paricipants,Number
+1525,oxygen fraction,Median
+1526,millimeters (mm),Median
+1527,number of metastases,Mean
+1528,OCS courses per 6 months,Mean
+1529,Particiapants,Number
+1530,micrograms per ml.,Mean
+1531,nanogram (ng)/milliliter (mL),Mean
+1532,centimeters squared,Mean
+1533,microvolts,Mean
+1534,g/kg,Mean
+1535,fmol/L,Median
+1536,Cigarettes smoked per day,Mean
+1537,log10 copies/milliliter,Mean
+1538,epileptic discharges/30 mins,Mean
+1539,AOM-SOS score,Mean
+1540,score on the MOCA scale,Median
+1541,Standard alcohol drinks per week,Mean
+1542,mL/uU,Median
+1543,number of therapies,Median
+1544,HAE attacks/month,Mean
+1545,Percentage Of Ejection Fraction,Mean
+1546,disc area,Mean
+1547,episodes per week,Mean
+1548,Height Percentile,Median
+1549,% of days with complete evacuation,Mean
+1550,percenatage of activated CD4 T-cells,Median
+1551,ug/l,Mean
+1552,relapses,Median
+1553,advanced adenomas,Mean
+1554,Treatment lines,Number
+1555,Milligram (mg)/deciliter (dL),Mean
+1556,percentage difference in lengths,Mean
+1557,%Ki67+ CD8+ T-cells,Median
+1558,Percentage of glycosylated haemoglobin,Mean
+1559,Composite T- Score,Mean
+1560,percent change,Mean
+1561,scores on scale,Mean
+1562,copies/mL,Log Mean
+1563,microgram/Liter (µg/L),Mean
+1564,percent of HbA1c,Mean
+1565,mm wheal size,Median
+1566,% oxygen,Mean
+1567,study eye,Number
+1568,Patient Visit,Number
+1569,days per week,Mean
+1570,newton meter,Mean
+1571,previous pregnancies,Mean
+1572,Weeks Gestational Age,Mean
+1573,Liter/Minute (L/min),Mean
+1574,CBSM/week,Mean
+1575,Male participants,Number
+1576,Hertz,Mean
+1577,Lbs,Mean
+1578,percent of hemoglobin,Mean
+1579,monthly migraine days,Mean
+1580,milliliters (ml),Mean
+1581,cell count,Mean
+1582,Stage shifts,Mean
+1583,Drinks/week,Number
+1584,picomoles/liter*minute (pmol/L*min),Mean
+1585,Number of SD Drinks per day,Mean
+1586,Millimeters,Mean
+1587,migraine attacks/month,Mean
+1588,titer,Median
+1589,kU/L,Mean
+1590,* ULN,Mean
+1591,arbitrary unit,Mean
+1592,liver fat percentage,Mean
+1593,patients with brain metastases,Number
+1594,Number of patients (per PD-L1 category),Number
+1595,Sound intensity dB HL,Mean
+1596,molar teeth,Count of Units
+1597,Dollar,Mean
+1598,UI/mL,Median
+1599,mean years total population,Mean
+1600,Agents therapies,Median
+1601,regimens,Mean
+1602,Kg/meters (m)^2,Mean
+1603,tests/day,Mean
+1604,kilogram (kg)/meter (m)^2,Mean
+1605,Units on a scale (7 point scale),Mean
+1606,YEARS,Mean
+1607,ug/L Fibrinogen Equivalent Units (FEU),Median
+1608,units on a scale (0-3),Mean
+1609,"scores on a scale ranging from ""0 - 100""",Mean
+1610,ug/L,Median
+1611,%Gag-specific CD107a+ CD4+ T-cells,Median
+1612,Liter/minute/square meter (L/min/m^2),Mean
+1613,Ears,Number
+1614,CSBM per week,Mean
+1615,meters per second (m/s),Mean
+1616,millimeters of mercury,Mean
+1617,relapses,Mean
+1618,insulin units,Mean
+1619,Number of Stones,Mean
+1620,mL/min/mmHg,Mean
+1621,percentage of neutrophils,Median
+1622,Fahrenheit,Mean
+1623,10^9 per liter (10^9/L),Median
+1624,migraine days per month,Mean
+1625,meq/l,Mean
+1626,kg/sqm,Mean
+1627,Minutes,Median
+1628,Meter,Median
+1629,milimeter,Mean
+1630,Copies/mL,Geometric Mean
+1631,number of AFB,Median
+1632,kilogram/ meter^2 (kg/m^2),Mean
+1633,kcal/day,Mean
+1634,Arousals per hour,Median
+1635,hours,Median
+1636,mg,Mean
+1637,Lines,Median
+1638,USD,Median
+1639,percent predicted FEV1,Mean
+1640,Year,Median
+1641,implants,Number
+1642,pack years,Mean
+1643,percentage of Arterial stiffness,Mean
+1644,g,Mean
+1645,Regimens,Mean
+1646,microg/mL,Mean
+1647,Percentage of peripheral Leukocytes,Median
+1648,Percentage Clearance,Mean
+1649,score a scale,Mean
+1650,mg/m2,Mean
+1651,units/liter (U/L),Mean
+1652,mL/min/1.73 mˆ2,Mean
+1653,Falls,Mean
+1654,Multiples of normal,Mean
+1655,mg/g,Mean
+1656,Log (copies/ml),Log Mean
+1657,"Projected Probability, percent",Mean
+1658,% of time performing direct pt care,Mean
+1659,degrees centigrade,Mean
+1660,micrograms per deciliter,Mean
+1661,g/dl (grams per deciliter),Mean
+1662,yrs,Mean
+1663,log C5,Mean
+1664,mL/min/1.73 m²,Mean
+1665,number of cigarettes per day,Mean
+1666,Age in years,Median
+1667,sit-to-stand repetitions/10 seconds,Mean
+1668,Treatment lines,Median
+1669,beats/min,Mean
+1670,x1000 platelets/uL,Mean
+1671,mL,Least Squares Mean
+1672,in.,Mean
+1673,Cigarettes/day,Mean
+1674,log10(copies/ml),Median
+1675,% CDT,Mean
+1676,Milliliters per minute,Mean
+1677,picograms (pg)/mL,Mean
+1678,grams/L,Mean
+1679,percentage (%) of total haemoglobin,Mean
+1680,stands,Mean
+1681,Number of comorbidities,Median
+1682,degrees Celsius (°C),Mean
+1683,units on a 100mm Visual Analogue Scale,Mean
+1684,drugs,Mean
+1685,micromole/liter (umol/L),Mean
+1686,lesion count,Mean
+1687,NIHSS units,Mean
+1688,mm Hg,Mean
+1689,Number,Mean
+1690,participants,Mean
+1691,total percentage of body area burned,Mean
+1692,(kg/m2),Mean
+1693,ulU/mL,Mean
+1694,hot flashes/day,Median
+1695,m/sec,Mean
+1696,vaginal delivery,Median
+1697,mg²/dL²,Mean
+1698,Surgical Indications,Number
+1699,lines of chemotherapy,Median
+1700,CGI-S Score,Mean
+1701,ng/ML,Median
+1702,inches (in),Median
+1703,mcmol/L,Mean
+1704,WEEKS,Median
+1705,Past treatments,Mean
+1706,Symptom,Median
+1707,particpants with images collected,Number
+1708,μU/dL,Mean
+1709,scores on a scale,Median
+1710,Percentage of subjects,Number
+1711,fraction,Mean
+1712,class,Mean
+1713,percent body fat,Mean
+1714,Log 2 titers,Median
+1715,Kilograms (kg)/meter (m)^2,Mean
+1716,vertebral fractures per patient,Mean
+1717,microU/mL,Mean
+1718,cells/microliter (cells/mcL),Mean
+1719,uIU/ml,Mean
+1720,International Normalized Ratio,Mean
+1721,Fractions,Mean
+1722,cardioversions,Mean
+1723,tooth,Mean
+1724,mL/min,Median
+1725,incontinence episodes,Mean
+1726,%Gag-specific CD40L+CD8+ T-cells,Median
+1727,10^9 cells per liter,Mean
+1728,words recalled,Mean
+1729,milliliter/minute,Mean
+1730,mm*2,Mean
+1731,percentage of polysomnogram time,Mean
+1732,PCOSQ Menstrual problems Score,Mean
+1733,Angular degree,Mean
+1734,Milligrams per deciliter (mg/dL),Mean
+1735,Number of nocturia episodes per 24 hours,Mean
+1736,log of time in seconds,Mean
+1737,g/g,Median
+1738,Hands,Count of Units
+1739,number chronic conditions per subject,Mean
+1740,number of treatments,Number
+1741,number of RNCM phone visits,Mean
+1742,*10^9 cells/L,Median
+1743,microgram per liter (µg/l),Mean
+1744,mg/ml,Median
+1745,g/dL,Median
+1746,A1C %,Mean
+1747,apneas plus hypopneas per hour,Median
+1748,Therapies,Median
+1749,units per kilogram,Mean
+1750,micro-mol/(kg*min),Median
+1751,mls/min/1.73m^2,Median
+1752,mg/mL,Geometric Mean
+1753,degrees,Median
+1754,kilogram (s),Mean
+1755,micron,Mean
+1756,teen mother participants,Number
+1757,square meter (m˄2),Median
+1758,Percentage of body surface area affected,Mean
+1759,ambulatory visits,Median
+1760,cup:disc ratio,Mean
+1761,Score on a scale,Median
+1762,ICU patients/year,Median
+1763,percent of predicted,Median
+1764,drinks per drinking day,Mean
+1765,scores on a scale.,Mean
+1766,Invasive Procedures,Median
+1767,percentage of dilation,Mean
+1768,walk distance (m),Mean
+1769,(10-4min-1/µU*mL),Mean
+1770,Drinking days,Mean
+1771,torr,Mean
+1772,voids per day,Mean
+1773,angle in degrees,Mean
+1774,kg/m˄2,Median
+1775,births,Mean
+1776,number of cigarettes,Mean
+1777,ml,Mean
+1778,kilogrammes per meter squared,Mean
+1779,scores on a scale of 0 to 12,Mean
+1780,mililiters,Mean
+1781,mmHg,Median
+1782,Grays (Gy),Median
+1783,Marder score,Mean
+1784,number of inhalations,Mean
+1785,log10 (copies/ml),Median
+1786,ml/mmHg/min,Mean
+1787,nanograms/milliliter,Median
+1788,nmol/ml,Mean
+1789,log 10 (copies/ml),Median
+1790,log copies/ml,Median
+1791,children,Number
+1792,Count of Eosinophils,Mean
+1793,Visits,Mean
+1794,°F,Mean
+1795,cells/L,Median
+1796,Events/hour,Median
+1797,beat per minute,Median
+1798,nanogram per liter (ng/L),Mean
+1799,percentage score,Mean
+1800,percentage of population,Mean
+1801,LSAS Score,Mean
+1802,grams/grams,Mean
+1803,mL/s,Mean
+1804,milligram/deciliter,Mean
+1805,miliseconds (ms),Mean
+1806,KILOGRAMS,Mean
+1807,milliequivalents/liter*min (mEq/L*min),Mean
+1808,ml/m,Mean
+1809,% body fat,Mean
+1810,kilogram per meter square (kg/m²),Mean
+1811,Cells/mm^3,Mean
+1812,breaths/minute,Mean
+1813,IU/I,Mean
+1814,eyelids,Number
+1815,centimeters squared (cm^2),Mean
+1816,ng*hr/ml,Mean
+1817,Ratio,Mean
+1818,Percentage of visits prescribed an abx,Median
+1819,Pregnancies per participant,Mean
+1820,picogram(pg)/mL,Mean
+1821,number of nicotine-products used per day,Mean
+1822,uU/mL,Mean
+1823,Emergency care in the last 6 months,Mean
+1824,mcU/mL,Mean
+1825,number of correctly recalled words,Mean
+1826,mean result on scale,Mean
+1827,percentage of oxygenated haemoglobin,Mean
+1828,log transformed ng/mL,Mean
+1829,cells/microliter,Mean
+1830,"kg/m^2""",Mean
+1831,cells/ul,Mean
+1832,male/female,Number
+1833,10^3/microliters,Mean
+1834,kilograms per meters squared (kg/m^2),Mean
+1835,Scores on the HEI scale,Mean
+1836,cans/week,Mean
+1837,units per liter,Mean
+1838,kilograms per square meter (kg/m2),Number
+1839,units of insulin,Mean
+1840,degrees (C),Mean
+1841,Kilogram per square meter,Mean
+1842,% (stroke volume/ end-diastolic vol)x100,Mean
+1843,µm,Median
+1844,% Fat mass,Mean
+1845,units on a scale (0-100),Mean
+1846,pg ml ^-1,Median
+1847,Kg/m squared,Mean
+1848,log10CFU/g,Mean
+1849,cigarettes / day,Median
+1850,percentage of predicted FVC,Mean
+1851,injection per day,Mean
+1852,Centimetre,Mean
+1853,kg per square meter,Median
+1854,fraction of phosphate reabsorbed,Mean
+1855,lesions,Mean
+1856,kilopascals,Median
+1857,µg/liter,Median
+1858,Months,Median
+1859,lb,Median
+1860,pads used,Mean
+1861,%Gag-specific IL-2+ CD4+ T-cells,Median
+1862,y,Mean
+1863,bpm,Median
+1864,sessions,Mean
+1865,nanograms per deciliter (ng/dL),Median
+1866,hour*micro international unit/milliliter,Mean
+1867,(kg/m^2),Mean
+1868,kilograms per meter square,Mean
+1869,lesions per subject,Mean
+1870,number of correct answers,Mean
+1871,percentage (Hepatic Fat Fraction),Mean
+1872,Puffs/Day,Mean
+1873,Percentage of Ejection Fraction,Mean
+1874,log copies/mL,Mean
+1875,mL/minute,Median
+1876,Total units on a scale,Mean
+1877,millimeter of mercury,Mean
+1878,cigarettes per day,Mean
+1879,mGy·cm,Median
+1880,Percentage of total hemoglobin,Mean
+1881,paticipants,Number
+1882,yeaars,Mean
+1883,log10 HIV copies/mL,Mean
+1884,T-Score,Mean
+1885,Percentage of all RPL patients,Number
+1886,ml/min/1.73M2,Median
+1887,Whole year,Median
+1888,number of sites,Median
+1889,unprotected sex acts,Least Squares Mean
+1890,% of the diameter the artery,Mean
+1891,kg/mg^2,Mean
+1892,Number of comorbidities per patient,Median
+1893,Milligram (mg)/dL,Mean
+1894,millimeters,Mean
+1895,percent of participants aged 11-13 years,Number
+1896,ng/g,Median
+1897,Log_10 copies/mL,Mean
+1898,Breaths per minute,Mean
+1899,gram,Mean
+1900,platelets per micro liter of blood,Mean
+1901,copies/10^6PBMCs,Median
+1902,Microgram per milliliter (μg/mL),Mean
+1903,kU/L,Geometric Mean
+1904,percentage of giant cells in tumor,Mean
+1905,steps,Mean
+1906,fractures,Mean
+1907,dynes*sec/cm^5,Mean
+1908,micrograms/deciliter (mg/dL),Mean
+1909,surgery,Mean
+1910,Prior Lines of Therapy,Median
+1911,kPa/l/s,Mean
+1912,Kilogram per square meter (kg/m^2),Mean
+1913,units on a scale from 1 to 4,Mean
+1914,milligrams (mg),Mean
+1915,sites,Number
+1916,milli international units per liter,Mean
+1917,correct matches,Mean
+1918,Office Visits,Mean
+1919,min,Median
+1920,Hamilton Depression Score,Mean
+1921,age in years at baseline,Mean
+1922,m,Mean
+1923,friends,Mean
+1924,Not collected,Number
+1925,(nmol/g creatinine),Mean
+1926,"scores on a scale, ranging from ""0-100""",Mean
+1927,fractures,Number
+1928,mmHg/Liter,Mean
+1929,percentage overall work impairment,Mean
+1930,Dioptres,Mean
+1931,HOMA-IR Score,Mean
+1932,VCO2/VO2,Mean
+1933,cigarettes per day,Median
+1934,Kg/M^2,Mean
+1935,previous episodes,Mean
+1936,Previous Vaginal Births,Mean
+1937,platelets*10^9/L,Median
+1938,% of oxygen saturation,Median
+1939,Per cent,Geometric Mean
+1940,years post TBI,Mean
+1941,standard deviation score,Mean
+1942,urgency incontinence episodes/week,Mean
+1943,blocks,Mean
+1944,refluxes a day,Mean
+1945,units on a scale;range 0-36;higher worse,Mean
+1946,Percentile,Number
+1947,Implants,Count of Units
+1948,U/L,Mean
+1949,PCOSQ Emotion Score,Mean
+1950,cup,Median
+1951,S. aureus,Number
+1952,embryos,Mean
+1953,binge eating days (out of 28),Mean
+1954,units on a scale from 0 to 27,Mean
+1955,Kilograms per meter square,Mean
+1956,percentage of blood oxygen saturation,Mean
+1957,frames,Mean
+1958,ETDRS letters,Mean
+1959,units on a 0-10 scale,Mean
+1960,platelets x 10^-9/L,Median
+1961,Number of Failed Treatments,Mean
+1962,mm Hg,Median
+1963,Percentage of responses,Mean
+1964,percentage Occluded,Mean
+1965,OTC medications,Mean
+1966,Standardized T Scores,Mean
+1967,words/minute,Mean
+1968,g/liter,Median
+1969,uU/ml,Least Squares Mean
+1970,number of alcoholic drinks per day,Mean
+1971,MF/ML,Median
+1972,minutes of any guided imagery daily,Mean
+1973,events,Number
+1974,"kg/""m^2""",Mean
+1975,Yrs,Mean
+1976,Scores on a 0-21 scale,Mean
+1977,degrees,Mean
+1978,week,Mean
+1979,Titer,Geometric Mean
+1980,Score on scale,Median
+1981,laps completed,Mean
+1982,Milliliter (mL)/minute (min),Mean
+1983,cc,Mean
+1984,milli-international units/milliliter,Mean
+1985,percent of time asleep,Mean
+1986,T1 lesions,Mean
+1987,HOMA Score,Mean
+1988,Gy,Median
+1989,mg/l,Mean
+1990,percentage of total hemoglobin,Median
+1991,Log10 copies/mL,Median
+1992,%Gag-specific IFN-gamma+ CD4+ T-cells,Median
+1993,percent predicted,Mean
+1994,Units,Median
+1995,hour,Mean
+1996,proportion,Mean
+1997,Ratio of mRNA copy numbers (TNF-α/5HKGs),Mean
+1998,nanomoles per liter (nmol/L),Mean
+1999,number correct words,Median
+2000,score on a scale 0-2 good >=5 high risk,Median
+2001,IU/dl,Mean
+2002,mm VAS,Mean
+2003,ml/min/mmhg,Mean
+2004,hours per week spent working,Median
+2005,number of behaviors,Mean
+2006,U/ml,Mean
+2007,number of heart beats per minute,Mean
+2008,Naira,Mean
+2009,kg/(m^2),Mean
+2010,pg/ml,Median
+2011,Number of deliveries,Mean
+2012,nM BCE,Mean
+2013,Log IU/mL,Mean
+2014,kg per square metre,Mean
+2015,milligram per deciliter,Mean
+2016,Percentage of all showing-up patients,Number
+2017,°F,Median
+2018,count,Mean
+2019,nM/mg protein,Median
+2020,cells per mm^3,Mean
+2021,percentage of aberrant IELs,Mean
+2022,mg/(dL/hr) (normalized),Mean
+2023,ug/dL,Mean
+2024,ACQ Score,Mean
+2025,Units on a scale.,Mean
+2026,Cases,Number
+2027,Celsius degree,Mean
+2028,Ethiopian birr,Mean
+2029,slope of regression line,Mean
+2030,Kilograms/meters^2,Mean
+2031,Count (10^6 cells/kg),Median
+2032,Kg/m^2,Median
+2033,average weekly minutes,Median
+2034,microgram/mL,Mean
+2035,picograms/milliliter*minute (pg/mL*min),Mean
+2036,Percent of predicted normal value of PEF,Mean
+2037,Colonoscopies,Mean
+2038,Liters (L),Mean
+2039,percentage of RV area,Mean
+2040,Servings per day,Mean
+2041,steps per day,Mean
+2042,percent/year,Mean
+2043,SBCSGI (10^-9min^-1),Mean
+2044,% total time,Mean
+2045,10^6 cells/L,Median
+2046,Ratio (x 100),Mean
+2047,cells/uL,Geometric Mean
+2048,ml/min per 1.73m2,Mean
+2049,Percentage point of total HbA1c,Mean
+2050,lesions,Median
+2051,centimetres,Mean
+2052,ng/mg,Mean
+2053,log 10 Copies/mL,Mean
+2054,number of subjects requiring extra O2,Number
+2055,percent of surface without plaque,Mean
+2056,Grams,Mean
+2057,Cigarettes per Day,Mean
+2058,Years,Geometric Mean
+2059,Cluster Headache Attacks per week,Mean
+2060,mm H2O,Mean
+2061,ppm,Mean
+2062,Units on a scale between 1 and 5,Mean
+2063,mm,Median
+2064,parts per billion (p/b),Median
+2065,millimeter of mercury (mm Hg),Mean
+2066,Injections,Median
+2067,log₁₀ virus particles/mL,Mean
+2068,PIM DDD,Mean
+2069,Sites,Mean
+2070,csDMARDs,Mean
+2071,counts,Mean
+2072,% suppression of EGP,Mean
+2073,number of apneas and hypopneas /hour,Mean
+2074,ft/s,Mean
+2075,counts / uL,Mean
+2076,micrograms per deciliter (µg/dL),Mean
+2077,BMI z score units,Mean
+2078,% of glycosylated hemoglobin,Mean
+2079,Total Learning Score,Mean
+2080,Heavy drinking days,Mean
+2081,Pascal,Mean
+2082,nM,Mean
+2083,half months,Mean
+2084,percent asymmetry,Mean
+2085,L per minute,Mean
+2086,cells/mm3,Mean
+2087,Seconds,Median
+2088,BMI = kg/meter^2,Mean
+2089,units on a scale -- kg/m^2,Mean
+2090,percentage of FEV1 % predicted,Mean
+2091,mcg (micrograms),Mean
+2092,uiU/mL,Mean
+2093,kilograms/m^2,Mean
+2094,units/28 days,Median
+2095,Prior treatments,Median
+2096,Cm2,Mean
+2097,percentage of participants seropositive,Number
+2098,Agents,Median
+2099,lesions,Number
+2100,CDAI score,Mean
+2101,kilograms (kg),Geometric Mean
+2102,Standard Deviation Score (SDS),Mean
+2103,kilogram per square metre (kg/m2),Mean
+2104,kilogram/meter squared,Mean
+2105,number of joints smoked per day,Mean
+2106,cells/mcL,Median
+2107,um,Mean
+2108,co-morbid conditions present,Mean
+2109,Beck Depression Score,Mean
+2110,WBC x 10^9/L,Mean
+2111,volume percentage of red blood cells,Median
+2112,Million CFU/gr of sputum,Mean
+2113,log10 pg/mL,Median
+2114,mcg/dL,Median
+2115,10^9/L,Mean
+2116,Standardized Uptake Value- SUV,Median
+2117,cells*10^9/L,Mean
+2118,lines of therapy,Median
+2119,mM (millimolar) in blood cells,Mean
+2120,units of a scale,Mean
+2121,participants in follow up study,Number
+2122,KPS Score,Mean
+2123,stools per week,Mean
+2124,Months on hemodialysis,Mean
+2125,mg/sqm,Mean
+2126,percent body surface area,Mean
+2127,mL/sec,Mean
+2128,copies/million CD4+ T-cells,Median
+2129,number of Endocrinology in-person visits,Mean
+2130,feet per second,Median
+2131,vaginal deliveries past 28 weeks,Median
+2132,Measured in kUA/L,Median
+2133,score,Median
+2134,gestational age in weeks,Mean
+2135,(ng/ml),Mean
+2136,# problems,Mean
+2137,number of in-person PCP visits,Mean
+2138,daytime incontinence episodes,Mean
+2139,Chonic conditions,Mean
+2140,Percentage of FVIII activity,Mean
+2141,kUA/L,Mean
+2142,Unit/mL,Number
+2143,cell/mm^3,Median
+2144,Newtons (N),Mean
+2145,Percent risk of ASCVD,Median
+2146,percentage of glycated hemoglobin A1c,Mean
+2147,T-score,Median
+2148,%CD69+ CD8+ T-cells,Median
+2149,minute,Mean
+2150,nocturia episodes,Mean
+2151,Percentage of perdicted IC,Mean
+2152,z score,Mean
+2153,Ratio,Median
+2154,kg/[m]^2,Mean
+2155,No dimension,Mean
+2156,% of Participants,Number
+2157,percent of central pulse pressure,Mean
+2158,primary caregiver of participant,Number
+2159,logIU/mL,Median
+2160,ng/dL,Mean
+2161,Weight in (kg),Mean
+2162,infections,Median
+2163,number of cylindres,Median
+2164,mEq/day,Mean
+2165,Kcal/min,Mean
+2166,units per kilogram (U/kg),Mean
+2167,hours slept per night,Mean
+2168,μU/ml,Median
+2169,(mg/L),Mean
+2170,N/mm,Mean
+2171,Letters read on ETDRS chart,Mean
+2172,mIU.hr/L,Mean
+2173,live births,Mean
+2174,microunits/milliters (uU/ml),Mean
+2175,percent of risk for cardiac surgery,Mean
+2176,Newton-meters (Nm),Mean
+2177,calculated score,Mean
+2178,µg/day (microgram/day),Mean
+2179,Celsius degrees,Mean
+2180,urinary incontinence episodes per day,Mean
+2181,percentage of oxyhemoglobin,Median
+2182,x 10^3 cells/mm^3,Mean
+2183,uU/ml,Median
+2184,ml urine output/ 40mg IV furosemide,Mean
+2185,times per day,Mean
+2186,mg·l^2/mmol·mU·min,Mean
+2187,kilograms/meters-squared,Mean
+2188,Units of a scale,Mean
+2189,millgrams per deciliter (mg/dL),Mean
+2190,Particiopants,Number
+2191,acres,Mean
+2192,number of symptoms,Mean
+2193,% of body surface area affected,Mean
+2194,proportion of errors,Mean
+2195,ml of blood,Mean
+2196,ASA STATUS,Number
+2197,Concussions,Mean
+2198,[g/dl],Mean
+2199,mg/dL x mIU/L / 405,Mean
+2200,% of total participants,Number
+2201,Falls per avg. resident and per year,Median
+2202,g/L,Mean
+2203,Percentage of Participants,Number
+2204,per cubic mm,Mean
+2205,µg/min,Mean
+2206,responses per min,Mean
+2207,Calculated score,Mean
+2208,average number of adults in home,Mean
+2209,years,Geometric Mean
+2210,units on a scale (1-7),Mean
+2211,cells/million events,Mean
+2212,(dB),Mean
+2213,Log10 copies/ml,Mean
+2214,Number of 20 meter laps completed,Mean
+2215,Words Per Minute (WPM),Mean
+2216,Percentage of Myocardial Perfusion,Mean
+2217,pounds (lbs),Mean
+2218,Scoring 17 to 68 low to high,Mean
+2219,cm3,Mean
+2220,Scores on scale,Mean
+2221,Percent of surfaces with bleeding,Mean
+2222,% risk of mortality,Mean
+2223,VO2 mL/kg/min,Mean
+2224,number of drinks,Mean
+2225,Lesions,Count of Units
+2226,meter,Mean
+2227,days of observation,Mean
+2228,percent risk of event,Mean
+2229,grams/square centimeter,Mean
+2230,mL/min per 1.73m2,Mean
+2231,Cubic Centimeter (cc),Median
+2232,percentage of predicted meters,Mean
+2233,Hospitalizations in the last 6 months,Mean
+2234,grams/day,Mean
+2235,lesions,Count of Units
+2236,cups,Mean
+2237,% (percentage probability),Mean
+2238,Kgm^2,Median
+2239,percentage glycated hemoglobin,Mean
+2240,Percent of patients,Number
+2241,kg/m²,Median
+2242,body mass index,Mean
+2243,percentage of bone marrow cellularity,Median
+2244,Kilo Unit per Liter (kU/L),Median
+2245,miles,Mean
+2246,copies per 10^6 PBMC,Median
+2247,percent of sites,Mean
+2248,units/mL,Mean
+2249,mmhg,Mean
+2250,percentage of glycated hemoglobin,Mean
+2251,Millions/ml,Geometric Mean
+2252,Gy-cm2,Median
+2253,percents,Mean
+2254,Number of Completions,Median
+2255,episodes,Mean
+2256,Percentage of Ejection Fraction,Median
+2257,kg/^m2,Mean
+2258,kg,Mean
+2259,percent of hemoglobin glycosylated,Mean
+2260,ug/dl,Median
+2261,letters,Mean
+2262,Prior Therapies,Median
+2263,wt kg/ht m squared,Mean
+2264,Percent of time pH<4 per 24-hours period,Mean
+2265,lifetime uses,Mean
+2266,percentage of sleep,Mean
+2267,fraction of phosphorus reabsorbed,Mean
+2268,percent-predicted,Mean
+2269,EPC/10^6 cells,Median
+2270,percent glycosylated hemoglobin,Mean
+2271,% days of heavy drinking,Mean
+2272,joints,Median
+2273,ratio,Mean
+2274,Composite Influenza Symptom Score,Mean
+2275,Count of participants,Number
+2276,Number of other therapies,Median
+2277,mmmol/L,Mean
+2278,Dry Days,Mean
+2279,ng/dl,Mean
+2280,kilograms/square centimeters,Mean
+2281,Count of Esophageal Dilations,Mean
+2282,Comorbidity,Median
+2283,meter (m),Mean
+2284,participants with data available,Number
+2285,right or left second molar,Number
+2286,percentage increase from baseline FEV1,Mean
+2287,mms,Median
+2288,kgs,Mean
+2289,millimeter of Mercury (mmHg),Mean
+2290,pounds (lbs),Median
+2291,platelets per ul,Median
+2292,percentage of successful intercourse,Mean
+2293,standardized units on a scale,Mean
+2294,Percentage of Oxygen Saturation,Mean
+2295,ml/kg/min,Mean
+2296,months,Mean
+2297,kilograms/meters square,Mean
+2298,agents per patient,Mean
+2299,kilogram/square meter (kg/m²),Mean
+2300,mg/min per μIU/ml,Median
+2301,Scoring 0 to 100 low to high scale,Mean
+2302,pmol/l,Mean
+2303,milli-international units per milliliter,Mean
+2304,unitless,Mean
+2305,ppb (parts per billion),Mean
+2306,Limbs,Number
+2307,Minutes Mod/Vig Activity/Day,Mean
+2308,SD,Mean
+2309,vessels,Mean
+2310,Millimoles per liter (mmol/L),Median
+2311,attacks per day,Mean
+2312,Percent of glycated hemoglobin,Mean
+2313,Frequency of Behavior,Mean
+2314,weeks (postnatal age),Mean
+2315,cells/min,Mean
+2316,hr/wk,Median
+2317,Nm/kg,Mean
+2318,centimeter (cm),Mean
+2319,Percentage of probed sites with BOP,Mean
+2320,Percentage points of HbA1c,Mean
+2321,Litres,Median
+2322,kilogram / square meter,Mean
+2323,U/day,Mean
+2324,# of participants,Number
+2325,HOMA-IR index is unitless by definition,Mean
+2326,number of Anti-epileptic drugs (AEDs),Mean
+2327,nM,Median
+2328,number of migraines,Mean
+2329,hours lost per week,Mean
+2330,Percentage,Mean
+2331,kilograms per squared meters,Mean
+2332,par/µL blood,Mean
+2333,stools/week,Median
+2334,logarithm of seconds of arc (log arcsec),Mean
+2335,Line of Prior Therapy,Mean
+2336,parts per billion (ppb),Mean
+2337,relative abundance,Median
+2338,Millimeter of mercury (mmHg),Mean
+2339,Percent of Blasts,Median
+2340,US Dollars,Median
+2341,bleeding episodes per week,Median
+2342,percentage of left ventricular ejection,Mean
+2343,events,Mean
+2344,percentile,Median
+2345,lipase units/kg/day,Mean
+2346,Procedures,Number
+2347,staples,Number
+2348,copies/mL,Number
+2349,symptom score,Median
+2350,day-counts,Mean
+2351,Tender joint count,Mean
+2352,dn*s*cm^-5,Mean
+2353,ABI ratio (mmHg/mmHg),Mean
+2354,units,Geometric Mean
+2355,Drinks per Binge Episode,Mean
+2356,kilogram per meter square [kg/m²],Mean
+2357,femtoliters,Mean
+2358,Lesions,Number
+2359,% of total questionnaire points,Mean
+2360,puffs/day,Mean
+2361,milliliter per beat (mL/beat),Mean
+2362,index score,Mean
+2363,embryo,Mean
+2364,Z-score,Median
+2365,Average Bleeding Score,Mean
+2366,z-Score,Mean
+2367,Inhalations per day,Mean
+2368,Letter Score,Median
+2369,spontaneous bowel movements / week,Mean
+2370,pregnancies,Median
+2371,% African Ancestry (within individuals),Mean
+2372,Number of cigarettes smoked,Mean
+2373,concurrent baseline medications,Mean
+2374,units,Median
+2375,Number of medications,Mean
+2376,Number of deliveries,Median
+2377,days in a week,Mean
+2378,Number of Days,Mean
+2379,equivalent shot/can/glasses,Mean
+2380,eosinophils per high power field,Mean
+2381,mmol/L,Mean
+2382,Percent overweight based on BMI charts,Mean
+2383,K/uL,Median
+2384,% of difference compare to young control,Mean
+2385,years until enrollment,Mean
+2386,Total body surface area percentage,Mean
+2387,kg per square meter,Mean
+2388,(mmol/L),Median
+2389,kg per metre squared,Mean
+2390,mean fluorescence intensity (MFI),Mean
+2391,kilograms per sqare meter,Median
+2392,MME,Median
+2393,vaginal sex acts/60 days,Mean
+2394,Number correct,Mean
+2395,kilograms divided by meters squared,Mean
+2396,Units (U)/kg,Mean
+2397,s,Mean
+2398,days of life,Mean
+2399,Crowns,Count of Units
+2400,ng/dL,Median
+2401,percent correct,Mean
+2402,Percentage predicted FEV1,Mean
+2403,Measurements/week,Mean
+2404,arm lifts,Mean
+2405,number of classes of antihypertensives,Mean
+2406,liters/minute,Median
+2407,Milligrams per Deciliter (mg/dL),Mean
+2408,migraines per month,Mean
+2409,admissions,Number
+2410,months,Number
+2411,cm^2,Median
+2412,Percent of LV end diastolic volume,Mean
+2413,Prism Diopters,Median
+2414,Participants engaged in treatment,Number
+2415,percentage of sites,Mean
+2416,mMol/L,Mean
+2417,units on a scale 0 to 99 higher worse,Mean
+2418,mL/min/kg,Mean
+2419,Parts per million; higher worse,Mean
+2420,mg ferritin/gram dry weight liver,Median
+2421,Kg/m2,Median
+2422,DDD per average resident and per day,Median
+2423,Weeks,Geometric Mean
+2424,mg/L,Number
+2425,kg/meter-squared,Mean
+2426,participants reporting the reason,Number
+2427,log10(copies)/mL,Mean
+2428,Newton-meters,Mean
+2429,number of cells per cubic mm,Mean
+2430,hours of life,Median
+2431,PCOSQ Body hair Score,Mean
+2432,mg/kg,Mean
+2433,log 10 IU/mL,Median
+2434,pariticpants,Number
+2435,pH minutes,Mean
+2436,Kilogram per square meter (Kg/m^2),Mean
+2437,grams per day (g/day),Mean
+2438,PCOSQ Weight Score,Mean
+2439,units/day,Mean
+2440,copies/mL,Median
+2441,number of turns,Mean
+2442,mL; mm^3,Mean
+2443,Copies/mL,Median
+2444,ng/ml^2,Median
+2445,score,Mean
+2446,ratio %,Mean
+2447,percent of effacement,Mean
+2448,percentage of activity,Mean
+2449,Number of Comorbidities,Mean
+2450,10 x 10^9 cells/L,Median
+2451,mg/wk,Mean
+2452,nighttime micturitions,Mean
+2453,kilograms/meter^2 (kg/m^2),Mean
+2454,dB S/N,Mean
+2455,vaccine injections,Median
+2456,cubic millimetre (mm^3),Mean
+2457,percentage of hemoglobin,Mean
+2458,cm,Mean
+2459,kilogram per square metre,Mean
+2460,nanometers per second,Mean
+2461,laser procedures,Mean
+2462,percent of participants privt insurance,Number
+2463,meetings,Mean
+2464,Percentage of leucocytes in blood,Mean
+2465,pmol/L/min,Mean
+2466,kilograms/square meters (kg/m^2),Mean
+2467,numbers,Number
+2468,metres,Mean
+2469,mm H20,Median
+2470,nodules,Mean
+2471,CGI-I Score,Mean
+2472,Signs and symptoms,Median
+2473,standard alcohol drink,Mean
+2474,% of dietary fat absorbed,Mean
+2475,missions,Mean
+2476,Percent risk of developing breast cancer,Mean
+2477,Kilograms,Mean
+2478,kg/mˆ2,Mean
+2479,cells/cm^2,Median
+2480,c/mL,Number
+2481,Karnofsky Performance Scale,Mean
+2482,likert scale,Mean
+2483,Degrees centigrade,Mean
+2484,caffeinated beverages/week,Mean
+2485,units on a Likert scale,Mean
+2486,mU/L*mmol/L,Mean
+2487,micturitions,Mean
+2488,Number of procedures,Mean
+2489,Failed Medications,Mean
+2490,Milliliter (mL),Mean
+2491,percentage of ventricular blood pumped,Mean
+2492,Acne lesions,Mean
+2493,Percentage of total monitoring time,Mean
+2494,nanograms/ ml,Mean
+2495,sec,Mean
+2496,percentage of bone marrow,Mean
+2497,visits per month,Median
+2498,U/ml,Number
+2499,cell/ml,Mean
+2500,microinternational units per milliliter,Mean
+2501,umol TE/L,Mean
+2502,% of blood leaving heart at contraction,Mean
+2503,Newton meters (Nm)/kg,Mean
+2504,percentage of liters predicted,Mean
+2505,percentage of participants,Mean
+2506,% activity,Mean
+2507,% days with 100% taking adherence,Number
+2508,number of lifetime antidepressant trials,Mean
+2509,mg/mL,Mean
+2510,average number of stools per day,Mean
+2511,liters,Least Squares Mean
+2512,exacerbations,Mean
+2513,mL,Median
+2514,mcg/g,Median
+2515,milligrams per week (mg/week),Mean
+2516,percentage of intramyocellular lipid,Median
+2517,Cm^2,Median
+2518,mutations,Median
+2519,pg*hr/ml,Mean
+2520,cans of smokeless tobacco,Mean
+2521,migraine days/month,Mean
+2522,Active minutes/week,Median
+2523,Standardized BMI Z-score,Mean
+2524,logMAR,Median
+2525,Percent of glycosylated hemoglobin (A1C),Mean
+2526,milligrams per deciliter,Mean
+2527,pressure ulcers,Number
+2528,units on scale WOMAC,Mean
+2529,units on a scale (0-10),Mean
+2530,uIU/mL,Mean
+2531,percentage of total fatty acids,Mean
+2532,umol/L,Mean
+2533,Non-Infammatory acne lesions,Mean
+2534,10^9 per Liter,Mean
+2535,percentage increase in FEV1,Mean
+2536,kilogram per meter square,Mean
+2537,Beats Per Minute (BPM),Mean
+2538,percentage of glycated haemoglobin,Mean
+2539,SBMs per week,Mean
+2540,LDI flux units,Mean
+2541,x10E ^09/L,Mean
+2542,units of lipase,Mean
+2543,Prior hospitalization for mood episode,Mean
+2544,Decibels,Mean
+2545,ml/day,Mean
+2546,units=participants,Number
+2547,lbs/sq.In.,Mean
+2548,kilogram / square meter (kg/m^2),Mean
+2549,Units in Beck Depression Inventory,Mean
+2550,percent coated platelets,Mean
+2551,kg per m2,Mean
+2552,Days,Mean
+2553,Total Correct,Mean
+2554,probability of poor outcome,Mean
+2555,logMAR,Geometric Mean
+2556,Kilograms Per Meter Squared,Mean
+2557,Participants:Participants,Number
+2558,grams/square centimeter (g/cm^2),Mean
+2559,percentage of burned surface area,Mean
+2560,Percentage of blood,Median
+2561,Pregnancies,Median
+2562,kilogram/meter²,Mean
+2563,units per day,Mean
+2564,nanomole/L,Mean
+2565,Beats per Minute,Mean
+2566,HbA1c [%],Mean
+2567,mL/min/1.73 squared meters,Mean
+2568,MET-minutes/week,Mean
+2569,Percentage of Body Surface Area,Mean
+2570,Cells x 10^9/L,Median
+2571,cells/mm^2,Mean
+2572,years,Median
+2573,seizures,Mean
+2574,Number of actinic keratoses (AKs),Number
+2575,Units per kilogram (U/kg),Mean
+2576,log10(ng/mL),Median
+2577,Degrees Celsius,Median
+2578,% of body surface area,Median
+2579,mm Hg / percent inspired oxygen,Mean
+2580,Contractions/min,Mean
+2581,BMI percentile,Mean
+2582,Pack Years,Mean
+2583,Participant,Number
+2584,letters read correctly,Mean
+2585,Mean,Mean
+2586,MDD episodes,Mean
+2587,points on a scale,Mean
+2588,IU/L,Median
+2589,%,Mean
+2590,Swollen Joints,Mean
+2591,L,Mean
+2592,nanograms per millilter,Median
+2593,Number of failed medications,Median
+2594,cm²,Mean
+2595,percent days heavy drinking,Mean
+2596,kilograms,Mean
+2597,panss score,Mean
+2598,MAAS Score,Mean
+2599,kilograms/square meters,Mean
+2600,Patients per year,Mean
+2601,kCal/kg/d,Mean
+2602,milligrams per Liter,Median
+2603,Kilograms (kg),Mean
+2604,mL/kg/min,Median
+2605,percentage of plasma cells,Mean
+2606,Score on PDQ-39 Questionnaire,Mean
+2607,total raw score points for 5 domains,Mean
+2608,% of total hemoglobin,Mean
+2609,milliliter/kilogram/minute,Mean
+2610,number of stands,Mean
+2611,Parity,Median
+2612,gms,Mean
+2613,drinks/day,Mean
+2614,nanomole/L (nmol/L),Mean
+2615,ug/ml,Median
+2616,Kg/m²,Mean
+2617,d-prime,Mean
+2618,pg/mg,Mean
+2619,Admissions,Number
+2620,kG,Mean
+2621,Platelets/mm^3,Mean
+2622,(mg/dL),Mean
+2623,seconds,Mean
+2624,cm H2O,Median
+2625,breaths per minute (bpm),Mean
+2626,cubic centimeter,Mean
+2627,kg.m-2,Median
+2628,DAYS,Mean
+2629,g/m^2,Mean
+2630,percentage of Hemoglobin A1c (HbA1c),Mean
+2631,MET-min/wk,Mean
+2632,μl/min/ml,Mean
+2633,number of days worked/week,Mean
+2634,BPM (beats per minute),Mean
+2635,μu/ml,Mean
+2636,Percentage of ULN(Upper limit of number),Median
+2637,cell/mm3,Mean
+2638,treatment course,Number
+2639,METS/week,Mean
+2640,nanogram / milliliter,Median
+2641,uU/mL divided by mg/dL,Median
+2642,ml/min/1.73m^2,Median
+2643,μmol/L,Median
+2644,percentaje of glycated hemoglobin,Mean
+2645,% pred.,Median
+2646,Number of lesions,Number
+2647,kilograms per square meters (kg/m^2),Mean
+2648,units on a scale (NIHSS range 0 - 42),Median
+2649,units on pH scale,Mean
+2650,Indoor tanning sessions,Mean
+2651,hair strands/cm^2,Mean
+2652,Antihypertensive Medications,Mean
+2653,seizures/month,Mean
+2654,prior deliveries,Median
+2655,Score of insulinogenic Index,Mean
+2656,Prior regimens,Mean
+2657,Seconds,Mean
+2658,incontinence episodes/week,Mean
+2659,log10 CFU/mL,Mean
+2660,Units in Greene Climacteric Scale,Mean
+2661,mL/min/1.73 m2,Mean
+2662,spindles per minute,Mean
+2663,milligrams/liter (mg/L),Mean
+2664,mL/min/1.73 square meter,Mean
+2665,Micrograms per liter (ug/L),Mean
+2666,M,Mean
+2667,micrograms,Median
+2668,episodes,Median
+2669,Number of Stools,Mean
+2670,cells per microliter,Mean
+2671,number of seizures,Mean
+2672,people,Number
+2673,cells/µL,Mean
+2674,ETDRS Score,Mean
+2675,kilograms per meters squared,Mean
+2676,Millimeter (mm),Mean
+2677,percentage of body fat,Mean
+2678,log10 copies/ml,Mean
+2679,g/24hr,Mean
+2680,K/ul,Median
+2681,cytotoxic regimen,Median
+2682,IU/dL,Median
+2683,Number of Prior Interventions,Mean
+2684,Blinks/min,Mean
+2685,mg*min/ml,Mean
+2686,beats per min,Mean
+2687,Square of centimeter,Median
+2688,60.7 (SD 11.4) years,Mean
+2689,mg･hr/dL,Mean
+2690,L/min/% oxygen saturation,Mean
+2691,mid-to-posterior height ratio,Mean
+2692,Participants not testing NAb positive,Number
+2693,kilopascal (kPa),Mean
+2694,kilogram/ meter^2 (kg / m^2),Mean
+2695,cm/year,Mean
+2696,Milligram per deciliter,Mean
+2697,FEV1/FVC percent,Mean
+2698,Square centimeter (cm^2),Mean
+2699,standardized score,Mean
+2700,MET-minutes per week,Mean
+2701,quit attempts,Mean
+2702,Percent Protein C Activity,Mean
+2703,Snellen decimal,Mean
+2704,kg/m2,Mean
+2705,g%,Mean
+2706,milligrams/deciliter,Mean
+2707,number of blocks,Mean
+2708,log10 copies per mL,Median
+2709,number of words,Mean
+2710,Units on a scale,Number
+2711,10E3 cells/uL,Median
+2712,area under curve,Mean
+2713,meQ/L,Mean
+2714,HAM-D-17 Score,Mean
+2715,percent of oxygen saturation,Mean
+2716,Cigarettes Per Day,Mean
+2717,mm/hour,Mean
+2718,HbA1C percentage (%),Mean
+2719,units/week,Mean
+2720,total raw scores by group,Mean
+2721,number of corneal filaments,Mean
+2722,Health Problems,Mean
+2723,Totals years smoking cigarettes,Mean
+2724,community,Number
+2725,ln(mmol/L),Mean
+2726,HOMA IR Score,Median
+2727,PCOSQ Infertility Score,Mean
+2728,copies/mL,Geometric Mean
+2729,kg/m^2,Mean
+2730,millimole per Liter (mmol/L),Mean
+2731,spoken syllables per second,Mean
+2732,Log10 IU/ml,Mean
+2733,cm squared,Mean
+2734,prior regimens,Median
+2735,percent predicted based on age and heigh,Mean
+2736,percentage of intrahepatic lipid,Median
+2737,Eggs per gram (EPG),Median
+2738,MET-hr/wk,Mean
+2739,percent of gycated hemoglobin,Mean
+2740,doses,Mean
+2741,Suicide attempts,Mean
+2742,Number of prior lines of treatment,Median
+2743,Percentage of inspired oxygen,Median
+2744,units on a scale;range 0-9;higher worse,Mean
+2745,nmol/mmol,Mean
+2746,pRBC units/28 days,Mean
+2747,score on a scale,Median
+2748,%PD1+ CD4+ T-cells,Median
+2749,log(pg/ml),Mean
+2750,μU/ml,Mean
+2751,Standardized scores on a scale,Mean
+2752,percent of BSA,Mean
+2753,milligrams,Mean
+2754,log arcsec,Mean
+2755,hot flashes per week,Mean
+2756,drinks/binge drinking day,Mean
+2757,Percent predicted,Mean
+2758,picogram per millilitre,Mean
+2759,Cigarettes smoked /day,Mean
+2760,Percentage units,Mean
+2761,g/l,Median
+2762,number of caffeinated drinks per day,Mean
+2763,year,Mean
+2764,minutes walked,Mean
+2765,ug/dL,Median
+2766,percentage change,Mean
+2767,Newton meters,Mean
+2768,paricipants,Number
+2769,Cans/week,Mean
+2770,litres,Mean
+2771,mPa.s,Median
+2772,Hz,Mean
+2773,mEq*24hr/L,Mean
+2774,mCg/gm,Mean
+2775,p.p.m.,Median
+2776,ug/day,Mean
+2777,units on scale,Mean
+2778,AU*min,Median
+2779,microgram(mcg)GAG/mg creatinine,Mean
+2780,Steps per day,Median
+2781,Incontinence Episodes per Week,Mean
+2782,liters/minute/meters squared,Mean
+2783,kilogram per meter square (kg/m^2),Mean
+2784,Units on a scale -50 to +50,Mean
+2785,Proportion of abstinent days,Mean
+2786,Solid organs transplanted,Mean
+2787,Participants,Count of Participants
+2788,percent of days,Mean
+2789,visits,Mean
+2790,log10(copies/ml),Mean
+2791,Years of Age,Median
+2792,C7 Expression (percent of normal skin),Mean
+2793,BPM,Mean
+2794,cubic centimeters (cm3),Median
+2795,relative gene expression units,Mean
+2796,regimens,Median
+2797,Puff,Mean
+2798,MG/l,Mean
+2799,ng/mL,Median
+2800,Arbitrary Units,Median
+2801,kilograms per meter squared (kg/m²),Mean
+2802,therapy lines,Median
+2803,median of comorbidities of participants,Median
+2804,platelets x 10^3 / mL,Median
+2805,MCF shift from NC,Mean
+2806,feet,Mean
+2807,micro international units(μIU)/ml,Mean
+2808,millimeters per hour (mm/h),Median
+2809,% change in brachial diameter,Mean
+2810,Prism Diopter,Mean
+2811,platelets/uL,Mean
+2812,% of Patients,Number
+2813,percent of work time missed,Mean
+2814,meters,Mean
+2815,quality units,Mean
+2816,number of births,Mean
+2817,Kilogram (kg)/meter (m)^2,Mean
+2818,millimeter per hour (mm/h),Mean
+2819,Trials 1-5 Free Recall Total,Mean
+2820,adenomas,Mean
+2821,Index,Mean
+2822,Highest Response schedule completed,Mean
+2823,mmol per Litre,Mean
+2824,units on a scale (0-100),Median
+2825,log copies/mL,Median
+2826,unit on a scale,Mean
+2827,ejection fraction percent,Mean
+2828,Participants with Disorder Presently,Number
+2829,Percent (%),Mean
+2830,Lesion,Number
+2831,Reactive hyperaemia index,Mean
+2832,decibel (dB),Mean
+2833,Kilogram per meter^2 (Kg/m^2),Mean
+2834,average number of children in home,Mean
+2835,kg/m^2 (kilogram(s)/square meter),Mean
+2836,Percentage of Glycosylated Haemoglobin,Mean
+2837,kilograms per meter squared (kg/m^2),Mean
+2838,log10 copies/mL),Mean
+2839,sex partners,Median
+2840,perecent of predicted meters,Mean
+2841,percentage of capacity,Mean
+2842,percent glycosylated hemoglobin,Median
+2843,beats/min,Median
+2844,Prescription medications,Mean
+2845,kg/meter (m)^2,Mean
+2846,IU/kg/day,Mean
+2847,mmHg,Mean
+2848,central venous access devices,Median
+2849,Laparoscopic renal surgery,Number
+2850,Percentage of complete utterances,Mean
+2851,parts per million (ppm),Mean
+2852,µg/ml,Mean
+2853,nmol/l,Number
+2854,events per person year,Mean
+2855,ml/dl*min,Mean
+2856,Age,Mean
+2857,log10 IU/mL,Median
+2858,# of Participants,Number
+2859,tender joints,Mean
+2860,Pg/ml,Mean
+2861,percentage of osteoid surface,Mean
+2862,percentage of total amount of blood,Mean
+2863,Number of correct trials,Mean
+2864,Particpants,Number
+2865,percent HbA1c,Mean
+2866,litres per second,Mean
+2867,inches,Mean
+2868,correct responses per minute,Mean
+2869,milligrams/deciliter (mg/dL),Mean
+2870,Distance in meters,Mean
+2871,lipid-lowering medications,Mean
+2872,errors,Mean
+2873,Percent body fat,Mean
+2874,age in postmenstrual weeks at birth,Mean
+2875,log 10 (cells/mL),Mean
+2876,ml/min/mmHg,Mean
+2877,Nanometer (nm),Median
+2878,Ejection Fraction (%),Mean
+2879,z-scores,Mean
+2880,L (Liter),Mean
+2881,mean,Mean
+2882,Points of PANSS score,Mean
+2883,GAA sequence repetitions,Median
+2884,milliseconds,Mean
+2885,t-score,Mean
+2886,Cohabitants,Mean
+2887,IQ units (typical range 40-160).,Mean
+2888,Pregnant women,Number
+2889,percent days abstinent,Mean
+2890,microaneurysms/month,Mean
+2891,Natural Log of Scores on a Scale,Mean
+2892,(Liter/minute)/square meter([L/min]/m^2),Mean
+2893,percent hair loss,Mean
+2894,microliters/min,Mean
+2895,condomless anal sex acts,Mean
+2896,ml/min/1.73 m^2,Mean
+2897,g/ml,Median
+2898,nanogram per milliliter,Median
+2899,Hemoglobin A1c percentage,Mean
+2900,Number of antral follicles,Mean
+2901,degrees Celcius (°C),Mean
+2902,percent predicted,Median
+2903,Antihypertensive Drug Classes,Mean
+2904,responses,Number
+2905,(kg)/m^2,Mean
+2906,Cesarean deliveries,Median
+2907,% of insulin sensitivity,Mean
+2908,% Of Resting,Mean
+2909,grams/cm2,Mean
+2910,U/kg,Mean
+2911,l,Median
+2912,acid refluxes per day,Mean
+2913,beats per ng/kg/min,Mean
+2914,cells per mm3,Median
+2915,actinic keratosis lesions,Mean
+2916,indications,Number
+2917,number of prior therapies,Mean
+2918,Puffs,Mean
+2919,log PSA/month,Mean
+2920,SpO2 (percent saturation),Mean
+2921,mU per Litre,Mean
+2922,Age (yrs),Mean
+2923,% of glycated hemoglobin,Mean
+2924,percentage points of LVEF,Mean
+2925,mg/mL,Median
+2926,microgram per liter,Median
+2927,mmol/mmol,Mean
+2928,copies/ml,Median
+2929,Lps/cmH2O/L,Mean
+2930,mg/L,Median
+2931,Dosage (mg),Mean
+2932,mg/ml,Mean
+2933,letters read,Mean
+2934,score on a scale,Number
+2935,millilitres,Median
+2936,Volts,Median
+2937,scores,Mean
+2938,cells per uL,Median
+2939,Kilogram (kg),Mean
+2940,% of Hemoglobin,Mean
+2941,meters per second,Mean
+2942,Count of particpants,Number
+2943,percentage change in wound area,Mean
+2944,number of unique foods,Mean
+2945,percent of sleep,Median
+2946,Number with self-reported low adherence,Number
+2947,mcIU/mL,Mean
+2948,Score on a scale,Mean
+2949,mmol/l,Median
+2950,procedures,Number
+2951,U/mL^2,Mean
+2952,cells/mL,Mean
+2953,°C,Mean
+2954,mL/min/m2,Mean
+2955,(Value of $100) * (days until receipt),Mean
+2956,Percentage correct,Median
+2957,percentage of genotype,Mean
+2958,Mexico,Number
+2959,proportion ejection fraction,Median
+2960,Acts,Median
+2961,kg/mʌ2,Mean
+2962,hairs/cm^2,Mean
+2963,Vanderbilt Parent Rating Scale Score,Mean
+2964,BMI (kg/m∧2 ),Median
+2965,Milligrams,Mean
+2966,Hot Flushes,Mean
+2967,cm^3,Mean
+2968,BMI (kg/m^2),Median
+2969,Alcohol Composite Score,Mean
+2970,Percent change,Mean
+2971,watt,Mean
+2972,copies per mL,Median
+2973,Number of guns owned,Mean
+2974,nanograms per milliliter,Median
+2975,uses/week,Mean
+2976,number of lifetime augmentation trials,Mean
+2977,Percentage (%),Mean
+2978,participants in ITT population,Number
+2979,Days per Month,Mean
+2980,% of glycated hemoglobin (A1c),Mean
+2981,Degrees,Mean
+2982,kg.m-2,Mean
+2983,Percentage of red blood cells in blood,Median
+2984,percentage of cells at study entry,Median
+2985,(x 10'{super 9}/L),Mean
+2986,LVEF (%),Mean
+2987,Density units of macular pigment,Mean
+2988,hubs,Number
+2989,Number of Letters,Median
+2990,hits/day,Mean
+2991,checks per day,Mean
+2992,partners,Median
+2993,Centimeteres,Mean
+2994,grams per deciliter (g/dL),Mean
+2995,cc,Median
+2996,log(Percentage),Geometric Mean
+2997,cells/μl,Median
+2998,prescribing providers,Mean
+2999,grade level in years,Mean
+3000,minutes of physical activity,Mean
+3001,mL/min/1.73m2,Mean
+3002,milligrams per liter (mg/ L),Median
+3003,Number of words,Mean
+3004,SUVR,Mean
+3005,Percent blood ejected,Mean
+3006,U/day,Median
+3007,decibel hearing level (dB HL),Mean
+3008,Cigarettes Smoked per Day,Mean
+3009,Ratio %,Mean
+3010,1000 cells/mm^3,Mean
+3011,Years (yr),Mean
+3012,pH value,Mean
+3013,degrees Celsius,Median
+3014,percent of LVEF,Mean
+3015,papules and pustules,Median
+3016,Scalar value b/w 0-1,Mean
+3017,ratio (FEV1/FVC),Mean
+3018,uIU/mL,Median
+3019,Microgram (μg)/mL,Mean
+3020,mm²,Mean
+3021,NIHSS score range: 0 to 42,Median
+3022,Metres (m),Mean
+3023,Number of Reported Vaginal Deliveries,Mean
+3024,mm/hr,Median
+3025,Kilograms per square meter,Mean
+3026,Kilograms (Kg),Mean
+3027,Years,Mean
+3028,CTC per milliliter,Mean
+3029,Unitless,Mean
+3030,Meter,Mean
+3031,kilocalories per day,Mean
+3032,events per hour,Mean
+3033,metastatic Sites,Mean
+3034,days,Median
+3035,movements per week,Mean
+3036,Log10 IU/ml,Median
+3037,number of encounters,Number
+3038,milliseconds (ms),Mean
+3039,grams per square centimeter,Mean
+3040,right or left second molar,Count of Units
+3041,percentage mortality risk,Median
+3042,number of encounters,Mean
+3043,category,Number
+3044,mU/L,Median
+3045,kilograms (kg)/meters squared (m^2),Mean
+3046,µg/day,Mean
+3047,Liters,Mean
+3048,investigators,Number
+3049,nm,Mean
+3050,milliliters/minute per 1.73 m^2,Mean
+3051,Level of tongue coating,Median
+3052,kg m^-2,Median
+3053,L/min/m^2,Median
+3054,psoriasis severity index,Mean
+3055,g/cm3,Mean
+3056,International Units/ml,Geometric Mean
+3057,viable pregnancies,Mean
+3058,nmol BCE/mmol-CRE,Mean
+3059,Facilities,Count of Units
+3060,Kg/cm2,Mean
+3061,g GAG/g creatinine,Mean
+3062,Millimeter per hour (mm/h),Mean
+3063,"mmHg, systolic",Mean
+3064,Number of nightmares per night,Mean
+3065,Kilograms/square meters,Mean
+3066,mL/min/1.73m²,Mean
+3067,cubic milimeters,Mean
+3068,In,Mean
+3069,log (seconds),Mean
+3070,Percentage of all scheduled participants,Number
+3071,gestational age months,Median
+3072,ROM Percent of Predicted,Number
+3073,pmol/l,Median
+3074,Kilocalories,Mean
+3075,weight in kg divided by length in m2,Mean
+3076,Teeth,Mean
+3077,percent of red blood cells in blood,Mean
+3078,cmH20,Mean
+3079,cm˄3,Mean
+3080,mL/mmHg/min,Median
+3081,milligrams (mg),Median
+3082,Voids per day,Mean
+3083,ETDRS letter score,Mean
+3084,Episodes per 24 hours,Median
+3085,Percent of predicted mortality,Mean
+3086,millimeter,Mean
+3087,antidiabetic medications,Mean
+3088,units on scale 0-8,Mean
+3089,medications,Mean
+3090,Kg,Mean
+3091,Number of live births,Mean
+3092,g/g,Mean
+3093,percentage of central pulse pressure,Mean
+3094,units on a 0-10 scale,Median
+3095,percentage of predicted distance,Mean
+3096,log10c/mL,Median
+3097,milligram/deciliter,Median
+3098,milliliter per minute,Mean
+3099,mins,Mean
+3100,units on a scale of 0 to 10,Mean
+3101,"unitless, per week",Median
+3102,Body mass index z-scores,Mean
+3103,deliveries,Median
+3104,mg per day,Mean
+3105,Scale 0 to 10,Mean
+3106,bpm (beats per minute),Mean
+3107,Pack Years,Median
+3108,mL/h,Median
+3109,Pack Year,Mean
+3110,ug/ml,Mean
+3111,% (percentage of minutes of stage 3),Mean
+3112,Puffs/7 days,Mean
+3113,percentage of surface,Mean
+3114,Correct answers,Mean
+3115,pack-years,Mean
+3116,percent of toenail,Mean
+3117,beats per minute (BPM),Mean
+3118,percentage,Mean
+3119,log₁₀[TCID₅₀/mL],Mean
+3120,(kg/m²),Mean
+3121,ng/mmol,Mean
+3122,wpm,Mean
+3123,rating score 0.2 to 1,Mean
+3124,Scores,Mean
+3125,mL/kg/min of oxygen,Mean
+3126,Microns,Number
+3127,unprotected partners,Least Squares Mean
+3128,prescriptions per day,Mean
+3129,gram per meter^2 (g/m^2),Mean
+3130,log10 CFU/g stool,Mean
+3131,Proportion of Binge Drinking Days,Mean
+3132,Kcal/week,Mean
+3133,years OF AGE,Mean
+3134,mg/week,Mean
+3135,ml/min/1.73m3,Mean
+3136,gram/gram,Mean
+3137,K/cu mm,Mean
+3138,nanograms per deciliter,Median
+3139,cal/g stool,Mean
+3140,Checks per day,Mean
+3141,units/mL,Number
+3142,kilograms / square meter,Mean
+3143,raises,Mean
+3144,Years,Number
+3145,kg/m2*,Mean
+3146,kg/sq.m,Mean
+3147,Seconds of Arc,Median
+3148,Injections,Mean
+3149,percentage of ejection fraction,Mean
+3150,(BEATS/MIN),Mean
+3151,dyn*s*cm^-5,Mean
+3152,AFB/field,Median
+3153,pillows,Median
+3154,percent probability,Mean
+3155,Patient facial actinic keratosis count,Mean
+3156,hairs/cm2,Mean
+3157,MFI,Mean
+3158,mol mol-1,Mean
+3159,liters,Mean
+3160,count/mm^3,Mean
+3161,sessions,Median
+3162,percent of obstruction,Mean
+3163,mg/g,Median
+3164,mg/mIU,Mean
+3165,number of attacks per day,Mean
+3166,number of current augmentation trials,Mean
+3167,METERS,Mean
+3168,ER visits,Mean
+3169,Percent of enhanced myocardium,Mean
+3170,steps/day,Mean
+3171,CD4%,Mean
+3172,microIU/mL,Mean
+3173,percentage of total hemoglobin,Mean
+3174,mM (millimolar),Mean
+3175,vertebral lengths,Mean
+3176,percentage of maximum change,Median
+3177,Number of regimens,Median
+3178,percent of Non-white participants,Number
+3179,percentage of heavy drinking days,Mean
+3180,seconds (s),Mean
+3181,Solid organs procured,Mean
+3182,IU,Mean
+3183,polyps,Mean
+3184,mm,Mean
+3185,people,Mean
+3186,number of organ dysfunctions,Mean
+3187,hrs/day,Mean
+3188,Celsius,Mean
+3189,Number of Joints,Mean
+3190,participants with diabetes,Number
+3191,cm of water,Mean
+3192,weeks' gestational age,Mean
+3193,EPG,Geometric Mean
+3194,number of AEDs,Mean
+3195,Standard Uptake Value Ratio (SUVR),Mean
+3196,degree of angle,Mean
+3197,Apnea-hypopnea index (AHI) events/hour,Mean
+3198,Q-LES-Q Score,Mean
+3199,Milliliters,Median
+3200,percentage of CD4 cells,Mean
+3201,Percent HbA1c,Median
+3202,milliliter,Mean
+3203,Norm-Based Standardization Score,Mean
+3204,Kilogram/square meter,Mean
+3205,mL/Kg/minute,Mean
+3206,line days,Mean
+3207,Percent of gylcosylated hemoglobin,Mean
+3208,Infant Age (Days),Mean
+3209,Max % predicted,Mean
+3210,kilogram per square metre (kg/m^2),Mean
+3211,Cup shape measure,Mean
+3212,KIMS Score,Mean
+3213,kgf,Mean
+3214,days since filter placement,Mean
+3215,Cells/mm3,Mean
+3216,kUa/L,Mean
+3217,CAG repeats,Mean
+3218,LSDSR Score,Mean
+3219,total number of drinks in the week prior,Mean
+3220,percent of impairment of activity,Mean
+3221,lines of therapies,Median
+3222,units on a scale (0-43),Mean
+3223,Scores on Scale,Mean
+3224,Percentage of CD38 expression,Mean
+3225,p falciparum /mcl,Median
+3226,units on a scale (Scale 2 - 10),Mean
+3227,Hospitalizations,Median
+3228,Pulse per minute,Mean
+3229,Percentage of the body affected,Mean
+3230,post menstrual weeks,Median
+3231,percent saturation mixed venous oxygen,Mean
+3232,milligram per liter (mg/L),Mean
+3233,percent of proximal ref. vessel diameter,Mean
+3234,Percentage of body surface area,Mean
+3235,participants 8,Number
+3236,10^9/L,Median
+3237,mmol/mol,Median
+3238,living children,Mean
+3239,log 10 IU/mL,Mean
+3240,Number of vessels,Mean
+3241,g/l,Mean
+3242,cm,Median
+3243,percentage of peripheral capillary O2,Median
+3244,HRU/Wood units,Mean
+3245,analog scale units,Mean
+3246,cmH2O,Mean
+3247,points on a scale,Median
+3248,mg/cm^3,Mean
+3249,g/cm^2,Mean
+3250,Sample number,Median
+3251,percentage of hip circumference,Mean
+3252,Vertebra levels,Mean
+3253,Percentage of Expected Mortality,Mean
+3254,percent ejection fraction,Mean
+3255,prior ITP treatments,Median
+3256,kilogram per square meter (kg/m˄2),Mean
+3257,Minutes Mod/Vig physical activity/day,Mean
+3258,standard drinks/week,Mean
+3259,scores on a a scale,Mean
+3260,times voided,Median
+3261,Standardized Difference Scores,Mean
+3262,Kg/meter^2,Mean
+3263,msec,Mean
+3264,participants with ascites,Number
+3265,Cigarettes smoked/day,Mean
+3266,Torr,Median
+3267,Units/kg/day,Mean
+3268,Standard Deviation Score,Mean
+3269,Inflammatory lesions,Mean
+3270,milligram (mg) per day,Mean
+3271,Millimoles per litre (mmol/L),Mean
+3272,participnts,Number
+3273,Prescribed medications,Mean
+3274,ears,Number
+3275,(mm),Mean
+3276,tooth,Count of Units
+3277,nanogram/milliliter,Median
+3278,Log10(cp/ml),Median
+3279,number of episodes in last 24 months,Median
+3280,day,Median
+3281,Centimetres,Mean
+3282,Kilograms per meters squared (kg/m^2),Mean
+3283,mm-Hg,Mean
+3284,mOsmo/L,Mean
+3285,ml,Geometric Mean
+3286,percent of white blood cells,Mean
+3287,millimolar inorganic phosphate,Mean
+3288,Percentage Saturation,Mean
+3289,kJ/day,Mean
+3290,copies/ml,Mean
+3291,kg/cm2,Mean
+3292,copies/mm^3,Mean
+3293,Days per month,Mean
+3294,Percent BSA affected,Mean
+3295,Micturation episodes per 24 hour period,Mean
+3296,kiliograms,Mean
+3297,percentage of instances,Number
+3298,milliliter (mL)/Minute (min)/1.73m^2,Mean
+3299,Scores on PIQoL-AD Scale,Mean
+3300,Regimens,Median
+3301,Number of episodes,Mean
+3302,Percent ejection fraction,Mean
+3303,Nanomole(nmol)/min/mL,Mean
+3304,Liters per minute,Median
+3305,SDS Score,Mean
+3306,pg/ml,Mean
+3307,EU/mL,Median
+3308,numbers of relapses,Mean
+3309,Kilograms (kg),Median
+3310,kg/meter(m)^2,Mean
+3311,number of ulcers,Mean
+3312,m2,Mean
+3313,blood samples,Number
+3314,ng/ml,Mean
+3315,diameter (mm),Mean
+3316,Kilograms (kg)/ meter (m)^2,Mean
+3317,log10 IU/ml,Median
+3318,Z-Score,Mean
+3319,molar teeth,Number
+3320,1/seconds,Median
+3321,mU/liter,Median
+3322,milligram (mg),Mean
+3323,percemt,Mean
+3324,LogMAR,Log Mean
+3325,Percentage of HbA1C,Mean
+3326,mGy,Median
+3327,U/mL,Median
+3328,hot flashes,Mean
+3329,nmol/l adjusted for insulin sensitivity,Geometric Mean
+3330,recurrences,Median
+3331,Score on a Scale*hour,Mean
+3332,number,Number
+3333,AQLQ Score,Mean
+3334,hour*nanogram per milliliter (h*ng/mL),Mean
+3335,Number chronic conditions,Mean
+3336,Kilograms per meter squares (kg/m^2),Mean
+3337,mg/mg,Mean
+3338,respiratory events/hour,Mean
+3339,ml/min * 1.73m²,Median
+3340,Comorbidities,Mean
+3341,Sessions in next month,Mean
+3342,Kg/m/m,Mean
+3343,Gram per square centimeter (g/cm2),Mean
+3344,Percent Change from Baseline,Mean
+3345,log10(copies/mL),Median
+3346,micro mole per liter (mcmol/L),Mean
+3347,binge eating days/week,Mean
+3348,Children's centres,Count of Units
+3349,Number of Migraine days,Mean
+3350,letter score,Mean
+3351,Milligrams per deciliter,Mean
+3352,µIU/ml,Mean
+3353,pounds,Mean
+3354,number of months,Mean
+3355,milligram,Mean
+3356,Hour,Mean
+3357,Percentage scale,Mean
+3358,oC,Mean
+3359,cells per mm^3,Median
+3360,Medication Classes,Median
+3361,sex partners,Mean
+3362,Health problems,Mean
+3363,x 10^3/mm^3,Median
+3364,metabolic equivalents,Mean
+3365,number of times,Mean
+3366,equivalents per kg,Mean
+3367,participants receiving this prior tx,Number
+3368,log10 ratio,Median
+3369,Percentage of Predicted,Mean
+3370,(g/m^2.7),Mean
+3371,mcg/day (micrograms/day),Mean
+3372,servings of fruit per day,Mean
+3373,repetitions,Mean
+3374,% IgE,Median
+3375,NEI VFQ-25 score,Mean
+3376,Eos/hpf,Mean
+3377,% Predicted,Mean
+3378,Injury Severity Score,Mean
+3379,mU/L,Mean
+3380,milliliters per minute,Median
+3381,Main partners,Median
+3382,Pmol/dL,Mean
+3383,per cent,Mean
+3384,HOMA score,Mean
+3385,percentage of volume in liters,Mean
+3386,um,Median
+3387,Percentile,Median
+3388,number of chemotherapy regimens,Median
+3389,z-score units,Mean
+3390,DR study eyes for each level,Number
+3391,Millimeter(mm) of mercury(Hg),Mean
+3392,Weeks,Mean
+3393,centimeter,Number
+3394,US$,Median
+3395,unique baseline medications,Number
+3396,micro-international units per milliliter,Mean
+3397,Count of Participants,Number
+3398,ug/m^3,Mean
+3399,drinks per day,Mean
+3400,pg/mL,Geometric Mean
+3401,Participants Oral Ulcers,Mean
+3402,million sperm/ml,Mean
+3403,Subjective Mood Score,Mean
+3404,yards,Mean
+3405,mg/gCR,Median
+3406,deliveries,Mean
+3407,ACT score,Mean
+3408,Lesion Count,Mean
+3409,kilogram per square meter,Mean
+3410,Killograms,Mean
+3411,Count of Events,Mean
+3412,number of daily doses,Median
+3413,Mets,Mean
+3414,heavy drinking days / week,Mean
+3415,Degrees centigrade,Median
+3416,Beats per Minute (BPM),Mean
+3417,units on a scale (total score),Mean
+3418,ng/mL of blood,Median
+3419,Lesions,Mean
+3420,Percent/DCCT,Mean
+3421,mg prednisolone or equivalent,Mean
+3422,Liters/second,Mean
+3423,YEAR OF AGE,Mean
+3424,Unit on a scale,Mean
+3425,kg/m 2,Mean
+3426,kcal/day,Geometric Mean
+3427,dose,Number
+3428,kilograms/meter2,Mean
+3429,units on a scale (0-100 pain scale),Mean
+3430,C,Median
+3431,drugs/participants,Mean
+3432,logMAR line,Mean
+3433,events/hour,Mean
+3434,centimeters squared,Median
+3435,incisors,Number
+3436,units on a scale (6-40),Mean
+3437,bowel movements,Mean
+3438,percent of glycosylated hemoglobin,Median
+3439,BMI Percentile,Median
+3440,120 min*uU/mL,Mean
+3441,milligram/liter,Median
+3442,ng/dl,Number
+3443,nanogram/milliliter (ng/mL),Mean
+3444,Number of sex workers,Mean
+3445,mL/min/1.73^2,Median
+3446,millimeters squared (mm^2),Mean
+3447,G/L,Mean
+3448,mg per deciliter,Mean
+3449,Age (years),Mean
+3450,millimeteres (mm),Median
+3451,injections (N subjects = 18),Mean
+3452,percentage of days,Mean
+3453,pg/mg creatinine,Median
+3454,Percentage of maximum conductance,Mean
+3455,scale score,Median
+3456,lbs/inch^2,Median
+3457,paarticipants,Number
+3458,lesion counts,Mean
+3459,falls per year,Mean
+3460,percentage of methemoglobin,Mean
+3461,Number of MDD Episodes,Mean
+3462,% (of blood ejected from left ventricle),Mean
+3463,pg/mL,Mean
+3464,kilocalories/kilogram body mass/day,Mean
+3465,millilitre(s),Mean
+3466,Kilograms/Meters squared,Mean
+3467,total metabolic equivalent,Mean
+3468,number of blood glucose checks,Mean
+3469,nanograms/milliliter (ng/mL),Mean
+3470,C-ACT score,Mean
+3471,copies/mL,Mean
+3472,units on a scale,Median
+3473,x 10^5 cells/mm^3,Mean
+3474,MFI,Median
+3475,minutes/night,Mean
+3476,hr,Median
+3477,cells/ul,Median
+3478,awakenings,Mean
+3479,Milligram per Deciliter (mg/dL),Mean
+3480,nanogram per milliliter (ng/mL),Mean
+3481,μg/L,Median
+3482,% of beta cell function,Mean
+3483,cells/high powered field,Number
+3484,mg/kg body weight,Median
+3485,kilograms/meters^2,Mean
+3486,kg/m²,Mean
+3487,Standard deviation score,Mean
+3488,standard drinks,Mean
+3489,milliliter per kilogram per minute,Mean
+3490,Letters correctly read,Mean
+3491,trips per month,Mean
+3492,pound,Mean
+3493,kg.,Mean
+3494,Diopter,Mean
+3495,% of lung function,Mean
+3496,% of hemoglobin bound to glucose,Mean
+3497,percentage of lymphocytes,Mean
+3498,% of RBC in total blood volume,Mean
+3499,percentage of glycated albumin,Mean
+3500,nmol/L,Median
+3501,meters/sec,Mean
+3502,z-score,Mean
+3503,million sperm/mL,Mean
+3504,% (NGSP value),Mean
+3505,Z score,Median
+3506,number of C-sections,Mean
+3507,%BSA,Mean
+3508,casual partners,Median
+3509,number participants,Number
+3510,International Unit / Milliliter (IU/mL),Mean
+3511,cm/H20,Mean
+3512,Self-rated health scale (0-100)),Median
+3513,Percentage of perdicted DLco,Mean
+3514,% risk of mortality or morbidity,Mean
+3515,units on a 100 mm visual analogue scale,Mean
+3516,log(ng/mg protein),Mean
+3517,µmol/L,Mean
+3518,classes,Median
+3519,mL/min/1.73^m2,Mean
+3520,kg / m^2,Median
+3521,ETDRS Letters,Mean
+3522,year old,Mean
+3523,mcg/dL,Mean
+3524,Milliliter (mL)/ minute (min),Mean
+3525,urgency incontinence episodes,Mean
+3526,log 10 copies/ml,Median
+3527,units,Number
+3528,Percentage of Coefficient of variability,Mean
+3529,l/min/m^2,Mean
+3530,Lines of Therapy,Number
+3531,score on scale,Mean
+3532,kg/m squared,Mean
+3533,urgency episodes/24 hours,Mean
+3534,number of medications,Number
+3535,millimeters of mercury (mmHg),Median
+3536,units on a scale (1-5),Mean
+3537,seconds,Median
+3538,Number of occurrences,Mean
+3539,Months,Number
+3540,gram per meter to the power 2.7(g/m^2.7),Mean
+3541,LIters (L),Mean
+3542,Arbitrary Units,Mean
+3543,mlU/ml,Mean
+3544,patient participants,Number
+3545,Months,Geometric Mean
+3546,Non-white or Hispanic participants,Number
+3547,dyn*sec/cm^-5,Median
+3548,particpants,Number
+3549,Percentage of Predicted DLCO,Mean
+3550,Years (IQR),Mean
+3551,MMSE score,Mean
+3552,units per liter (U/L),Mean
+3553,probability of effusion,Mean
+3554,Units (IU),Mean
+3555,biopsies,Median
+3556,cases,Median
+3557,Kilograms/squared meters,Mean
+3558,Centimeters (cm),Mean
+3559,Thousand cells / mm^3,Median
+3560,% predicted value,Mean
+3561,alcoholic drinks / week,Mean
+3562,kg/m˄2,Mean
+3563,injections,Geometric Mean
+3564,Tumors,Number
+3565,Liter,Mean
+3566,pmol*hr/L,Mean
+3567,10^-4 / pmol*l / min,Mean
+3568,percent of total monocyte population,Mean
+3569,percentage of total body weight,Mean
+3570,drinks per drinking occasion,Mean
+3571,Clinics,Count of Units
+3572,log10 IU/mL,Mean
+3573,kilogram per square meter (kg/m2),Mean
+3574,Total cholesterol:HDL-C ratio,Mean
+3575,Lesion,Mean
+3576,urgency episodes per day,Mean
+3577,Avg # of visits,Mean
+3578,percent saturation,Mean
+3579,weight (kg) / [height (m)]2,Mean
+3580,percentage of normal,Mean
+3581,percentage of predicted normal,Median
+3582,nm BCE,Mean
+3583,g/24 hour,Mean
+3584,milligrams per liter (mg/L),Median
+3585,Millimeters of mercury (mmHg),Mean
+3586,gestational age in weeks at birth,Mean
+3587,Meters,Mean
+3588,Risk factors,Number
+3589,kilogram per square meter,Median
+3590,Sessions in last month,Mean
+3591,Giga (10^9) cells per liter (Gi/L),Mean
+3592,Perceived Exertion,Mean
+3593,hounsfield units,Mean
+3594,visits,Number
+3595,average number of pain symptoms per day,Mean
+3596,GRAMS,Mean
+3597,Breath per minute,Mean
+3598,Number of Patients,Number
+3599,Cedis per month,Median
+3600,standard deviation scores,Mean
+3601,dB SPL,Mean
+3602,mm,Geometric Mean
+3603,cells per mm3,Mean
+3604,ml/ sec,Mean
+3605,mg/24hr,Mean
+3606,(cells/mm^3),Median
+3607,kilogram/M^2,Mean
+3608,drinking days per week,Mean
+3609,Thousand WBC/ microliter blood,Median
+3610,cm2,Median
+3611,mL/beat,Mean
+3612,elbows,Number
+3613,cell/mm^3,Mean
+3614,Percentage of fat,Mean
+3615,% modulation,Mean
+3616,events/year,Mean
+3617,events/hour,Median
+3618,mIU/L,Mean
+3619,log10 (IU/mL),Mean
+3620,milli international units/ liter*minute,Mean
+3621,time in milliseconds,Mean
+3622,words per minute (wpm),Mean
+3623,breaths/min,Mean
+3624,μg/L,Mean
+3625,lb,Mean
+3626,gaps per patient-year,Mean
+3627,Percent of BSA,Mean
+3628,voids per night,Mean
+3629,cells*1000/mm^3,Mean
+3630,Randomized participants,Number
+3631,ng/mL,Number
+3632,centimetre,Mean
+3633,mg/g creatinine,Median
+3634,Participants,Median
+3635,Minutes per week,Mean
+3636,nanogram per milliliter,Mean
+3637,arteries,Median
+3638,gram per liter (g/L),Mean
+3639,CM,Mean
+3640,Incontinence Episodes/24 Hours,Mean
+3641,Percent score of insulin resistance,Mean
+3642,x 10^8 cells/kg,Mean
+3643,standard uptake value ratio,Mean
+3644,number of daily episodes,Mean
+3645,Number of Stars Not Cancelled,Median
+3646,Beta values,Mean
+3647,percentage of lymphocytes,Median
+3648,% of heartbeats,Mean
+3649,Percent of spending,Mean
+3650,international unit,Median
+3651,% (of filtered phosphorus reabsorbed),Median
+3652,percentage of ejected blood,Mean
+3653,(u/L),Mean
+3654,Units/ml,Median
+3655,percent FEV1,Mean
+3656,micromole/liter (mcmol/L),Mean
+3657,Pregnancies,Mean
+3658,log10 CFUs/g,Mean
+3659,Avg score of 5 sx: 0=absent to 3=severe,Mean
+3660,kgm^2,Mean
+3661,number of oocytes,Mean
+3662,log(mg/L),Geometric Mean
+3663,"millimeter, mercury",Mean
+3664,micrograms/gram feces,Mean
+3665,percentage of truncal fat,Median
+3666,mL/m^2,Mean
+3667,yeas,Mean
+3668,kilograms/(meter squared),Mean
+3669,SBMs/week,Mean
+3670,Diopters,Mean
+3671,parts per million,Mean
+3672,seconds of time,Mean
+3673,liters in one second,Mean
+3674,Pharmaceutical Agents,Mean
+3675,Thousand Turkish liras,Mean
+3676,QMG score,Mean
+3677,kilogram/meter square^2 (kg/m^2),Mean
+3678,Number of blisters,Number
+3679,ml,Median
+3680,days / month,Mean
+3681,drugs,Median
+3682,Percent [%],Mean
+3683,kilograms,Median
+3684,percent of glycated hemoglobin in blood,Mean
+3685,calendar year,Mean
+3686,digital ulcers,Mean
+3687,picograms per milliliter (pg/mL),Mean
+3688,%Gag-specific IL-2+ CD8+ T-cells,Median
+3689,grams (g),Median
+3690,Log10 IU/mL,Mean
+3691,Age Continuous (years),Mean
+3692,events per week,Mean
+3693,micrometer,Mean
+3694,nmol/liter,Median
+3695,Percent of predicted normal,Mean
+3696,Interventions/Procedures,Number
+3697,Impacted Teeth,Mean
+3698,kilogram,Mean
+3699,mph,Mean
+3700,percent scores on a scale,Mean
+3701,10⁹ cells/L,Median
+3702,joints,Mean
+3703,milligrams per week (mg/wk),Mean
+3704,cells*10^6/uL,Median
+3705,Kg/cm^2,Mean
+3706,(nmol/mL/h),Mean
+3707,uIU ml^-1,Median
+3708,cases,Count of Units
+3709,joints,Number
+3710,people per household,Mean
+3711,RBC units,Mean
+3712,DEB-TACE procedures,Number
+3713,millions of sperm/milliliter (mil/mL),Mean
+3714,MET units,Mean
+3715,Scores of a scale,Mean
+3716,Prior general anesthetics,Mean
+3717,Log10 c/mL,Mean
+3718,μIU/mL,Mean
+3719,U/mL,Mean
+3720,number of islet infusions,Median
+3721,Points,Mean
+3722,percentage of DLCO % predicted,Least Squares Mean
+3723,Number of teeth,Number
+3724,Score,Mean
+3725,IU/mL,Median
+3726,Total Mayo Score,Mean
+3727,co-morbidities,Mean
+3728,number,Mean
+3729,mg/min/120min,Mean
+3730,log(Episodes/hour),Mean
+3731,Square meters,Mean
+3732,percentage of HbA1c,Mean
+3733,percent of predicted,Mean
+3734,months,Geometric Mean
+3735,mg/kg2,Mean
+3736,degree,Mean
+3737,Percentage of Glycosylated Hemoglobin,Mean
+3738,micturitions in 24 hours (M24MIC),Mean
+3739,Unit of UPDRS scales,Mean
+3740,FV portions per day,Mean
+3741,surgeries,Median
+3742,milliliter (mL) /minutes (min) /1.73m²,Mean
+3743,Probability percentage,Mean
+3744,mmol,Mean
+3745,µg/mL,Mean
+3746,Current,Number
+3747,hour*milligram per deciliter (h*mg/dL),Mean
+3748,kilocalories per week,Mean
+3749,Relapses,Mean
+3750,number of metastatic sites per location,Number
+3751,Percent (%) glycosylated haemoglobin,Mean
+3752,% Lean mass,Mean
+3753,percentage of total sleep time,Mean
+3754,Count per 1000 cells/µL,Mean
+3755,68,Mean
+3756,ng/L,Mean
+3757,mg/dl. min,Mean
+3758,Percent times Minutes,Mean
+3759,% of cells,Mean
+3760,Percent of HbA1c,Mean
+3761,mmHG,Mean
+3762,Square of meter,Median
+3763,percent predicted of FEV1,Mean
+3764,Percent of hemoglobin,Mean
+3765,Nanogram per milliliter (ng/mL),Median
+3766,Kilogram/m^2,Mean
+3767,scans,Number
+3768,Percentage of Bone Marrow Blasts,Mean
+3769,Seizures,Mean
+3770,10³ cells/mm³,Median
+3771,ng/kg/min,Mean
+3772,microunits/mL,Mean
+3773,log10 c/mL,Mean
+3774,Years of age,Mean
+3775,kilograms (kg),Median
+3776,inches,Median
+3777,treatment course,Mean
+3778,units on a 0-70 scale (higher is worse),Mean
+3779,micturitions/24 hours,Mean
+3780,A1C Percentage,Mean
+3781,units on a scale,Mean
+3782,Blocks moved,Median
+3783,scores on a scale SF-36 general health,Mean
+3784,(kg/m2),Median
+3785,Unit on scale,Mean
+3786,lesion,Number
+3787,doses per week,Median
+3788,millilitres,Mean
+3789,US dollars,Median
+3790,% Ejection Fraction,Mean
+3791,U/ml,Geometric Mean
+3792,mm of mercury,Mean
+3793,log(10) CFU/ml,Mean
+3794,mf/ml,Geometric Mean
+3795,Percentage of FEV1/FVC,Mean
+3796,ratio of Triglycerides-to-HDL,Mean
+3797,Percent of body weight,Median
+3798,logMAR,Mean
+3799,microgram per liter,Mean
+3800,Litre,Mean
+3801,log10 (ms),Mean
+3802,meters/second,Mean
+3803,Fluoresence intensity unit,Mean
+3804,months,Median
+3805,CH attacks,Mean
+3806,millimeter square (mm^2),Mean
+3807,units on NPH-NH scale,Mean
+3808,Ratio of CH2 (methylene) to H2O (water),Median
+3809,kg / m ^ 2,Mean
+3810,umol/mL,Mean
+3811,kg^m2,Mean
+3812,percentage difference in circumferences,Mean
+3813,eggs per gram of stool,Median
+3814,log10 copies/106 PBMC,Median
+3815,percent of lesions,Number
+3816,micrograms/milliliter (μg/mL),Mean
+3817,Beats/min,Mean
+3818,p falciparum /mcl,Mean
+3819,spontaneous bowel movements,Mean
+3820,Prior Treatments,Mean
+3821,Impedance (Ω),Mean
+3822,NCCLs restorations,Count of Units
+3823,Country,Number
+3824,M^2,Mean
+3825,eyes,Count of Units
+3826,m/kg^2,Mean
+3827,hot flash score,Mean
+3828,MJ use occasions per day,Mean
+3829,HOMA IR,Mean
+3830,number of lesions,Number
+3831,lb/in^2x703,Median
+3832,PERCENTAGE,Mean
+3833,scale scores,Mean
+3834,Inflammatory Lesion,Mean
+3835,Age at least 18 years,Number
+3836,Centimeter of water,Mean
+3837,coughs/hour,Mean
+3838,log10 copies/milliliter (mL),Mean
+3839,hips,Count of Units
+3840,Participants with carcinoma type,Number
+3841,kg/m^2,Number
+3842,falls,Mean
+3843,No. BEs per patient per year,Mean
+3844,sutures,Mean
+3845,centimetres of water at (cm H2O),Mean
+3846,Joints,Mean
+3847,International units per kilogram (IU/kg),Mean
+3848,HbA1c%,Mean
+3849,Drinking Days,Mean
+3850,Hips,Count of Units
+3851,milliliter per minute (mL/min),Mean
+3852,(ml/kg/min)/(microIU/ml),Mean
+3853,pg/mg Creatinine,Mean
+3854,milliliters per beat,Mean
+3855,Paticipants,Number
+3856,live lice,Mean
+3857,nanomole per liter (nmol/L),Mean
+3858,Sites,Number
+3859,MoCA score,Mean
+3860,cell *10^9/L,Mean
+3861,percentage impairment time,Mean
+3862,percentage of android fat,Median
+3863,mmol/L*hour,Mean
+3864,cells ×10^3/μL,Median
+3865,number of inflammatory lesion,Mean
+3866,millimeters of mercury (mmHg),Mean
+3867,percentage of red blood cells,Mean
+3868,degrees Celsius,Mean
+3869,total weekly walking minutes,Mean
+3870,days,Mean
+3871,Elbows,Number
+3872,nanogrames per milliliter (ng/mL),Median
+3873,U/l,Mean
+3874,units/kg per day,Mean
+3875,Cells per cubic millimeter (cells/mm^3),Median
+3876,nocturia episodes/week,Mean
+3877,kilograms per squared meter,Mean
+3878,hours per week,Mean
+3879,10^9 cells/l,Median
+3880,Kilograms/meters squared,Mean
+3881,%-points,Mean
+3882,percentage of total haemoglobin,Mean
+3883,cigarettes per day for 1 year,Mean
+3884,episodes of depression,Mean
+3885,number of prior regimens,Median
+3886,teeth,Mean
+3887,Number of Subjects,Number
+3888,inflammatory lesions,Mean
+3889,square meters,Mean
+3890,kcal/week,Mean
+3891,Milligram per day (mg/day),Mean
+3892,Voids/Day,Mean
+3893,% of the predicted FEV1,Mean
+3894,mL/min/1.73,Mean
+3895,Number of pregnancies,Median
+3896,liter/sec,Mean
+3897,beds,Median
+3898,m2,Median
+3899,Number of conditions,Mean
+3900,CD8+ cells/mm²,Mean
+3901,cells/mm^2,Median
+3902,degrees celsius,Mean
+3903,drinks/week,Mean
+3904,Number of comorbidities,Mean
+3905,Coulomb,Mean
+3906,CELLS/MM^3,Median
+3907,post void dribbling episodes,Mean
+3908,International Units,Median
+3909,platelets x10^3 / µL,Median
+3910,10^9 cells per liter (GI/L),Median
+3911,microUI/mL,Mean
+3912,Kilogramms,Mean
+3913,kg/m*m,Mean
+3914,micromols/kilogram of FFM/minute,Mean
+3915,number of previous hospitlizations,Mean
+3916,Percent change in circumference,Mean
+3917,Percentage of Superficial Cells,Mean
+3918,times per week,Mean
+3919,participants,Number
+3920,scale score,Mean
+3921,community,Count of Units
+3922,Lesions per scan,Mean
+3923,U/I,Median
+3924,METS-min/week,Mean
+3925,pg/ML,Mean
+3926,minutes per day,Mean
+3927,percentage of predicted mortality,Mean
+3928,Joints/participants,Mean
+3929,beats/sec,Mean
+3930,liters (L),Mean
+3931,units on a scale,Geometric Mean
+3932,Percentage of Time in a 24 Hour Period,Mean
+3933,microUI/L,Mean
+3934,Fraction,Mean
+3935,kg/ m^2,Mean
+3936,microMolar,Mean
+3937,centimeter (cm)],Mean
+3938,count of participants,Number
+3939,Percentage of Predicted PEF,Mean
+3940,ureterorenal units of participants,Number
+3941,Trochars,Mean
+3942,pregnancies,Mean
+3943,number of alive cells x 10^6/kg,Mean
+3944,ºC degrees,Mean
+3945,ratio score,Mean
+3946,meters^2,Mean
+3947,percent of left atrial volume,Median
+3948,migraine episodes,Mean
+3949,microU/L) x fasting glucose (nmol/L)/22.,Median
+3950,cm.,Mean
+3951,dyne*second/centimeter˄5,Mean
+3952,kilograms/square meter (kg/m2),Mean
+3953,initial total raw score by group,Mean
+3954,kilograms per meters-squared,Mean
+3955,Scores on a severity scale,Median
+3956,percentage of lean mass,Median
+3957,T-score,Mean
+3958,episodes per day,Mean
+3959,Percent A1C,Mean
+3960,percent,Number
+3961,Percentage of Participants per School,Mean
+3962,square centimetres,Median
+3963,millions/mL,Median
+3964,Volume % of red blood cells in blood,Mean
+3965,gram per deciliter,Mean
+3966,minutes/week,Mean
+3967,Microseconds,Median
+3968,percent of items correct on checklist,Median
+3969,u/L,Mean
+3970,μg/mL,Median
+3971,% reactive,Mean
+3972,vaginal deliveries,Median
+3973,MCS score,Mean
+3974,Years,Least Squares Mean
+3975,centimeters,Mean
+3976,foot pounds,Mean
+3977,Implants,Number
+3978,millimole per liter (mmol/L),Mean
+3979,Percent of blood ejected from LV,Mean
+3980,Sites exposed,Number
+3981,hospital admissions,Mean
+3982,age (years),Mean
+3983,pmol/mL,Mean
+3984,diopters,Mean
+3985,cells/mm3,Median
+3986,Percentage of SpO2,Mean
+3987,μg/g,Mean
+3988,diameters,Median
+3989,participant from feeder studies,Number
+3990,number of RNCM in-person visits,Mean
+3991,percentage of total lymphocytes,Mean
+3992,previous vaginal births,Median
+3993,packs per year,Median
+3994,number of criteria met,Mean
+3995,nmol/g creatinine,Mean
+3996,Number of successful pregnancies,Median
+3997,Gy,Mean
+3998,percent of body surface,Mean
+3999,proportion of patients,Number
+4000,prior treatments,Median
+4001,kcal,Mean
+4002,Percentage of predicted DLCO,Mean
+4003,bowel movements/day,Mean
+4004,cans or pouches per week,Mean
+4005,µg/L,Mean
+4006,microgram per milligram creatinine,Mean
+4007,transfusions,Median
+4008,percentage of predicted normal values,Mean
+4009,L/min/m²,Mean
+4010,kilogram per metre square (kg/m^2),Mean
+4011,Degree,Mean
+4012,% change from pre-albuterol lung functio,Mean
+4013,pharmacists,Mean
+4014,log(nmol/mg protein),Mean
+4015,kg/m⌃2,Mean
+4016,Sites,Median
+4017,fat absorbed as percent of fat ingested,Mean
+4018,prior treatment regimens,Median
+4019,puffs of SABA/day,Mean
+4020,kilogram-force (kgf),Mean
+4021,g/m^2.7,Mean
+4022,hubs per patient,Median
+4023,centimeters of water,Median
+4024,kg/meter (m)^2,Median
+4025,Migraine days/month,Mean
+4026,percent change from pre-exercise measure,Mean
+4027,cells*10^3/uL,Median
+4028,appointments,Mean
+4029,episodes/day,Mean
+4030,Nocturia Episodes,Mean
+4031,logMAR Visual Acuity,Median
+4032,kg/ (m^2),Mean
+4033,Prism Diopters,Mean
+4034,Joint,Mean
+4035,HOMA score,Median
+4036,Feet,Mean
+4037,log10 c/mL,Median
+4038,Total Activity Score,Mean
+4039,total initial raw scores by group,Mean
+4040,percent,Median
+4041,units on a scale (range 17-85),Mean
+4042,umol/mmol lipid,Mean
+4043,years,Least Squares Mean
+4044,attempts,Median
+4045,Number of Headache Days,Mean
+4046,nmol/L,Mean
+4047,cm/sec,Mean
+4048,T-score mean of 50,Mean
+4049,units per 56 days,Median
+4050,percentage of blood ejected,Mean
+4051,UNITS ON A SCALE,Mean
+4052,minutes/week,Median
+4053,Pounds,Median
+4054,parts per million,Median
+4055,percentage of FVC % predicted,Least Squares Mean
+4056,microgram/gram,Mean
+4057,milliunit * mmol /liter^2(mU * mmol/L^2),Mean
+4058,mU/liter,Mean
+4059,Points on a scale,Mean
+4060,sit-ups,Mean
+4061,events,Median
+4062,Max %-predicted,Mean
+4063,Number of residents,Mean
+4064,mean % of prescribed medication taken,Mean
+4065,IEq/kg,Mean
+4066,Percent change from baseline,Mean
+4067,year,Geometric Mean
+4068,cm H2O,Mean
+4069,WEEKS,Mean
+4070,Percentage of predicted,Median
+4071,Square meter,Mean
+4072,kg/(m^2),Median
+4073,cells per cubic millimeter,Mean
+4074,%Gag-specific CD107a+ CD8+ T-cells,Median
+4075,Ratio of mRNA copy numbers (PAI-1/5HKGs),Mean
+4076,milliliters per minute,Mean
+4077,teaspoons/day,Median
+4078,ohms,Mean
+4079,millivolts (mV),Mean
+4080,10⁹cells/L,Mean
+4081,Injury Severity Scale Score,Median
+4082,reported sex partners,Mean
+4083,kg,Number
+4084,Percentage of BSA,Mean
+4085,pg/ml,Number
+4086,mg/ dL,Mean
+4087,weeks of gestation,Mean
+4088,number of times per week,Mean
+4089,Percentage of participants,Number
+4090,[°C],Mean
+4091,organ systems,Median
+4092,weeks,Number
+4093,g/minute,Mean
+4094,proportion of days adherent,Mean
+4095,NIHSS units,Median
+4096,Liters/second (L/s),Median
+4097,Diopters (D),Mean
+4098,KG,Mean
+4099,Percentage of oxyhemoglobin,Median
+4100,meter (m)^2,Mean
+4101,Treatments,Number
+4102,beats / min,Mean
+4103,Degrees Fahreinheit,Mean
+4104,unitless,Median
+4105,servings,Mean
+4106,Hours,Mean
+4107,fruits/day,Mean
+4108,Kgs,Median
+4109,Telangiectasia,Mean
+4110,kilograms per meter^2,Mean
+4111,IU/ml,Geometric Mean
+4112,point score,Mean
+4113,log10copies/mL,Median
+4114,10^3 platelets/mm^3,Mean
+4115,Sessions per day,Mean
+4116,Units per liter (U/L),Mean
+4117,grades,Mean
+4118,frequency episodes,Mean
+4119,milligram per deciliter (mg/dL),Mean
+4120,co-morbid health problems,Mean
+4121,seizures per 4 weeks,Median
+4122,litre,Mean
+4123,years at consent,Median
+4124,Liters (L),Median
+4125,percentage of medication taken,Mean
+4126,score units,Mean
+4127,Percent of Myeloblasts,Median
+4128,number of skilled birth attendants,Mean
+4129,IU/ml,Mean
+4130,communities,Number
+4131,purpuric lesions,Mean
+4132,lbm (pound mass),Mean
+4133,breaths/minute,Number
+4134,event/hour,Mean
+4135,Weight Percentile,Median
+4136,%Gag-specific TNF-alpha CD8+ T-cells,Median
+4137,UUI episodes,Mean
+4138,# of days drinking,Mean
+4139,SDs,Mean
+4140,cesarean deliveries,Median
+4141,K/uL,Mean
+4142,IU/l,Mean
+4143,Percentage of fat in the muscle,Mean
+4144,percentage predicted,Mean
+4145,(cm),Mean
+4146,(mL/min/1.73m^2),Mean
+4147,Milligram per Liter (mg/L),Median
+4148,drinks,Mean
+4149,score on a scale,Mean
+4150,FEV1 Percentage (%),Mean
+4151,Target to Background Ratio (TBR),Mean
+4152,percentage of liters expected,Mean
+4153,count,Median
+4154,uU/mLx120 min,Median
+4155,drinking days,Mean
+4156,Kg*m^-2,Mean
+4157,(ng/dL),Mean
+4158,centimetres (cm),Mean
+4159,sex acts,Least Squares Mean
+4160,10^9 blood eosinophil/L,Mean
+4161,surveillance exams,Count of Units
+4162,square degrees of visual angle,Mean
+4163,nanograms per milliliter (ng/mL),Mean
+4164,centrimeters,Mean
+4165,Percent of predicted,Mean
+4166,μU/mL,Mean
+4167,µg/g,Mean
+4168,times,Mean
+4169,10^5 bacterial cells,Mean
+4170,Percentage,Median
+4171,% of CD4+ T-cells,Median
+4172,Picograms per milliliter (pg/mL),Median
+4173,Units in Hamilton Scale,Mean
+4174,Leaks/Day,Mean
+4175,celsius,Mean
+4176,percentage (%),Median
+4177,therapies,Median
+4178,Units of Insulin/kilogram/day (U/kg/day),Mean
+4179,years (SD),Median
+4180,°C,Median
+4181,kilograms per square meter (kg/m²),Mean
+4182,IU/mL,Number
+4183,Letters read correctly,Mean
+4184,minutes/day,Mean
+4185,mm of Mercury,Mean
+4186,mm/hr,Mean
+4187,Percentage of predicted normal,Mean
+4188,units of packed red blood cell,Median
+4189,average number of bloating per day,Mean
+4190,pregnancies delivered after 20 weeks,Mean
+4191,Clinical Severity Score Units,Mean
+4192,Milliliters,Mean
+4193,Kilogram per meter square (kg/m^2),Mean
+4194,kilogram per square meter(kg/m^2),Mean
+4195,Proportion of items correct,Mean
+4196,Number of Suicide Attempts in a Lifetime,Mean
+4197,Pregnancies,Number
+4198,Percent %,Mean
+4199,number of correct responses,Median
+4200,Families,Number
+4201,liters/second,Mean
+4202,number of PCP phone visits,Mean
+4203,cells/mm^3],Median
+4204,Miligram per Liter (mg/L),Median
+4205,Percentage of cells,Median
+4206,viable pregnancies,Median
+4207,mL/mmHg x 10,Mean
+4208,nmoles/liter,Median
+4209,kilograms/meters squared (kg/m2),Mean
+4210,Number of average residents,Median
+4211,ICU mortality rate/year,Mean
+4212,Subjects,Number
+4213,mf/mL,Geometric Mean
+4214,ratio (x 100),Mean
+4215,milligram/deciliter (mg/dL),Mean
+4216,ug/g stool,Mean
+4217,Days,Number
+4218,percent of overall work impairment,Mean
+4219,Litres,Mean
+4220,L/min,Median
+4221,uM,Mean
+4222,log10 copies/mL,Mean
+4223,Cubic Centimeters,Median
+4224,Centimeters (cm),Median
+4225,micrograms per liter (μg/L),Mean
+4226,Highest response schedule completed,Mean
+4227,lb/in^2,Mean
+4228,mV*ms,Mean
+4229,number of alcoholic drinks per week,Mean
+4230,Percentage of Predicted,Median
+4231,cells x10^6/uL,Mean
+4232,log10(copies/10^6 CD4+ T-cells),Median
+4233,percentage of MQC,Mean
+4234,um/ml/ul,Mean
+4235,Percent HbA1c,Mean
+4236,microns,Mean
+4237,number of screenings,Mean
+4238,MET-minutes per week,Median
+4239,Total score,Mean
+4240,Number of moderate/severe symptoms,Mean
+4241,percentage of lymphocytes that are CD4+,Mean
+4242,umol,Mean
+4243,"gestational age, weeks",Mean
+4244,Percentage of Scar Area,Mean
+4245,sores on a scale,Mean
+4246,words generated,Mean
+4247,Number of treatment regimens,Median
+4248,log10 IU/mL),Mean
+4249,Liters/minute,Mean
+4250,Diseases,Mean
+4251,Joules per kg,Mean
+4252,nocturia episode,Mean
+4253,picogram per milliliter (pg/mL),Mean
+4254,number of times quit smoking cigarettes,Mean
+4255,g/mol Creatinine,Mean
+4256,%Gag-specific IFN-gamma+ CD8+ T-cells,Median
+4257,percent of liver fat,Mean
+4258,Percent of predicted value,Mean
+4259,ml/sec,Mean
+4260,kg/m*2,Mean
+4261,cigarettes,Mean
+4262,millimeter (mm),Mean
+4263,international units per liter,Mean
+4264,dollars,Median
+4265,% of haemoglobin,Mean
+4266,number of pregnancies,Mean
+4267,metastases,Number
+4268,beats per minute (bpm),Mean
+4269,Percent Predicted,Mean
+4270,Conditions,Mean
+4271,kilogram/ meter^2,Mean
+4272,mIU/ml,Median
+4273,average number of flatulence per day,Mean
+4274,kilogram per meter squared,Mean
+4275,units on a scale (range 5-25),Mean
+4276,organs,Mean
+4277,lifts,Mean
+4278,percentage of time in target INR range,Mean
+4279,(1/mU/L) x 1/Min,Mean
+4280,dL/min per μU/mL;,Median
+4281,ICUs,Number
+4282,units per 28 days,Median
+4283,Joules/second,Median
+4284,patients,Number
+4285,pounds (lb),Mean
+4286,count/nL,Mean
+4287,mcg/day,Mean
+4288,3MSE Score,Mean
+4289,meters squared (m^2),Median
+4290,points awarded for correct items,Mean
+4291,kPa,Mean
+4292,Teeth,Number
+4293,Exacerbations in the last 6 months,Mean
+4294,grams / dL,Mean
+4295,centimeters,Median
+4296,nanomoles per liter,Mean
+4297,dollars,Mean
+4298,Percentage of LV blood volume,Mean
+4299,minutes of physical activity in a week,Mean
+4300,parks,Count of Units
+4301,medications,Median
+4302,micro Siemens,Mean
+4303,Percent Ejection Fraction,Mean
+4304,kilogram / meter^2 (kg/m^2),Mean
+4305,percentage of glycated hemoglobin,Median
+4306,mmHg/L/min,Mean
+4307,donors/recipients pairs,Number
+4308,1000/uL,Median
+4309,Number of Swollen Joints,Mean
+4310,Births,Median
+4311,Copies/mL,Mean
+4312,number of sites,Mean
+4313,Nanomoles per Liter (nmol/L),Mean
+4314,"Correct answers, percentage",Mean
+4315,ln(ratio),Mean
+4316,Hemoglobin Percent,Mean
+4317,Number of Cramps,Mean
+4318,Heart Rate,Count of Units
+4319,mgMA/gCrt,Mean
+4320,mL/day,Mean
+4321,MSFC z-score,Mean
+4322,(x10^9/L),Median
+4323,percentage of BOLD signal change,Mean
+4324,mL/min per 1.73m^2,Mean
+4325,ug/mL,Mean
+4326,HLA antigens,Mean
+4327,meter squared (m^2),Mean
+4328,Gram/Dl,Median
+4329,units,Mean
+4330,pads/24 hours,Mean
+4331,ml/min/m2,Mean
+4332,µIU/l,Median
+4333,grams per square centimeter (g/cm^2),Mean
+4334,Hounsfield Unit,Mean
+4335,ng ml ^-1,Mean
+4336,mL CO / min / mmHg,Mean
+4337,CESD global score,Mean
+4338,percent fall in FEV1,Mean
+4339,milimoles per liter,Mean
+4340,cluster headache attacks per week,Mean
+4341,MADRS Score,Mean
+4342,correct words,Mean
+4343,scales on a scale,Mean
+4344,days per month,Mean
+4345,lbs.,Mean
+4346,mm3,Median
+4347,kU/l,Mean
+4348,cells x 10^9/L,Median
+4349,percentage error,Mean
+4350,cells/μL,Mean
+4351,individual lesions,Number
+4352,Coughs/hour,Mean
+4353,Number of prior treatment regimens,Median
+4354,total tics,Mean
+4355,"Units on a scale (0 = worst, 1 = best).",Mean
+4356,Liters per minute (L/min),Mean
+4357,log_10 copies/mL,Mean
+4358,number of fingers,Mean
+4359,Number of relapses,Mean
+4360,grams,Mean
+4361,milliliter per log10*liter [mL/log10(L)],Mean
+4362,mEq/L,Mean
+4363,Units on a scale (0 to 6000),Mean
+4364,micromol/L,Geometric Mean
+4365,10^6 units IU/mL,Mean
+4366,eyes,Number
+4367,log10 colony forming units/mL of CSF,Median
+4368,mmol*hr/L,Mean
+4369,Percent change from pre-exercise measure,Mean
+4370,Number of Regimens,Mean
+4371,m^2,Median
+4372,percentage of toenail,Mean
+4373,micromol per litre,Mean
+4374,g/day,Median
+4375,days after birth,Mean
+4376,% of white cells that are CD4 cells,Median
+4377,ETDRS letter,Median
+4378,Bleeding events per year (ABR),Mean
+4379,microunits per milliliter,Mean
+4380,Trials completed,Number
+4381,Counts per day,Mean
+4382,% change during baseline clamp,Mean
+4383,Voids,Mean
+4384,Percent (%) body weight,Median
+4385,Nights per week,Median
+4386,units on a scale 0 to 75 higher worse,Mean
+4387,picograms/milliliter,Mean
+4388,Percentage of blood leaving the heart,Mean
+4389,Mean pulmonary artery pressure (mm Hg),Mean
+4390,number of nights,Mean
+4391,µg/h,Median
+4392,percentage of diameter stenosis,Mean
+4393,grams per deciliter,Median
+4394,score on a scale (30 good- 0 poor),Median
+4395,Ocular Surgeries,Mean
+4396,mg*hr/dl,Mean
+4397,units on the scale,Mean
+4398,Decibels hearing level,Mean
+4399,Kilograms/m2,Mean
+4400,centimeter,Mean
+4401,percent of impairment while working,Mean
+4402,Percent of predicted normal value,Mean
+4403,mL/m2,Mean
+4404,Watts,Mean
+4405,Kilogram,Mean
+4406,Kilopascals,Mean
+4407,Body Weight,Mean
+4408,liters per minute,Mean
+4409,logMAR lines,Mean
+4410,Units of red blood cell,Mean
+4411,units/liter,Mean
+4412,micturitions per 24 hours,Mean
+4413,Standard Drinks,Mean
+4414,mg/dL,Geometric Mean
+4415,Minutes per week,Median
+4416,percent probablity of breast cancer,Mean
+4417,kg/m^2 scale,Mean
+4418,Acne Lesion Counts,Mean
+4419,mg/m^2,Mean
+4420,LOG10 IU/mL,Median
+4421,mm HG,Mean
+4422,Number of medication times per day,Mean
+4423,ug/mg,Mean
+4424,cell/µL,Mean
+4425,Hounsfield units,Mean
+4426,kilograms per meter-squared,Mean
+4427,"units on a scale, range 0 to 71",Median
+4428,pads,Mean
+4429,events / hour,Mean
+4430,milligrams per deciliter (mg/dL),Mean
+4431,hours (hr),Mean
+4432,total score,Mean
+4433,μM/ml,Mean
+4434,mg*hr/dL,Mean
+4435,number of anti-hypertensive medications,Mean
+4436,Microgram per milliliter (μg/mL),Median
+4437,micrograms (mcg),Mean
+4438,gm/dl,Median
+4439,Objects,Median
+4440,years of age,Mean
+4441,kilograms per square meter,Median
+4442,Units on scale -50 to +50,Mean
+4443,Meters,Median
+4444,kg/square meter,Mean
+4445,number of coadministered drugs,Mean
+4446,percent glycated hemoglobin,Mean
+4447,platelets *10^9 per L,Mean
+4448,10E8/kg,Median
+4449,Events,Mean
+4450,years since stroke,Median
+4451,mg²/dL²,Median
+4452,units on a scale (score),Mean
+4453,mm/Hg,Mean
+4454,nmol/L/Min,Mean
+4455,Millisecond (msec),Mean
+4456,body fat percentage,Mean
+4457,uU*min/mL,Mean
+4458,dB/m,Median
+4459,milliunits per milliliter (mU/mL),Mean
+4460,target joints,Mean
+4461,micromoles per Liter (μmol/L),Mean
+4462,text messages per day,Median
+4463,hosptial Admissions,Number
+4464,arrests,Mean
+4465,Litters,Mean
+4466,albumin (mg/dL): creatinin (g/dL),Mean
+4467,mg/kg/min,Mean
+4468,Millimeters of Mercury (mmHg),Mean
+4469,Severity Score,Mean
+4470,percentage of gynoid fat,Median
+4471,Month,Number
+4472,percentage of maximum HAQ score,Mean
+4473,Weeks,Median
+4474,breaths per minute,Mean
+4475,T score,Mean
+4476,log MAR,Mean
+4477,Inhales per day,Mean
+4478,Number of Patients in ITT analysis set,Number
+4479,microaneurysms,Mean
+4480,Dry Nights,Mean
+4481,IR score,Mean
+4482,mmol/l,Mean
+4483,millimoles per liter (mmol/L),Mean
+4484,N/°,Mean
+4485,% of predicted max value,Mean
+4486,10E9 platelets/L,Median
+4487,mean percentage of error (prosaccade),Mean
+4488,Pressure Ulcers,Number
+4489,Giga platelets per liter,Mean
+4490,% of inspired oxygen,Median
+4491,number of teeth,Mean
+4492,cells x 10^9/L,Geometric Mean
+4493,μM (micromolar),Mean
+4494,Ratio (arbitrary units),Mean
+4495,scores on a scale,Number
+4496,10yr Framingham CHD risk (%),Median
+4497,mmol day-1,Mean
+4498,number of participants with pathogenes,Number
+4499,ml/min per 1.73m^2,Mean
+4500,study eyes,Number
+4501,Agents of chemotherapy,Median
+4502,cycles/year,Mean
+4503,mm/dL,Mean
+4504,mg/dl,Median
+4505,voids,Mean
+4506,postmenstural age (weeks),Mean
+4507,cigarettes/day,Mean
+4508,kg/m*m,Median
+4509,cells x10^3/uL,Mean
+4510,Percentage of total lymphocytes,Mean
+4511,cesareans,Mean
+4512,Emergency department encounters,Number
+4513,units on a scale (percent),Median
+4514,Shoulders,Number
+4515,percentage of activity impairment,Mean
+4516,ml/kg/minute,Mean
+4517,Picogram (pg)/mL,Mean
+4518,Inches,Mean
+4519,Kg/m2,Mean
+4520,percentage of osteoid volume,Mean
+4521,Times per week,Mean
+4522,beats per minute (BPM),Median
+4523,IU/week/subject,Mean
+4524,mm^2,Median
+4525,Wounds,Number
+4526,% - predicted mortality,Mean
+4527,milliliters,Mean
+4528,log(IU/mL),Mean
+4529,Bethesda Units (BU)/mL,Mean
+4530,min of total sleep time on a 8-hr PSG,Mean
+4531,number of bDMARDs,Mean
+4532,ml/kg/24 hours,Mean
+4533,% of eosinophils,Median
+4534,"""kg/m^2""",Mean
+4535,Hot flashes,Mean
+4536,beats per minute,Mean
+4537,percent of white blood cells,Median
+4538,participant records,Number
+4539,weeks of GA,Mean
+4540,Cedis per month,Mean
+4541,Radiation Therapies,Median
+4542,mL/m^2,Median
+4543,mcg/kg,Mean
+4544,milligrams per milliliter,Mean
+4545,fmol/mL,Mean
+4546,hours of nausea,Mean
+4547,micrometers,Mean
+4548,T-scores,Mean
+4549,% of oxygen in blood,Mean
+4550,percentage of haemoglobin,Mean
+4551,number of deliveries,Mean
+4552,weeks,Median
+4553,Number of Gd enhancing lesions,Mean
+4554,μmol/l,Mean
+4555,Mood episodes,Mean
+4556,ng/litre,Median
+4557,percentage of body composition,Mean
+4558,Breaths per minute,Median
+4559,score on scale,Median
+4560,Likert scale,Mean
+4561,%CD69+ CD4+ T-cells,Median
+4562,number of painful areas,Mean
+4563,kg,Median
+4564,FVC % predicted,Mean
+4565,mean years of age,Mean
+4566,log10 Colony Forming Units (CFU),Mean
+4567,pH,Mean
+4568,mm (mercury-equivalent),Mean
+4569,Metabolic equivalent minutes (MET-min),Median
+4570,z-score.,Mean
+4571,weeks gestational age,Mean
+4572,BMI unit = kg/m^2,Mean
+4573,Microns,Mean
+4574,10^7 HCV IU/mL,Mean
+4575,percentage of fat,Median
+4576,mm/h,Mean
+4577,percentage of adherence,Mean
+4578,kg/m^2,Geometric Mean
+4579,ml/min/1.73 m^2,Median
+4580,millimole/liter (mmol/L),Mean
+4581,microfilaria/uL,Geometric Mean
+4582,Months,Mean
+4583,,
+4584,dynes*second/centimeter^5 (dyn*sec/cm^5),Mean
+4585,z-score BMI,Mean
+4586,micro-mol/(kg*min),Mean
+4587,episode/hour,Mean
+4588,cells*10^3/L,Median
+4589,Episodes per day,Mean
+4590,mmol/L,Geometric Mean
+4591,mL per min,Mean
+4592,partners,Least Squares Mean
+4593,(ng/mL),Mean
+4594,nmol BCE/L,Mean
+4595,Adherence - proportion,Mean
+4596,Kg/m^2,Mean
+4597,Bpm,Mean
+4598,Units on as scale,Mean
+4599,Antral follicle count,Mean
+4600,Non-Inflammatory lesion,Mean
+4601,% A1c,Mean
+4602,Percentage of HbA1c,Mean
+4603,Number of events,Number
+4604,µIU/ml/120 min,Mean
+4605,cells/ml,Median
+4606,nanograms per millilitre (ng/mL),Mean
+4607,Meters walked in 6 minutes,Median
+4608,flanks,Count of Units
+4609,Breaths/minute,Median
+4610,correlation coefficient,Number
+4611,Millimeters of mercury,Mean
+4612,Days of predetermined treatment,Median
+4613,LogMAR,Mean
+4614,BMI (kg/m^2) Average,Mean
+4615,Kilogram per meter square (Kg/m^2),Mean
+4616,percent stenosis,Mean
+4617,microgm/L,Mean
+4618,square meters (m^2),Mean
+4619,nights per week,Mean
+4620,test sites on skin,Count of Units
+4621,% of predicted,Mean
+4622,1(disagree strongly)-5(agree strongly),Mean
+4623,Kenya Shillings (Ksh.),Median
+4624,cohabitants,Mean
+4625,rpkm,Mean
+4626,Peak weekly average score,Mean
+4627,% of omega-3 index of RBC membrane,Mean
+4628,Percent of total hemoglobin,Mean
+4629,female participants,Number
+4630,Number of subjects,Number
+4631,calculated score (high= high acuity),Mean
+4632,Number of leaks per 24-hour period,Mean
+4633,miles,Median
+4634,percentage diameter stenosis,Mean
+4635,Male-female couples,Count of Units
+4636,platelets x 10^9/L,Mean
+4637,beats per min (bpm),Mean
+4638,Physical Score,Mean
+4639,mm hg,Mean
+4640,kgf,Median
+4641,GRAMS,Median
+4642,Patients,Number
+4643,number of prior therapies,Median
+4644,Percentage (%) of HbA1c,Mean
+4645,number of heart failure medications,Median
+4646,percentage of male participants,Number
+4647,micrograms per kilogram (mcg/kg),Median
+4648,International Unit/Milliliter (IU/mL),Mean
+4649,L/L,Mean
+4650,femtoliter,Mean
+4651,minutes,Median
+4652,nanogram per milliliter (ng/mL),Median
+4653,mm,Number
+4654,Percent of glycosylated hemoglobin,Mean
+4655,percent saturation (Fe/TIBC),Mean
+4656,Adults,Mean
+4657,BOLD signal,Mean
+4658,articipants,Number
+4659,second,Mean
+4660,Percentage of A1C,Mean
+4661,mL/min/1.73m^2,Mean
+4662,%,Number
+4663,chemotherapy regimens,Median
+4664,nanogram/milliliter*minute (ng/mL*min),Mean
+4665,in,Mean
+4666,nanograms (ng)/mL per hour,Mean
+4667,Unit on Scale,Mean
+4668,Percentage correct sentence production,Mean
+4669,Percentage (glycosolated hemoglobin),Mean
+4670,centimeters (cm),Mean
+4671,%of blood leaving the heart /beat,Mean
+4672,m,Median
+4673,seconds of arc (arcsec),Median
+4674,kilogram (kg),Mean
+4675,kg per m squared,Mean
+4676,opioids,Mean
+4677,micrograms,Mean
+4678,micro International Units per milliliter,Mean
+4679,Hours since birth,Mean
+4680,Likert score scale of agreement (1-5),Mean
+4681,Centimeter [cm],Mean
+4682,Meter/second (m/s),Mean
+4683,celsius,Median
+4684,cycles,Median
+4685,pg/mmol,Mean
+4686,Proportion of participants,Mean
+4687,Total energy kcal/day,Mean
+4688,kPa/cm2,Mean
+4689,cm^3,Median
+4690,indifference proportion*delay proportion,Mean
+4691,meters per second,Median
+4692,nmol/ml/hr,Mean
+4693,Visual Analogue Scale,Mean
+4694,international units per liter,Median
+4695,Pregnancies to a viable gestational age,Median
+4696,score from 0 to 100,Mean
+4697,Partcipants,Number
+4698,comorbidity score,Mean
+4699,Number of patients with relapse,Number
+4700,layers,Median
+4701,milliliter/minute/kilogram (mL/min/kg),Mean
+4702,Kcal/d,Mean
+4703,vaginal births,Median
+4704,ratio of predicted value,Mean
+4705,% days of any drinking,Mean
+4706,pmol/L,Median
+4707,Integer,Median
+4708,units of the Apache Scoring system,Mean
+4709,Drinks,Mean
+4710,µL,Mean
+4711,Percent antibody binding,Median
+4712,%total body mass,Mean
+4713,percent of cells in blood sample,Median
+4714,urgency incontinence episodes/24 hours,Mean
+4715,fat percentage,Mean
+4716,kilogram(s),Mean
+4717,md/dL,Mean
+4718,percentage of plasma cells,Median
+4719,% of participants,Number
+4720,Shoulders,Count of Units
+4721,Percent of sites bleeding on probing,Mean
+4722,IU/Day,Mean
+4723,pg/mL (local),Mean
+4724,Liters,Median
+4725,age,Mean
+4726,"number of restorations, unit",Number
+4727,Nursing home,Count of Units
+4728,"morphine eq, in mg",Mean
+4729,number of letters read on ETDRS Chart,Mean
+4730,logCS,Mean
+4731,centimeters (cm),Median
+4732,ug/mL,Number
+4733,Log10 CFU/mL,Mean
+4734,Pg/mL,Mean
+4735,IU,Median
+4736,cigarettes smoked per day,Mean
+4737,Number of Tender Joints,Mean
+4738,Percentage of body weight,Mean
+4739,10^9 blood eosinophil/liter,Mean
+4740,Forearms,Count of Units
+4741,International Units,Mean
+4742,centimeters of water (Cm H2O),Mean
+4743,Age at screening (years),Mean
+4744,IU/liter,Median
+4745,Unit of MoCA,Mean
+4746,µsiemens (µmho),Mean
+4747,percentage of liver collagen,Mean
+4748,people,Median
+4749,milliliter/minute/1.73 square meter,Mean
+4750,"distance walked, meters",Mean
+4751,kg/M^2,Mean
+4752,participants with coronary calcium,Number
+4753,mGy/min,Mean
+4754,Minutes,Mean
+4755,Percent Diameter Stenosis,Mean
+4756,ng/mg,Median
+4757,x10^3/mm^3,Median
+4758,Proportions of Smokers,Mean
+4759,Percent Cells Positive,Mean
+4760,Chemotherapy Regimens,Median
+4761,Kilogramms,Median
+4762,cramps/day,Mean
+4763,number of antral follicles,Mean
+4764,number of checks per day,Mean
+4765,lbs/square inches,Mean
+4766,morphine milligram equivalents (MME),Median
+4767,anal intercourse,Median
+4768,organ dysfunctions,Mean
+4769,percent traced,Mean
+4770,milliliters,Median
+4771,center,Number
+4772,absolute scotomatous points,Mean
+4773,percentage of marrow,Median
+4774,kilogramm,Mean
+4775,Scores on a scale(min:1 and max:6),Median
+4776,MELD Score,Mean
+4777,kPa,Median
+4778,events/hr,Mean
+4779,percentage of non-affected hand,Mean
+4780,Kilogram Weight,Mean
+4781,percentage of liver,Mean
+4782,millimetre of mercury (mmHg),Mean
+4783,Percentage of HbA1c (%),Mean
+4784,units on Lequesne Functional Question.,Mean
+4785,medication classes,Mean
+4786,consecutive pregnancy losses,Median
+4787,Milligram per deciliter (mg/dL),Mean
+4788,AU (arbitrary unit),Mean
+4789,Decibels (db),Mean
+4790,x 10^8 T cells/kg,Mean
+4791,Percent (%) body weight,Mean
+4792,diopter,Number
+4793,HOMA index,Mean
+4794,cells*10^3/mL,Mean
+4795,mg/day,Mean
+4796,MMHg,Mean
+4797,mmol/L,Median
+4798,Total score on a scale of 0 to 100,Mean
+4799,Steps/day,Mean
+4800,Ratio of mRNA copy numbers (iNOS/5HKGs),Mean
+4801,square meter (m^2),Mean
+4802,Log10 CFU/mL,Median
+4803,mIU/mL,Median
+4804,ml/s,Mean
+4805,Score on Scale,Mean
+4806,Dives,Mean
+4807,Units (U),Mean
+4808,Scores on a Scale,Median
+4809,Percent viable cells,Mean
+4810,[1] z-BMI see description,Mean
+4811,percent,Mean
+4812,milligrams/24 hours,Mean
+4813,ug/dl,Mean
+4814,Kilograms per meter square (kg/m^2),Mean
+4815,beats per minute (beats/min),Mean
+4816,MET-h/wk,Mean
+4817,Number of lesions/Participant,Mean
+4818,x10^9/L,Mean
+4819,beats/minute,Mean
+4820,umol/min/gHb,Mean
+4821,% of HbA1c,Mean
+4822,Percent ((FEV1/FVC)*100),Mean
+4823,ng/mg Cr,Median
+4824,Beats per Minute (bpm),Mean
+4825,Injury Severity Score,Median
+4826,number of vaginal births,Mean
+4827,Beats per minute,Mean
+4828,inches (in),Mean
+4829,kilogram(s)/square meter,Mean
+4830,kg per meters squared,Median
+4831,kilograms per meter squared,Mean
+4832,pads,Median
+4833,mcg/kg,Median
+4834,mOsm/L,Mean
+4835,% (percentage of minutes slept),Mean
+4836,kilograms (kg)/meter squared (m^2),Mean
+4837,number of medications used,Mean
+4838,mIU/ml,Mean
+4839,daytime voids,Mean
+4840,pack-year,Median
+4841,pg/mL,Number
+4842,Mean percentage of participants,Mean
+4843,copies/ml 10^3,Median
+4844,kilogram per meter squared (kg/m^2),Mean
+4845,% of body fat,Mean
+4846,Units on a scale (0-100),Mean
+4847,Micro mole per Liter (umol/L),Median
+4848,number of relapses,Mean
+4849,cells/ micro liter,Mean
+4850,Words,Mean
+4851,percent predicted mortality,Mean
+4852,nanomoles per milliliter (nmol/mL),Mean
+4853,Kilograms per square meter (kg/m^2),Mean
+4854,cells/µL,Median
+4855,Metered Squares m^2,Mean
+4856,cmH2O,Median
+4857,nocturia episodes/24 hours,Mean
+4858,ms,Mean
+4859,Number of cycles,Median
+4860,µm/day,Mean
+4861,Kilograms,Median
+4862,treatments,Median
+4863,microIU/ml,Mean
+4864,Percentage of Predicted FVC,Mean
+4865,cigarettes smoked per day,Median
+4866,pariticipants,Number
+4867,probability,Mean
+4868,percentile,Mean
+4869,Percentage of Predicted FEV1,Mean
+4870,°,Mean
+4871,sq. meter,Mean
+4872,pg/mL,Median
+4873,age in months of encounter subjects,Mean
+4874,mg/mg,Median
+4875,picograms per milliliter (pg/mL),Geometric Mean
+4876,10^9 platelets/L,Mean
+4877,Percentile adjusted for age and sex,Mean
+4878,cigarette,Mean
+4879,month,Median
+4880,mmol/L/min,Mean
+4881,kilo Pascals,Mean
+4882,L/sec,Mean
+4883,Number of prior chemotherapy regimens,Median
+4884,percent reversibility,Mean
+4885,seizures/week,Mean
+4886,Percentage of Abstinent Days,Mean
+4887,percentage of bone surface,Mean
+4888,pharmacy claims,Mean
+4889,gestational age (weeks),Mean
+4890,Percent of the predicted value,Mean
+4891,mg / dL,Mean
+4892,composite score,Mean
+4893,milligrams/kilograms (mg/kg),Median
+4894,Kilogram,Median
+4895,units on a scale out of 10 min 1 max 10,Mean
+4896,mg/Dl,Mean
+4897,Years of Age,Mean
+4898,Meters squared,Mean
+4899,centimenters (cm),Mean
+4900,Joint Count,Mean
+4901,feedings per day,Median
+4902,Child,Mean
+4903,# events / subject,Mean
+4904,liters/second (L/sec),Mean
+4905,%Gag-specific MIP1B+ CD4+ T-cells,Median
+4906,Percent of items,Mean
+4907,Units on a scale,Median
+4908,ng/mg of creatinine,Mean
+4909,CYP2D6 drug,Median
+4910,kU/L,Geometric Least Squares Mean
+4911,number of comorbidities,Number
+4912,Chair stands per 30 seconds,Mean
+4913,percentage of cells,Mean
+4914,millimeter/hour (mm/hr),Mean
+4915,(kg),Mean
+4916,gender,Number
+4917,IQ,Mean
+4918,mL/min per 1.73 m^2,Mean
+4919,(ng/mL)^2/1000,Mean
+4920,% predicted normal,Mean
+4921,µg,Mean
+4922,deployments,Mean
+4923,Comorbid conditions,Median
+4924,Number of masses,Number
+4925,Eyes,Number
+4926,cm³,Mean
+4927,standard drinks/day,Mean
+4928,gram (g),Mean
+4929,millimeters mercury (mmHg),Mean
+4930,eosinophils per high power field,Median
+4931,morphine milligram equivalents per day,Mean
+4932,Picograms per milliliter (pg/mL),Mean
