@@ -54,7 +54,6 @@ def download_data():
 
 
     # the last < 1000 values will be retrieved by using new borders based on the diff.
-    # TODO: False Logic couses ca. 900 extra repeated rows
     diff_border = max_border - current_border
     input_data_last_chunk = get_new_chunk(str(current_border), str(current_border + diff_border))
 

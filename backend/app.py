@@ -1,6 +1,6 @@
 from flask import Flask, jsonify
 from flask_cors import CORS
-import threading, time, datetime, re, glob
+import threading, time, datetime, re, glob, os
 from update_database import download_data
 from data_process import export_results
 import pandas as pd
@@ -22,13 +22,17 @@ cors = CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
 def activate_update_job():
 
     def run_job():
-        # TODO: Get File List and filter the raw-file
-        # TODO: Remove Old raw-File after Update
+
+        rootdir = "./"
+        regex = re.compile(r"input_data_raw_(\d+\d+\d+).csv")
+        filename = ""
+
+        for root, dirs, files in os.walk(rootdir):
+            for file in files:
+                if regex.match(file):
+                    filename = file
 
         date_pattern = re.compile(r"_(\d+\d+\d+).csv")
-
-        filename = "input_data_raw_05122021.csv"
-
         date_from_filename = date_pattern.search(filename).group(1)
 
         print(date_from_filename)
@@ -44,6 +48,7 @@ def activate_update_job():
                 print("Run update task")
                 download_data()
                 update_needed = False
+                os.remove(filename) 
                 time.sleep(3)
         else:
             print("No Update Needed")
