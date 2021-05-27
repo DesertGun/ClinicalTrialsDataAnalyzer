@@ -168,6 +168,6 @@ export default {
 }
 
 .outCol {
-  min-width: 60%;
+  min-width: 80%;
 }
 </style>
