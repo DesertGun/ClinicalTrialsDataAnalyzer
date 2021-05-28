@@ -4,7 +4,7 @@
     <b-container class="container">
       <b-row class="projectForm">
         <b-col class="varCol">
-          <h4>Variable - Settings</h4>
+          <h4>Filter - Settings</h4>
           <div>
             <b-form class="forms">
               <b-form-group
@@ -82,6 +82,26 @@
           </div>
         </b-col>
         <b-col />
+        <b-col class="groupCol">
+          <h4>Aggragation - Settings</h4>
+          <b-form-group
+            v-slot="{ ariaDescribedby }"
+            label="Select following aggregation options:"
+          >
+            <b-form-checkbox-group
+              id="groupbyCheckboxGroup"
+              v-model="selected"
+              :options="options"
+              :aria-describedby="ariaDescribedby"
+              name="flavour-1"
+            ></b-form-checkbox-group>
+          </b-form-group>
+        </b-col>
+      </b-row>
+    </b-container>
+    <b-container>
+      <b-row>
+        <b-col />
         <b-col class="outCol">
           <h4>Results</h4>
           <div class="mb-2">
@@ -95,6 +115,7 @@
             ></b-table>
           </div>
         </b-col>
+        <b-col />
       </b-row>
     </b-container>
   </div>
@@ -107,11 +128,18 @@ export default {
       stickyHeader: true,
       noCollapse: false,
       items: [],
-      change: null,
-      variable: null,
-      reference: null,
-      condition: null,
-      timepoint: null,
+      change: '',
+      variable: '',
+      reference: '',
+      condition: '',
+      timepoint: '',
+      selected: [],
+      options: [
+        { text: 'Change', value: 'change' },
+        { text: 'Variable', value: 'variable' },
+        { text: 'Condition', value: 'condition' },
+        { text: 'reference', value: 'reference' },
+      ],
     }
   },
   async mounted() {
@@ -187,10 +215,14 @@ export default {
 }
 
 .varCol {
-  min-width: 50%;
+  min-width: 40%;
+}
+
+.groupCol {
+  min-width: 40%;
 }
 
 .outCol {
-  min-width: 80%;
+  min-width: 100%;
 }
 </style>

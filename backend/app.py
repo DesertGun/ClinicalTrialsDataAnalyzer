@@ -69,21 +69,27 @@ def send_results():
 
 @app.route('/filter', methods=['POST'])
 def filter():
+    empty = b'{"Change":"","Variable":"","Reference":"","Condition":"","Timepoint":""}'
     params_json = request.data
-    params_data  = json.loads(params_json)
-    values = params_data.items()
+    print(params_json)
+    if params_json != empty:
+        params_data  = json.loads(params_json)
+        values = params_data.items()
 
-    aggregation_filters = []
+        aggregation_filters = []
 
-    for key, value in values:
-        if value:
-            aggregation_filters.append(key)
+        for key, value in values:
+            if value:
+                aggregation_filters.append(key)
 
-    print(aggregation_filters)
-    result = result_data.groupby(by=aggregation_filters).count()
-   
-    print(result)
-    return result.to_json(orient="records")
+        aggregation_filters.append("NCTId")
+        result = result_data.groupby(by=aggregation_filters).count().reset_index()
+    
+        result.drop(columns = ["Index"], inplace = True)
+        result.reset_index(level=0, inplace=True)
+        return result.to_json(orient="records")
+    else:
+        return result_data.to_json(orient="records")
 
 if __name__ == '__main__':
     app.run()
