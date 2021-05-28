@@ -1,9 +1,11 @@
 from flask import Flask, jsonify
 from flask_cors import CORS
+from flask import request
 import threading, time, datetime, re, glob, os
 from update_database import download_data
 from data_process import export_results
 import pandas as pd
+import json
 
 
 # configuration
@@ -63,6 +65,25 @@ result_data = pd.read_csv('./results.csv')
 def send_results():
     print(result_data.head())
     return result_data.to_json(orient="records")
+
+
+@app.route('/filter', methods=['POST'])
+def filter():
+    params_json = request.data
+    params_data  = json.loads(params_json)
+    values = params_data.items()
+
+    aggregation_filters = []
+
+    for key, value in values:
+        if value:
+            aggregation_filters.append(key)
+
+    print(aggregation_filters)
+    result = result_data.groupby(by=aggregation_filters).count()
+   
+    print(result)
+    return result.to_json(orient="records")
 
 if __name__ == '__main__':
     app.run()

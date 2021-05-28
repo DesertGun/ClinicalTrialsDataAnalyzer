@@ -75,7 +75,9 @@
                   type="text"
                 />
               </b-form-group>
-              <b-button variant="primary"> Submit </b-button>
+              <b-button variant="primary" @click="sendParams()">
+                Submit
+              </b-button>
             </b-form>
           </div>
         </b-col>
@@ -124,6 +126,27 @@ export default {
     } catch (e) {
       alert(e.toString())
     }
+  },
+  methods: {
+    async sendParams() {
+      const params = {
+        Change: this.change,
+        Variable: this.variable,
+        Reference: this.reference,
+        Condition: this.condition,
+        Timepoint: this.timepoint,
+      }
+      try {
+        const response = await this.$axios.post('/filter', params)
+        this.items = response.data.map((JSON) => {
+          return {
+            ...JSON,
+          }
+        })
+      } catch (e) {
+        alert(e.toString())
+      }
+    },
   },
 }
 </script>
