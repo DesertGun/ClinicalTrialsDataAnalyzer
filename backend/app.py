@@ -92,13 +92,12 @@ def filter():
                 result = result[result_data[key]==value]
             elif value and key == "Variable":
                 result = result[result_data[key]==value]
-            elif key == "GroupByOptions":
+            elif key == "GroupByOptions" and value != []:
                 for groupByVal in value:
                     group_by_options.append(groupByVal)
-       
-        group_by_options.extend(["NCTId","Endpoint Art"])
+                    group_by_options.extend(["NCTId","Endpoint Art"])
+                    result = result.groupby(by=group_by_options).count().reset_index()
         
-        result = result.groupby(by=group_by_options).count().reset_index()
     
         result.drop(columns = ["Index"], inplace = True)
         result.reset_index(level=0, inplace=True)
