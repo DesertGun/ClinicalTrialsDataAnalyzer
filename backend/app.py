@@ -69,24 +69,40 @@ def send_results():
 
 @app.route('/filter', methods=['POST'])
 def filter():
-    empty = b'{"Change":"","Variable":"","Reference":"","Condition":"","Timepoint":""}'
+    empty = b'{"Change":"","Variable":"","Reference":"","Condition":"","Timepoint":"","GroupByOptions":[]}'
     params_json = request.data
     print(params_json)
+
+    result = result_data.copy()
     if params_json != empty:
         params_data  = json.loads(params_json)
         values = params_data.items()
 
         aggregation_filters = []
+        group_by_options = []
 
         for key, value in values:
-            if value:
-                aggregation_filters.append(key)
-
-        aggregation_filters.append("NCTId")
-        result = result_data.groupby(by=aggregation_filters).count().reset_index()
+            if value and key == "Change":
+                result = result[result_data[key]==value]
+            elif value and key == "Reference":
+                result = result[result_data[key]==value]
+            elif value and key == "Condition":
+                result = result[result_data[key]==value]
+            elif value and key == "Timepoint":
+                result = result[result_data[key]==value]
+            elif value and key == "Variable":
+                result = result[result_data[key]==value]
+            elif key == "GroupByOptions":
+                for groupByVal in value:
+                    group_by_options.append(groupByVal)
+       
+        group_by_options.extend(["NCTId","Endpoint Art"])
+        
+        result = result.groupby(by=group_by_options).count().reset_index()
     
         result.drop(columns = ["Index"], inplace = True)
         result.reset_index(level=0, inplace=True)
+        print(result.head())
         return result.to_json(orient="records")
     else:
         return result_data.to_json(orient="records")

@@ -135,10 +135,10 @@ export default {
       timepoint: '',
       selected: [],
       options: [
-        { text: 'Change', value: 'change' },
-        { text: 'Variable', value: 'variable' },
-        { text: 'Condition', value: 'condition' },
-        { text: 'reference', value: 'reference' },
+        { text: 'Change', value: 'Change' },
+        { text: 'Variable', value: 'Variable' },
+        { text: 'Condition', value: 'Condition' },
+        { text: 'reference', value: 'Reference' },
       ],
     }
   },
@@ -163,6 +163,7 @@ export default {
         Reference: this.reference,
         Condition: this.condition,
         Timepoint: this.timepoint,
+        GroupByOptions: this.selected,
       }
       try {
         const response = await this.$axios.post('/filter', params)
