@@ -73,8 +73,9 @@ def filter():
     params_json = request.data
     print(params_json)
 
-    result = result_data.copy()
+    
     if params_json != empty:
+        result = result_data.copy()
         params_data  = json.loads(params_json)
         values = params_data.items()
 
@@ -95,8 +96,9 @@ def filter():
             elif key == "GroupByOptions" and value != []:
                 for groupByVal in value:
                     group_by_options.append(groupByVal)
-                    group_by_options.extend(["NCTId","Endpoint Art"])
-                    result = result.groupby(by=group_by_options).count().reset_index()
+                    
+                group_by_options.extend(["NCTId","Endpoint Art"])
+                result = result.groupby(by=group_by_options).count().reset_index()
         
     
         result.drop(columns = ["Index"], inplace = True)

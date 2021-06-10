@@ -6,79 +6,61 @@
         <b-col class="varCol">
           <h4>Filter - Settings</h4>
           <div>
-            <b-form class="forms">
-              <b-form-group
-                id="projectName"
-                description="Enter the change type"
-                label="Change:"
-                label-for="changeInput"
-              >
-                <b-form-input
-                  id="changeInput"
-                  v-model="change"
-                  class="changeInput"
-                  placeholder="E.g., Count of Participants"
-                  required
-                  type="text"
-                />
-              </b-form-group>
-
-              <b-form-group
-                id="reference"
-                description="Enter the reference"
-                label="Reference:"
-                label-for="referenceInput"
-              >
-                <b-form-input
-                  id="referenceInput"
-                  v-model="reference"
-                  placeholder="E.g., Number of Participants Analyzed"
-                  type="text"
-                />
-              </b-form-group>
-              <b-form-group
-                id="variable"
-                description="Enter the Variable"
-                label="Variable:"
-                label-for="variableInput"
-              >
-                <b-form-input
-                  id="variableInput"
-                  v-model="variable"
-                  placeholder="E.g., Abnormal Electrocardiogram (ECG) Interval"
-                  type="text"
-                />
-              </b-form-group>
-              <b-form-group
-                id="timepoint"
-                description="Enter the Timepoint"
-                label="Timepoint:"
-                label-for="timepointInput"
-              >
-                <b-form-input
-                  id="timepointInput"
-                  v-model="timepoint"
-                  placeholder="E.g., Approximately 42 days"
-                  type="text"
-                />
-              </b-form-group>
-              <b-form-group
-                id="condition"
-                description="Enter the Condition"
-                label="Condition:"
-                label-for="conditionInput"
-              >
-                <b-form-input
-                  id="conditionInput"
-                  v-model="condition"
-                  placeholder="E.g., Type 2 Diabetes"
-                  type="text"
-                />
-              </b-form-group>
-              <b-button variant="primary" @click="sendParams()">
-                Submit
-              </b-button>
-            </b-form>
+            <p>Enter the change type:</p>
+            <div class="p-auto">
+              <vue-typeahead-bootstrap
+                id="changeInput"
+                v-model="change"
+                class="changeInput"
+                placeholder="E.g., Count of Participants"
+                required
+                :data="autocompleteChange"
+                type="text"
+              />
+            </div>
+            <p>Enter the reference:</p>
+            <div class="p-auto">
+              <vue-typeahead-bootstrap
+                id="referenceInput"
+                v-model="reference"
+                placeholder="E.g., Number of Participants Analyzed"
+                :data="autocompleteReference"
+                type="text"
+              />
+            </div>
+            <p>Enter the Variable:</p>
+            <div class="p-auto">
+              <vue-typeahead-bootstrap
+                id="variableInput"
+                v-model="variable"
+                placeholder="E.g., Abnormal Electrocardiogram (ECG) Interval"
+                type="text"
+                :data="autocompleteVariable"
+              />
+            </div>
+            <p>Enter the Timepoint:</p>
+            <div class="p-auto">
+              <vue-typeahead-bootstrap
+                id="timepointInput"
+                v-model="timepoint"
+                placeholder="E.g., Approximately 42 days"
+                type="text"
+                :data="autocompleteTimepoint"
+              />
+            </div>
+            <p>Enter the Condition:</p>
+            <div class="p-auto">
+              <vue-typeahead-bootstrap
+                id="conditionInput"
+                v-model="condition"
+                placeholder="E.g., Type 2 Diabetes"
+                type="text"
+                :data="autocompleteCondition"
+              />
+            </div>
+            <b-button variant="primary" @click="sendParams()">
+              Submit
+            </b-button>
           </div>
         </b-col>
         <b-col />
@@ -122,12 +104,22 @@
 </template>
 
 <script>
+import VueTypeaheadBootstrap from 'vue-typeahead-bootstrap'
+
 export default {
+  components: {
+    VueTypeaheadBootstrap,
+  },
   data() {
     return {
       stickyHeader: true,
       noCollapse: false,
       items: [],
+      autocompleteItems: [],
+      autocompleteChange: [],
+      autocompleteReference: [],
+      autocompleteVariable: [],
+      autocompleteTimepoint: [],
       change: '',
       variable: '',
       reference: '',
@@ -144,13 +136,32 @@ export default {
   },
   async mounted() {
     try {
-      const response = await this.$axios.get('/results')
-
-      this.items = response.data.map((JSON) => {
-        return {
-          ...JSON,
-        }
-      })
+      this.items = await this.$axios
+        .get('/results')
+        .then((response) => response.data)
+      this.autocompleteItems = this.items
+      this.autocompleteChange = this.autocompleteItems.map((d) => d.Change)
+      this.autocompleteChange = Array.from(new Set(this.autocompleteChange))
+      this.autocompleteReference = this.autocompleteItems.map(
+        (d) => d.Reference
+      )
+      this.autocompleteReference = Array.from(
+        new Set(this.autocompleteReference)
+      )
+      this.autocompleteVariable = this.autocompleteItems.map((d) => d.Variable)
+      this.autocompleteVariable = Array.from(new Set(this.autocompleteVariable))
+      this.autocompleteTimepoint = this.autocompleteItems.map(
+        (d) => d.Timepoint
+      )
+      this.autocompleteTimepoint = Array.from(
+        new Set(this.autocompleteTimepoint)
+      )
+      this.autocompleteCondition = this.autocompleteItems.map(
+        (d) => d.Condition
+      )
+      this.autocompleteCondition = Array.from(
+        new Set(this.autocompleteCondition)
+      )
     } catch (e) {
       alert(e.toString())
     }
@@ -166,12 +177,9 @@ export default {
         GroupByOptions: this.selected,
       }
       try {
-        const response = await this.$axios.post('/filter', params)
-        this.items = response.data.map((JSON) => {
-          return {
-            ...JSON,
-          }
-        })
+        this.items = await this.$axios
+          .post('/filter', params)
+          .then((response) => response.data)
       } catch (e) {
         alert(e.toString())
       }
