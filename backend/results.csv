@@ -1,327 +1,317 @@
 Index,NCTId,Condition,Change,Reference,Variable,Timepoint,Endpoint Art
-0,NCT01814787,Type 2 Diabetes,Number of Children,Not Mentioned,Documented Risk Factors,Not Mentioned,Primary_endpoint
-1,NCT01346033,Type 2 Diabetes,Not Mentioned,Validation,SCOUT DS algorithm,Not Mentioned,Primary_endpoint
-2,NCT04765631,Type 2 Diabetes,outcome,comparison,total volumetric bone mineral density (vBMD),Not Mentioned,Primary_endpoint
-3,NCT03979768,Type2 Diabetes,Number of Participants,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-4,NCT03979768,Type2 Diabetes,number of participants,Not Mentioned,HbA1c-measurement (HbA1c-group),Not Mentioned,Secondary_endpoint
-5,NCT02286128,Type 2 Diabetes,Not Mentioned,Correlation,osteoblast-specific gene expression in the MSC,Not Mentioned,Primary_endpoint
-6,NCT02286128,Type 2 Diabetes,Not Mentioned,Correlation,NF-кB dependent-proinflammation markers,Not Mentioned,Secondary_endpoint
-7,NCT02286128,Type 2 Diabetes,Not Mentioned,Correlation,NF-кB dependent-proinflammation markers,Not Mentioned,Secondary_endpoint
-8,NCT03362762,Type 2 Diabetes Treated With Insulin,Characteristic,patients,insulin,Not Mentioned,Primary_endpoint
-9,NCT03362762,Type 2 Diabetes Treated With Insulin,Not Mentioned,relation,plan of insulinothérapie,Not Mentioned,Secondary_endpoint
-10,NCT01920256,Type 2 Diabetes,Change,baseline,A1C (glycated hemoglobin),12 months,Primary_endpoint
-11,NCT01920256,Type 2 Diabetes,Change,baseline,lipids,12 months,Secondary_endpoint
-12,NCT01920256,Type 2 Diabetes,Change,baseline,blood pressure,12 months,Secondary_endpoint
-13,NCT01920256,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,All cause,Secondary_endpoint
-14,NCT01920256,Type 2 Diabetes,Not Mentioned,Not Mentioned,Acute complications,Not Mentioned,Secondary_endpoint
-15,NCT01920256,Type 2 Diabetes,Change,baseline,Quality of life,12 months,Secondary_endpoint
-16,NCT01920256,Type 2 Diabetes,Change,baseline,insulin satisfaction,12 months,Secondary_endpoint
-17,NCT03840850,Type 2 Diabetes Mellitus,Binary outcome,investigators,intervention,Not Mentioned,Primary_endpoint
-18,NCT03840850,Type 2 Diabetes Mellitus,Not Mentioned,Recall,personalised risk information,Not Mentioned,Secondary_endpoint
-19,NCT03840850,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,lifestyle changes,Not Mentioned,Secondary_endpoint
-20,NCT03840850,Type 2 Diabetes Mellitus,Change,Not Mentioned,self-management behaviour,Not Mentioned,Secondary_endpoint
-21,NCT00392678,Type 2 Diabetes,Change,Baseline,HbA1c,Not Mentioned,Primary_endpoint
-22,NCT00392678,Type 2 Diabetes,Change in HbA1c,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-23,NCT00392678,Type 2 Diabetes,Change,Trends,Fasting Glucose,Not Mentioned,Secondary_endpoint
-24,NCT00392678,Type 2 Diabetes,Change in Lipids,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-25,NCT00392678,Type 2 Diabetes,Change,Baseline,"C-peptide, Homeostasis Model [",14-week,Secondary_endpoint
-26,NCT00392678,Type 2 Diabetes,Change in Insulin,Not Mentioned,"C-peptide, Homeostasis Model [",Not Mentioned,Secondary_endpoint
-27,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Change in Body,Not Mentioned,status),12 months,Primary_endpoint
-28,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Not Mentioned,Not Mentioned,Fat (weight status),Not Mentioned,Secondary_endpoint
-29,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Not Mentioned,Not Mentioned,Not Mentioned,Food intake,Secondary_endpoint
-30,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Not Mentioned,Not Mentioned,Self-esteem,Not Mentioned,Secondary_endpoint
-31,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Not Mentioned,Not Mentioned,Quality of Life,Not Mentioned,Secondary_endpoint
-32,NCT00485758,Diabetes Mellitus Type 2,Cholesterol,Not Mentioned,Baseline (Bl) in,12 Compared,Primary_endpoint
-33,NCT00485758,Diabetes Mellitus Type 2,Change,Not Mentioned,Density Lipoprotein Cholesterol in,12 Compared,Secondary_endpoint
-34,NCT00485758,Diabetes Mellitus Type 2,Change,Not Mentioned,Baseline (Bl),12 Compared,Secondary_endpoint
-35,NCT03044860,Type2 Diabetes,Not Mentioned,intestinal,Not Mentioned,Not Mentioned,Primary_endpoint
-36,NCT03044860,Type2 Diabetes,Not Mentioned,patients,Not Mentioned,Not Mentioned,Primary_endpoint
-37,NCT02355145,Type 2 Diabetes Mellitus,Change,Not Mentioned,patients with,Not Mentioned,Primary_endpoint
-38,NCT02355145,Type 2 Diabetes Mellitus,Number of years,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-39,NCT02355145,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Not Mentioned,2 time,Secondary_endpoint
-40,NCT02355145,Type 2 Diabetes Mellitus,Number of years,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-41,NCT02355145,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,used classes of drugs,Not Mentioned,Secondary_endpoint
-42,NCT02355145,Type 2 Diabetes Mellitus,Number of years,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-43,NCT01257087,Type 2 Diabetes Mellitus|Obesity,HbA1c of,Percentage,Fasting Blood Glucose,Not Mentioned,Primary_endpoint
-44,NCT01257087,Type 2 Diabetes Mellitus|Obesity,Percentage,Reduction,Doses/Number of Diabetes Medications Used Preoperatively,Not Mentioned,Secondary_endpoint
-45,NCT01257087,Type 2 Diabetes Mellitus|Obesity,Number of Participants,Not Mentioned,Microvascular Events,Not Mentioned,Secondary_endpoint
-46,NCT03130894,Type2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-47,NCT02440555,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-48,NCT02440555,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-49,NCT02440555,Type 2 Diabetes,Not Mentioned,cost,screening accessibility to population from the priority health area,Not Mentioned,Secondary_endpoint
-50,NCT02440555,Type 2 Diabetes,Not Mentioned,Not Mentioned,numbers of patients screened by self-administered questionnaire,Not Mentioned,Secondary_endpoint
-51,NCT02327429,Type 2 Diabetes,Change in Energy,Not Mentioned,Not Mentioned,3-day Food Record),Primary_endpoint
-52,NCT02327429,Type 2 Diabetes,Change in Carbohydrate,Not Mentioned,Not Mentioned,3-day Food Record),Primary_endpoint
-53,NCT02327429,Type 2 Diabetes,Change in Protein,Not Mentioned,Not Mentioned,3-day Food Record),Primary_endpoint
-54,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Food Record),Not Mentioned,Primary_endpoint
-55,NCT02327429,Type 2 Diabetes,Change in Saturated,Not Mentioned,Not Mentioned,3-day Food Record),Primary_endpoint
-56,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Dietary Fibre Intake (3-day Food Record),Not Mentioned,Primary_endpoint
-57,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Added Sucrose Intake (3-day Food Record),Not Mentioned,Primary_endpoint
-58,NCT02327429,Type 2 Diabetes,Change in Sodium,Not Mentioned,Not Mentioned,3-day Food Record),Primary_endpoint
-59,NCT02327429,Type 2 Diabetes,Change in Calcium,Not Mentioned,Not Mentioned,3-day Food Record),Primary_endpoint
-60,NCT02327429,Type 2 Diabetes,Change in Cholesterol,Not Mentioned,Not Mentioned,3-day Food Record),Primary_endpoint
-61,NCT02327429,Type 2 Diabetes,Change in Hemoglobin,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-62,NCT02327429,Type 2 Diabetes,Change in Body,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-63,NCT02327429,Type 2 Diabetes,Change in Waist,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-64,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Fasting Triglyceride,Not Mentioned,Secondary_endpoint
-65,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Fasting Total,Not Mentioned,Secondary_endpoint
-66,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Fasting Low-density Lipoprotein Cholesterol,Not Mentioned,Secondary_endpoint
-67,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Fasting High-density Lipoprotein Cholesterol,Not Mentioned,Secondary_endpoint
-68,NCT03259321,Type2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-69,NCT03259321,Type2 Diabetes,Not Mentioned,Not Mentioned,polyunsaturated fatty acids intake,Not Mentioned,Secondary_endpoint
-70,NCT04016584,Type2 Diabetes,Not Mentioned,Not Mentioned,"insulin education program, Diabetes",Not Mentioned,Primary_endpoint
-71,NCT04016584,Type2 Diabetes,Not Mentioned,Not Mentioned,self management evaluated,Not Mentioned,Secondary_endpoint
-72,NCT04016584,Type2 Diabetes,Not Mentioned,Not Mentioned,Insulin,Not Mentioned,Secondary_endpoint
-73,NCT00810823,Type 2 Diabetes,Not Mentioned,remission,Not Mentioned,Not Mentioned,Primary_endpoint
-74,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Change in HbA1c,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-75,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-76,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-77,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-78,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-79,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-80,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-81,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-82,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-83,NCT03243136,Type2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-84,NCT01021865,Coronary Artery Disease|Diabetes Mellitus Type 2,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-85,NCT01021865,Coronary Artery Disease|Diabetes Mellitus Type 2,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-86,NCT01055652,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,pharmacokinetics of dapagliflozin when administered alone or in combination with voglibose in Japanese patients with,Not Mentioned,Primary_endpoint
-87,NCT01055652,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Japanese patients with,Not Mentioned,Secondary_endpoint
-88,NCT01055652,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,"AUC0-t, tmax,",Not Mentioned,Secondary_endpoint
-89,NCT04005261,Type 2 Diabetes Treated With Insulin,Not Mentioned,Not Mentioned,fasting C-peptide concentrations,Not Mentioned,Primary_endpoint
-90,NCT04005261,Type 2 Diabetes Treated With Insulin,Correlations of,C,patients characteristics,Not Mentioned,Primary_endpoint
-91,NCT00612794,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-92,NCT00612794,Type 2 Diabetes,Not Mentioned,Not Mentioned,pharmacokinetics of exenatide administered once weekly by SC injection,Not Mentioned,Secondary_endpoint
-93,NCT00612794,Type 2 Diabetes,HbA1c,Not Mentioned,postprandial glucose concentrations,Not Mentioned,Secondary_endpoint
-94,NCT01727349,Type 2 Diabetes,Measure,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-95,NCT00239187,Type 2 Diabetes,Not Mentioned,Not Mentioned,G1,Not Mentioned,Primary_endpoint
-96,NCT00239187,Type 2 Diabetes,Not Mentioned,Not Mentioned,G1,Not Mentioned,Secondary_endpoint
-97,NCT01073020,Type 2 Diabetes Mellitus|Obesity,Not Mentioned,Not Mentioned,HbA1c,Not Mentioned,Primary_endpoint
-98,NCT01073020,Type 2 Diabetes Mellitus|Obesity,"Control, as",Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-99,NCT01073020,Type 2 Diabetes Mellitus|Obesity,Cardiovascular Risk,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-100,NCT01249677,Type 2 Diabetes,Improvements,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-101,NCT01085292,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,patients with,Not Mentioned,Primary_endpoint
-102,NCT01085292,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,patients with,Not Mentioned,Secondary_endpoint
-103,NCT01182935,Type 2 Diabetes,Number of subjects,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-104,NCT01182935,Type 2 Diabetes,Not Mentioned,serum,blood glucose levels,Not Mentioned,Secondary_endpoint
-105,NCT02205996,Type 2 Diabetes Mellitus,2000,Not Mentioned,C-reactive protein),Not Mentioned,Secondary_endpoint
-106,NCT00240253,Type 2 Diabetes Mellitus,Not Mentioned,safety,regimen of insulin glargine in subjects with,Not Mentioned,Primary_endpoint
-107,NCT00240253,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,patient-reported outcomes.,Not Mentioned,Secondary_endpoint
-108,NCT00982371,Type 2 Diabetes Mellitus,"Calcium, vitamin",Not Mentioned,total body; physical activity,Not Mentioned,Secondary_endpoint
-109,NCT04031417,Type 2 Diabetes,Not Mentioned,Not Mentioned,rank test,Not Mentioned,Primary_endpoint
-110,NCT01284465,Type 2 Diabetes,Not Mentioned,Not Mentioned,self-management behaviors,Not Mentioned,Secondary_endpoint
-111,NCT02226822,Type 2 Diabetes Mellitus,Classes of diabetic,changes,Not Mentioned,3 years,Primary_endpoint
-112,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,baseline,blood glucose target goals,Not Mentioned,Secondary_endpoint
-113,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,baseline,Blood glucose level change from,Not Mentioned,Secondary_endpoint
-114,NCT02226822,Type 2 Diabetes Mellitus,change,baseline,Body,Not Mentioned,Secondary_endpoint
-115,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,baseline,Blood pressure,Not Mentioned,Secondary_endpoint
-116,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,baseline,Not Mentioned,Not Mentioned,Secondary_endpoint
-117,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Incidence,Not Mentioned,Secondary_endpoint
-118,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Hypoglycemia,Not Mentioned,Secondary_endpoint
-119,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,physical activity level,Not Mentioned,Secondary_endpoint
-120,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,Initiation,patients using insulin,Not Mentioned,Secondary_endpoint
-121,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Switching of anti-diabetic medications,Not Mentioned,Secondary_endpoint
-122,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,line,Not Mentioned,Not Mentioned,Secondary_endpoint
-123,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Incidence,Not Mentioned,Secondary_endpoint
-124,NCT01869608,Type 2 Diabetes,Not Mentioned,Not Mentioned,Diagnosis of abnormal glucose tolerance,Not Mentioned,Primary_endpoint
-125,NCT01184768,Type 2 Diabetes,Number of subjects,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-126,NCT01184768,Type 2 Diabetes,Number of subjects,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-127,NCT01184768,Type 2 Diabetes,Number of subjects,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-128,NCT01184768,Type 2 Diabetes,Not Mentioned,Not Mentioned,D status on glucose tolerance,Not Mentioned,Secondary_endpoint
-129,NCT01010035,Type 2 Diabetes Mellitus,Not Mentioned,patients,Not Mentioned,Not Mentioned,Primary_endpoint
-130,NCT01237301,Type 2 Diabetes,Change in Hemoglobin,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-131,NCT01237301,Type 2 Diabetes,Not Mentioned,Not Mentioned,Diurnal Median Curve),Not Mentioned,Secondary_endpoint
-132,NCT01237301,Type 2 Diabetes,Change,Baseline,CGM Glucose,Not Mentioned,Secondary_endpoint
-133,NCT01088711,Type 2 Diabetes (T2D),Number of Participants,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-134,NCT01088711,Type 2 Diabetes (T2D),Number of Participants,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-135,NCT01088711,Type 2 Diabetes (T2D),Not Mentioned,Not Mentioned,After Day 15,Not Mentioned,Secondary_endpoint
-136,NCT01088711,Type 2 Diabetes (T2D),Not Mentioned,Not Mentioned,After Day 22,Not Mentioned,Secondary_endpoint
-137,NCT01088711,Type 2 Diabetes (T2D),Not Mentioned,Not Mentioned,Active Glucagon-like Peptide-1 (GLP-1),Not Mentioned,Secondary_endpoint
-138,NCT01088711,Type 2 Diabetes (T2D),Not Mentioned,Not Mentioned,Total GLP-1 Concentration,Not Mentioned,Secondary_endpoint
-139,NCT01088711,Type 2 Diabetes (T2D),Not Mentioned,Not Mentioned,Plasma Glucose,Not Mentioned,Secondary_endpoint
-140,NCT03214380,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 26,Primary_endpoint
-141,NCT03214380,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,During Mixed-Meal Tolerance Test (MMTT),Not Mentioned,Secondary_endpoint
-142,NCT03214380,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Not Mentioned,2-hour PPG,Secondary_endpoint
-143,NCT03214380,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Rate of Severe Hypoglycemia,Not Mentioned,Secondary_endpoint
-144,NCT03214380,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Rate of Documented Symptomatic Hypoglycemia,Not Mentioned,Secondary_endpoint
-145,NCT03214380,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 26,Secondary_endpoint
-146,NCT03214380,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 26,Secondary_endpoint
-147,NCT03214380,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 26,Secondary_endpoint
-148,NCT03214380,Type 2 Diabetes Mellitus,Change,Baseline,Questionnaire (ITSQ) Regimen Inconvenience Domain Score at,Week 26,Secondary_endpoint
-149,NCT03214380,Type 2 Diabetes Mellitus,Change,Baseline,Lifestyle Flexibility Domain Score at,Week 26,Secondary_endpoint
-150,NCT03214380,Type 2 Diabetes Mellitus,Number of Participants,Not Mentioned,Not Mentioned,<7%,Secondary_endpoint
-151,NCT02322762,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,real-world setting.,Not Mentioned,Primary_endpoint
-152,NCT02322762,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,blood pressure.,Not Mentioned,Secondary_endpoint
-153,NCT02322762,Type 2 Diabetes Mellitus,Changes,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-154,NCT02322762,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Incidence,Not Mentioned,Secondary_endpoint
-155,NCT02322762,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Quality of Life,Not Mentioned,Secondary_endpoint
-156,NCT02322762,Type 2 Diabetes Mellitus,Use of Healthcare,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-157,NCT00888836,Type 2 Diabetes,Not Mentioned,mellitus,total remission of type,2 diabetes,Primary_endpoint
-158,NCT00888836,Type 2 Diabetes,Secondary endpoints,Not Mentioned,quality of life,Not Mentioned,Secondary_endpoint
-159,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,Not Mentioned,serum vitamin B12 levels between cases,Not Mentioned,Primary_endpoint
-160,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,Not Mentioned,serum vitamin,Not Mentioned,Primary_endpoint
-161,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,Not Mentioned,serum vitamin B6 concentrations,Not Mentioned,Primary_endpoint
-162,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,Not Mentioned,serum vitamin B12 between patients with,Not Mentioned,Secondary_endpoint
-163,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,urine,patients with,Not Mentioned,Secondary_endpoint
-164,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,urine,patients with,Not Mentioned,Secondary_endpoint
-165,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,urine,vascular risk,Not Mentioned,Secondary_endpoint
-166,NCT00451620,Type 2 Diabetes,Not Mentioned,Not Mentioned,postprandial glucose levels in elderly people with,Not Mentioned,Primary_endpoint
-167,NCT01845064,Diabetes Type 2,Not Mentioned,Not Mentioned,pharmacokinetic of DM199 after single,Not Mentioned,Primary_endpoint
-168,NCT01845064,Diabetes Type 2,Not Mentioned,patients,Not Mentioned,Not Mentioned,Secondary_endpoint
-169,NCT01845064,Diabetes Type 2,Not Mentioned,Not Mentioned,Assess formation of ADA,Not Mentioned,Secondary_endpoint
-170,NCT01845064,Diabetes Type 2,Not Mentioned,Not Mentioned,Determine changes,Not Mentioned,Secondary_endpoint
-171,NCT02104804,Type 2 Diabetes Mellitus,Change in HbA1c,Baseline,Not Mentioned,Week 24,Primary_endpoint
-172,NCT02104804,Type 2 Diabetes Mellitus,Change in Postprandial,Baseline,Not Mentioned,Week 24,Secondary_endpoint
-173,NCT02104804,Type 2 Diabetes Mellitus,Analysis of Change,Baseline,Not Mentioned,Week 24,Secondary_endpoint
-174,NCT02104804,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Therapeutic Glycaemic Response of HbA1c,Not Mentioned,Secondary_endpoint
-175,NCT02104804,Type 2 Diabetes Mellitus,Change,Baseline,Average of Weeks 20,Week 24,Secondary_endpoint
-176,NCT02104804,Type 2 Diabetes Mellitus,Analysis of Change,Not Mentioned,Total Daily Dose of Insulin From Baseline,Week 24,Secondary_endpoint
-177,NCT00787670,Obesity|Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,loss decreases the risk of CVD,Not Mentioned,Primary_endpoint
-178,NCT00787670,Obesity|Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,risk of CVD in morbidly obese subjects with T2DM.,Not Mentioned,Secondary_endpoint
-179,NCT01933256,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-180,NCT03406910,Type 2 Diabetes|Heart Diseases,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-181,NCT01649466,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,patients reaching HbA1c below 7.0% without confirmed hypoglycemia,Not Mentioned,Primary_endpoint
-182,NCT01649466,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Rate of confirmed hypoglycemic events,Not Mentioned,Primary_endpoint
-183,NCT01649466,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,blood glucose target (HbA1c below 7.0%),Not Mentioned,Secondary_endpoint
-184,NCT01649466,Type 2 Diabetes Mellitus,Change,baseline,Not Mentioned,24 weeks,Secondary_endpoint
-185,NCT01649466,Type 2 Diabetes Mellitus,Change,baseline,Not Mentioned,24 weeks,Secondary_endpoint
-186,NCT01649466,Type 2 Diabetes Mellitus,Change,baseline,Medication (TSQM-9),24 week,Secondary_endpoint
-187,NCT03464812,Type2 Diabetes,Not Mentioned,Not Mentioned,self-care,Not Mentioned,Secondary_endpoint
-188,NCT03464812,Type2 Diabetes,Not Mentioned,Not Mentioned,referring provider satisfaction,Not Mentioned,Secondary_endpoint
-189,NCT02501876,Alzheimer´s Disease|Diabetes Mellitus Type 2,Not Mentioned,Not Mentioned,Alzheimer's disease (AD),Not Mentioned,Primary_endpoint
-190,NCT02501876,Alzheimer´s Disease|Diabetes Mellitus Type 2,Not Mentioned,Not Mentioned,Alzheimer's disease (AD),Not Mentioned,Secondary_endpoint
-191,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System",Modification,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-192,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System",Modification,profile,administration of Acetylsalicylic Acid,Not Mentioned,Secondary_endpoint
-193,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System",Not Mentioned,Modification,administration of Acetylsalicylic Acid,Not Mentioned,Secondary_endpoint
-194,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System",Modification,Not Mentioned,administration of Acetylsalicylic acid,Not Mentioned,Secondary_endpoint
-195,NCT04214600,Type 2 Diabetes|Depression,Change of Glycated,Not Mentioned,Cognitive Behavioral Therapy Sessions,Not Mentioned,Primary_endpoint
-196,NCT04214600,Type 2 Diabetes|Depression,Change of Depression,Not Mentioned,Depression Index,Not Mentioned,Secondary_endpoint
-197,NCT01037647,Type 2 Diabetes,Not Mentioned,Not Mentioned,VLDL-TG production,Not Mentioned,Primary_endpoint
-198,NCT01037647,Type 2 Diabetes,Not Mentioned,Not Mentioned,VLDL-TG oxidation,Not Mentioned,Secondary_endpoint
-199,NCT01037647,Type 2 Diabetes,Not Mentioned,Not Mentioned,VLDL-TG subcutaneous adipose,Not Mentioned,Secondary_endpoint
-200,NCT00103935,Type 2 Diabetes Mellitus,Not Mentioned,safety,pharmacokinetics of exenatide long-acting release (LAR) administered weekly by subcutaneous (SC),Not Mentioned,Primary_endpoint
-201,NCT00103935,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,parameters of exenatide LAR administered weekly,Not Mentioned,Secondary_endpoint
-202,NCT00103935,Type 2 Diabetes Mellitus,Change in HbA1c,Baseline,Not Mentioned,Not Mentioned,Secondary_endpoint
-203,NCT00103935,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,27),Secondary_endpoint
-204,NCT00103935,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,27),Secondary_endpoint
-205,NCT00103935,Type 2 Diabetes Mellitus,Change,Not Mentioned,seven-point glucose concentrations from Baseline,14 and Week 15,Secondary_endpoint
-206,NCT00525330,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-207,NCT00525330,Type 2 Diabetes,Not Mentioned,Not Mentioned,fasting plasma glucose (FPG)-lowering effect of KRP-104 in patients with,Not Mentioned,Secondary_endpoint
-208,NCT00525330,Type 2 Diabetes,Not Mentioned,setting,insulin sensitivity (homeostasis model index,Not Mentioned,Secondary_endpoint
-209,NCT01977560,Type 2 Diabetes,Control,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-210,NCT01977560,Type 2 Diabetes,Neuronal Function,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-211,NCT01278823,Obesity|Type 2 Diabetes,Not Mentioned,patients,Not Mentioned,Not Mentioned,Primary_endpoint
-212,NCT01278823,Obesity|Type 2 Diabetes,Not Mentioned,patients,pancreatic beta cell,Not Mentioned,Secondary_endpoint
-213,NCT01580475,Type 2 Diabetes,Changes,baseline,retraining (9 months),3 months,Primary_endpoint
-214,NCT01580475,Type 2 Diabetes,Not Mentioned,Evaluation,Not Mentioned,Not Mentioned,Secondary_endpoint
-215,NCT01580475,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-216,NCT00108004,Type 1 Diabetes Mellitus|Type 2 Diabetes Mellitus,Not Mentioned,safety,Not Mentioned,Not Mentioned,Primary_endpoint
-217,NCT00108004,Type 1 Diabetes Mellitus|Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-218,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood glucose,Not Mentioned,Primary_endpoint
-219,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood glucose,Not Mentioned,Secondary_endpoint
-220,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood fasting plasma glucose level,Not Mentioned,Secondary_endpoint
-221,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood plasma glucose level,Not Mentioned,Secondary_endpoint
-222,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood insulin level,Not Mentioned,Secondary_endpoint
-223,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood C-peptide level,Not Mentioned,Secondary_endpoint
-224,NCT02222350,Type 2 Diabetes Mellitus,change,level,Not Mentioned,Not Mentioned,Secondary_endpoint
-225,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood PYY level,Not Mentioned,Secondary_endpoint
-226,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood HbA1c level,Not Mentioned,Secondary_endpoint
-227,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood glycoalbumin level,Not Mentioned,Secondary_endpoint
-228,NCT02222350,Type 2 Diabetes Mellitus,Number of subjects,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-229,NCT02222350,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,pharmacokinetic profile of DS-8500a,Not Mentioned,Secondary_endpoint
-230,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,plasma glucose level,Not Mentioned,Secondary_endpoint
-231,NCT00922649,Type 2 Diabetes,Not Mentioned,Not Mentioned,Insulin,Week 16,Primary_endpoint
-232,NCT00922649,Type 2 Diabetes,Not Mentioned,Ratio,Not Mentioned,Week 16,Primary_endpoint
-233,NCT00922649,Type 2 Diabetes,Number of daily,Not Mentioned,Not Mentioned,Week 16,Primary_endpoint
-234,NCT00922649,Type 2 Diabetes,Not Mentioned,Not Mentioned,A1C (Hemoglobin A1c),Not Mentioned,Secondary_endpoint
-235,NCT00922649,Type 2 Diabetes,CGM Glucose,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-236,NCT00922649,Type 2 Diabetes,Change,baseline,16,Not Mentioned,Secondary_endpoint
-237,NCT03324776,Type2 Diabetes,Not Mentioned,baseline,Not Mentioned,Not Mentioned,Primary_endpoint
-238,NCT03324776,Type2 Diabetes,Not Mentioned,Not Mentioned,patients having HbA1c,Not Mentioned,Secondary_endpoint
-239,NCT03324776,Type2 Diabetes,Not Mentioned,Not Mentioned,Blood glucose (BG),Not Mentioned,Secondary_endpoint
-240,NCT04163757,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-241,NCT00971659,Type 2 Diabetes,Not Mentioned,Not Mentioned,blood glucose excursion (AUCBG0-6h),Not Mentioned,Primary_endpoint
-242,NCT00971659,Type 2 Diabetes,Not Mentioned,Not Mentioned,"self-measured 7-point BG profiles, percentage of subjects achieving ADA HbA1c treatment goals, fasting lipid",Not Mentioned,Secondary_endpoint
-243,NCT01607294,Hyperlipidemia|Type 2 Diabetes,Not Mentioned,Not Mentioned,LDL-C lowering efficacy of ETC-1002 versus placebo in subjects with,Not Mentioned,Primary_endpoint
-244,NCT01607294,Hyperlipidemia|Type 2 Diabetes,Not Mentioned,Not Mentioned,insulin,Not Mentioned,Secondary_endpoint
-245,NCT01607294,Hyperlipidemia|Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-246,NCT00299871,Type 2 Diabetes,Not Mentioned,baseline,HbA1c,13 weeks,Primary_endpoint
-247,NCT00299871,Type 2 Diabetes,Not Mentioned,Fructosamine,"C-peptide, glucagon.",Not Mentioned,Secondary_endpoint
-248,NCT00303394,Type 2 Diabetes,Stimulated C peptide,Not Mentioned,insulin,Not Mentioned,Secondary_endpoint
-249,NCT00303394,Type 2 Diabetes,Not Mentioned,Not Mentioned,Fasting plasma glucose (FPG),Not Mentioned,Secondary_endpoint
-250,NCT00303394,Type 2 Diabetes,Not Mentioned,Not Mentioned,"Serum cytokine levels, CRP",Not Mentioned,Secondary_endpoint
-251,NCT00303394,Type 2 Diabetes,Not Mentioned,Not Mentioned,insulin,Not Mentioned,Secondary_endpoint
-252,NCT00303394,Type 2 Diabetes,Not Mentioned,Not Mentioned,"subgroup of patients, insulin-sensitivity assessed by clamp",Not Mentioned,Secondary_endpoint
-253,NCT00303394,Type 2 Diabetes,Not Mentioned,Not Mentioned,profiles derived from muscle,Not Mentioned,Secondary_endpoint
-254,NCT00631774,Type 2 Diabetes|Obesity,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-255,NCT00631774,Type 2 Diabetes|Obesity,Not Mentioned,based,quality of life,Not Mentioned,Secondary_endpoint
-256,NCT04072523,Type 2 Diabetes,Not Mentioned,Correlation,Not Mentioned,Not Mentioned,Secondary_endpoint
-257,NCT02065544,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,HS-C Reactive Protein,Not Mentioned,Secondary_endpoint
-258,NCT02065544,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Aerobic Fitness,Not Mentioned,Secondary_endpoint
-259,NCT00837408,Diabetes|Hypertension,Not Mentioned,Not Mentioned,Not Mentioned,Not Mentioned,Primary_endpoint
-260,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Not Mentioned,total mean glucose from continuous glucose monitoring,Not Mentioned,Primary_endpoint
-261,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Fructosamine,Not Mentioned,Not Mentioned,Secondary_endpoint
-262,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Not Mentioned,HbA1c,Not Mentioned,Secondary_endpoint
-263,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Not Mentioned,Blood volume,Not Mentioned,Secondary_endpoint
-264,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Coefficient,Not Mentioned,Not Mentioned,Not Mentioned,Secondary_endpoint
-265,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Not Mentioned,Blood Glucose Index,Not Mentioned,Secondary_endpoint
-266,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Not Mentioned,Blood Glucose Index,Not Mentioned,Secondary_endpoint
-267,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Not Mentioned,range below 3.9 mmol/l,Not Mentioned,Secondary_endpoint
-268,NCT00477581,Type 2 Diabetes Mellitus,Assessment of,Not Mentioned,Not Mentioned,6-point self-monitored blood glucose (SMBG),Secondary_endpoint
-269,NCT00799643,Type 2 Diabetes Mellitus,Change in HbA1c,Compared,Not Mentioned,Not Mentioned,Primary_endpoint
-270,NCT00799643,Type 2 Diabetes Mellitus,Change,Baseline,Fasting Glucose,Not Mentioned,Secondary_endpoint
-271,NCT00799643,Type 2 Diabetes Mellitus,Not Mentioned,Reduction,HbA1c,Not Mentioned,Secondary_endpoint
-272,NCT00799643,Type 2 Diabetes Mellitus,Change in Lipids,Not Mentioned,LDL-C/HDL-C Ratio),Not Mentioned,Secondary_endpoint
-273,NCT00799643,Type 2 Diabetes Mellitus,Changes,Not Mentioned,"Differential, High-sensitivity C Reactive Protein (hsCRP)",Not Mentioned,Secondary_endpoint
-274,NCT00799643,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Discontinuation of Study Medication,Not Mentioned,Secondary_endpoint
-275,NCT00799643,Type 2 Diabetes Mellitus,"Secretagogue, Metformin",Not Mentioned,Combination Therapy,Not Mentioned,Secondary_endpoint
-276,NCT01640873,Type 2 Diabetes,Number of Participants,Not Mentioned,Adverse Events,Not Mentioned,Primary_endpoint
-277,NCT01640873,Type 2 Diabetes,Number of Participants,Not Mentioned,Adverse Event,Not Mentioned,Primary_endpoint
-278,NCT01640873,Type 2 Diabetes,Not Mentioned,Not Mentioned,Fasting Plasma Glucose (FPG),Not Mentioned,Primary_endpoint
-279,NCT01640873,Type 2 Diabetes,Concentrations,Not Mentioned,After Single and Multiple Drug Doses,Not Mentioned,Secondary_endpoint
-280,NCT01640873,Type 2 Diabetes,Not Mentioned,Not Mentioned,Weighted,Not Mentioned,Secondary_endpoint
-281,NCT01640873,Type 2 Diabetes,Change,Baseline,Not Mentioned,2 Hours Oral Glucose Tolerance Test,Secondary_endpoint
-282,NCT01159249,Type 2 Diabetes,Not Mentioned,AEs,Not Mentioned,Not Mentioned,Primary_endpoint
-283,NCT01159249,Type 2 Diabetes,Not Mentioned,Not Mentioned,Fasting Plasma Glucose,Not Mentioned,Secondary_endpoint
-284,NCT01159249,Type 2 Diabetes,Not Mentioned,Not Mentioned,Fasting Insulin,Not Mentioned,Secondary_endpoint
-285,NCT01159249,Type 2 Diabetes,Not Mentioned,Not Mentioned,Fasting C,Not Mentioned,Secondary_endpoint
-286,NCT00106808,Type 2 Diabetes Mellitus,Change in HBA1c,baseline,Not Mentioned,Week 24,Primary_endpoint
-287,NCT00106808,Type 2 Diabetes Mellitus,Change,baseline,HDL-C,Week 24,Secondary_endpoint
-288,NCT00106808,Type 2 Diabetes Mellitus,Change,baseline,Not Mentioned,Not Mentioned,Secondary_endpoint
-289,NCT04176276,Diabetic Kidney Disease|Type2 Diabetes,Not Mentioned,Not Mentioned,Serum expression of miR-192,Not Mentioned,Primary_endpoint
-290,NCT04176276,Diabetic Kidney Disease|Type2 Diabetes,Not Mentioned,Not Mentioned,Serum expression of miR-25,Not Mentioned,Primary_endpoint
-291,NCT04176276,Diabetic Kidney Disease|Type2 Diabetes,Not Mentioned,Urine,Not Mentioned,Not Mentioned,Primary_endpoint
-292,NCT04176276,Diabetic Kidney Disease|Type2 Diabetes,Not Mentioned,Urine,Not Mentioned,Not Mentioned,Primary_endpoint
-293,NCT03902288,Patients With Type 2 Diabetes (FSG: More Than 7.1 and Not Higher Than 15.8 mmol/L),Not Mentioned,Not Mentioned,Fasting serum glucose measurement,Not Mentioned,Primary_endpoint
-294,NCT03902288,Patients With Type 2 Diabetes (FSG: More Than 7.1 and Not Higher Than 15.8 mmol/L),Not Mentioned,Not Mentioned,Serum total antioxidant activity measurement,Not Mentioned,Secondary_endpoint
-295,NCT03538743,Type 2 Diabetes Mellitus,Number of Participants,Not Mentioned,All-causality,Not Mentioned,Primary_endpoint
-296,NCT03538743,Type 2 Diabetes Mellitus,Number of Participants,Not Mentioned,Laboratory Abnormalities Without Regard to Baseline,Not Mentioned,Primary_endpoint
-297,NCT03538743,Type 2 Diabetes Mellitus,Number of Participants,Not Mentioned,Abnormal Vital Signs,Not Mentioned,Primary_endpoint
-298,NCT03538743,Type 2 Diabetes Mellitus,Number of Participants,Not Mentioned,Abnormal Electrocardiogram (ECG) Interval,Not Mentioned,Primary_endpoint
-299,NCT03538743,Type 2 Diabetes Mellitus,AUC24,Not Mentioned,AUCtau of PF-06882961 on Day 1,14 or 21,Secondary_endpoint
-300,NCT03538743,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Maximum Plasma Concentration (Cmax),14 or 21,Secondary_endpoint
-301,NCT03538743,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Not Mentioned,14 or 21,Secondary_endpoint
-302,NCT03538743,Type 2 Diabetes Mellitus,Amount of Unchanged,Not Mentioned,Hours (Ae24),Not Mentioned,Secondary_endpoint
-303,NCT03538743,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Ae24 (%),Not Mentioned,Secondary_endpoint
-304,NCT01472185,Type 2 Diabetes Mellitus,Change,Baseline,HbA1c,Week 24,Primary_endpoint
-305,NCT01472185,Type 2 Diabetes Mellitus,Change,Baseline,Fasting Serum Glucose,Week 24,Secondary_endpoint
-306,NCT01472185,Type 2 Diabetes Mellitus,Percentage of Participants,Not Mentioned,Not Mentioned,Week 24,Secondary_endpoint
-307,NCT01472185,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 24,Secondary_endpoint
-308,NCT01472185,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 24,Secondary_endpoint
-309,NCT01494987,Type 2 Diabetes Mellitus,Change,Baseline,HbA1c,Week 24,Primary_endpoint
-310,NCT01494987,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 24,Secondary_endpoint
-311,NCT01494987,Type 2 Diabetes Mellitus,Change,Baseline,Fasting Serum Glucose,Week 24,Secondary_endpoint
-312,NCT01494987,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 24,Secondary_endpoint
-313,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (iAUC -15 - 360 min).,Not Mentioned,Primary_endpoint
-314,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (iAUC -15 - 360 min).,Not Mentioned,Primary_endpoint
-315,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (AUC -15 - 360 min),Not Mentioned,Secondary_endpoint
-316,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (AUC -15 - 360 min),Not Mentioned,Secondary_endpoint
-317,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (AUC -15 - 360 min),Not Mentioned,Secondary_endpoint
-318,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (AUC -15 - 360 min),Not Mentioned,Secondary_endpoint
-319,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (AUC -15 - 360 min).,Not Mentioned,Secondary_endpoint
-320,NCT01755468,Type 2 Diabetes,Not Mentioned,Baseline,Secretion-Sensitivity Index-2 (ISSI-2).,2 years,Primary_endpoint
-321,NCT01755468,Type 2 Diabetes,Not Mentioned,Baseline,Not Mentioned,2-years,Secondary_endpoint
-322,NCT04363710,Type 2 Diabetes Mellitus in Obese,Not Mentioned,percentage,HbA1c,Not Mentioned,Primary_endpoint
-323,NCT04363710,Type 2 Diabetes Mellitus in Obese,Not Mentioned,liter,Fasting Insulin Level,Not Mentioned,Primary_endpoint
-324,NCT04363710,Type 2 Diabetes Mellitus in Obese,Not Mentioned,BMI,Weight,Not Mentioned,Primary_endpoint
-325,NCT00562029,Type 2 Diabetes Mellitus,Not Mentioned,Resolution,Not Mentioned,Not Mentioned,Primary_endpoint
+0,NCT01814787,Type 2 Diabetes,Number of Children,Not Mentioned,Documented Risk Factors,12 months,Primary Endpoint
+1,NCT01346033,Type 2 Diabetes,Not Mentioned,Validation,SCOUT DS algorithm,1 day,Primary Endpoint
+2,NCT04765631,Type 2 Diabetes,outcome,comparison,total volumetric bone mineral density (vBMD),at inclusion for Qualyor patients. (the HRpQCT measure considered in this study is realised at the first visit just after inclusion of the patient for the Qualyor patients),Primary Endpoint
+3,NCT03979768,Type2 Diabetes,Number of Participants,Not Mentioned,Not Mentioned,2 months,Primary Endpoint
+4,NCT03979768,Type2 Diabetes,number of participants,Not Mentioned,HbA1c-measurement (HbA1c-group),Baseline,Secondary Endpoint
+5,NCT02286128,Type 2 Diabetes,Not Mentioned,Correlation,osteoblast-specific gene expression in the MSC,2-4 weeks,Primary Endpoint
+6,NCT02286128,Type 2 Diabetes,Not Mentioned,Correlation,NF-кB dependent-proinflammation markers,2-4 weeks,Secondary Endpoint
+7,NCT02286128,Type 2 Diabetes,Not Mentioned,Correlation,NF-кB dependent-proinflammation markers,2-4 weeks,Secondary Endpoint
+8,NCT03362762,Type 2 Diabetes Treated With Insulin,Characteristic,patients,insulin,"Trough study completion, an average of 2 years",Primary Endpoint
+9,NCT03362762,Type 2 Diabetes Treated With Insulin,Not Mentioned,relation,plan of insulinothérapie,"Trough study completion, an average of 2 years",Secondary Endpoint
+10,NCT01920256,Type 2 Diabetes,Change,baseline,A1C (glycated hemoglobin),12 months,Primary Endpoint
+11,NCT01920256,Type 2 Diabetes,Change,baseline,lipids,12 months,Secondary Endpoint
+12,NCT01920256,Type 2 Diabetes,Change,baseline,blood pressure,12 months,Secondary Endpoint
+13,NCT01920256,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,All cause,Secondary Endpoint
+14,NCT01920256,Type 2 Diabetes,Not Mentioned,Not Mentioned,Acute complications,12 months,Secondary Endpoint
+15,NCT01920256,Type 2 Diabetes,Change,baseline,Quality of life,12 months,Secondary Endpoint
+16,NCT01920256,Type 2 Diabetes,Change,baseline,insulin satisfaction,12 months,Secondary Endpoint
+17,NCT03840850,Type 2 Diabetes Mellitus,Binary outcome,investigators,intervention,3 months,Primary Endpoint
+18,NCT03840850,Type 2 Diabetes Mellitus,Not Mentioned,Recall,personalised risk information,3 months,Secondary Endpoint
+19,NCT03840850,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,lifestyle changes,3 months,Secondary Endpoint
+20,NCT03840850,Type 2 Diabetes Mellitus,Change,Not Mentioned,self-management behaviour,3 months,Secondary Endpoint
+21,NCT00392678,Type 2 Diabetes,Change,Baseline,HbA1c,14 week,Primary Endpoint
+22,NCT00392678,Type 2 Diabetes,Change in HbA1c,Not Mentioned,Not Mentioned,14 week,Secondary Endpoint
+23,NCT00392678,Type 2 Diabetes,Change,Trends,Fasting Glucose,14 week,Secondary Endpoint
+24,NCT00392678,Type 2 Diabetes,Change in Lipids,Not Mentioned,Not Mentioned,14 week,Secondary Endpoint
+25,NCT00392678,Type 2 Diabetes,Change,Baseline,"C-peptide, Homeostasis Model [","Baseline, week 14",Secondary Endpoint
+26,NCT00392678,Type 2 Diabetes,Change in Insulin,Not Mentioned,"C-peptide, Homeostasis Model [","Baseline, week 14",Secondary Endpoint
+27,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Change in Body,Not Mentioned,status),12 months,Primary Endpoint
+28,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Not Mentioned,Not Mentioned,Fat (weight status),"baseline, 6 months after baseline, 12 months after baseline",Secondary Endpoint
+29,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Not Mentioned,Not Mentioned,Not Mentioned,Food intake,Secondary Endpoint
+30,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Not Mentioned,Not Mentioned,Self-esteem,"baseline, 6 months after baseline",Secondary Endpoint
+31,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Not Mentioned,Not Mentioned,Quality of Life,"baseline, 6 months after baseline",Secondary Endpoint
+32,NCT00485758,Diabetes Mellitus Type 2,Cholesterol,Not Mentioned,Baseline (Bl) in,Baseline and 12 Weeks,Primary Endpoint
+33,NCT00485758,Diabetes Mellitus Type 2,Change,Not Mentioned,Density Lipoprotein Cholesterol in,Baseline and 12 Weeks,Secondary Endpoint
+34,NCT00485758,Diabetes Mellitus Type 2,Change,Not Mentioned,Baseline (Bl),Baseline and 12 Weeks,Secondary Endpoint
+35,NCT03044860,Type2 Diabetes,Not Mentioned,intestinal,Not Mentioned,"Cross-sectional study. Each participant went through two study days (upper and lower double-ballon enteroscopy, respectively)",Primary Endpoint
+36,NCT03044860,Type2 Diabetes,Not Mentioned,patients,Not Mentioned,"Cross-sectional study. Each participant went through two study days (upper and lower double-ballon enteroscopy, respectively)",Primary Endpoint
+37,NCT02355145,Type 2 Diabetes Mellitus,Change,Not Mentioned,patients with,From moment 1 (up to 2 months from FSI) to moment 2 (1 year after moment 1),Primary Endpoint
+38,NCT02355145,Type 2 Diabetes Mellitus,Number of years,Not Mentioned,Not Mentioned,in 2 time points at 1 year distance - moment 1 (up to 2 months from FSI) and moment 2 (1 year after moment 1),Secondary Endpoint
+39,NCT02355145,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Not Mentioned,2 time,Secondary Endpoint
+40,NCT02355145,Type 2 Diabetes Mellitus,Number of years,Not Mentioned,Not Mentioned,in 2 time points at 1 year distance - moment 1 (up to 2 months from FSI) and moment 2 (1 year after moment 1),Secondary Endpoint
+41,NCT02355145,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,used classes of drugs,in 2 time points at 1 year distance - moment 1 (up to 2 months from FSI) and moment 2 (1 year after moment 1),Secondary Endpoint
+42,NCT02355145,Type 2 Diabetes Mellitus,Number of years,Not Mentioned,Not Mentioned,in 2 time points at 1 year distance - moment 1 (up to 2 months from FSI) and moment 2 (1 year after moment 1),Secondary Endpoint
+43,NCT01257087,Type 2 Diabetes Mellitus|Obesity,HbA1c of,Percentage,Fasting Blood Glucose,1 year after surgery,Primary Endpoint
+44,NCT01257087,Type 2 Diabetes Mellitus|Obesity,Percentage,Reduction,Doses/Number of Diabetes Medications Used Preoperatively,1 year after surgery,Secondary Endpoint
+45,NCT01257087,Type 2 Diabetes Mellitus|Obesity,Number of Participants,Not Mentioned,Microvascular Events,1 year after surgery,Secondary Endpoint
+46,NCT03130894,Type2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,"through recruitment completion, an average of 3 years",Primary Endpoint
+47,NCT02440555,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,Day 1 (inclusion day),Primary Endpoint
+48,NCT02440555,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,Day 1 (inclusion day),Secondary Endpoint
+49,NCT02440555,Type 2 Diabetes,Not Mentioned,cost,screening accessibility to population from the priority health area,Month 2,Secondary Endpoint
+50,NCT02440555,Type 2 Diabetes,Not Mentioned,Not Mentioned,numbers of patients screened by self-administered questionnaire,Month 2,Secondary Endpoint
+51,NCT02327429,Type 2 Diabetes,Change in Energy,Not Mentioned,Not Mentioned,3-day Food Record),Primary Endpoint
+52,NCT02327429,Type 2 Diabetes,Change in Carbohydrate,Not Mentioned,Not Mentioned,3-day Food Record),Primary Endpoint
+53,NCT02327429,Type 2 Diabetes,Change in Protein,Not Mentioned,Not Mentioned,3-day Food Record),Primary Endpoint
+54,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Food Record),12 weeks,Primary Endpoint
+55,NCT02327429,Type 2 Diabetes,Change in Saturated,Not Mentioned,Not Mentioned,3-day Food Record),Primary Endpoint
+56,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Dietary Fibre Intake (3-day Food Record),12 weeks,Primary Endpoint
+57,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Added Sucrose Intake (3-day Food Record),12 weeks,Primary Endpoint
+58,NCT02327429,Type 2 Diabetes,Change in Sodium,Not Mentioned,Not Mentioned,3-day Food Record),Primary Endpoint
+59,NCT02327429,Type 2 Diabetes,Change in Calcium,Not Mentioned,Not Mentioned,3-day Food Record),Primary Endpoint
+60,NCT02327429,Type 2 Diabetes,Change in Cholesterol,Not Mentioned,Not Mentioned,3-day Food Record),Primary Endpoint
+61,NCT02327429,Type 2 Diabetes,Change in Hemoglobin,Not Mentioned,Not Mentioned,12 weeks,Secondary Endpoint
+62,NCT02327429,Type 2 Diabetes,Change in Body,Not Mentioned,Not Mentioned,12 weeks,Secondary Endpoint
+63,NCT02327429,Type 2 Diabetes,Change in Waist,Not Mentioned,Not Mentioned,12 weeks,Secondary Endpoint
+64,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Fasting Triglyceride,12 weeks,Secondary Endpoint
+65,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Fasting Total,12 weeks,Secondary Endpoint
+66,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Fasting Low-density Lipoprotein Cholesterol,12 weeks,Secondary Endpoint
+67,NCT02327429,Type 2 Diabetes,Change,Not Mentioned,Fasting High-density Lipoprotein Cholesterol,12 weeks,Secondary Endpoint
+68,NCT03259321,Type2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,From entry into the study (baseline: 1997-2009) until 2011,Primary Endpoint
+69,NCT03259321,Type2 Diabetes,Not Mentioned,Not Mentioned,polyunsaturated fatty acids intake,From entry into the study (baseline: 1997-2009) until 2011,Secondary Endpoint
+70,NCT04016584,Type2 Diabetes,Not Mentioned,Not Mentioned,"insulin education program, Diabetes",11 weeks,Primary Endpoint
+71,NCT04016584,Type2 Diabetes,Not Mentioned,Not Mentioned,self management evaluated,"Visit 1, week 0 Screening; Visit 2, week 8 End of Diabetes Fundamentals class",Secondary Endpoint
+72,NCT04016584,Type2 Diabetes,Not Mentioned,Not Mentioned,Insulin,"Visit 1, week 0 Screening; Visit 2, week 8 End of Diabetes Fundamentals class; Visit 3, week 11 End of Insulin Success class",Secondary Endpoint
+73,NCT00810823,Type 2 Diabetes,Not Mentioned,remission,Not Mentioned,about 3 years,Primary Endpoint
+74,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Change in HbA1c,Not Mentioned,Not Mentioned,Baseline and 12 months,Primary Endpoint
+75,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline and 12 months,Secondary Endpoint
+76,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline and 12 months,Secondary Endpoint
+77,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline and 12 months,Secondary Endpoint
+78,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline and 12 months,Secondary Endpoint
+79,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline and 12 months,Secondary Endpoint
+80,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline and 12 months,Secondary Endpoint
+81,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline and 12 months,Secondary Endpoint
+82,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline and 12 months,Secondary Endpoint
+83,NCT03243136,Type2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,2004-2016,Primary Endpoint
+84,NCT01021865,Coronary Artery Disease|Diabetes Mellitus Type 2,Not Mentioned,Not Mentioned,Not Mentioned,Nov 2009-2011,Primary Endpoint
+85,NCT01021865,Coronary Artery Disease|Diabetes Mellitus Type 2,Not Mentioned,Not Mentioned,Not Mentioned,Nov 2009-2011,Secondary Endpoint
+86,NCT01055652,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,pharmacokinetics of dapagliflozin when administered alone or in combination with voglibose in Japanese patients with,Plasma samples will be collected through Visit 4 (up to 72 hours = 3 days after dose) for PK assessment for period 1. Plasma samples will be collected through Visit 7 (up to 72 hours = 3 days after dose) for PK assessment for period 2.,Primary Endpoint
+87,NCT01055652,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Japanese patients with,Plasma samples will be collected through Visit 4 (up to 72 hours = 3 days after dose) for PK assessment for period 1. Plasma samples will be collected through Visit 7 (up to 72 hours = 3 days after dose) for PK assessment for period 2.,Secondary Endpoint
+88,NCT01055652,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,"AUC0-t, tmax,",Plasma samples will be collected through Visit 4 (up to 72 hours = 3 days after dose) for PK assessment for period 1. Plasma samples will be collected through Visit 7 (up to 72 hours = 3 days after dose) for PK assessment for period 2.,Secondary Endpoint
+89,NCT04005261,Type 2 Diabetes Treated With Insulin,Not Mentioned,Not Mentioned,fasting C-peptide concentrations,3 months,Primary Endpoint
+90,NCT04005261,Type 2 Diabetes Treated With Insulin,Correlations of,C,patients characteristics,3 months,Primary Endpoint
+91,NCT00612794,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,10 weeks,Primary Endpoint
+92,NCT00612794,Type 2 Diabetes,Not Mentioned,Not Mentioned,pharmacokinetics of exenatide administered once weekly by SC injection,10 weeks,Secondary Endpoint
+93,NCT00612794,Type 2 Diabetes,HbA1c,Not Mentioned,postprandial glucose concentrations,10 weeks,Secondary Endpoint
+94,NCT01727349,Type 2 Diabetes,Measure,Not Mentioned,Not Mentioned,"participants will be followed from the moment where they sign consent form and until they have sent back questionnary and done the blood test, an expected average of 4 weeks",Primary Endpoint
+95,NCT00239187,Type 2 Diabetes,Not Mentioned,Not Mentioned,G1,nan,Primary Endpoint
+96,NCT00239187,Type 2 Diabetes,Not Mentioned,Not Mentioned,G1,nan,Secondary Endpoint
+97,NCT01073020,Type 2 Diabetes Mellitus|Obesity,Not Mentioned,Not Mentioned,HbA1c,3 years,Primary Endpoint
+98,NCT01073020,Type 2 Diabetes Mellitus|Obesity,"Control, as",Not Mentioned,Not Mentioned,3 years,Secondary Endpoint
+99,NCT01073020,Type 2 Diabetes Mellitus|Obesity,Cardiovascular Risk,Not Mentioned,Not Mentioned,3 years,Secondary Endpoint
+100,NCT01249677,Type 2 Diabetes,Improvements,Not Mentioned,Not Mentioned,8 weeks,Primary Endpoint
+101,NCT01085292,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,patients with,4 weeks,Primary Endpoint
+102,NCT01085292,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,patients with,4 weeks,Secondary Endpoint
+103,NCT01182935,Type 2 Diabetes,Number of subjects,Not Mentioned,Not Mentioned,At study enrollment in 2010,Primary Endpoint
+104,NCT01182935,Type 2 Diabetes,Not Mentioned,serum,blood glucose levels,At study enrollment in 2010,Secondary Endpoint
+105,NCT02205996,Type 2 Diabetes Mellitus,2000,Not Mentioned,C-reactive protein),Up to 24h after euglycaemic hypoglycaemic clamp,Secondary Endpoint
+106,NCT00240253,Type 2 Diabetes Mellitus,Not Mentioned,safety,regimen of insulin glargine in subjects with,16 Weeks,Primary Endpoint
+107,NCT00240253,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,patient-reported outcomes.,16 Weeks,Secondary Endpoint
+108,NCT00982371,Type 2 Diabetes Mellitus,"Calcium, vitamin",Not Mentioned,total body; physical activity,baseline,Secondary Endpoint
+109,NCT04031417,Type 2 Diabetes,Not Mentioned,Not Mentioned,rank test,Change from Baseline to 2 hours,Primary Endpoint
+110,NCT01284465,Type 2 Diabetes,Not Mentioned,Not Mentioned,self-management behaviors,"baseline, 3, 6, 9 and 12 months",Secondary Endpoint
+111,NCT02226822,Type 2 Diabetes Mellitus,Classes of diabetic,changes,Not Mentioned,3 years,Primary Endpoint
+112,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,baseline,blood glucose target goals,"At 6, 12, 24, 36 month from enrollment",Secondary Endpoint
+113,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,baseline,Blood glucose level change from,"At 6, 12, 24, 36 month from enrollment",Secondary Endpoint
+114,NCT02226822,Type 2 Diabetes Mellitus,change,baseline,Body,"At 6, 12, 24, 36 month from enrollment",Secondary Endpoint
+115,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,baseline,Blood pressure,"At 6, 12, 24, 36 month from enrollment",Secondary Endpoint
+116,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,baseline,Not Mentioned,"At 6, 12, 24, 36 month from enrollment",Secondary Endpoint
+117,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Incidence,"At 6, 12, 24, 36 month from enrollment",Secondary Endpoint
+118,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Hypoglycemia,"At 6, 12, 24, 36 month from enrollment",Secondary Endpoint
+119,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,physical activity level,"At 6, 12, 24, 36 month from enrollment",Secondary Endpoint
+120,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,Initiation,patients using insulin,"At 6, 12, 24, 36 month from enrollment",Secondary Endpoint
+121,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Switching of anti-diabetic medications,"At 6, 12, 24, 36 month from enrollment",Secondary Endpoint
+122,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,line,Not Mentioned,"At 6, 12, 24, 36 month from enrollment",Secondary Endpoint
+123,NCT02226822,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Incidence,"At 6, 12, 24, 36 month from enrollment",Secondary Endpoint
+124,NCT01869608,Type 2 Diabetes,Not Mentioned,Not Mentioned,Diagnosis of abnormal glucose tolerance,12 weeks postpartum,Primary Endpoint
+125,NCT01184768,Type 2 Diabetes,Number of subjects,Not Mentioned,Not Mentioned,Up to 2 years after participation in the 6th Tromso study,Primary Endpoint
+126,NCT01184768,Type 2 Diabetes,Number of subjects,Not Mentioned,Not Mentioned,Up to 2 years after participation in the 6th Tromso study,Secondary Endpoint
+127,NCT01184768,Type 2 Diabetes,Number of subjects,Not Mentioned,Not Mentioned,Up to 2 years after participation in the 6th Tromso study,Secondary Endpoint
+128,NCT01184768,Type 2 Diabetes,Not Mentioned,Not Mentioned,D status on glucose tolerance,Up to 2 years after participation in the 6th Tromso study,Secondary Endpoint
+129,NCT01010035,Type 2 Diabetes Mellitus,Not Mentioned,patients,Not Mentioned,day of test,Primary Endpoint
+130,NCT01237301,Type 2 Diabetes,Change in Hemoglobin,Not Mentioned,Not Mentioned,2 week baseline to 16 week final,Primary Endpoint
+131,NCT01237301,Type 2 Diabetes,Not Mentioned,Not Mentioned,Diurnal Median Curve),16 weeks,Secondary Endpoint
+132,NCT01237301,Type 2 Diabetes,Change,Baseline,CGM Glucose,Baseline and 16 weeks,Secondary Endpoint
+133,NCT01088711,Type 2 Diabetes (T2D),Number of Participants,Not Mentioned,Not Mentioned,Up to Day 36,Primary Endpoint
+134,NCT01088711,Type 2 Diabetes (T2D),Number of Participants,Not Mentioned,Not Mentioned,Up to Day 22,Primary Endpoint
+135,NCT01088711,Type 2 Diabetes (T2D),Not Mentioned,Not Mentioned,After Day 15,168 hours post-dose on Day 15,Secondary Endpoint
+136,NCT01088711,Type 2 Diabetes (T2D),Not Mentioned,Not Mentioned,After Day 22,168 hours post dose on Day 22,Secondary Endpoint
+137,NCT01088711,Type 2 Diabetes (T2D),Not Mentioned,Not Mentioned,Active Glucagon-like Peptide-1 (GLP-1),Through 4 hours post dose on Day 21,Secondary Endpoint
+138,NCT01088711,Type 2 Diabetes (T2D),Not Mentioned,Not Mentioned,Total GLP-1 Concentration,Through 4 hours post dose on Day 21,Secondary Endpoint
+139,NCT01088711,Type 2 Diabetes (T2D),Not Mentioned,Not Mentioned,Plasma Glucose,Through 4 hours post dose on Day 21,Secondary Endpoint
+140,NCT03214380,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 26,Primary Endpoint
+141,NCT03214380,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,During Mixed-Meal Tolerance Test (MMTT),Week 26,Secondary Endpoint
+142,NCT03214380,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Not Mentioned,2-hour PPG,Secondary Endpoint
+143,NCT03214380,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Rate of Severe Hypoglycemia,Baseline through Week 26,Secondary Endpoint
+144,NCT03214380,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Rate of Documented Symptomatic Hypoglycemia,Baseline through Week 26,Secondary Endpoint
+145,NCT03214380,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 26,Secondary Endpoint
+146,NCT03214380,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 26,Secondary Endpoint
+147,NCT03214380,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 26,Secondary Endpoint
+148,NCT03214380,Type 2 Diabetes Mellitus,Change,Baseline,Questionnaire (ITSQ) Regimen Inconvenience Domain Score at,Week 26,Secondary Endpoint
+149,NCT03214380,Type 2 Diabetes Mellitus,Change,Baseline,Lifestyle Flexibility Domain Score at,Week 26,Secondary Endpoint
+150,NCT03214380,Type 2 Diabetes Mellitus,Number of Participants,Not Mentioned,Not Mentioned,<7%,Secondary Endpoint
+151,NCT02322762,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,real-world setting.,Up to 3 Years,Primary Endpoint
+152,NCT02322762,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,blood pressure.,Up to 3 years,Secondary Endpoint
+153,NCT02322762,Type 2 Diabetes Mellitus,Changes,Not Mentioned,Not Mentioned,Up to 3 years,Secondary Endpoint
+154,NCT02322762,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Incidence,Up to 3 years,Secondary Endpoint
+155,NCT02322762,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Quality of Life,Up to 3 years,Secondary Endpoint
+156,NCT02322762,Type 2 Diabetes Mellitus,Use of Healthcare,Not Mentioned,Not Mentioned,Up to 3 years,Secondary Endpoint
+157,NCT00888836,Type 2 Diabetes,Not Mentioned,mellitus,total remission of type,10 years,Primary Endpoint
+158,NCT00888836,Type 2 Diabetes,Secondary endpoints,Not Mentioned,quality of life,10 years,Secondary Endpoint
+159,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,Not Mentioned,serum vitamin B12 levels between cases,Baseline,Primary Endpoint
+160,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,Not Mentioned,serum vitamin,Baseline,Primary Endpoint
+161,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,Not Mentioned,serum vitamin B6 concentrations,Baseline,Primary Endpoint
+162,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,Not Mentioned,serum vitamin B12 between patients with,Baseline,Secondary Endpoint
+163,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,urine,patients with,Baseline,Secondary Endpoint
+164,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,urine,patients with,Baseline,Secondary Endpoint
+165,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",Not Mentioned,urine,vascular risk,Baseline,Secondary Endpoint
+166,NCT00451620,Type 2 Diabetes,Not Mentioned,Not Mentioned,postprandial glucose levels in elderly people with,2 hours,Primary Endpoint
+167,NCT01845064,Diabetes Type 2,Not Mentioned,Not Mentioned,pharmacokinetic of DM199 after single,Up to 3 days after final dose,Primary Endpoint
+168,NCT01845064,Diabetes Type 2,Not Mentioned,patients,Not Mentioned,"Part C, Day -1 and 14; Part D, Days -1, 14 and 28",Secondary Endpoint
+169,NCT01845064,Diabetes Type 2,Not Mentioned,Not Mentioned,Assess formation of ADA,"Part C, Day -1 and 42; Part D, Day -1 and 35",Secondary Endpoint
+170,NCT01845064,Diabetes Type 2,Not Mentioned,Not Mentioned,Determine changes,"Part C, Day -1 and 15; Part D, Day -1 and 29",Secondary Endpoint
+171,NCT02104804,Type 2 Diabetes Mellitus,Change in HbA1c,Baseline,Not Mentioned,Week 24,Primary Endpoint
+172,NCT02104804,Type 2 Diabetes Mellitus,Change in Postprandial,Baseline,Not Mentioned,Week 24,Secondary Endpoint
+173,NCT02104804,Type 2 Diabetes Mellitus,Analysis of Change,Baseline,Not Mentioned,Week 24,Secondary Endpoint
+174,NCT02104804,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Therapeutic Glycaemic Response of HbA1c,At Week 24,Secondary Endpoint
+175,NCT02104804,Type 2 Diabetes Mellitus,Change,Baseline,Average of Weeks 20,Baseline to Average of Weeks 20 and 24,Secondary Endpoint
+176,NCT02104804,Type 2 Diabetes Mellitus,Analysis of Change,Not Mentioned,Total Daily Dose of Insulin From Baseline,Week 24,Secondary Endpoint
+177,NCT00787670,Obesity|Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,loss decreases the risk of CVD,"0, 6, 12 months",Primary Endpoint
+178,NCT00787670,Obesity|Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,risk of CVD in morbidly obese subjects with T2DM.,"0, 6, 12 months",Secondary Endpoint
+179,NCT01933256,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Not Mentioned,Adverse Events / vitals are monitored at each study visit between Days -9 and 84.,Primary Endpoint
+180,NCT03406910,Type 2 Diabetes|Heart Diseases,Not Mentioned,Not Mentioned,Not Mentioned,Change between baseline and 5 Years of follow up,Primary Endpoint
+181,NCT01649466,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,patients reaching HbA1c below 7.0% without confirmed hypoglycemia,24 weeks,Primary Endpoint
+182,NCT01649466,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Rate of confirmed hypoglycemic events,24 weeks,Primary Endpoint
+183,NCT01649466,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,blood glucose target (HbA1c below 7.0%),24 weeks,Secondary Endpoint
+184,NCT01649466,Type 2 Diabetes Mellitus,Change,baseline,Not Mentioned,24 weeks,Secondary Endpoint
+185,NCT01649466,Type 2 Diabetes Mellitus,Change,baseline,Not Mentioned,24 weeks,Secondary Endpoint
+186,NCT01649466,Type 2 Diabetes Mellitus,Change,baseline,Medication (TSQM-9),24 week,Secondary Endpoint
+187,NCT03464812,Type2 Diabetes,Not Mentioned,Not Mentioned,self-care,At baseline and repeated after approximately 4 months,Secondary Endpoint
+188,NCT03464812,Type2 Diabetes,Not Mentioned,Not Mentioned,referring provider satisfaction,Approximately at 4 months from the start of the study.,Secondary Endpoint
+189,NCT02501876,Alzheimer´s Disease|Diabetes Mellitus Type 2,Not Mentioned,Not Mentioned,Alzheimer's disease (AD),6 months,Primary Endpoint
+190,NCT02501876,Alzheimer´s Disease|Diabetes Mellitus Type 2,Not Mentioned,Not Mentioned,Alzheimer's disease (AD),4 months,Secondary Endpoint
+191,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System",Modification,Not Mentioned,Not Mentioned,90 days,Primary Endpoint
+192,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System",Modification,profile,administration of Acetylsalicylic Acid,90 days,Secondary Endpoint
+193,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System",Not Mentioned,Modification,administration of Acetylsalicylic Acid,90 days,Secondary Endpoint
+194,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System",Modification,Not Mentioned,administration of Acetylsalicylic acid,90 days,Secondary Endpoint
+195,NCT04214600,Type 2 Diabetes|Depression,Change of Glycated,Not Mentioned,Cognitive Behavioral Therapy Sessions,Baseline and 3 months,Primary Endpoint
+196,NCT04214600,Type 2 Diabetes|Depression,Change of Depression,Not Mentioned,Depression Index,baseline and 3 months,Secondary Endpoint
+197,NCT01037647,Type 2 Diabetes,Not Mentioned,Not Mentioned,VLDL-TG production,nan,Primary Endpoint
+198,NCT00103935,Type 2 Diabetes Mellitus,Not Mentioned,safety,pharmacokinetics of exenatide long-acting release (LAR) administered weekly by subcutaneous (SC),"Time intervals: 0 min to 12 hours on Day 1 for a duration of 12 hours, from Day 1; 0 mininutes to Week 1 for a duration of 168 hours, and from Week 14 to Week 15 for a duration of 168 hours",Primary Endpoint
+199,NCT00103935,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,parameters of exenatide LAR administered weekly,Various time intervals from Day 1 to Week 15,Secondary Endpoint
+200,NCT00103935,Type 2 Diabetes Mellitus,Change in HbA1c,Baseline,Not Mentioned,"Day -3, Day 1, Weeks 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 15, 16, 17, 18, 19, 27",Secondary Endpoint
+201,NCT00103935,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,27),Secondary Endpoint
+202,NCT00103935,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,27),Secondary Endpoint
+203,NCT00103935,Type 2 Diabetes Mellitus,Change,Not Mentioned,seven-point glucose concentrations from Baseline,14 and Week 15,Secondary Endpoint
+204,NCT00525330,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,12-weeks,Primary Endpoint
+205,NCT00525330,Type 2 Diabetes,Not Mentioned,Not Mentioned,fasting plasma glucose (FPG)-lowering effect of KRP-104 in patients with,12-weeks,Secondary Endpoint
+206,NCT00525330,Type 2 Diabetes,Not Mentioned,setting,insulin sensitivity (homeostasis model index,12 weeks,Secondary Endpoint
+207,NCT01977560,Type 2 Diabetes,Control,Not Mentioned,Not Mentioned,8 months,Primary Endpoint
+208,NCT01977560,Type 2 Diabetes,Neuronal Function,Not Mentioned,Not Mentioned,8 months,Secondary Endpoint
+209,NCT01278823,Obesity|Type 2 Diabetes,Not Mentioned,patients,Not Mentioned,12 months,Primary Endpoint
+210,NCT01278823,Obesity|Type 2 Diabetes,Not Mentioned,patients,pancreatic beta cell,12 months,Secondary Endpoint
+211,NCT01580475,Type 2 Diabetes,Changes,baseline,retraining (9 months),"Changes from baseline in HbA1C, FPG and PPG at training (9 months), detraining (11 months) and retraining (21 months)",Primary Endpoint
+212,NCT01580475,Type 2 Diabetes,Not Mentioned,Evaluation,Not Mentioned,"Changes from baseline in body composition assessment at training (9 months), detraining (3 months), retraining (9 months)",Secondary Endpoint
+213,NCT01580475,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,"Changes from baseline in muscular strength at training (9 months), detraining (11 months) and retraining (21 months)",Secondary Endpoint
+214,NCT00108004,Type 1 Diabetes Mellitus|Type 2 Diabetes Mellitus,Not Mentioned,safety,Not Mentioned,6 months,Primary Endpoint
+215,NCT00108004,Type 1 Diabetes Mellitus|Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Not Mentioned,6 months,Primary Endpoint
+216,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood glucose,Day -1 (baseline) to Day 28,Primary Endpoint
+217,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood glucose,Day -1 (baseline) to Day 14,Secondary Endpoint
+218,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood fasting plasma glucose level,"Day -1 (baseline) to Days 7, 14, 21, 28",Secondary Endpoint
+219,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood plasma glucose level,Day -1 (baseline) to Days 14 and 28,Secondary Endpoint
+220,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood insulin level,Day -1 (baseline) to Days 14 and 28,Secondary Endpoint
+221,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood C-peptide level,Day -1 (baseline) to Days 14 and 28,Secondary Endpoint
+222,NCT02222350,Type 2 Diabetes Mellitus,change,level,Not Mentioned,Day -1 (baseline) to Days 14 and 28,Secondary Endpoint
+223,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood PYY level,Day -1 (baseline) to Days 14 and 28,Secondary Endpoint
+224,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood HbA1c level,Day -1 (baseline) to Days 14 and 28,Secondary Endpoint
+225,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,blood glycoalbumin level,Day -1 (baseline) to Days 14 and 28,Secondary Endpoint
+226,NCT02222350,Type 2 Diabetes Mellitus,Number of subjects,Not Mentioned,Not Mentioned,Day -1 (baseline) to Day 28,Secondary Endpoint
+227,NCT02222350,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,pharmacokinetic profile of DS-8500a,Day -1 (baseline) to Day 28,Secondary Endpoint
+228,NCT02222350,Type 2 Diabetes Mellitus,change,Not Mentioned,plasma glucose level,Day -1 (baseline) to Days 14 and 28,Secondary Endpoint
+229,NCT00922649,Type 2 Diabetes,Not Mentioned,Not Mentioned,Insulin,Week 16,Primary Endpoint
+230,NCT00922649,Type 2 Diabetes,Not Mentioned,Ratio,Not Mentioned,Week 16,Primary Endpoint
+231,NCT00922649,Type 2 Diabetes,Number of daily,Not Mentioned,Not Mentioned,Week 16,Primary Endpoint
+232,NCT00922649,Type 2 Diabetes,Not Mentioned,Not Mentioned,A1C (Hemoglobin A1c),Week 16,Secondary Endpoint
+233,NCT00922649,Type 2 Diabetes,CGM Glucose,Not Mentioned,Not Mentioned,End of study,Secondary Endpoint
+234,NCT00922649,Type 2 Diabetes,Change,baseline,16,Week 16,Secondary Endpoint
+235,NCT03324776,Type2 Diabetes,Not Mentioned,baseline,Not Mentioned,3 months,Primary Endpoint
+236,NCT03324776,Type2 Diabetes,Not Mentioned,Not Mentioned,patients having HbA1c,3 months,Secondary Endpoint
+237,NCT03324776,Type2 Diabetes,Not Mentioned,Not Mentioned,Blood glucose (BG),3 months,Secondary Endpoint
+238,NCT04163757,Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,12 weeks,Primary Endpoint
+239,NCT00971659,Type 2 Diabetes,Not Mentioned,Not Mentioned,blood glucose excursion (AUCBG0-6h),after 4 weeks of treatment,Primary Endpoint
+240,NCT00971659,Type 2 Diabetes,Not Mentioned,Not Mentioned,"self-measured 7-point BG profiles, percentage of subjects achieving ADA HbA1c treatment goals, fasting lipid",after 4 weeks of treatment,Secondary Endpoint
+241,NCT01607294,Hyperlipidemia|Type 2 Diabetes,Not Mentioned,Not Mentioned,LDL-C lowering efficacy of ETC-1002 versus placebo in subjects with,4 weeks,Primary Endpoint
+242,NCT01607294,Hyperlipidemia|Type 2 Diabetes,Not Mentioned,Not Mentioned,insulin,4 weeks,Secondary Endpoint
+243,NCT01607294,Hyperlipidemia|Type 2 Diabetes,Not Mentioned,Not Mentioned,Not Mentioned,4 weeks,Secondary Endpoint
+244,NCT00299871,Type 2 Diabetes,Not Mentioned,baseline,HbA1c,13 weeks,Primary Endpoint
+245,NCT00299871,Type 2 Diabetes,Not Mentioned,Fructosamine,"C-peptide, glucagon.",nan,Secondary Endpoint
+246,NCT00631774,Type 2 Diabetes|Obesity,Not Mentioned,Not Mentioned,Not Mentioned,24 weeks,Primary Endpoint
+247,NCT00631774,Type 2 Diabetes|Obesity,Not Mentioned,based,quality of life,24 weeks,Secondary Endpoint
+248,NCT04072523,Type 2 Diabetes,Not Mentioned,Correlation,Not Mentioned,1 day,Secondary Endpoint
+249,NCT02065544,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,HS-C Reactive Protein,6 months,Secondary Endpoint
+250,NCT02065544,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Aerobic Fitness,6 months,Secondary Endpoint
+251,NCT00837408,Diabetes|Hypertension,Not Mentioned,Not Mentioned,Not Mentioned,Cross-sectional,Primary Endpoint
+252,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Not Mentioned,total mean glucose from continuous glucose monitoring,17 weeks,Primary Endpoint
+253,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Fructosamine,Not Mentioned,17 weeks,Secondary Endpoint
+254,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Not Mentioned,HbA1c,17 weeks,Secondary Endpoint
+255,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Not Mentioned,Blood volume,4 hours,Secondary Endpoint
+256,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Coefficient,Not Mentioned,Not Mentioned,17 weeks,Secondary Endpoint
+257,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Not Mentioned,Blood Glucose Index,17 weeks,Secondary Endpoint
+258,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Not Mentioned,Blood Glucose Index,17 weeks,Secondary Endpoint
+259,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Not Mentioned,Not Mentioned,range below 3.9 mmol/l,17 weeks,Secondary Endpoint
+260,NCT00477581,Type 2 Diabetes Mellitus,Assessment of,Not Mentioned,Not Mentioned,6-point self-monitored blood glucose (SMBG),Secondary Endpoint
+261,NCT00799643,Type 2 Diabetes Mellitus,Change in HbA1c,Compared,Not Mentioned,48 weeks from baseline,Primary Endpoint
+262,NCT00799643,Type 2 Diabetes Mellitus,Change,Baseline,Fasting Glucose,48 weeks from baseline,Secondary Endpoint
+263,NCT00799643,Type 2 Diabetes Mellitus,Not Mentioned,Reduction,HbA1c,24 and 48 weeks,Secondary Endpoint
+264,NCT00799643,Type 2 Diabetes Mellitus,Change in Lipids,Not Mentioned,LDL-C/HDL-C Ratio),48 weeks,Secondary Endpoint
+265,NCT00799643,Type 2 Diabetes Mellitus,Changes,Not Mentioned,"Differential, High-sensitivity C Reactive Protein (hsCRP)",24 and 48 weeks,Secondary Endpoint
+266,NCT00799643,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Discontinuation of Study Medication,24 and 48 weeks,Secondary Endpoint
+267,NCT00799643,Type 2 Diabetes Mellitus,"Secretagogue, Metformin",Not Mentioned,Combination Therapy,24 and 48 weeks,Secondary Endpoint
+268,NCT01640873,Type 2 Diabetes,Number of Participants,Not Mentioned,Adverse Events,Up to 14 days after the last dose of study drug (Up to 31 days),Primary Endpoint
+269,NCT01640873,Type 2 Diabetes,Number of Participants,Not Mentioned,Adverse Event,Up to 17 days,Primary Endpoint
+270,NCT01640873,Type 2 Diabetes,Not Mentioned,Not Mentioned,Fasting Plasma Glucose (FPG),Day 16 (Predose),Primary Endpoint
+271,NCT01640873,Type 2 Diabetes,Concentrations,Not Mentioned,After Single and Multiple Drug Doses,"24 hours post dose on Days 1, 7, and 14",Secondary Endpoint
+272,NCT01640873,Type 2 Diabetes,Not Mentioned,Not Mentioned,Weighted,"Day 15: Predose, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 18, 21, 23 hours post-dose.",Secondary Endpoint
+273,NCT01640873,Type 2 Diabetes,Change,Baseline,Not Mentioned,2 Hours Oral Glucose Tolerance Test,Secondary Endpoint
+274,NCT01159249,Type 2 Diabetes,Not Mentioned,AEs,Not Mentioned,52 weeks,Primary Endpoint
+275,NCT01159249,Type 2 Diabetes,Not Mentioned,Not Mentioned,Fasting Plasma Glucose,52 weeks,Secondary Endpoint
+276,NCT01159249,Type 2 Diabetes,Not Mentioned,Not Mentioned,Fasting Insulin,52 weeks,Secondary Endpoint
+277,NCT01159249,Type 2 Diabetes,Not Mentioned,Not Mentioned,Fasting C,52 weeks,Secondary Endpoint
+278,NCT00106808,Type 2 Diabetes Mellitus,Change in HBA1c,baseline,Not Mentioned,Week 24,Primary Endpoint
+279,NCT04176276,Diabetic Kidney Disease|Type2 Diabetes,Not Mentioned,Not Mentioned,Serum expression of miR-192,Each patients will be assessed at baseline.,Primary Endpoint
+280,NCT04176276,Diabetic Kidney Disease|Type2 Diabetes,Not Mentioned,Not Mentioned,Serum expression of miR-25,Each patients will be assessed at baseline.,Primary Endpoint
+281,NCT04176276,Diabetic Kidney Disease|Type2 Diabetes,Not Mentioned,Urine,Not Mentioned,Each patients will be assessed at baseline.,Primary Endpoint
+282,NCT04176276,Diabetic Kidney Disease|Type2 Diabetes,Not Mentioned,Urine,Not Mentioned,Each patients will be assessed at baseline.,Primary Endpoint
+283,NCT03902288,Patients With Type 2 Diabetes (FSG: More Than 7.1 and Not Higher Than 15.8 mmol/L),Not Mentioned,Not Mentioned,Fasting serum glucose measurement,1 - 3 hours,Primary Endpoint
+284,NCT03902288,Patients With Type 2 Diabetes (FSG: More Than 7.1 and Not Higher Than 15.8 mmol/L),Not Mentioned,Not Mentioned,Serum total antioxidant activity measurement,1 - 3 hours,Secondary Endpoint
+285,NCT03538743,Type 2 Diabetes Mellitus,Number of Participants,Not Mentioned,All-causality,From baseline to up to 35 days after last dose for a total of approximately 63 days,Primary Endpoint
+286,NCT03538743,Type 2 Diabetes Mellitus,Number of Participants,Not Mentioned,Laboratory Abnormalities Without Regard to Baseline,From baseline to up to 14 days after last dose for a total of approximately 42 days,Primary Endpoint
+287,NCT03538743,Type 2 Diabetes Mellitus,Number of Participants,Not Mentioned,Abnormal Vital Signs,From baseline to up to 14 days after last dose for a total of approximately 42 days,Primary Endpoint
+288,NCT03538743,Type 2 Diabetes Mellitus,Number of Participants,Not Mentioned,Abnormal Electrocardiogram (ECG) Interval,From baseline to up to 14 days after last dose for a total of approximately 42 days,Primary Endpoint
+289,NCT03538743,Type 2 Diabetes Mellitus,AUC24,Not Mentioned,AUCtau of PF-06882961 on Day 1,14 or 21,Secondary Endpoint
+290,NCT03538743,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Maximum Plasma Concentration (Cmax),14 or 21,Secondary Endpoint
+291,NCT03538743,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Not Mentioned,14 or 21,Secondary Endpoint
+292,NCT03538743,Type 2 Diabetes Mellitus,Amount of Unchanged,Not Mentioned,Hours (Ae24),0 to 24 hours post-dose on Day 28,Secondary Endpoint
+293,NCT03538743,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Ae24 (%),0 to 24 hours post-dose on Day 28,Secondary Endpoint
+294,NCT01472185,Type 2 Diabetes Mellitus,Change,Baseline,HbA1c,Week 24,Primary Endpoint
+295,NCT01472185,Type 2 Diabetes Mellitus,Change,Baseline,Fasting Serum Glucose,Week 24,Secondary Endpoint
+296,NCT01472185,Type 2 Diabetes Mellitus,Percentage of Participants,Not Mentioned,Not Mentioned,Week 24,Secondary Endpoint
+297,NCT01472185,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 24,Secondary Endpoint
+298,NCT01472185,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 24,Secondary Endpoint
+299,NCT01494987,Type 2 Diabetes Mellitus,Change,Baseline,HbA1c,Week 24,Primary Endpoint
+300,NCT01494987,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 24,Secondary Endpoint
+301,NCT01494987,Type 2 Diabetes Mellitus,Change,Baseline,Fasting Serum Glucose,Week 24,Secondary Endpoint
+302,NCT01494987,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Week 24,Secondary Endpoint
+303,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (iAUC -15 - 360 min).,"Prior to the pre meal (-15 min), prior to the main meal (0 min) and 60, 90, 120, 180, 240 and 360 min post main meal",Primary Endpoint
+304,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (iAUC -15 - 360 min).,"Prior to the pre meal (-15 min), prior to the main meal (0 min) and 120, 240 and 360 min post main meal",Primary Endpoint
+305,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (AUC -15 - 360 min),"Prior to the pre meal -15 min, -10 min, prior to the main meal (0 min) and 15, 30, 60, 90, 120, 240 and 360 min post main meal",Secondary Endpoint
+306,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (AUC -15 - 360 min),"Prior to the pre meal -15 min, -10 min, prior to the main meal (0 min) and 15, 30, 60, 90, 120, 240 and 360 min post main meal",Secondary Endpoint
+307,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (AUC -15 - 360 min),"Prior to the pre meal -15 min, -10 min, prior to the main meal (0 min) and 15, 30, 60, 90, 120, 240 and 360 min post main meal",Secondary Endpoint
+308,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (AUC -15 - 360 min),"Prior to the pre meal -15 min, -10 min, prior to the main meal (0 min) and 15, 30, 60, 90, 120, 240 and 360 min post main meal",Secondary Endpoint
+309,NCT02343471,Healthy|Type 2 Diabetes,Not Mentioned,Not Mentioned,Curve (AUC -15 - 360 min).,"Prior to the pre meal -15 min, -10 min, prior to the main meal (0 min) and 15, 30, 60, 90, 120, 240 and 360 min post main meal",Secondary Endpoint
+310,NCT01755468,Type 2 Diabetes,Not Mentioned,Baseline,Secretion-Sensitivity Index-2 (ISSI-2).,2 years,Primary Endpoint
+311,NCT01755468,Type 2 Diabetes,Not Mentioned,Baseline,Not Mentioned,2-years,Secondary Endpoint
+312,NCT04363710,Type 2 Diabetes Mellitus in Obese,Not Mentioned,percentage,HbA1c,up to 24 weeks,Primary Endpoint
+313,NCT04363710,Type 2 Diabetes Mellitus in Obese,Not Mentioned,liter,Fasting Insulin Level,up to 24 weeks,Primary Endpoint
+314,NCT04363710,Type 2 Diabetes Mellitus in Obese,Not Mentioned,BMI,Weight,up to 24 weeks,Primary Endpoint
+315,NCT00562029,Type 2 Diabetes Mellitus,Not Mentioned,Resolution,Not Mentioned,One year,Primary Endpoint

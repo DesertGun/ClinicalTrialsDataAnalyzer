@@ -120,6 +120,7 @@ export default {
       autocompleteReference: [],
       autocompleteVariable: [],
       autocompleteTimepoint: [],
+      autocompleteCondition: [],
       change: '',
       variable: '',
       reference: '',
