@@ -3,7 +3,7 @@ from flask_cors import CORS
 from flask import request
 import threading, time, datetime, re, glob, os
 from update_database import download_data
-from data_process import export_results
+from ner_processing import create_results
 import pandas as pd
 import json
 
@@ -48,10 +48,12 @@ def activate_update_job():
 
             while update_needed:
                 print("Run update task")
-                download_data()
+                # download_data()
+                create_results()
                 update_needed = False
-                os.remove(filename) 
+                # os.remove(filename) 
                 time.sleep(3)
+                print("Finished updates")
         else:
             print("No Update Needed")
 
