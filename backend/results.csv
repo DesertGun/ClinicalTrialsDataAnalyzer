@@ -1,418 +1,373 @@
 Index,NCTId,Condition,Change,Reference,Variable,Timepoint,Endpoint Art
-0,NCT01814787,Type 2 Diabetes,Number Of Children With Documented Risk Factors For Type 2 Diabetes,Not Mentioned,Not Mentioned,12 Months,Primary Endpoint
-1,NCT01814787,Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-2,NCT01346033,Type 2 Diabetes,Validation Of Scout Ds Algorithm For Detecting Known Type 2 Diabetes,Not Mentioned,Not Mentioned,1 Day,Primary Endpoint
-3,NCT01346033,Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-4,NCT04765631,Type 2 Diabetes,"The Main Outcome Is The Comparison Of Total Volumetric Bone Mineral Density (Vbmd) At The Tibia And Distal Radius, In Type 2 Diabetics Compared To Non-Diabetic Subjects.",Not Mentioned,Not Mentioned,At Inclusion For Qualyor Patients. (The Hrpqct Measure Considered In This Study Is Realised At The First Visit Just After Inclusion Of The Patient For The Qualyor Patients),Primary Endpoint
-5,NCT04765631,Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-6,NCT03979768,Type2 Diabetes,Number Of Participants With Undiagnosed Type 2 Diabetes,Not Mentioned,Not Mentioned,2 Months,Primary Endpoint
-7,NCT03979768,Type2 Diabetes,Explore If There Was Any Difference In The Number Of Participants With A High Risk Of Developing Type 2 Diabetes In The Risk Test Only (Rto)- Group And The Group That Also Offered A Hba1C-Measurement (Hba1C-Group),Not Mentioned,Not Mentioned,Baseline,Secondary Endpoint
-8,NCT02286128,Type 2 Diabetes,Correlation Between Nf-Кb Dependent-Proinflammation Markers And Osteoblast-Specific Gene Expression In The Msc To Measure The Effects Of Nf-Кb Dependent-Proinflammation On Differentiation Potential Toward Osteoblast In Type 2 Diabetes.,Not Mentioned,Not Mentioned,2-4 Weeks,Primary Endpoint
-9,NCT02286128,Type 2 Diabetes,Correlation Between Nf-Кb Dependent-Proinflammation Markers And Apoptotic Marker Expression In The Msc To Measure Effects Of Nf-Кb Dependent-Proinflammation On Cellular Apoptosis In Type 2 Diabetes.,Not Mentioned,Not Mentioned,2-4 Weeks,Secondary Endpoint
-10,NCT02286128,Type 2 Diabetes,Correlation Between Nf-Кb Dependent-Proinflammation Markers And The Expression Of Rage And Its Downstream Signals In The Msc To Measure Effects Of Nf-Кb Dependent-Proinflammation On Cellular Rage Activation In Type 2 Diabetes.,Not Mentioned,Not Mentioned,2-4 Weeks,Secondary Endpoint
-11,NCT03362762,Type 2 Diabetes Treated With Insulin,"Characteristic Of Type 2 Diabetes Patients, Treated With Insulin In Guadeloupe",Not Mentioned,Not Mentioned,"Trough Study Completion, An Average Of 2 Years",Primary Endpoint
-12,NCT03362762,Type 2 Diabetes Treated With Insulin,Describe The Relation Between The Rate Of Hbac And The Plan Of Insulinothérapie,Not Mentioned,Not Mentioned,"Trough Study Completion, An Average Of 2 Years",Secondary Endpoint
-13,NCT01920256,Type 2 Diabetes,Change In Baseline A1C (Glycated Hemoglobin) At 12 Months,Not Mentioned,Not Mentioned,12 Months,Primary Endpoint
-14,NCT01920256,Type 2 Diabetes,Change In Baseline Lipids At 12 Months,Not Mentioned,Not Mentioned,12 Months,Secondary Endpoint
-15,NCT01920256,Type 2 Diabetes,Change In Baseline Blood Pressure At 12 Months,Not Mentioned,Not Mentioned,12 Months,Secondary Endpoint
-16,NCT01920256,Type 2 Diabetes,All Cause Mortality,Not Mentioned,Not Mentioned,12 Months,Secondary Endpoint
-17,NCT01920256,Type 2 Diabetes,Acute Complications,Not Mentioned,Not Mentioned,12 Months,Secondary Endpoint
-18,NCT01920256,Type 2 Diabetes,Change In Baseline Quality Of Life At 12 Months,Not Mentioned,Not Mentioned,12 Months,Secondary Endpoint
-19,NCT01920256,Type 2 Diabetes,Change In Baseline Insulin Satisfaction At 12 Months,Not Mentioned,Not Mentioned,12 Months,Secondary Endpoint
-20,NCT03840850,Type 2 Diabetes Mellitus,"Feasibility Of Implementing The Intervention In Primary Care: Binary Outcome (Feasible / Not Feasible), As Judged By The Investigators",Not Mentioned,Not Mentioned,3 Months,Primary Endpoint
-21,NCT03840850,Type 2 Diabetes Mellitus,Recall Of Personalised Risk Information,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
-22,NCT03840850,Type 2 Diabetes Mellitus,Intentions To Make Lifestyle Changes,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
-23,NCT03840850,Type 2 Diabetes Mellitus,Change In Self-Management Behaviour,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
-24,NCT00392678,Type 2 Diabetes,Change In Hba1C Baseline To End Of Trial In Tinsal-T2D Stage 1,Not Mentioned,Not Mentioned,14 Week,Primary Endpoint
-25,NCT00392678,Type 2 Diabetes,Change In Hba1C,Not Mentioned,Not Mentioned,14 Week,Secondary Endpoint
-26,NCT00392678,Type 2 Diabetes,Change From Baseline And Trends In Fasting Glucose Over Time,Not Mentioned,Not Mentioned,14 Week,Secondary Endpoint
-27,NCT00392678,Type 2 Diabetes,Change In Lipids,Not Mentioned,Not Mentioned,14 Week,Secondary Endpoint
-28,NCT00392678,Type 2 Diabetes,"Change From Baseline In 14-Week Insulin, C-Peptide, Homeostasis Model [Homa] Index",Not Mentioned,Not Mentioned,"Baseline, Week 14",Secondary Endpoint
-29,NCT00392678,Type 2 Diabetes,Safety And Tolerability,Not Mentioned,Not Mentioned,14 Weeks,Secondary Endpoint
-30,NCT00392678,Type 2 Diabetes,"Change In Insulin, C-Peptide, Homeostasis Model [Homa] Index",Not Mentioned,Not Mentioned,"Baseline, Week 14",Secondary Endpoint
-31,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Change In Body Mass Index (Weight Status) At 6 Months And At 12 Months,Not Mentioned,Not Mentioned,"Baseline, 6 Months After Baseline, 12 Months After Baseline",Primary Endpoint
-32,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Metabolic Control (Hba1C),Not Mentioned,Not Mentioned,"Baseline, 6 Months After Baseline, 12 Months After Baseline",Secondary Endpoint
-33,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Treatment Adherence,Not Mentioned,Not Mentioned,"Baseline, 6 Months After Baseline, 12 Months After Baseline",Secondary Endpoint
-34,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Family Problem-Solving,Not Mentioned,Not Mentioned,"Baseline, 6 Month After Baseline",Secondary Endpoint
-35,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Physical Activity,Not Mentioned,Not Mentioned,"Baseline, 6 Months After Baseline",Secondary Endpoint
-36,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Body Fat (Weight Status),Not Mentioned,Not Mentioned,"Baseline, 6 Months After Baseline, 12 Months After Baseline",Secondary Endpoint
-37,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Waist Circumference (Weight Status),Not Mentioned,Not Mentioned,"Baseline, 6 Months After Baseline, 12 Months After Baseline",Secondary Endpoint
-38,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Food Intake,Not Mentioned,Not Mentioned,"Baseline, 6 Months After Baseline",Secondary Endpoint
-39,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Family Communication Skills,Not Mentioned,Not Mentioned,"Baseline, 6 Months After Baseline",Secondary Endpoint
-40,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Teen Self-Esteem,Not Mentioned,Not Mentioned,"Baseline, 6 Months After Baseline",Secondary Endpoint
-41,NCT03159221,"Diabetes Mellitus, Type 2|Childhood Obesity",Teen Quality Of Life,Not Mentioned,Not Mentioned,"Baseline, 6 Months After Baseline",Secondary Endpoint
-42,NCT00485758,Diabetes Mellitus Type 2,Percent Change At Week (Wk) 12 Compared To Baseline (Bl) In Low-Density Lipoprotein Cholesterol In Patients With Type 2 Diabetes When Compared To Placebo,Not Mentioned,Not Mentioned,Baseline And 12 Weeks,Primary Endpoint
-43,NCT00485758,Diabetes Mellitus Type 2,Percent Change At Week (Wk) 12 Compared To Baseline (Bl) In High Density Lipoprotein Cholesterol In Patients With Type 2 Diabetes When Compared To Placebo,Not Mentioned,Not Mentioned,Baseline And 12 Weeks,Secondary Endpoint
-44,NCT00485758,Diabetes Mellitus Type 2,Percent Change At Week (Wk) 12 Compared To Baseline (Bl) In Triglycerides In Patients With Type 2 Diabetes When Compared To Placebo,Not Mentioned,Not Mentioned,Baseline And 12 Weeks,Secondary Endpoint
-45,NCT03044860,Type2 Diabetes,Evaluation Of Enteroendocrine Cells (Density And Mrna Expression) In The Intestinal Tract.,Not Mentioned,Not Mentioned,"Cross-Sectional Study. Each Participant Went Through Two Study Days (Upper And Lower Double-Ballon Enteroscopy, Respectively)",Primary Endpoint
-46,NCT03044860,Type2 Diabetes,Evaluation Of Differences In Enteroendocrine Cells (Density And Mrna Expression) Along The Intestinal Tract Of Healthy Individuals Compared With Type 2 Diabetes Patients.,Not Mentioned,Not Mentioned,"Cross-Sectional Study. Each Participant Went Through Two Study Days (Upper And Lower Double-Ballon Enteroscopy, Respectively)",Primary Endpoint
-47,NCT03044860,Type2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-48,NCT02355145,Type 2 Diabetes Mellitus,Change In The Frequency Of Usage By Physicians Of The Main Criteria For Selecting The Add-On Therapy In Patients With Inadequately Metformin-Controlled Type 2 Diabetes,Not Mentioned,Not Mentioned,From Moment 1 (Up To 2 Months From Fsi) To Moment 2 (1 Year After Moment 1),Primary Endpoint
-49,NCT02355145,Type 2 Diabetes Mellitus,Number Of Years (Duration) Of Add-On Therapies In Type 2 Diabetes,Not Mentioned,Not Mentioned,In 2 Time Points At 1 Year Distance - Moment 1 (Up To 2 Months From Fsi) And Moment 2 (1 Year After Moment 1),Secondary Endpoint
-50,NCT02355145,Type 2 Diabetes Mellitus,Percentage Of Subjects With Specific Comorbid Conditions And/Or Diabetes Complications,Not Mentioned,Not Mentioned,In 2 Time Points At 1 Year Distance - Moment 1 (Up To 2 Months From Fsi) And Moment 2 (1 Year After Moment 1),Secondary Endpoint
-51,NCT02355145,Type 2 Diabetes Mellitus,Percentage Of Patients With Target Hba1C Level < 7% At The 2 Time-Points,Not Mentioned,Not Mentioned,In 2 Time Points At 1 Year Distance - Moment 1 (Up To 2 Months From Fsi) And Moment 2 (1 Year After Moment 1),Secondary Endpoint
-52,NCT02355145,Type 2 Diabetes Mellitus,Number Of Years Of Type 2 Diabetes Disease Duration,Not Mentioned,Not Mentioned,In 2 Time Points At 1 Year Distance - Moment 1 (Up To 2 Months From Fsi) And Moment 2 (1 Year After Moment 1),Secondary Endpoint
-53,NCT02355145,Type 2 Diabetes Mellitus,Frequency Of The Used Classes Of Drugs,Not Mentioned,Not Mentioned,In 2 Time Points At 1 Year Distance - Moment 1 (Up To 2 Months From Fsi) And Moment 2 (1 Year After Moment 1),Secondary Endpoint
-54,NCT02355145,Type 2 Diabetes Mellitus,Number Of Years Until Starting The Add-On Therapies After Diagnosis,Not Mentioned,Not Mentioned,In 2 Time Points At 1 Year Distance - Moment 1 (Up To 2 Months From Fsi) And Moment 2 (1 Year After Moment 1),Secondary Endpoint
-55,NCT01257087,Type 2 Diabetes Mellitus|Obesity,Percentage Of Patients With Type 2 Diabetes Mellitus Who Achieve Fasting Blood Glucose Of Less Than 5.6 Mmol/L And/Or Hba1C Of Less Than 6%,Not Mentioned,Not Mentioned,1 Year After Surgery,Primary Endpoint
-56,NCT01257087,Type 2 Diabetes Mellitus|Obesity,Percentage Of Type 2 Diabetes Mellitus Patients With A Reduction In The Doses/Number Of Diabetes Medications Used Preoperatively,Not Mentioned,Not Mentioned,1 Year After Surgery,Secondary Endpoint
-57,NCT01257087,Type 2 Diabetes Mellitus|Obesity,Number Of Participants With Microvascular Events,Not Mentioned,Not Mentioned,1 Year After Surgery,Secondary Endpoint
-58,NCT03130894,Type2 Diabetes,Type 2 Diabetes,Not Mentioned,Not Mentioned,"Through Recruitment Completion, An Average Of 3 Years",Primary Endpoint
-59,NCT03130894,Type2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-60,NCT02440555,Type 2 Diabetes,Sensitivity Of Detection Of Type 2 Diabetes,Not Mentioned,Not Mentioned,Day 1 (Inclusion Day),Primary Endpoint
-61,NCT02440555,Type 2 Diabetes,Specificity Of Detection Of Type 2 Diabetes,Not Mentioned,Not Mentioned,Day 1 (Inclusion Day),Secondary Endpoint
-62,NCT02440555,Type 2 Diabetes,To Evaluate The Cost Of The Targeted Screening And The Screening Accessibility To Population From The Priority Health Area Of Saint-Etienne,Not Mentioned,Not Mentioned,Month 2,Secondary Endpoint
-63,NCT02440555,Type 2 Diabetes,To Evaluate The Numbers Of Patients Screened By Self-Administered Questionnaire And Diagnosed As Diabetics Using Fasting Glucose.,Not Mentioned,Not Mentioned,Month 2,Secondary Endpoint
-64,NCT02327429,Type 2 Diabetes,Change In Energy Intake (3-Day Food Record),Not Mentioned,Not Mentioned,12 Weeks,Primary Endpoint
-65,NCT02327429,Type 2 Diabetes,Change In Carbohydrate Intake (3-Day Food Record),Not Mentioned,Not Mentioned,12 Weeks,Primary Endpoint
-66,NCT02327429,Type 2 Diabetes,Change In Protein Intake (3-Day Food Record),Not Mentioned,Not Mentioned,12 Weeks,Primary Endpoint
-67,NCT02327429,Type 2 Diabetes,Change In Total Fat Intake (3-Day Food Record),Not Mentioned,Not Mentioned,12 Weeks,Primary Endpoint
-68,NCT02327429,Type 2 Diabetes,Change In Saturated Fat Intake (3-Day Food Record),Not Mentioned,Not Mentioned,12 Weeks,Primary Endpoint
-69,NCT02327429,Type 2 Diabetes,Change In Dietary Fibre Intake (3-Day Food Record),Not Mentioned,Not Mentioned,12 Weeks,Primary Endpoint
-70,NCT02327429,Type 2 Diabetes,Change In Added Sucrose Intake (3-Day Food Record),Not Mentioned,Not Mentioned,12 Weeks,Primary Endpoint
-71,NCT02327429,Type 2 Diabetes,Change In Sodium Intake (3-Day Food Record),Not Mentioned,Not Mentioned,12 Weeks,Primary Endpoint
-72,NCT02327429,Type 2 Diabetes,Change In Calcium Intake (3-Day Food Record),Not Mentioned,Not Mentioned,12 Weeks,Primary Endpoint
-73,NCT02327429,Type 2 Diabetes,Change In Cholesterol Intake (3-Day Food Record),Not Mentioned,Not Mentioned,12 Weeks,Primary Endpoint
-74,NCT02327429,Type 2 Diabetes,Change In Hemoglobin A1C (A1C),Not Mentioned,Not Mentioned,12 Weeks,Secondary Endpoint
-75,NCT02327429,Type 2 Diabetes,Change In Body Mass Index (Bmi),Not Mentioned,Not Mentioned,12 Weeks,Secondary Endpoint
-76,NCT02327429,Type 2 Diabetes,Change In Waist Circumference,Not Mentioned,Not Mentioned,12 Weeks,Secondary Endpoint
-77,NCT02327429,Type 2 Diabetes,Change In Fasting Triglyceride,Not Mentioned,Not Mentioned,12 Weeks,Secondary Endpoint
-78,NCT02327429,Type 2 Diabetes,Change In Fasting Total Cholesterol,Not Mentioned,Not Mentioned,12 Weeks,Secondary Endpoint
-79,NCT02327429,Type 2 Diabetes,Change In Fasting Low-Density Lipoprotein Cholesterol,Not Mentioned,Not Mentioned,12 Weeks,Secondary Endpoint
-80,NCT02327429,Type 2 Diabetes,Change In Fasting High-Density Lipoprotein Cholesterol,Not Mentioned,Not Mentioned,12 Weeks,Secondary Endpoint
-81,NCT03259321,Type2 Diabetes,Type 2 Diabetes,Not Mentioned,Not Mentioned,From Entry Into The Study (Baseline: 1997-2009) Until 2011,Primary Endpoint
-82,NCT03259321,Type2 Diabetes,Fish And Polyunsaturated Fatty Acids Intake,Not Mentioned,Not Mentioned,From Entry Into The Study (Baseline: 1997-2009) Until 2011,Secondary Endpoint
-83,NCT04016584,Type2 Diabetes,"Success (Evaluated By A Yes/No Format) Recruiting And Completing A New Targeted Diabetes And Insulin Education Program, Diabetes Pueblo, For Latino Adults With Type 2 Diabetes.",Not Mentioned,Not Mentioned,11 Weeks,Primary Endpoint
-84,NCT04016584,Type2 Diabetes,Diabetes Self Management Evaluated By Questionnaire,Not Mentioned,Not Mentioned,"Visit 1, Week 0 Screening; Visit 2, Week 8 End Of Diabetes Fundamentals Class",Secondary Endpoint
-85,NCT04016584,Type2 Diabetes,Insulin Treatment Evaluated By Questionnaire,Not Mentioned,Not Mentioned,"Visit 1, Week 0 Screening; Visit 2, Week 8 End Of Diabetes Fundamentals Class; Visit 3, Week 11 End Of Insulin Success Class",Secondary Endpoint
-86,NCT04016584,Type2 Diabetes,Participant Evaluation Of Diabetes Pueblo Evaluated By Questionnaire,Not Mentioned,Not Mentioned,"Class 4, Week 4; Class 8, Week 8; Class 10, Week 10",Secondary Endpoint
-87,NCT04016584,Type2 Diabetes,Participant Evaluation Of Diabetes Pueblo Evaluated By Questionnaire,Not Mentioned,Not Mentioned,"Class 11, Week 11",Secondary Endpoint
-88,NCT00810823,Type 2 Diabetes,"What Is The Factor ""X"" That Cause The Remission Of Type 2 Diabetes After Gastric Bypass",Not Mentioned,Not Mentioned,About 3 Years,Primary Endpoint
-89,NCT00810823,Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-90,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Change In Hba1C,Not Mentioned,Not Mentioned,Baseline And 12 Months,Primary Endpoint
-91,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline And 12 Months,Secondary Endpoint
-92,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline And 12 Months,Secondary Endpoint
-93,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline And 12 Months,Secondary Endpoint
-94,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline And 12 Months,Secondary Endpoint
-95,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline And 12 Months,Secondary Endpoint
-96,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline And 12 Months,Secondary Endpoint
-97,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline And 12 Months,Secondary Endpoint
-98,NCT01601574,Type 2 Diabetes|Overweight|Obesity,Secondary Endpoints,Not Mentioned,Not Mentioned,Baseline And 12 Months,Secondary Endpoint
-99,NCT03243136,Type2 Diabetes,Type 2 Diabetes,Not Mentioned,Not Mentioned,2004-2016,Primary Endpoint
-100,NCT03243136,Type2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-101,NCT01021865,Coronary Artery Disease|Diabetes Mellitus Type 2,To Determine Whether Hyperglycemia Alters Myocardial Perfusion In Subjects With Type 2 Diabetes,Not Mentioned,Not Mentioned,Nov 2009-2011,Primary Endpoint
-102,NCT01021865,Coronary Artery Disease|Diabetes Mellitus Type 2,To Determine Whether Glp-1 Modulates Myocardial Perfusion In Subjects With Type 2 Diabetes.,Not Mentioned,Not Mentioned,Nov 2009-2011,Secondary Endpoint
-103,NCT01055652,Type 2 Diabetes Mellitus,To Evaluate The Pharmacokinetics Of Dapagliflozin When Administered Alone Or In Combination With Voglibose In Japanese Patients With Type 2 Diabetes By Assessment Of Auc And Cmax Of Dapagliflozin,Not Mentioned,Not Mentioned,Plasma Samples Will Be Collected Through Visit 4 (Up To 72 Hours = 3 Days After Dose) For Pk Assessment For Period 1. Plasma Samples Will Be Collected Through Visit 7 (Up To 72 Hours = 3 Days After Dose) For Pk Assessment For Period 2.,Primary Endpoint
-104,NCT01055652,Type 2 Diabetes Mellitus,To Evaluate The Safety And Tolerability Of Dapagliflozin When Administered Alone Or In Combi-Nation With Voglibose In Japanese Patients With Type 2 Diabetes.,Not Mentioned,Not Mentioned,Plasma Samples Will Be Collected Through Visit 4 (Up To 72 Hours = 3 Days After Dose) For Pk Assessment For Period 1. Plasma Samples Will Be Collected Through Visit 7 (Up To 72 Hours = 3 Days After Dose) For Pk Assessment For Period 2.,Secondary Endpoint
-105,NCT01055652,Type 2 Diabetes Mellitus,"To Evaluate The Pharmacokinetics Of Dapagliflozin When Administered Alone Or In Combination With Voglibose In Japanese Patients With Type 2 Diabetes By Assessmentof Auc0-T, Tmax, T1/2, Cl/F.",Not Mentioned,Not Mentioned,Plasma Samples Will Be Collected Through Visit 4 (Up To 72 Hours = 3 Days After Dose) For Pk Assessment For Period 1. Plasma Samples Will Be Collected Through Visit 7 (Up To 72 Hours = 3 Days After Dose) For Pk Assessment For Period 2.,Secondary Endpoint
-106,NCT02290860,"Diabetes, Gestational",Abnormal Glucose Tolerance,Not Mentioned,Not Mentioned,8 Weeks After Delivery,Primary Endpoint
-107,NCT02290860,"Diabetes, Gestational",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-108,NCT04005261,Type 2 Diabetes Treated With Insulin,"The Incidence Of Adequate, Borderline And Insufficient Beta Cell Reserves Assessed By The Fasting C-Peptide Concentrations",Not Mentioned,Not Mentioned,3 Months,Primary Endpoint
-109,NCT04005261,Type 2 Diabetes Treated With Insulin,Correlations Of Fasting C-Peptide Concentrations With Patients Characteristics And Biochemical Findings,Not Mentioned,Not Mentioned,3 Months,Primary Endpoint
-110,NCT04005261,Type 2 Diabetes Treated With Insulin,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-111,NCT00612794,Type 2 Diabetes,To Assess The Safety And Tolerability Of Exenatide Administered Once Weekly By Subcutaneous (Sc) Injection In Subjects With Type 2 Diabetes Mellitus.,Not Mentioned,Not Mentioned,10 Weeks,Primary Endpoint
-112,NCT00612794,Type 2 Diabetes,To Assess The Pharmacokinetics Of Exenatide Administered Once Weekly By Sc Injection In Subjects With Type 2 Diabetes Mellitus.,Not Mentioned,Not Mentioned,10 Weeks,Secondary Endpoint
-113,NCT00612794,Type 2 Diabetes,To Explore The Pharmacodynamics Of Exenatide Administered Once Weekly By Sc Injection In Subjects With Type 2 Diabetes Mellitus Regarding The Following: *Fasting And Postprandial Glucose Concentrations; *Hba1C; *Body Weight.,Not Mentioned,Not Mentioned,10 Weeks,Secondary Endpoint
-114,NCT01727349,Type 2 Diabetes,Measure Of Risk Of Developing Type 2 Diabetes In At-Risk Families,Not Mentioned,Not Mentioned,"Participants Will Be Followed From The Moment Where They Sign Consent Form And Until They Have Sent Back Questionnary And Done The Blood Test, An Expected Average Of 4 Weeks",Primary Endpoint
-115,NCT01727349,Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-116,NCT00239187,Type 2 Diabetes,To Assess The Safety And Tolerability Of Repeated Subcutaneous Doses Of E1 In Combination With G1 In Patients With Type 2 Diabetes,Not Mentioned,Not Mentioned,Nan,Primary Endpoint
-117,NCT00239187,Type 2 Diabetes,To Evaluate The Pharmacokinetics (Pk) Profile And Clinical Effects Of Repeated Subcutaneous Doses Of E1 In Combination With G1 In Patients With Type 2 Diabetes,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-118,NCT01073020,Type 2 Diabetes Mellitus|Obesity,Fasting Plasma Glucose <126 Mg/Dl And Hba1C < 6.5% At Three Years Of Follow-Up.,Not Mentioned,Not Mentioned,3 Years,Primary Endpoint
-119,NCT01073020,Type 2 Diabetes Mellitus|Obesity,"Glycemic Control, As Measured By Hemoglobin A1C",Not Mentioned,Not Mentioned,3 Years,Secondary Endpoint
-120,NCT01073020,Type 2 Diabetes Mellitus|Obesity,Body Mass Index,Not Mentioned,Not Mentioned,3 Years,Secondary Endpoint
-121,NCT01073020,Type 2 Diabetes Mellitus|Obesity,Cardiovascular Risk,Not Mentioned,Not Mentioned,3 Years,Secondary Endpoint
-122,NCT01249677,Type 2 Diabetes,Improvements In First And Second Phase Insulin Secretion,Not Mentioned,Not Mentioned,8 Weeks,Primary Endpoint
-123,NCT01249677,Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-124,NCT01085292,Type 2 Diabetes Mellitus,Safety And Tolerability Of Multiple Intravenous Doses Of Nox-E36 In Healthy Subjects And Patients With Type Ii Diabetes Mellitus,Not Mentioned,Not Mentioned,4 Weeks,Primary Endpoint
-125,NCT01085292,Type 2 Diabetes Mellitus,Multiple Dose Pharmacokinetics And Pharmacodynamics Of Nox-E36 In Healthy Subjects And Patients With Type Ii Diabetes Mellitus,Not Mentioned,Not Mentioned,4 Weeks,Secondary Endpoint
-126,NCT01182935,Type 2 Diabetes,Number Of Subjects With Type 2 Diabetes Diagnosed With Oral Glucose Tolerance Test (Ogtt),Not Mentioned,Not Mentioned,At Study Enrollment In 2010,Primary Endpoint
-127,NCT01182935,Type 2 Diabetes,The Relation Between Serum 25(Oh)D Levels And Blood Glucose Levels At Ogtt,Not Mentioned,Not Mentioned,At Study Enrollment In 2010,Secondary Endpoint
-128,NCT02205996,Type 2 Diabetes Mellitus,To Examine The Effect Of Hypoglycaemia On Platelet Surface Expression Of Platelet Activation Markers P-Selectin And Fibrinogen Binding.,Not Mentioned,Not Mentioned,Up To 24 Hours After Euglycaemic Hypoglycaemic Clamp,Primary Endpoint
-129,NCT02205996,Type 2 Diabetes Mellitus,To Measure Changes In Markers Of Inflammation (High Sensitivity C-Reactive Protein) And Endothelial Function Using Endopat 2000,Not Mentioned,Not Mentioned,Up To 24H After Euglycaemic Hypoglycaemic Clamp,Secondary Endpoint
-130,NCT00240253,Type 2 Diabetes Mellitus,To Evaluate The Efficacy And Safety Of Adding Symlin To An Established Regimen Of Insulin Glargine In Subjects With Type 2 Diabetes.,Not Mentioned,Not Mentioned,16 Weeks,Primary Endpoint
-131,NCT00240253,Type 2 Diabetes Mellitus,"To Evaluate The Effects Of Adding Symlin To An Established Regimen Of Insulin Glargine In Subjects With Type 2 Diabetes On Markers Of Cardiovascular Risk, Fasting Serum Lipids, Fasting Plasma Glucose, Waist Circumference, And Patient-Reported Outcomes.",Not Mentioned,Not Mentioned,16 Weeks,Secondary Endpoint
-132,NCT00982371,Type 2 Diabetes Mellitus,"1 Tesla Peripheral Mri Assessment At Non Dominant Distal Radius: Trabecular Bone Micro-Architecture Parameters Tb.Th, Tb.Sp, Tb.N, Bv/Tv, Bone Csa, Marrow Space",Not Mentioned,Not Mentioned,Mri Scan Complete Approximately 1 Month After Participant Is Enrolled,Primary Endpoint
-133,NCT00982371,Type 2 Diabetes Mellitus,"Calcium, Vitamin D And Vitamin K Dietary Intakes; Tug (Sec); Grip Strength; Dxa Assessment Of Hip, Lumbar Spine, Total Body; Physical Activity",Not Mentioned,Not Mentioned,Baseline,Secondary Endpoint
-134,NCT04031417,Type 2 Diabetes,Hypoxia And Low Humidity On The Endothelial Function In Healthy Volunteers And Patients With Type 2 Diabetes Using Wilcoxon Signed Rank Test,Not Mentioned,Not Mentioned,Change From Baseline To 2 Hours,Primary Endpoint
-135,NCT04031417,Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-136,NCT01284465,Type 2 Diabetes,Hba1C,Not Mentioned,Not Mentioned,"Baseline, 6 And 12 Months",Primary Endpoint
-137,NCT01284465,Type 2 Diabetes,Risk Factors For Co-Morbidity And Daily Self-Management Behaviors,Not Mentioned,Not Mentioned,"Baseline, 3, 6, 9 And 12 Months",Secondary Endpoint
-138,NCT02226822,Type 2 Diabetes Mellitus,Classes Of Diabetic Medications At Baseline And Changes Up To 3 Years,Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month From Enrollment",Primary Endpoint
-139,NCT02226822,Type 2 Diabetes Mellitus,"Hemoglobin A1C Change From Baseline, Achievement Rate Of Hba1C And Blood Glucose Target Goals",Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month From Enrollment",Secondary Endpoint
-140,NCT02226822,Type 2 Diabetes Mellitus,Blood Glucose Level Change From Baseline,Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month From Enrollment",Secondary Endpoint
-141,NCT02226822,Type 2 Diabetes Mellitus,Body Weight Change From Baseline,Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month From Enrollment",Secondary Endpoint
-142,NCT02226822,Type 2 Diabetes Mellitus,Blood Pressure Change From Baseline,Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month From Enrollment",Secondary Endpoint
-143,NCT02226822,Type 2 Diabetes Mellitus,Lipid Profile Changes From Baseline,Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month From Enrollment",Secondary Endpoint
-144,NCT02226822,Type 2 Diabetes Mellitus,Incidence Of Microvascular Complications,Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month From Enrollment",Secondary Endpoint
-145,NCT02226822,Type 2 Diabetes Mellitus,Hypoglycemia Events,Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month From Enrollment",Secondary Endpoint
-146,NCT02226822,Type 2 Diabetes Mellitus,"Patient Reported Quality Of Life, Diet, And Physical Activity Level",Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month From Enrollment",Secondary Endpoint
-147,NCT02226822,Type 2 Diabetes Mellitus,"Initiation Of Insulin Therapy, Proportion Of Patients Using Insulin",Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month From Enrollment",Secondary Endpoint
-148,NCT02226822,Type 2 Diabetes Mellitus,Switching Of Anti-Diabetic Medications Or Dose Change,Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month From Enrollment",Secondary Endpoint
-149,NCT02226822,Type 2 Diabetes Mellitus,Initiation Of Third Line Or Above Add-On Anti-Diabetic Medications,Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month From Enrollment",Secondary Endpoint
-150,NCT02226822,Type 2 Diabetes Mellitus,Incidence Of Macrovascular Complications,Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month From Enrollment",Secondary Endpoint
-151,NCT02226822,Type 2 Diabetes Mellitus,Risk Factors,Not Mentioned,Not Mentioned,"At 6, 12, 24, 36 Month After Enrollment",Secondary Endpoint
-152,NCT02226822,Type 2 Diabetes Mellitus,Treatment Choice,Not Mentioned,Not Mentioned,At Baseline,Secondary Endpoint
-153,NCT01869608,Type 2 Diabetes,Diagnosis Of Abnormal Glucose Tolerance,Not Mentioned,Not Mentioned,12 Weeks Postpartum,Primary Endpoint
-154,NCT01869608,Type 2 Diabetes,Patient'S Satisfaction,Not Mentioned,Not Mentioned,12 Weeks Post-Partum,Secondary Endpoint
-155,NCT01184768,Type 2 Diabetes,Number Of Subjects With New Diagnosis Of Type 2 Diabetes,Not Mentioned,Not Mentioned,Up To 2 Years After Participation In The 6Th Tromso Study,Primary Endpoint
-156,NCT01184768,Type 2 Diabetes,Number Of Subjects With New Diagnosis Of Impaired Glucose Tolerance,Not Mentioned,Not Mentioned,Up To 2 Years After Participation In The 6Th Tromso Study,Secondary Endpoint
-157,NCT01184768,Type 2 Diabetes,Number Of Subjects With New Diagnosis Of Impaired Fasting Glucose,Not Mentioned,Not Mentioned,Up To 2 Years After Participation In The 6Th Tromso Study,Secondary Endpoint
-158,NCT01184768,Type 2 Diabetes,Effect Of Vitamin D Status On Glucose Tolerance,Not Mentioned,Not Mentioned,Up To 2 Years After Participation In The 6Th Tromso Study,Secondary Endpoint
-159,NCT04501991,Type 2 Diabetes|Metabolic Control,Glucose,Not Mentioned,Not Mentioned,One Week After The End Of The Lockdown Period,Primary Endpoint
-160,NCT04501991,Type 2 Diabetes|Metabolic Control,Hba1C,Not Mentioned,Not Mentioned,One Week After The End Of The Lockdown Period,Primary Endpoint
-161,NCT04501991,Type 2 Diabetes|Metabolic Control,Lipid Profile,Not Mentioned,Not Mentioned,One Week After The End Of The Lockdown Period,Primary Endpoint
-162,NCT04501991,Type 2 Diabetes|Metabolic Control,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-163,NCT01010035,Type 2 Diabetes Mellitus,To Identify The Removal Of The Free And Esterified Cholesterol In Type 2 Diabetes Patients,Not Mentioned,Not Mentioned,Day Of Test,Primary Endpoint
-164,NCT01010035,Type 2 Diabetes Mellitus,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-165,NCT01387984,Type 2 Diabetes Mellitus,Nan,Not Mentioned,Not Mentioned,Nan,Primary Endpoint
-166,NCT01387984,Type 2 Diabetes Mellitus,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-167,NCT01237301,Type 2 Diabetes,Percentage Change In Hemoglobin A1C,Not Mentioned,Not Mentioned,2 Week Baseline To 16 Week Final,Primary Endpoint
-168,NCT01237301,Type 2 Diabetes,Glucose Exposure (Area Under The Diurnal Median Curve),Not Mentioned,Not Mentioned,16 Weeks,Secondary Endpoint
-169,NCT01237301,Type 2 Diabetes,Percent Of Time In Hypoglycemia Range,Not Mentioned,Not Mentioned,16 Weeks,Secondary Endpoint
-170,NCT01237301,Type 2 Diabetes,Change From Baseline In Cgm Glucose Variability,Not Mentioned,Not Mentioned,Baseline And 16 Weeks,Secondary Endpoint
-171,NCT04403841,Type 2 Diabetes,Disease Awareness,Not Mentioned,Not Mentioned,3-Month,Primary Endpoint
-172,NCT04403841,Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-173,NCT01088711,Type 2 Diabetes (T2D),Number Of Participants Experiencing An Adverse Event (Ae),Not Mentioned,Not Mentioned,Up To Day 36,Primary Endpoint
-174,NCT01088711,Type 2 Diabetes (T2D),Number Of Participants Withdrawing From Study Therapy Due To An Ae,Not Mentioned,Not Mentioned,Up To Day 22,Primary Endpoint
-175,NCT01088711,Type 2 Diabetes (T2D),Percent Inhibition Of Dipeptidyl Peptidase-4 (Dpp-4) After Day 15,Not Mentioned,Not Mentioned,168 Hours Post-Dose On Day 15,Secondary Endpoint
-176,NCT01088711,Type 2 Diabetes (T2D),Percent Inhibition Of Dpp-4 After Day 22,Not Mentioned,Not Mentioned,168 Hours Post Dose On Day 22,Secondary Endpoint
-177,NCT01088711,Type 2 Diabetes (T2D),Waa Active Glucagon-Like Peptide-1 (Glp-1) Concentration,Not Mentioned,Not Mentioned,Through 4 Hours Post Dose On Day 21,Secondary Endpoint
-178,NCT01088711,Type 2 Diabetes (T2D),Waa Total Glp-1 Concentration,Not Mentioned,Not Mentioned,Through 4 Hours Post Dose On Day 21,Secondary Endpoint
-179,NCT01088711,Type 2 Diabetes (T2D),Plasma Glucose Concentration,Not Mentioned,Not Mentioned,Through 4 Hours Post Dose On Day 21,Secondary Endpoint
-180,NCT03214380,Type 2 Diabetes Mellitus,Change From Baseline In Hemoglobin A1C (Hba1C) Efficacy Estimand At Week 26,Not Mentioned,Not Mentioned,"Baseline, Week 26",Primary Endpoint
-181,NCT03214380,Type 2 Diabetes Mellitus,1-Hour Postprandial Glucose (Ppg) Excursion During Mixed-Meal Tolerance Test (Mmtt) Efficacy Estimand,Not Mentioned,Not Mentioned,Week 26,Secondary Endpoint
-182,NCT03214380,Type 2 Diabetes Mellitus,2-Hour Ppg Excursion During Mmtt Efficacy Estimand,Not Mentioned,Not Mentioned,Week 26,Secondary Endpoint
-183,NCT03214380,Type 2 Diabetes Mellitus,Rate Of Severe Hypoglycemia,Not Mentioned,Not Mentioned,Baseline Through Week 26,Secondary Endpoint
-184,NCT03214380,Type 2 Diabetes Mellitus,Rate Of Documented Symptomatic Hypoglycemia,Not Mentioned,Not Mentioned,Baseline Through Week 26,Secondary Endpoint
-185,NCT03214380,Type 2 Diabetes Mellitus,"Change From Baseline In 1,5-Anhydroglucitol (1,5-Ag) At Week 26",Not Mentioned,Not Mentioned,"Baseline, Week 26",Secondary Endpoint
-186,NCT03214380,Type 2 Diabetes Mellitus,Change From Baseline In 10-Point Self-Monitoring Blood Glucose (Smbg) Values At Week 26,Not Mentioned,Not Mentioned,"Baseline, Week 26",Secondary Endpoint
-187,NCT03214380,Type 2 Diabetes Mellitus,Change From Baseline In Insulin Dose At Week 26,Not Mentioned,Not Mentioned,"Baseline, Week 26",Secondary Endpoint
-188,NCT03214380,Type 2 Diabetes Mellitus,Change From Baseline In Insulin Treatment Satisfaction Questionnaire (Itsq) Regimen Inconvenience Domain Score At Week 26,Not Mentioned,Not Mentioned,"Baseline, Week 26",Secondary Endpoint
-189,NCT03214380,Type 2 Diabetes Mellitus,Change From Baseline In Itsq Lifestyle Flexibility Domain Score At Week 26,Not Mentioned,Not Mentioned,"Baseline, Week 26",Secondary Endpoint
-190,NCT03214380,Type 2 Diabetes Mellitus,Number Of Participants With Hba1C <7%,Not Mentioned,Not Mentioned,Week 26,Secondary Endpoint
-191,NCT02322762,Type 2 Diabetes Mellitus,Anti-Diabetic Treatments Prescribed By Physicians In A Real-World Setting.,Not Mentioned,Not Mentioned,Up To 3 Years,Primary Endpoint
-192,NCT02322762,Type 2 Diabetes Mellitus,Disease Control In Terms Of Achieving Hba1C Target Goals And Reducing Body Weight And Blood Pressure.,Not Mentioned,Not Mentioned,Up To 3 Years,Secondary Endpoint
-193,NCT02322762,Type 2 Diabetes Mellitus,Changes In Anti-Diabetic Treatments,Not Mentioned,Not Mentioned,Up To 3 Years,Secondary Endpoint
-194,NCT02322762,Type 2 Diabetes Mellitus,Disease Progression (Incidence Of Microvascular And Macrovascular Complications).,Not Mentioned,Not Mentioned,Up To 3 Years,Secondary Endpoint
-195,NCT02322762,Type 2 Diabetes Mellitus,Incidence Of Hypoglycemic Events.,Not Mentioned,Not Mentioned,Up To 3 Years,Secondary Endpoint
-196,NCT02322762,Type 2 Diabetes Mellitus,"Quality Of Life, Using Patient Reported Outcomes Questionnaires.",Not Mentioned,Not Mentioned,Up To 3 Years,Secondary Endpoint
-197,NCT02322762,Type 2 Diabetes Mellitus,Use Of Healthcare Resources.,Not Mentioned,Not Mentioned,Up To 3 Years,Secondary Endpoint
-198,NCT00888836,Type 2 Diabetes,"To Assess The Efficacy Of Bariatric Surgery In Inducing Partial Or Total Remission Of Type 2 Diabetes Mellitus, As Compared To Standard Medical Anti-Diabetic Care (Stc).",Not Mentioned,Not Mentioned,10 Years,Primary Endpoint
-199,NCT00888836,Type 2 Diabetes,"Secondary Endpoints Include Percentage Change Of Fasting Plasma Glucose Levels, Glycated Hemoglobin, Weight, Waist Circumference, Blood Pressure, Cholesterol, Hdl-Cholesterol And Triglycerides, Hard Cardiovascular Risk And Quality Of Life.",Not Mentioned,Not Mentioned,10 Years,Secondary Endpoint
-200,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",The Difference In Serum Vitamin B12 Levels Between Cases And Controls,Not Mentioned,Not Mentioned,Baseline,Primary Endpoint
-201,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",The Difference In Serum Vitamin B1 Between Cases And Controls,Not Mentioned,Not Mentioned,Baseline,Primary Endpoint
-202,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",The Difference In Serum Vitamin B6 Concentrations Between Cases And Controls,Not Mentioned,Not Mentioned,Baseline,Primary Endpoint
-203,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",The Difference In Serum Vitamin B12 Between Patients With And Those Without Albuminuria,Not Mentioned,Not Mentioned,Baseline,Secondary Endpoint
-204,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",The Difference In Serum And Urine Vitamin B1 Between Patients With And Those Without Albuminuria,Not Mentioned,Not Mentioned,Baseline,Secondary Endpoint
-205,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",The Difference In Serum And Urine Vitamin B6 Vitamers Between Patients With And Those Without Albuminuria,Not Mentioned,Not Mentioned,Baseline,Secondary Endpoint
-206,NCT03447275,"Diabetes Mellitus, Type 2|Vitamin B 12 Deficiency|Vitamin B 6 Deficiency",The Difference In Serum And Urine Vitamin B6 Vitamers Between Patients With Advanced Global Vascular Risk Versus Those With A Low Vascular Risk,Not Mentioned,Not Mentioned,Baseline,Secondary Endpoint
-207,NCT00451620,Type 2 Diabetes,The Objective Of This Study Is To Determine Whether Gluconorm Has A Greater Effect Than Glyburide On Insulin Levels And Postprandial Glucose Levels In Elderly People With Type 2 Diabetes Who Are Diet Controlled.,Not Mentioned,Not Mentioned,2 Hours,Primary Endpoint
-208,NCT00451620,Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-209,NCT01845064,Diabetes Type 2,Safety And Tolerability Of Single And Multiple Subcutaneous Doses Of Dm199,Not Mentioned,Not Mentioned,Up To 13 Days After Final Dose,Primary Endpoint
-210,NCT01845064,Diabetes Type 2,Determine The Pharmacokinetic Of Dm199 After Single And Multiple Doses,Not Mentioned,Not Mentioned,Up To 3 Days After Final Dose,Primary Endpoint
-211,NCT01845064,Diabetes Type 2,Determine The Effect Of Dm199 On Glucose Homeostasis In Healthy Volunteers And Type 2 Diabetes Mellitus Patients,Not Mentioned,Not Mentioned,"Part C, Day -1 And 14; Part D, Days -1, 14 And 28",Secondary Endpoint
-212,NCT01845064,Diabetes Type 2,Assess Formation Of Ada To Dm199,Not Mentioned,Not Mentioned,"Part C, Day -1 And 42; Part D, Day -1 And 35",Secondary Endpoint
-213,NCT01845064,Diabetes Type 2,Determine Changes In Immune Cell Populations By Facs Analysis.,Not Mentioned,Not Mentioned,"Part C, Day -1 And 15; Part D, Day -1 And 29",Secondary Endpoint
-214,NCT02104804,Type 2 Diabetes Mellitus,Change In Hba1C From Baseline To Week 24,Not Mentioned,Not Mentioned,Baseline To 24 Weeks,Primary Endpoint
-215,NCT02104804,Type 2 Diabetes Mellitus,Change In Postprandial Glucose Auc From Baseline To Week 24 During A Meal Tolerance Test,Not Mentioned,Not Mentioned,Baseline To 24 Weeks,Secondary Endpoint
-216,NCT02104804,Type 2 Diabetes Mellitus,Analysis Of Change In 120-Minute Ppg From Baseline To Week 24 During A Meal Tolerance Test,Not Mentioned,Not Mentioned,Baseline To 24 Weeks,Secondary Endpoint
-217,NCT02104804,Type 2 Diabetes Mellitus,Percentage Of Patients Achieving A Therapeutic Glycaemic Response Of Hba1C <7%,Not Mentioned,Not Mentioned,At Week 24,Secondary Endpoint
-218,NCT02104804,Type 2 Diabetes Mellitus,The Analysis Of Change In Fasting Plasma Glucose From Baseline To Week 24 (This Was The Average Of Weeks 20 And 24),Not Mentioned,Not Mentioned,Baseline To Average Of Weeks 20 And 24,Secondary Endpoint
-219,NCT02104804,Type 2 Diabetes Mellitus,Analysis Of Change In Mean Total Daily Dose Of Insulin From Baseline To Week 24,Not Mentioned,Not Mentioned,Baseline To 24 Weeks,Secondary Endpoint
-220,NCT00787670,Obesity|Type 2 Diabetes Mellitus,To Determine Whether Surgically Induced Weight Loss Decreases The Risk Of Cvd In Morbidly Obese Subjects With Type 2 Diabetes Mellitus (T2Dm),Not Mentioned,Not Mentioned,"0, 6, 12 Months",Primary Endpoint
-221,NCT00787670,Obesity|Type 2 Diabetes Mellitus,To Elucidate The Mechanisms By Which Surgically Induced Weight Loss Reduces Over Time The Risk Of Cvd In Morbidly Obese Subjects With T2Dm.,Not Mentioned,Not Mentioned,"0, 6, 12 Months",Secondary Endpoint
-222,NCT01933256,Type 2 Diabetes Mellitus,The Safety And Tolerability Of Repeat Doses Of Hip2B In Subjects With Type 2 Diabetes Mellitus.,Not Mentioned,Not Mentioned,Adverse Events / Vitals Are Monitored At Each Study Visit Between Days -9 And 84.,Primary Endpoint
-223,NCT01933256,Type 2 Diabetes Mellitus,Glucose-Stimulated Insulin Secretion.,Not Mentioned,Not Mentioned,"Ivgtt Performed On Day -8 And Day 49. Ggi Performed On Day -1, Day 25 And Day 46.",Secondary Endpoint
-224,NCT03406910,Type 2 Diabetes|Heart Diseases,Risk For Type 2 Diabetes (T2D) In Subjects Who Consume Different Frequencies/Amounts Of Eggs And Meat.,Not Mentioned,Not Mentioned,Change Between Baseline And 5 Years Of Follow Up,Primary Endpoint
-225,NCT03406910,Type 2 Diabetes|Heart Diseases,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-226,NCT01649466,Type 2 Diabetes Mellitus,Percentage Of Patients Reaching Hba1C Below 7.0% Without Confirmed Hypoglycemia And Weight Gain,Not Mentioned,Not Mentioned,24 Weeks,Primary Endpoint
-227,NCT01649466,Type 2 Diabetes Mellitus,Rate Of Confirmed Hypoglycemic Events,Not Mentioned,Not Mentioned,24 Weeks,Primary Endpoint
-228,NCT01649466,Type 2 Diabetes Mellitus,Incidence Of Severe Hypoglycemic Events,Not Mentioned,Not Mentioned,24 Weeks,Secondary Endpoint
-229,NCT01649466,Type 2 Diabetes Mellitus,Incidence Of Symptomatic Hypoglycemic Events,Not Mentioned,Not Mentioned,24 Weeks,Secondary Endpoint
-230,NCT01649466,Type 2 Diabetes Mellitus,Percentage Of Patients Who Reach Their Blood Glucose Target (Hba1C Below 7.0%) Without Any Confirmed Hypoglycemic Event,Not Mentioned,Not Mentioned,24 Weeks,Secondary Endpoint
-231,NCT01649466,Type 2 Diabetes Mellitus,Change From Baseline In Body Weight At 24 Weeks,Not Mentioned,Not Mentioned,"Baseline, 24 Week",Secondary Endpoint
-232,NCT01649466,Type 2 Diabetes Mellitus,Change From Baseline In Hba1C At 24 Weeks,Not Mentioned,Not Mentioned,"Baseline, 24 Week",Secondary Endpoint
-233,NCT01649466,Type 2 Diabetes Mellitus,Change From Baseline In Treatment Satisfaction Questionnaire For Medication (Tsqm-9) At 24 Week,Not Mentioned,Not Mentioned,"Baseline, 24 Week",Secondary Endpoint
-234,NCT03464812,Type2 Diabetes,Program Completion,Not Mentioned,Not Mentioned,Approximately At 4 Months From The Start Of The Study.,Primary Endpoint
-235,NCT03464812,Type2 Diabetes,Glycemic Control,Not Mentioned,Not Mentioned,At Baseline And Repeated After Approximately 4 Months,Secondary Endpoint
-236,NCT03464812,Type2 Diabetes,Diabetes-Specific Quality Of Life,Not Mentioned,Not Mentioned,At Baseline And Repeated After Approximately 4 Months,Secondary Endpoint
-237,NCT03464812,Type2 Diabetes,Diabetes-Related Distress,Not Mentioned,Not Mentioned,At Baseline And Repeated After Approximately 4 Months,Secondary Endpoint
-238,NCT03464812,Type2 Diabetes,Diabetes Self-Care,Not Mentioned,Not Mentioned,At Baseline And Repeated After Approximately 4 Months,Secondary Endpoint
-239,NCT03464812,Type2 Diabetes,Diabetes-Related Self Efficacy,Not Mentioned,Not Mentioned,At Baseline And Repeated After Approximately 4 Months,Secondary Endpoint
-240,NCT03464812,Type2 Diabetes,Patient And Referring Provider Satisfaction,Not Mentioned,Not Mentioned,Approximately At 4 Months From The Start Of The Study.,Secondary Endpoint
-241,NCT02501876,Alzheimer´S Disease|Diabetes Mellitus Type 2,The Rate Of Conversion To Alzheimer'S Disease (Ad),Not Mentioned,Not Mentioned,6 Months,Primary Endpoint
-242,NCT02501876,Alzheimer´S Disease|Diabetes Mellitus Type 2,The Presence Of Common Alleles For Alzheimer'S Disease (Ad) And Diabetes Mellitus Type 2,Not Mentioned,Not Mentioned,4 Months,Secondary Endpoint
-243,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System","Modification In The Antioxidant Enzymatic System Activity (Total Antioxidant Capacity, Catalase, Glutathione Peroxidase , Superoxide Dismutase) In Patients With Type 2 Diabetes After The Administration Of Acetylsalicylic Acid",Not Mentioned,Not Mentioned,90 Days,Primary Endpoint
-244,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System",Modification In Lipid Profile In Patients With Type 2 Diabetes After The Administration Of Acetylsalicylic Acid,Not Mentioned,Not Mentioned,90 Days,Secondary Endpoint
-245,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System",Hepatic Safety After The Administration Of Acetylsalicylic Acid Through The Determination Of Hepatic Profile,Not Mentioned,Not Mentioned,90 Days,Secondary Endpoint
-246,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System",Renal Safety Of Administration Of Acetylsalicylic Acid Through The Determination Of Serum Creatinine,Not Mentioned,Not Mentioned,90 Days,Secondary Endpoint
-247,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System",Modification In Hba1C In Patients With Type 2 Diabetes After The Administration Of Acetylsalicylic Acid,Not Mentioned,Not Mentioned,90 Days,Secondary Endpoint
-248,NCT03341117,"Diabetes Mellitus, Type 2|Antioxidant Enzyme System",Modification In Fasting Glucose In Patients With Type 2 Diabetes After The Administration Of Acetylsalicylic Acid,Not Mentioned,Not Mentioned,90 Days,Secondary Endpoint
-249,NCT04214600,Type 2 Diabetes|Depression,Change Of Glycated Hemoglobin A1C (Hb A1C) After The Cognitive Behavioral Therapy Sessions,Not Mentioned,Not Mentioned,Baseline And 3 Months,Primary Endpoint
-250,NCT04214600,Type 2 Diabetes|Depression,Change Of Depression Score On Beck'S Depression Index,Not Mentioned,Not Mentioned,Baseline And 3 Months,Secondary Endpoint
-251,NCT02860611,Type 1 Diabetes|Type 2 Diabetes,Difference In T Helper Cytokines Between Groups,Not Mentioned,Not Mentioned,6 Months,Primary Endpoint
-252,NCT02860611,Type 1 Diabetes|Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-253,NCT01037647,Type 2 Diabetes,Vldl-Tg Production And Clearance Rates,Not Mentioned,Not Mentioned,Nan,Primary Endpoint
-254,NCT00103935,Type 2 Diabetes Mellitus,"Assess The Safety, Tolerability, And Pharmacokinetics Of Exenatide Long-Acting Release (Lar) Administered Weekly By Subcutaneous (Sc) Injection In Subjects With Type 2 Diabetes (T2Dm)",Not Mentioned,Not Mentioned,"Time Intervals: 0 Min To 12 Hours On Day 1 For A Duration Of 12 Hours, From Day 1; 0 Mininutes To Week 1 For A Duration Of 168 Hours, And From Week 14 To Week 15 For A Duration Of 168 Hours",Primary Endpoint
-255,NCT00103935,Type 2 Diabetes Mellitus,Examine The Effect On Various Pharmacodynamic Parameters Of Exenatide Lar Administered Weekly By Subcutaneous Injection In Subjects With Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Various Time Intervals From Day 1 To Week 15,Secondary Endpoint
-256,NCT00103935,Type 2 Diabetes Mellitus,"Change In Hba1C (Glycosylated Hemoglobin) From Baseline To Week 15 And To Each Intermediate Visit Where Applicable, And To Study Termination (Week 27).",Not Mentioned,Not Mentioned,"Day -3, Day 1, Weeks 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 15, 16, 17, 18, 19, 27",Secondary Endpoint
-257,NCT00103935,Type 2 Diabetes Mellitus,"Change In Fasting Glucose Concentrations From Baseline To Week 15 And To Each Intermediate Visit Where Applicable, And To Study Termination (Week 27)",Not Mentioned,Not Mentioned,"Day -3, Day 1, Weeks 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 15, 16, 17, 18, 19, 27",Secondary Endpoint
-258,NCT00103935,Type 2 Diabetes Mellitus,"Change In Body Weight From Baseline To Week 15 And To Each Intermediate Visit Where Applicable, And To Study Termination (Week 27)",Not Mentioned,Not Mentioned,"Day -3, Day 1, Weeks 1, 2, 4, 5, 7, 8, 10, 11, 13, 14, 15, 16, 17, 18, 19, 27",Secondary Endpoint
-259,NCT00103935,Type 2 Diabetes Mellitus,Change In Seven-Point Glucose Concentrations From Baseline To Week 14 And Week 15,Not Mentioned,Not Mentioned,"Baseline, 3 Days Between Day -7 And Day -3, And 3 Days Between Week 14 And Week 15",Secondary Endpoint
-260,NCT00525330,Type 2 Diabetes,The Primary Objective Of This Trial Is To Demonstrate The Hemoglobin A1C (Hba1C)-Lowering Effects Of Krp-104 In Patients With Type 2 Diabetes Inadequately Controlled On Metformin Alone.,Not Mentioned,Not Mentioned,12-Weeks,Primary Endpoint
-261,NCT00525330,Type 2 Diabetes,To Assess The Fasting Plasma Glucose (Fpg)-Lowering Effect Of Krp-104 In Patients With Type 2 Diabetes Inadequately Controlled On Metformin Alone;,Not Mentioned,Not Mentioned,12-Weeks,Secondary Endpoint
-262,NCT00525330,Type 2 Diabetes,To Compare Effects Of Once Daily (Qd) Dosing Versus Twice Daily (Bid) Dosing Of Krp-104 On Hba1C And Fpg,Not Mentioned,Not Mentioned,12 Weeks,Secondary Endpoint
-263,NCT00525330,Type 2 Diabetes,To Assess The Effects Of Krp-104 On Post-Prandial Glucose Dynamics And Insulin Sensitivity (Homeostasis Model Index [Homa-Β]) In The Setting Of A Meal Tolerance Test(Mtt),Not Mentioned,Not Mentioned,12 Weeks,Secondary Endpoint
-264,NCT00525330,Type 2 Diabetes,To Assess The Safety And Tolerability Of Krp-104;,Not Mentioned,Not Mentioned,Daily For 12 Weeks To 2 Weeks Post-Treatment,Secondary Endpoint
-265,NCT01977560,Type 2 Diabetes,Glycemic Control,Not Mentioned,Not Mentioned,8 Months,Primary Endpoint
-266,NCT01977560,Type 2 Diabetes,Glucose Metabolism,Not Mentioned,Not Mentioned,8 Months,Secondary Endpoint
-267,NCT01977560,Type 2 Diabetes,Neuronal Function,Not Mentioned,Not Mentioned,8 Months,Secondary Endpoint
-268,NCT01977560,Type 2 Diabetes,Acceptability And Feasibility Of Intervention,Not Mentioned,Not Mentioned,8 Months,Secondary Endpoint
-269,NCT01278823,Obesity|Type 2 Diabetes,Test The Effect Of Gastric Bypass Surgery On Glycemic Control In Obese Type 2 Dm Patients,Not Mentioned,Not Mentioned,12 Months,Primary Endpoint
-270,NCT01278823,Obesity|Type 2 Diabetes,Determine The Effects Of Gastric Bypass Surgery On Pancreatic Beta Cell Function And Incretin Hormone Secretion In Obese Type 2 Dm Patients,Not Mentioned,Not Mentioned,12 Months,Secondary Endpoint
-271,NCT01580475,Type 2 Diabetes,"Changes From Baseline In Glycemic Control Measurements (Follow-Up For 21 Months) At Training (9 Months), Detraining (3 Months) And Retraining (9 Months)",Not Mentioned,Not Mentioned,"Changes From Baseline In Hba1C, Fpg And Ppg At Training (9 Months), Detraining (11 Months) And Retraining (21 Months)",Primary Endpoint
-272,NCT01580475,Type 2 Diabetes,Evaluation Of Body Composition,Not Mentioned,Not Mentioned,"Changes From Baseline In Body Composition Assessment At Training (9 Months), Detraining (3 Months), Retraining (9 Months)",Secondary Endpoint
-273,NCT01580475,Type 2 Diabetes,Peak Oxygen Consumption (Vo2Peak),Not Mentioned,Not Mentioned,"Changes From Baseline In Vo2Peak At Training (9 Months), Detraining (11 Months) And Retraining (21 Months)",Secondary Endpoint
-274,NCT01580475,Type 2 Diabetes,Measurement Of Muscular Strength In Patients With Type 2 Diabetes,Not Mentioned,Not Mentioned,"Changes From Baseline In Muscular Strength At Training (9 Months), Detraining (11 Months) And Retraining (21 Months)",Secondary Endpoint
-275,NCT00108004,Type 1 Diabetes Mellitus|Type 2 Diabetes Mellitus,To Investigate The Clinical Utility And Safety Of Pramlintide In Subjects With Type 1 And Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,6 Months,Primary Endpoint
-276,NCT00108004,Type 1 Diabetes Mellitus|Type 2 Diabetes Mellitus,Understand Management Issues In Subjects With Type 1 And Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,6 Months,Primary Endpoint
-277,NCT00108004,Type 1 Diabetes Mellitus|Type 2 Diabetes Mellitus,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-278,NCT02222350,Type 2 Diabetes Mellitus,Change In 24-Hour Weighted Mean Blood Glucose,Not Mentioned,Not Mentioned,Day -1 (Baseline) To Day 28,Primary Endpoint
-279,NCT02222350,Type 2 Diabetes Mellitus,Change In 24 Hour Weighted Mean Blood Glucose,Not Mentioned,Not Mentioned,Day -1 (Baseline) To Day 14,Secondary Endpoint
-280,NCT02222350,Type 2 Diabetes Mellitus,Change In Blood Fasting Plasma Glucose Level,Not Mentioned,Not Mentioned,"Day -1 (Baseline) To Days 7, 14, 21, 28",Secondary Endpoint
-281,NCT02222350,Type 2 Diabetes Mellitus,Change In Blood Plasma Glucose Level,Not Mentioned,Not Mentioned,Day -1 (Baseline) To Days 14 And 28,Secondary Endpoint
-282,NCT02222350,Type 2 Diabetes Mellitus,Change In Blood Insulin Level,Not Mentioned,Not Mentioned,Day -1 (Baseline) To Days 14 And 28,Secondary Endpoint
-283,NCT02222350,Type 2 Diabetes Mellitus,Change In Blood C-Peptide Level,Not Mentioned,Not Mentioned,Day -1 (Baseline) To Days 14 And 28,Secondary Endpoint
-284,NCT02222350,Type 2 Diabetes Mellitus,Change In Blood Active Glp-1 Level,Not Mentioned,Not Mentioned,Day -1 (Baseline) To Days 14 And 28,Secondary Endpoint
-285,NCT02222350,Type 2 Diabetes Mellitus,Change In Blood Pyy Level,Not Mentioned,Not Mentioned,Day -1 (Baseline) To Days 14 And 28,Secondary Endpoint
-286,NCT02222350,Type 2 Diabetes Mellitus,Change In Blood Hba1C Level,Not Mentioned,Not Mentioned,Day -1 (Baseline) To Days 14 And 28,Secondary Endpoint
-287,NCT02222350,Type 2 Diabetes Mellitus,Change In Blood Glycoalbumin Level,Not Mentioned,Not Mentioned,Day -1 (Baseline) To Days 14 And 28,Secondary Endpoint
-288,NCT02222350,Type 2 Diabetes Mellitus,Number Of Subjects Experiencing Adverse Events As A Measure Of Safety,Not Mentioned,Not Mentioned,Day -1 (Baseline) To Day 28,Secondary Endpoint
-289,NCT02222350,Type 2 Diabetes Mellitus,Pharmacokinetic Profile Of Ds-8500A,Not Mentioned,Not Mentioned,Day -1 (Baseline) To Day 28,Secondary Endpoint
-290,NCT02222350,Type 2 Diabetes Mellitus,Change In Postprandial Plasma Glucose Level,Not Mentioned,Not Mentioned,Day -1 (Baseline) To Days 14 And 28,Secondary Endpoint
-291,NCT02528695,Diabetes Mellitus Type 2,Glucose Uptake In Adipose Tissue Measured By Uptake Of 18F-Fdg On Pet Images,Not Mentioned,Not Mentioned,1 Year,Primary Endpoint
-292,NCT02528695,Diabetes Mellitus Type 2,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-293,NCT00922649,Type 2 Diabetes,Insulin Doses At Week 16,Not Mentioned,Not Mentioned,Week 16,Primary Endpoint
-294,NCT00922649,Type 2 Diabetes,Ratio Of Basal-To-Bolus Insulin Dose At Week 16,Not Mentioned,Not Mentioned,16 Weeks,Primary Endpoint
-295,NCT00922649,Type 2 Diabetes,Number Of Daily Basal Rates At Week 16,Not Mentioned,Not Mentioned,Week 16,Primary Endpoint
-296,NCT00922649,Type 2 Diabetes,A1C (Hemoglobin A1C),Not Mentioned,Not Mentioned,Week 16,Secondary Endpoint
-297,NCT00922649,Type 2 Diabetes,7 Point Profile,Not Mentioned,Not Mentioned,Week 16,Secondary Endpoint
-298,NCT00922649,Type 2 Diabetes,Cgm Glucose Ranges - Percent Of Measurements,Not Mentioned,Not Mentioned,End Of Study,Secondary Endpoint
-299,NCT00922649,Type 2 Diabetes,Body Weight,Not Mentioned,Not Mentioned,Week 16,Secondary Endpoint
-300,NCT00922649,Type 2 Diabetes,Hypoglycemia,Not Mentioned,Not Mentioned,Week 16,Secondary Endpoint
-301,NCT00922649,Type 2 Diabetes,Change From Baseline To Week 16 In Patient Reported Outcomes (Pros),Not Mentioned,Not Mentioned,Week 16,Secondary Endpoint
-302,NCT03324776,Type2 Diabetes,Percentage Change From Baseline Hba1C,Not Mentioned,Not Mentioned,3 Months,Primary Endpoint
-303,NCT03324776,Type2 Diabetes,Percentage Of Patients Having Hba1C Under 7%,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
-304,NCT03324776,Type2 Diabetes,Percent Of Time That Blood Glucose (Bg) Is Under 70 Mg/Dl On Cgms,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
-305,NCT04163757,Type 2 Diabetes,Type 2 Diabetes,Not Mentioned,Not Mentioned,12 Weeks,Primary Endpoint
-306,NCT04163757,Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-307,NCT00971659,Type 2 Diabetes,The Unadjusted 6-Hour Postprandial Blood Glucose Excursion (Aucbg0-6H) Following Ingestion Of A Standardized Breakfast,Not Mentioned,Not Mentioned,After 4 Weeks Of Treatment,Primary Endpoint
-308,NCT00971659,Type 2 Diabetes,"Mean Daily Blood Glucose (Bg) From 7-Point 24H Bg Profiles, Fasting Bg, Self-Measured 7-Point Bg Profiles, Percentage Of Subjects Achieving Ada Hba1C Treatment Goals, Fasting Lipid Profiles, Homa-Ir Index, Hypoglycemic Episodes",Not Mentioned,Not Mentioned,After 4 Weeks Of Treatment,Secondary Endpoint
-309,NCT01607294,Hyperlipidemia|Type 2 Diabetes,Assess The Ldl-C Lowering Efficacy Of Etc-1002 Versus Placebo In Subjects With Type 2 Diabetes,Not Mentioned,Not Mentioned,4 Weeks,Primary Endpoint
-310,NCT01607294,Hyperlipidemia|Type 2 Diabetes,Assess The Effect Of Etc-1002 Versus Placebo On Glycemic Parameters Including Fasting Plasma And Postprandial Glucose And Insulin,Not Mentioned,Not Mentioned,4 Weeks,Secondary Endpoint
-311,NCT01607294,Hyperlipidemia|Type 2 Diabetes,Assess The Effect Of Etc-1002 Versus Placebo On Measures Of Insulin Sensitivity In Subjects With Type 2 Diabetes,Not Mentioned,Not Mentioned,4 Weeks,Secondary Endpoint
-312,NCT01607294,Hyperlipidemia|Type 2 Diabetes,"Assess Safety Using Adverse Event Reports, Physical Exams, Vital Signs, Ecgs And Clinical Laboratory Parameters",Not Mentioned,Not Mentioned,4 Weeks,Secondary Endpoint
-313,NCT00299871,Type 2 Diabetes,Hba1C Levels At Baseline And Endpoint (At 13 Weeks).,Not Mentioned,Not Mentioned,Nan,Primary Endpoint
-314,NCT00299871,Type 2 Diabetes,"Fructosamine, Fasting Plasma Glucose, Fasting Serum Insulin, Proinsulin, C-Peptide, Glucagon.",Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-315,NCT00303394,Type 2 Diabetes,Hba1C,Not Mentioned,Not Mentioned,Nan,Primary Endpoint
-316,NCT00631774,Type 2 Diabetes|Obesity,The Primary Objective Of This Study Is To Evaluate The Effect Of A Diet Program Including Glucerna Sr As A Meal Replacement On Postprandial Glucose Response After Using Glucerna Sr For 24 Weeks In Obese Asian Subjects With Type 2 Diabetes,Not Mentioned,Not Mentioned,24 Weeks,Primary Endpoint
-317,NCT00631774,Type 2 Diabetes|Obesity,"Evaluate The Efficacy And Safety Of A Meal Replacement Program With Glucerna Sr Vs. An Edp Based On The Nutrition Therapy Recommendations From The Ada On Anthropometric Measurements, Lipid Profile, Meal-Related Metabolic Changes And Quality Of Life",Not Mentioned,Not Mentioned,24 Weeks,Secondary Endpoint
-318,NCT04072523,Type 2 Diabetes,Prevalence Of Left Ventricular Dysfunction,Not Mentioned,Not Mentioned,1 Day,Primary Endpoint
-319,NCT04072523,Type 2 Diabetes,Correlation Of Left Ventricular Dysfunction And Heart Failure,Not Mentioned,Not Mentioned,1 Day,Secondary Endpoint
-320,NCT02065544,Type 2 Diabetes Mellitus,Hemoglobin A1C,Not Mentioned,Not Mentioned,6-Months,Primary Endpoint
-321,NCT02065544,Type 2 Diabetes Mellitus,Lipid Profile,Not Mentioned,Not Mentioned,6 Months,Secondary Endpoint
-322,NCT02065544,Type 2 Diabetes Mellitus,Hs-C Reactive Protein,Not Mentioned,Not Mentioned,6 Months,Secondary Endpoint
-323,NCT02065544,Type 2 Diabetes Mellitus,Aerobic Fitness,Not Mentioned,Not Mentioned,6 Months,Secondary Endpoint
-324,NCT00837408,Diabetes|Hypertension,Type 2 Diabetes,Not Mentioned,Not Mentioned,Cross-Sectional,Primary Endpoint
-325,NCT00837408,Diabetes|Hypertension,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-326,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Hba1C Evaluated By The Total Mean Glucose From Continuous Glucose Monitoring,Not Mentioned,Not Mentioned,17 Weeks,Primary Endpoint
-327,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Erythrocyte Life Span,Not Mentioned,Not Mentioned,4 Weeks,Secondary Endpoint
-328,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Glycated Albumin,Not Mentioned,Not Mentioned,17 Weeks,Secondary Endpoint
-329,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Fructosamine,Not Mentioned,Not Mentioned,17 Weeks,Secondary Endpoint
-330,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Hba1C Evaluated By The Mean Glucose From Continuous Glucose Monitoring For Each Week,Not Mentioned,Not Mentioned,17 Weeks,Secondary Endpoint
-331,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Blood Volume,Not Mentioned,Not Mentioned,4 Hours,Secondary Endpoint
-332,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Standard Deviation,Not Mentioned,Not Mentioned,17 Weeks,Secondary Endpoint
-333,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Coefficient Variation,Not Mentioned,Not Mentioned,17 Weeks,Secondary Endpoint
-334,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Low Blood Glucose Index,Not Mentioned,Not Mentioned,17 Weeks,Secondary Endpoint
-335,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,High Blood Glucose Index,Not Mentioned,Not Mentioned,17 Weeks,Secondary Endpoint
-336,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Time In Hypoglycaemic Range Below 3.0 Mmol/L,Not Mentioned,Not Mentioned,17 Weeks,Secondary Endpoint
-337,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Time In Hypoglycaemic Range Below 3.9 Mmol/L To 3.0 Mmol/L,Not Mentioned,Not Mentioned,17 Weeks,Secondary Endpoint
-338,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Time In Target Range From 3.9 Mmol/L To 10.0 Mmol/L,Not Mentioned,Not Mentioned,17 Weeks,Secondary Endpoint
-339,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Time In Hyperglycaemic Range Above 10.0 Mmol/L,Not Mentioned,Not Mentioned,17 Weeks,Secondary Endpoint
-340,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Time In Hyperglycaemic Range Above 13.9 Mmol/L,Not Mentioned,Not Mentioned,17 Weeks,Secondary Endpoint
-341,NCT03909269,Diabetic Nephropathy Type 2|Type2 Diabetes,Hypoglycaemic Events,Not Mentioned,Not Mentioned,17 Weeks,Secondary Endpoint
-342,NCT00477581,Type 2 Diabetes Mellitus,Effect Of Exenatide On Postprandial Glucose,Not Mentioned,Not Mentioned,28 Days,Primary Endpoint
-343,NCT00477581,Type 2 Diabetes Mellitus,"Assessment Of Effect Of Exenatide To The Effect Of Sitagliptin The Acetaminophen Absorption Test, And 6-Point Self-Monitored Blood Glucose (Smbg) Profiles",Not Mentioned,Not Mentioned,28 Days,Secondary Endpoint
-344,NCT00799643,Type 2 Diabetes Mellitus,"The Primary Outcome For The Tinsal-T2D Study Is Change In Hba1C Level From Baseline To Week 48 From Baseline, Compared Between Treatment Groups.",Not Mentioned,Not Mentioned,48 Weeks From Baseline,Primary Endpoint
-345,NCT00799643,Type 2 Diabetes Mellitus,Change From Baseline In Fasting Glucose Over Time.,Not Mentioned,Not Mentioned,48 Weeks From Baseline,Secondary Endpoint
-346,NCT00799643,Type 2 Diabetes Mellitus,"Response Rates For Reduction In Fasting Glucose Of ≥20 Mg/Dl, A Reduction In Hba1C Of ≥0.5%, And A Reduction In Hba1C Of ≥0.8%",Not Mentioned,Not Mentioned,24 And 48 Weeks,Secondary Endpoint
-347,NCT00799643,Type 2 Diabetes Mellitus,"Change In Lipids (Low-Density Lipoprotein Cholesterol [Ldl-C], Non-High-Density Lipoprotein Cholesterol [Non-Hdl-C], Triglycerides [Tg], Total Cholesterol [Tc], High-Density Lipoprotein Cholesterol [Hdl C], Tc/Hdl-C Ratio, And Ldl-C/Hdl-C Ratio)",Not Mentioned,Not Mentioned,48 Weeks,Secondary Endpoint
-348,NCT00799643,Type 2 Diabetes Mellitus,"Changes In Wbc And Differential, High-Sensitivity C Reactive Protein (Hscrp), Other Inflammatory Markers",Not Mentioned,Not Mentioned,24 And 48 Weeks,Secondary Endpoint
-349,NCT00799643,Type 2 Diabetes Mellitus,Response Rates For Exceeding Hyperglycemic Targets Between Active And Placebo Treated Groups; Need For Rescue Therapy; Need For Discontinuation Of Study Medication,Not Mentioned,Not Mentioned,24 And 48 Weeks,Secondary Endpoint
-350,NCT00799643,Type 2 Diabetes Mellitus,"Response Rates In Patients Initially Treated With Lifestyle Modification, Insulin Secretagogue, Metformin Or Combination Therapy",Not Mentioned,Not Mentioned,24 And 48 Weeks,Secondary Endpoint
-351,NCT01640873,Type 2 Diabetes,Number Of Participants With One Or More Adverse Events,Not Mentioned,Not Mentioned,Up To 14 Days After The Last Dose Of Study Drug (Up To 31 Days),Primary Endpoint
-352,NCT01640873,Type 2 Diabetes,Number Of Participants Discontinuing Study Drug Due To An Adverse Event,Not Mentioned,Not Mentioned,Up To 17 Days,Primary Endpoint
-353,NCT01640873,Type 2 Diabetes,Fasting Plasma Glucose (Fpg),Not Mentioned,Not Mentioned,Day 16 (Predose),Primary Endpoint
-354,NCT01640873,Type 2 Diabetes,True Geometric Mean Plasma Concentrations Of Mk-8655 After Single And Multiple Drug Doses At 24 Hours Post Dose (C24),Not Mentioned,Not Mentioned,"24 Hours Post Dose On Days 1, 7, And 14",Secondary Endpoint
-355,NCT01640873,Type 2 Diabetes,24-Hour Weighted Mean Glucose (Wmg),Not Mentioned,Not Mentioned,"Day 15: Predose, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 18, 21, 23 Hours Post-Dose.",Secondary Endpoint
-356,NCT01640873,Type 2 Diabetes,Change From Baseline At 2 Hours Oral Glucose Tolerance Test,Not Mentioned,Not Mentioned,"Baseline And 2 Hours After Dosing On Days 1, 3, And 16",Secondary Endpoint
-357,NCT01732705,Type 2 Diabetes,Insulin Sensitivity,Not Mentioned,Not Mentioned,2 Days After Last Training Session (Day 17),Primary Endpoint
-358,NCT01732705,Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-359,NCT01159249,Type 2 Diabetes,"Measure Aes, Vital Signs, Laboratory Evaluations",Not Mentioned,Not Mentioned,52 Weeks,Primary Endpoint
-360,NCT01159249,Type 2 Diabetes,Hba1C,Not Mentioned,Not Mentioned,52 Weeks,Secondary Endpoint
-361,NCT01159249,Type 2 Diabetes,Fasting Plasma Glucose,Not Mentioned,Not Mentioned,52 Weeks,Secondary Endpoint
-362,NCT01159249,Type 2 Diabetes,Fasting Insulin,Not Mentioned,Not Mentioned,52 Weeks,Secondary Endpoint
-363,NCT01159249,Type 2 Diabetes,Fasting C-Peptide,Not Mentioned,Not Mentioned,52 Weeks,Secondary Endpoint
-364,NCT01159249,Type 2 Diabetes,Homa-B,Not Mentioned,Not Mentioned,52 Weeks,Secondary Endpoint
-365,NCT00106808,Type 2 Diabetes Mellitus,Change In Hba1C From Baseline To Week 24,Not Mentioned,Not Mentioned,Nan,Primary Endpoint
-366,NCT04176276,Diabetic Kidney Disease|Type2 Diabetes,Serum Expression Of Mir-192,Not Mentioned,Not Mentioned,Each Patients Will Be Assessed At Baseline.,Primary Endpoint
-367,NCT04176276,Diabetic Kidney Disease|Type2 Diabetes,Serum Expression Of Mir-25,Not Mentioned,Not Mentioned,Each Patients Will Be Assessed At Baseline.,Primary Endpoint
-368,NCT04176276,Diabetic Kidney Disease|Type2 Diabetes,Urine Expression Of Mir-192,Not Mentioned,Not Mentioned,Each Patients Will Be Assessed At Baseline.,Primary Endpoint
-369,NCT04176276,Diabetic Kidney Disease|Type2 Diabetes,Urine Expression Of Mir-25,Not Mentioned,Not Mentioned,Each Patients Will Be Assessed At Baseline.,Primary Endpoint
-370,NCT04176276,Diabetic Kidney Disease|Type2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-371,NCT01663220,Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Primary Endpoint
-372,NCT01663220,Type 2 Diabetes,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-373,NCT03902288,Patients With Type 2 Diabetes (Fsg: More Than 7.1 And Not Higher Than 15.8 Mmol/L),Fasting Serum Glucose Measurement,Not Mentioned,Not Mentioned,1 - 3 Hours,Primary Endpoint
-374,NCT03902288,Patients With Type 2 Diabetes (Fsg: More Than 7.1 And Not Higher Than 15.8 Mmol/L),Insulin Hormone Measurement,Not Mentioned,Not Mentioned,1 - 3 Hours,Primary Endpoint
-375,NCT03902288,Patients With Type 2 Diabetes (Fsg: More Than 7.1 And Not Higher Than 15.8 Mmol/L),Erythropoietin Hormone Measurement,Not Mentioned,Not Mentioned,1 - 3 Hours,Primary Endpoint
-376,NCT03902288,Patients With Type 2 Diabetes (Fsg: More Than 7.1 And Not Higher Than 15.8 Mmol/L),Thyroxine Hormone Measurement,Not Mentioned,Not Mentioned,1 - 3 Hours,Primary Endpoint
-377,NCT03902288,Patients With Type 2 Diabetes (Fsg: More Than 7.1 And Not Higher Than 15.8 Mmol/L),Cortisol Hormone Measurement,Not Mentioned,Not Mentioned,1 -3 Hours,Primary Endpoint
-378,NCT03902288,Patients With Type 2 Diabetes (Fsg: More Than 7.1 And Not Higher Than 15.8 Mmol/L),Melatonin Hormone Measurement,Not Mentioned,Not Mentioned,1 - 3 Hours,Secondary Endpoint
-379,NCT03902288,Patients With Type 2 Diabetes (Fsg: More Than 7.1 And Not Higher Than 15.8 Mmol/L),Testosterone Hormone Measurement,Not Mentioned,Not Mentioned,1 - 3 Hours,Secondary Endpoint
-380,NCT03902288,Patients With Type 2 Diabetes (Fsg: More Than 7.1 And Not Higher Than 15.8 Mmol/L),Aldosterone Hormone Measurement,Not Mentioned,Not Mentioned,1 - 3 Hours,Secondary Endpoint
-381,NCT03902288,Patients With Type 2 Diabetes (Fsg: More Than 7.1 And Not Higher Than 15.8 Mmol/L),Serum Total Antioxidant Activity Measurement,Not Mentioned,Not Mentioned,1 - 3 Hours,Secondary Endpoint
-382,NCT03538743,Type 2 Diabetes Mellitus,Number Of Participants With All-Causality And Treatment-Related Treatment-Emergent Adverse Events (Teaes),Not Mentioned,Not Mentioned,From Baseline To Up To 35 Days After Last Dose For A Total Of Approximately 63 Days,Primary Endpoint
-383,NCT03538743,Type 2 Diabetes Mellitus,Number Of Participants With Laboratory Abnormalities Without Regard To Baseline Abnormality,Not Mentioned,Not Mentioned,From Baseline To Up To 14 Days After Last Dose For A Total Of Approximately 42 Days,Primary Endpoint
-384,NCT03538743,Type 2 Diabetes Mellitus,Number Of Participants With Abnormal Vital Signs,Not Mentioned,Not Mentioned,From Baseline To Up To 14 Days After Last Dose For A Total Of Approximately 42 Days,Primary Endpoint
-385,NCT03538743,Type 2 Diabetes Mellitus,Number Of Participants With Abnormal Electrocardiogram (Ecg) Interval,Not Mentioned,Not Mentioned,From Baseline To Up To 14 Days After Last Dose For A Total Of Approximately 42 Days,Primary Endpoint
-386,NCT03538743,Type 2 Diabetes Mellitus,"Auc24 And Auctau Of Pf-06882961 On Day 1, Day 14 Or 21 And Day 28",Not Mentioned,Not Mentioned,"0, 1, 2, 4, 6, 8, 10, 12, 14 And 24 Hrs Post Dose On Day 1, 14 Or 21, And 28",Secondary Endpoint
-387,NCT03538743,Type 2 Diabetes Mellitus,"Maximum Plasma Concentration (Cmax) Of Pf-06882961 On Day 1, Day 14 Or 21 And Day 28",Not Mentioned,Not Mentioned,"0, 1, 2, 4, 6, 8, 10, 12, 14 And 24 Hours Post Dose On Day 1, 14 Or 21, And 28",Secondary Endpoint
-388,NCT03538743,Type 2 Diabetes Mellitus,"Time For Cmax (Tmax) Of Pf-06882961 On Day 1, Day 14 Or 21 And Day 28",Not Mentioned,Not Mentioned,"0, 1, 2, 4, 6, 8, 10, 12, 14 And 24 Hrs Post Dose On Day 1, 14 Or 21, And 28",Secondary Endpoint
-389,NCT03538743,Type 2 Diabetes Mellitus,Terminal Half-Life (T½) Of Pf-06882961 On Day 28,Not Mentioned,Not Mentioned,"0, 1, 2, 4, 6, 8, 10, 12, 14 And 24 Hrs Post Dose On Day 28",Secondary Endpoint
-390,NCT03538743,Type 2 Diabetes Mellitus,Amount Of Unchanged Drug Recovered In Urine Over 24 Hours (Ae24) Of Pf-06882961 On Day 28,Not Mentioned,Not Mentioned,0 To 24 Hours Post-Dose On Day 28,Secondary Endpoint
-391,NCT03538743,Type 2 Diabetes Mellitus,Ae24 (%) Of Pf-06882961 On Day 28,Not Mentioned,Not Mentioned,0 To 24 Hours Post-Dose On Day 28,Secondary Endpoint
-392,NCT03538743,Type 2 Diabetes Mellitus,Renal Clearance (Clr) Of Pf-06882961 On Day 28,Not Mentioned,Not Mentioned,0 To 24 Hours Post-Dose On Day 28,Secondary Endpoint
-393,NCT01472185,Type 2 Diabetes Mellitus,Change From Baseline In Glycosylated Hemoglobin (Hba1C) At Week 24,Not Mentioned,Not Mentioned,Baseline; Week 24,Primary Endpoint
-394,NCT01472185,Type 2 Diabetes Mellitus,Change From Baseline In Fasting Serum Glucose At Week 24,Not Mentioned,Not Mentioned,Baseline; Week 24,Secondary Endpoint
-395,NCT01472185,Type 2 Diabetes Mellitus,Percentage Of Participants With Hba1C < 7% At Week 24,Not Mentioned,Not Mentioned,Week 24,Secondary Endpoint
-396,NCT01472185,Type 2 Diabetes Mellitus,Change From Baseline In 2-Hour Postprandial Serum Glucose At Week 24,Not Mentioned,Not Mentioned,Baseline; Week 24,Secondary Endpoint
-397,NCT01472185,Type 2 Diabetes Mellitus,Change From Baseline In Incremental Change Of 2-Hour Postprandial Serum Glucose At Week 24,Not Mentioned,Not Mentioned,Baseline; Week 24,Secondary Endpoint
-398,NCT01494987,Type 2 Diabetes Mellitus,Change From Baseline In Glycosylated Hemoglobin (Hba1C) At Week 24,Not Mentioned,Not Mentioned,Baseline; Week 24,Primary Endpoint
-399,NCT01494987,Type 2 Diabetes Mellitus,Change From Baseline In Incremental Change Of 2-Hour Postprandial Serum Glucose At Week 24,Not Mentioned,Not Mentioned,Baseline; Week 24,Secondary Endpoint
-400,NCT01494987,Type 2 Diabetes Mellitus,Change From Baseline In Fasting Serum Glucose At Week 24,Not Mentioned,Not Mentioned,Baseline; Week 24,Secondary Endpoint
-401,NCT01494987,Type 2 Diabetes Mellitus,Change From Baseline In 2-Hour Postprandial Serum Glucose At Week 24,Not Mentioned,Not Mentioned,Baseline; Week 24,Secondary Endpoint
-402,NCT02343471,Healthy|Type 2 Diabetes,Effect On Triglyceride Response Of Whey Protein As Pre-Meal After A High-Fat Meal In Healthy Subjects And Subjects With Type 2 Diabetes Measured As Incremental Area Under The Curve (Iauc -15 - 360 Min).,Not Mentioned,Not Mentioned,"Prior To The Pre Meal (-15 Min), Prior To The Main Meal (0 Min) And 60, 90, 120, 180, 240 And 360 Min Post Main Meal",Primary Endpoint
-403,NCT02343471,Healthy|Type 2 Diabetes,Effect On Apolipoprotein B48 Of Whey Protein As Pre-Meal After A High-Fat Meal In Healthy Subjects And Subjects With Type 2 Diabetes Measured As Incremental Area Under The Curve (Iauc -15 - 360 Min).,Not Mentioned,Not Mentioned,"Prior To The Pre Meal (-15 Min), Prior To The Main Meal (0 Min) And 120, 240 And 360 Min Post Main Meal",Primary Endpoint
-404,NCT02343471,Healthy|Type 2 Diabetes,Glucose Responses Measured As Incremental Area Under The Curve (Auc -15 - 360 Min),Not Mentioned,Not Mentioned,"Prior To The Pre Meal -15 Min, -10 Min, Prior To The Main Meal (0 Min) And 15, 30, 60, 90, 120, 240 And 360 Min Post Main Meal",Secondary Endpoint
-405,NCT02343471,Healthy|Type 2 Diabetes,Insulin Responses Measured As Incremental Area Under The Curve (Auc -15 - 360 Min),Not Mentioned,Not Mentioned,"Prior To The Pre Meal -15 Min, -10 Min, Prior To The Main Meal (0 Min) And 15, 30, 60, 90, 120, 240 And 360 Min Post Main Meal",Secondary Endpoint
-406,NCT02343471,Healthy|Type 2 Diabetes,Glucagon Responses Measured As Incremental Area Under The Curve (Auc -15 - 360 Min),Not Mentioned,Not Mentioned,"Prior To The Pre Meal -15 Min, -10 Min, Prior To The Main Meal (0 Min) And 15, 30, 60, 90, 120, 240 And 360 Min Post Main Meal",Secondary Endpoint
-407,NCT02343471,Healthy|Type 2 Diabetes,Glucagon-Like Peptide 1 (Glp-1) Responses Measured As Incremental Area Under The Curve (Auc -15 - 360 Min),Not Mentioned,Not Mentioned,"Prior To The Pre Meal -15 Min, -10 Min, Prior To The Main Meal (0 Min) And 15, 30, 60, 90, 120, 240 And 360 Min Post Main Meal",Secondary Endpoint
-408,NCT02343471,Healthy|Type 2 Diabetes,Gastric Inhibitory Peptide (Gip) Responses Measured As Incremental Area Under The Curve (Auc -15 - 360 Min).,Not Mentioned,Not Mentioned,"Prior To The Pre Meal -15 Min, -10 Min, Prior To The Main Meal (0 Min) And 15, 30, 60, 90, 120, 240 And 360 Min Post Main Meal",Secondary Endpoint
-409,NCT01755468,Type 2 Diabetes,"Baseline-Adjusted Beta-Cell Function At 2 Years, Measured By Insulin Secretion-Sensitivity Index-2 (Issi-2).",Not Mentioned,Not Mentioned,2 Years,Primary Endpoint
-410,NCT01755468,Type 2 Diabetes,Baseline-Adjusted Glycemic Control At 2-Years.,Not Mentioned,Not Mentioned,2 Years,Secondary Endpoint
-411,NCT04363710,Type 2 Diabetes Mellitus In Obese,Hba1C In Percentage,Not Mentioned,Not Mentioned,Up To 24 Weeks,Primary Endpoint
-412,NCT04363710,Type 2 Diabetes Mellitus In Obese,Fasting Blood Glucose In Millimoles Per Liter And Fasting Insulin Level In Picomole Per Liter Will Be Combined To Report Homa Ir,Not Mentioned,Not Mentioned,Up To 24 Weeks,Primary Endpoint
-413,NCT04363710,Type 2 Diabetes Mellitus In Obese,Weight In Kilogram And Height In Meters Will Be Combined To Report Bmi In Kg/M^2,Not Mentioned,Not Mentioned,Up To 24 Weeks,Primary Endpoint
-414,NCT04363710,Type 2 Diabetes Mellitus In Obese,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-415,NCT00562029,Type 2 Diabetes Mellitus,Measure: Resolution Of Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,One Year,Primary Endpoint
-416,NCT00562029,Type 2 Diabetes Mellitus,Measure: Safety And Efficacy Of Duodenal-Jejunal Bypass,Not Mentioned,Not Mentioned,One Year,Secondary Endpoint
+0,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Treatment-Emergent Adverse Events (Teae),3 Days,Primary Endpoint
+1,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Treatment-Emergent Adverse Events (Teae),3 Days,Primary Endpoint
+2,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Treatment-Emergent Adverse Events (Teae),3 Days,Primary Endpoint
+3,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Treatment-Emergent Adverse Events (Teae),3 Days,Primary Endpoint
+4,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Last Non-Zero Concentration(Auclast),48 Hours,Secondary Endpoint
+5,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Which Cmax Was First Observed(Tmax),48 Hours,Secondary Endpoint
+6,NCT04984707,Androgenetic Alopecia,Apparent Volume Of Distribution(Vd,Not Mentioned,Not Mentioned,48 Hours,Secondary Endpoint
+7,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Rate Constant（Kel）,48 Hours,Secondary Endpoint
+8,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Global,Not Mentioned,Not Mentioned,At Baseline.,Primary Endpoint
+9,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Global,Not Mentioned,Not Mentioned,Immediately After Intervention.,Primary Endpoint
+10,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Global,Not Mentioned,Not Mentioned,At 4 Weeks After Intervention.,Primary Endpoint
+11,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Global,Not Mentioned,Not Mentioned,At 12 Weeks After Intervention.,Primary Endpoint
+12,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Global,Not Mentioned,Not Mentioned,At 24 Weeks After Intervention.,Primary Endpoint
+13,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Cognition-Memory,At Baseline.,Primary Endpoint
+14,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Cognition-Memory,Immediately After Intervention.,Primary Endpoint
+15,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Cognition-Memory,At 4 Weeks After Intervention.,Primary Endpoint
+16,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Cognition-Memory,At 12 Weeks After Intervention.,Primary Endpoint
+17,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Cognition-Memory,At 24 Weeks After Intervention.,Primary Endpoint
+18,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Attention,Not Mentioned,Not Mentioned,At Baseline.,Primary Endpoint
+19,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Attention,Not Mentioned,Not Mentioned,Immediately After Intervention.,Primary Endpoint
+20,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Attention,Not Mentioned,Not Mentioned,At 4 Weeks After Intervention.,Primary Endpoint
+21,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Attention,Not Mentioned,Not Mentioned,At 12 Weeks After Intervention.,Primary Endpoint
+22,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Attention,Not Mentioned,Not Mentioned,At 24 Weeks After Intervention.,Primary Endpoint
+23,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Visual,Not Mentioned,Not Mentioned,At Baseline.,Primary Endpoint
+24,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Visual,Not Mentioned,Not Mentioned,Immediately After Intervention.,Primary Endpoint
+25,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Visual,Not Mentioned,Not Mentioned,At 4 Weeks After Intervention.,Primary Endpoint
+26,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Visual,Not Mentioned,Not Mentioned,At 12 Weeks After Intervention.,Primary Endpoint
+27,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Cognition-Visual,Not Mentioned,Not Mentioned,At 24 Weeks After Intervention.,Primary Endpoint
+28,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Cognition-Executive Function,At Baseline.,Primary Endpoint
+29,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Cognition-Executive Function,Immediately After Intervention.,Primary Endpoint
+30,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Cognition-Executive Function,At 4 Weeks After Intervention.,Primary Endpoint
+31,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Cognition-Executive Function,At 12 Weeks After Intervention.,Primary Endpoint
+32,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Cognition-Executive Function,At 24 Weeks After Intervention.,Primary Endpoint
+33,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Fitness Test (Sft),At Baseline.,Secondary Endpoint
+34,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Fitness Test (Sft),Immediately After Intervention.,Secondary Endpoint
+35,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Fitness Test (Sft),At 4 Weeks After Intervention.,Secondary Endpoint
+36,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Fitness Test (Sft),At 12 Weeks After Intervention.,Secondary Endpoint
+37,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Fitness Test (Sft),At 24 Weeks After Intervention.,Secondary Endpoint
+38,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Stance Test (Ust),At Baseline.,Secondary Endpoint
+39,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Stance Test (Ust),Immediately After Intervention.,Secondary Endpoint
+40,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Stance Test (Ust),At 4 Weeks After Intervention.,Secondary Endpoint
+41,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Stance Test (Ust),At 12 Weeks After Intervention.,Secondary Endpoint
+42,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Stance Test (Ust),At 24 Weeks After Intervention.,Secondary Endpoint
+43,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Scale (Irs,Not Mentioned,Not Mentioned,At Baseline.,Secondary Endpoint
+44,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Scale (Irs,Not Mentioned,Not Mentioned,Immediately After Intervention.,Secondary Endpoint
+45,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Scale (Irs,Not Mentioned,Not Mentioned,At 4 Weeks After Intervention.,Secondary Endpoint
+46,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Scale (Irs,Not Mentioned,Not Mentioned,At 12 Weeks After Intervention.,Secondary Endpoint
+47,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Scale (Irs,Not Mentioned,Not Mentioned,At 24 Weeks After Intervention.,Secondary Endpoint
+48,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Scale-Short Form (Gds-Sf),At Baseline.,Secondary Endpoint
+49,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Scale-Short Form (Gds-Sf),Immediately After Intervention.,Secondary Endpoint
+50,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Scale-Short Form (Gds-Sf),At 4 Weeks After Intervention.,Secondary Endpoint
+51,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Scale-Short Form (Gds-Sf),At 12 Weeks After Intervention.,Secondary Endpoint
+52,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Scale-Short Form (Gds-Sf),At 24 Weeks After Intervention.,Secondary Endpoint
+53,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Utility,At Baseline.,Secondary Endpoint
+54,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Utility,Immediately After Intervention.,Secondary Endpoint
+55,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Utility,At 4 Weeks After Intervention.,Secondary Endpoint
+56,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Utility,At 12 Weeks After Intervention.,Secondary Endpoint
+57,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Utility,At 24 Weeks After Intervention.,Secondary Endpoint
+58,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Visual Analogue Scale,At Baseline.,Secondary Endpoint
+59,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Visual Analogue Scale,Immediately After Intervention.,Secondary Endpoint
+60,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Visual Analogue Scale,At 4 Weeks After Intervention.,Secondary Endpoint
+61,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Visual Analogue Scale,At 12 Weeks After Intervention.,Secondary Endpoint
+62,NCT04984694,Cognitive Dysfunction|Cognitive Change|Independent Living|Quality Of Life|Video Games,Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Visual Analogue Scale,At 24 Weeks After Intervention.,Secondary Endpoint
+63,NCT04984564,Educational Problems,Feedback Of Individual,Not Mentioned,Not Mentioned,Survey Was Conducted From August To July 2020. Subjects Had Two Month Period To Respond.,Primary Endpoint
+64,NCT04984135,Coronary Stenosis|Drug-Coated Balloon,Not Mentioned,Not Mentioned,In-Segment Late Lumen Loss,6 Months,Primary Endpoint
+65,NCT04984135,Coronary Stenosis|Drug-Coated Balloon,Not Mentioned,Target,Not Mentioned,6 Months,Secondary Endpoint
+66,NCT04983849,"Mmp8, Mmp9|Il1, Il6, Il8, Il17|Tnf Alfa|Rank-L|Opg|Cal|Ppd|Gi|Fmps|Fmbs",Not Mentioned,Mmp8,Not Mentioned,Baseline - 1 Week,Primary Endpoint
+67,NCT04983849,"Mmp8, Mmp9|Il1, Il6, Il8, Il17|Tnf Alfa|Rank-L|Opg|Cal|Ppd|Gi|Fmps|Fmbs",Not Mentioned,Not Mentioned,Rank-L,Baseline - 1 Week,Primary Endpoint
+68,NCT04983849,"Mmp8, Mmp9|Il1, Il6, Il8, Il17|Tnf Alfa|Rank-L|Opg|Cal|Ppd|Gi|Fmps|Fmbs",Cal,Not Mentioned,Not Mentioned,Baseline - 1 Week,Secondary Endpoint
+69,NCT04983849,"Mmp8, Mmp9|Il1, Il6, Il8, Il17|Tnf Alfa|Rank-L|Opg|Cal|Ppd|Gi|Fmps|Fmbs",Not Mentioned,Not Mentioned,Fmps,Baseline - 1 Week,Secondary Endpoint
+70,NCT04983719,Atypical|Myoma,Not Mentioned,Evaluation,Not Mentioned,Day 1,Primary Endpoint
+71,NCT04983641,Orthopedic Disorder,Not Mentioned,Patients,Rates,1 Week,Primary Endpoint
+72,NCT04983641,Orthopedic Disorder,Not Mentioned,Patients,At-Visit Promis Completion Rates,1 Week,Primary Endpoint
+73,NCT04983641,Orthopedic Disorder,Overall (Pre-Visit,Patients,Rates,1 Week,Primary Endpoint
+74,NCT04983524,"Post-Operative Pain, Chronic|Necrotic Pulp",Not Mentioned,Not Mentioned,Post-Operative Pain,One Week. Line Of 10 Points,Primary Endpoint
+75,NCT04983459,Prostatic Neoplasms|Recurrence,Not Mentioned,Not Mentioned,Rate Per Patient Of Pet-Psma For The Detection Of Biochemical Recurrence,12 Months,Primary Endpoint
+76,NCT04983459,Prostatic Neoplasms|Recurrence,Not Mentioned,Not Mentioned,Rate Per Region Of Psma-Pet For The,12 Months,Secondary Endpoint
+77,NCT04983212,Peri-Implantitis,Not Mentioned,Not Mentioned,Prevalence Of Peri,01/01/2015 - 01/01/2020,Primary Endpoint
+78,NCT04983160,Chronic Kidney Disease,Circulating Endothelial Progenitor,Not Mentioned,Not Mentioned,"Data Collected After 4 Weeks, 8 Weeks And 12 Weeks.",Primary Endpoint
+79,NCT04983160,Chronic Kidney Disease,Level Of Oxidative,Not Mentioned,Not Mentioned,"After Patient Visit (0 Weeks, 4, 8 And 12 Weeks)",Secondary Endpoint
+80,NCT04983160,Chronic Kidney Disease,Level Of Micro,Not Mentioned,Not Mentioned,"After Patient Visit (0 Weeks, 4, 8 And 12 Weeks)",Secondary Endpoint
+81,NCT04983160,Chronic Kidney Disease,Level Of Endothelial,Not Mentioned,Not Mentioned,"After Patient Visit (0 Weeks, 4, 8 And 12 Weeks)",Secondary Endpoint
+82,NCT04983160,Chronic Kidney Disease,Not Mentioned,Blood,Not Mentioned,"Each Visit (0 Weeks, 4 Weeks, 8 Weeks And 12 Weeks) For 24 Hours",Secondary Endpoint
+83,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Weighing Machine,Up To 12 Weeks,Primary Endpoint
+84,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Weighing Machine,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
+85,NCT04983056,Fournier Gangrene,Number Of Patients,Not Mentioned,Not Mentioned,Six Months,Primary Endpoint
+86,NCT04982978,Vaping Related Disorder,Effect Of Threat,Not Mentioned,Not Mentioned,6-Weeks,Primary Endpoint
+87,NCT04982978,Vaping Related Disorder,Effect Of Perceived,Not Mentioned,Not Mentioned,6-Weeks,Secondary Endpoint
+88,NCT04982978,Vaping Related Disorder,Effect Of Perceived,Not Mentioned,Not Mentioned,6-Weeks,Secondary Endpoint
+89,NCT04982874,Drug Use,Geometric Mean Ratio,Not Mentioned,Not Mentioned,1 Month,Primary Endpoint
+90,NCT04982874,Drug Use,Not Mentioned,Not Mentioned,Not Mentioned,90%,Primary Endpoint
+91,NCT04982861,Drug Use,Geometric Mean Ratio,Not Mentioned,Not Mentioned,3 Months,Primary Endpoint
+92,NCT04982861,Drug Use,Not Mentioned,Not Mentioned,Not Mentioned,90%,Primary Endpoint
+93,NCT04982809,Interstitial Lung Disease,Not Mentioned,Respiratory,Not Mentioned,3 Months,Secondary Endpoint
+94,NCT04982809,Interstitial Lung Disease,Not Mentioned,Respiratory,Not Mentioned,3 Months,Secondary Endpoint
+95,NCT04982809,Interstitial Lung Disease,Not Mentioned,Respiratory,Not Mentioned,3 Months,Secondary Endpoint
+96,NCT04982809,Interstitial Lung Disease,Not Mentioned,Respiratory,Not Mentioned,3 Months,Secondary Endpoint
+97,NCT04982809,Interstitial Lung Disease,Not Mentioned,Respiratory,Not Mentioned,3 Months,Secondary Endpoint
+98,NCT04982601,Temporomandibular Disorders|Myofascial Pain Dysfunction Syndrome|Temporomandibular Joint Pain|Range Of Motion|Yoga|Quality Of Life,Not Mentioned,Not Mentioned,Visual Analog Scale(Vas),6 Weeks,Primary Endpoint
+99,NCT04982601,Temporomandibular Disorders|Myofascial Pain Dysfunction Syndrome|Temporomandibular Joint Pain|Range Of Motion|Yoga|Quality Of Life,Not Mentioned,Not Mentioned,Neck Pain And Disability Scale (Npds),6 Weeks,Primary Endpoint
+100,NCT04982601,Temporomandibular Disorders|Myofascial Pain Dysfunction Syndrome|Temporomandibular Joint Pain|Range Of Motion|Yoga|Quality Of Life,Not Mentioned,Not Mentioned,Range Of Motion (Rom),6 Weeks,Primary Endpoint
+101,NCT04982601,Temporomandibular Disorders|Myofascial Pain Dysfunction Syndrome|Temporomandibular Joint Pain|Range Of Motion|Yoga|Quality Of Life,Bdi),Not Mentioned,Not Mentioned,6 Weeks,Secondary Endpoint
+102,NCT04982601,Temporomandibular Disorders|Myofascial Pain Dysfunction Syndrome|Temporomandibular Joint Pain|Range Of Motion|Yoga|Quality Of Life,Short Form,Not Mentioned,Not Mentioned,6 Weeks,Secondary Endpoint
+103,NCT04982523,Post Traumatic Stress Disorder,Change,Not Mentioned,Post-Traumatic Stress Symptoms,"Baseline, 4 Weeks, 8Weeks",Primary Endpoint
+104,NCT04982523,Post Traumatic Stress Disorder,Change Of Depression,Not Mentioned,Not Mentioned,"Baseline, 4 Weeks, 8Weeks",Secondary Endpoint
+105,NCT04982523,Post Traumatic Stress Disorder,College To,Not Mentioned,Not Mentioned,"Baseline, 4 Weeks, 8Weeks",Secondary Endpoint
+106,NCT04982484,Ophthalmopathy|Wet Macular Degeneration,Not Mentioned,Reading,Not Mentioned,Day 0,Primary Endpoint
+107,NCT04982484,Ophthalmopathy|Wet Macular Degeneration,Not Mentioned,Reading,Not Mentioned,Month 3,Primary Endpoint
+108,NCT04982484,Ophthalmopathy|Wet Macular Degeneration,Not Mentioned,Day0,Not Mentioned,Day 0,Secondary Endpoint
+109,NCT04982341,Hypoxemic Respiratory Failure,Number Of Patients,Not Mentioned,Not Mentioned,"Through Study Completion, An Average Of 28 Days",Primary Endpoint
+110,NCT04982263,Covid19,Not Mentioned,Correlation,Not Mentioned,Baseline Results Of Coagulation Profile And Baseline Disease Severity Assessment,Primary Endpoint
+111,NCT04982263,Covid19,Agreement Of Abnormalities,Not Mentioned,Not Mentioned,Baseline Measurement Of Inflammatory Markers,Secondary Endpoint
+112,NCT04982159,Invasive Fusariosis,Clinical,Not Mentioned,Not Mentioned,6 Weeks After Diagnosis,Primary Endpoint
+113,NCT04982055,Critical Illness,Auc (,Not Mentioned,Not Mentioned,0-24H),Secondary Endpoint
+114,NCT04981652,Dairy Products|Muscle Protein Synthesis|Aging|Physical Activity,Not Mentioned,Not Mentioned,Western Blotting,"Assessed At Baseline (Day 0-3), Intervention Diet (4-7) And Intervention Diet + Activity (Day 8-10)",Secondary Endpoint
+115,NCT04981561,Major Depressive Disorder,Not Mentioned,Pharmacokinetics,Not Mentioned,24 Hours,Secondary Endpoint
+116,NCT04981483,Placenta Accreta,Not Mentioned,Not Mentioned,Rate Of Conserving Woman'S Uterus,Intraoperative,Primary Endpoint
+117,NCT04981483,Placenta Accreta,Number Of Units,Not Mentioned,"Transfused ,Postoperative Haemoglobin",Till 48 Hours Postpartum,Secondary Endpoint
+118,NCT04981483,Placenta Accreta,Not Mentioned,Not Mentioned,Rate Of Cesarean Hysterectomy Needed,Intraoperative And 48 Hours Postpartum,Secondary Endpoint
+119,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Worsening Of Clinical Findings,During The Study,Primary Endpoint
+120,NCT04981379,Covid19,Complete Resolution Of,Not Mentioned,Not Mentioned,Fifth Day After Examination,Secondary Endpoint
+121,NCT04981379,Covid19,Complete Resolution Of,Not Mentioned,Not Mentioned,Tenth Day After Examination,Secondary Endpoint
+122,NCT04981379,Covid19,Negative Rt-,Not Mentioned,Sars-Cov-2,Tenth Day After Examination,Secondary Endpoint
+123,NCT04981379,Covid19,Determination Of Igm,Not Mentioned,Sars-Cov-2,Tenth Day After Examination,Secondary Endpoint
+124,NCT04981379,Covid19,Negative Rt-,Not Mentioned,Sars-Cov-2,Thirtieth Day After Examination,Secondary Endpoint
+125,NCT04981379,Covid19,Determination Of Igm,Not Mentioned,Not Mentioned,Thirtieth Day After Examination,Secondary Endpoint
+126,NCT04981379,Covid19,Development Of,Not Mentioned,Not Mentioned,During The Study,Secondary Endpoint
+127,NCT04981379,Covid19,Requirement Of Respiratory,Not Mentioned,Not Mentioned,During The Study,Secondary Endpoint
+128,NCT04981379,Covid19,Requirement Of Respiratory,Not Mentioned,Not Mentioned,During The Study,Secondary Endpoint
+129,NCT04981379,Covid19,Requirement Of Mechanical,Not Mentioned,Not Mentioned,During The Study,Secondary Endpoint
+130,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Rate Of Discontinuation Of Treatments Due To,During The Study,Secondary Endpoint
+131,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Initiation Of Study Drugs,During The Study,Secondary Endpoint
+132,NCT04981249,Covid-19|Chronic Disease,Covid-19 Severe Infection,Not Mentioned,Not Mentioned,From 27-February-2020 To 15-June-2020,Primary Endpoint
+133,NCT04981249,Covid-19|Chronic Disease,Covid-19 Mortality,Not Mentioned,Not Mentioned,From 27-February-2020 To 15-June-2020,Primary Endpoint
+134,NCT04981197,Heart Failure,Changes,Not Mentioned,Modified Piper Fatigue Scale Scores,"Baseline, 4 Week, 8 Week, 12 Week",Primary Endpoint
+135,NCT04981197,Heart Failure,Changes,Not Mentioned,Minnesota Living With,"Baseline, 4 Week, 8 Week, 12 Week",Primary Endpoint
+136,NCT04981197,Heart Failure,Changes,Not Mentioned,Not Mentioned,"Baseline, 4 Week, 8 Week, 12 Week",Secondary Endpoint
+137,NCT04981197,Heart Failure,Changes,Not Mentioned,Hospital Anxiety And Depression Scale Scores,"Baseline, 4 Week, 8 Week, 12 Week",Secondary Endpoint
+138,NCT04981197,Heart Failure,Changes,Not Mentioned,Rate Variability,"Baseline, 4 Week, 8 Week, 12 Week",Secondary Endpoint
+139,NCT04981106,Exercise,Womac Osteoarthritis Index,Not Mentioned,Not Mentioned,First Measurement Two Weeks After Surgery (Intervetion 89.3; Control 88.1),Primary Endpoint
+140,NCT04981106,Exercise,Beck'S Depression Inventory,Not Mentioned,Not Mentioned,First Measurement Two Weeks After Surgery (Intervetion 21.6; Control 22.1),Primary Endpoint
+141,NCT04981106,Exercise,Womac Osteoarthritis Index,Not Mentioned,Not Mentioned,Second Measurement Six Weeks After Surgery (Intervetion 29; Control 70.5),Secondary Endpoint
+142,NCT04981106,Exercise,Beck'S Depression Inventory,Not Mentioned,Not Mentioned,Second Measurement Six Weeks After Surgery (Intervetion 6.9; Control 13.2),Secondary Endpoint
+143,NCT04981080,Detrusor Underactivity|Bladder Outlet Obstruction,Bladder Outlet Obstruction,Not Mentioned,Not Mentioned,February 2005 And December 2020,Primary Endpoint
+144,NCT04981054,"Bladder Oversensitivity|Detrusor, Overactive",Bladder Oversensitivity,Not Mentioned,Not Mentioned,November 2010 And October 2020,Primary Endpoint
+145,NCT04981054,"Bladder Oversensitivity|Detrusor, Overactive",Not Mentioned,Detrusor,Not Mentioned,November 2010 And October 2020,Primary Endpoint
+146,NCT04981015,Bladder Oversensitivity,Not Mentioned,Correlation,Not Mentioned,July 2009 To December 2020,Primary Endpoint
+147,NCT04980989,"Breast Cancer, Early-Onset",Not Mentioned,Not Mentioned,Quality Of Life,"At Baseline, 6 Months And 12 Months",Secondary Endpoint
+148,NCT04980937,Traumatic Injury|Peroneal Nerve Injury|Sport Injury,Not Mentioned,Not Mentioned,Successful Nerve Reconstruction,1 Year,Primary Endpoint
+149,NCT04980729,Pelvic Tumor,Change Of Acetabular,Surgery,Template-Guided Group,"""Through Study Completion, An Average Of 2 Years""",Primary Endpoint
+150,NCT04980586,"Obstructive Sleep Apnea|Breathing, Sleep-Disordered|Muscle Weakness|Muscle Disorder|Face|Swallowing Disorder",Cheeks Appearance,Not Mentioned,Not Mentioned,Immediately After The Evaluation,Primary Endpoint
+151,NCT04980586,"Obstructive Sleep Apnea|Breathing, Sleep-Disordered|Muscle Weakness|Muscle Disorder|Face|Swallowing Disorder",Thickness Evaluation Of,Not Mentioned,Not Mentioned,Immediately After The Evaluation,Secondary Endpoint
+152,NCT04980586,"Obstructive Sleep Apnea|Breathing, Sleep-Disordered|Muscle Weakness|Muscle Disorder|Face|Swallowing Disorder",Cheeks Pressure,Not Mentioned,Not Mentioned,Immediately After The Evaluation,Secondary Endpoint
+153,NCT04980508,Erectile Dysfunction Due To Diseases Classified Elsewhere|Covid19,Corpus Cavernosum Electromyography,Not Mentioned,Not Mentioned,1 Hour,Primary Endpoint
+154,NCT04980508,Erectile Dysfunction Due To Diseases Classified Elsewhere|Covid19,Corpus Cavernosum Electromyography,Not Mentioned,Not Mentioned,1 Hour,Primary Endpoint
+155,NCT04980274,Critically Ill Patients,Not Mentioned,Not Mentioned,Sofa Score After 48 Hours Of Icu Stay,48 Hours,Primary Endpoint
+156,NCT04980274,Critically Ill Patients,Not Mentioned,Not Mentioned,Not Mentioned,28 Day Mortality,Secondary Endpoint
+157,NCT04980274,Critically Ill Patients,Length Of Time,Not Mentioned,Not Mentioned,28 Days,Secondary Endpoint
+158,NCT04980274,Critically Ill Patients,Length Of Time,Not Mentioned,Not Mentioned,28 Days,Secondary Endpoint
+159,NCT04980209,Femoroacetabular Impingement,Not Mentioned,Vas,Not Mentioned,1 Year After Operation,Primary Endpoint
+160,NCT04980209,Femoroacetabular Impingement,Not Mentioned,Not Mentioned,X-Ray,1 Day After Operation,Primary Endpoint
+161,NCT04980196,Urogenital Prolapse,Not Mentioned,Not Mentioned,Surgery In Women With,3Months,Primary Endpoint
+162,NCT04980131,Vertebral Fracture,Number Of Fluoroscopy,Not Mentioned,"Rate,Number Of Insertions Before",Twenty Months,Primary Endpoint
+163,NCT04980131,Vertebral Fracture,Not Mentioned,Vas,Scores After Surgery,Twenty-Two Months,Primary Endpoint
+164,NCT04980118,Breast Cancer|Body Weight Changes|Weight Loss|Nutrition Related Cancer,Not Mentioned,Not Mentioned,Intervention,Six Months,Primary Endpoint
+165,NCT04980040,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Not Mentioned,From First Dose Of Study Drug Up To 30 Days Post Last Dose Of Study Drug (Up To 79.77 Weeks),Primary Endpoint
+166,NCT04980040,Type 2 Diabetes Mellitus,Adrs),Not Mentioned,Not Mentioned,From First Dose Of Study Drug Up To 30 Days Post Last Dose Of Study Drug (Up To 79.77 Weeks),Primary Endpoint
+167,NCT04980040,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Not Mentioned,From First Dose Of Study Drug Up To 30 Days Post Last Dose Of Study Drug (Up To 79.77 Weeks),Primary Endpoint
+168,NCT04980040,Type 2 Diabetes Mellitus,Adrs),Not Mentioned,Not Mentioned,From First Dose Of Study Drug Up To 30 Days Post Last Dose Of Study Drug (Up To 79.77 Weeks),Primary Endpoint
+169,NCT04980040,Type 2 Diabetes Mellitus,Haemoglobin (Hba1C),Not Mentioned,Not Mentioned,"Baseline (Before Administration Of Alogliptin), 13 Weeks (±2 Weeks) And 26 Weeks (±2 Weeks) After Administration",Secondary Endpoint
+170,NCT04980040,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Fasting Blood Glucose Levels,"Baseline (Before Administration Of Alogliptin), 13 Weeks (±2 Weeks) And 26 Weeks (±2 Weeks) After Administration",Secondary Endpoint
+171,NCT04980040,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Not Mentioned,"Baseline (Before Administration Of Alogliptin), 13 Weeks (±2 Weeks) And 26 Weeks (±2 Weeks) After Administration",Secondary Endpoint
+172,NCT04980040,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Final Effectiveness Assessment,Up To Week 26,Secondary Endpoint
+173,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Serious Adverse Drug Reactions (Sadrs),First Dose Of Surveillance Drug Treatment To Within 30 Days After The End Of The Treatment (Up To 153 Weeks),Primary Endpoint
+174,NCT04980014,Type 2 Diabetes Mellitus,Adrs),Not Mentioned,Unexpected Adverse Events (Aes),First Dose Of Surveillance Drug Treatment To Within 30 Days After The End Of The Treatment (Up To 153 Weeks),Primary Endpoint
+175,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Not Mentioned,Week 13,Primary Endpoint
+176,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Adrs,Week 26,Primary Endpoint
+177,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Not Mentioned,Week 39,Primary Endpoint
+178,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Not Mentioned,Week 52,Primary Endpoint
+179,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Adrs,Week 153,Primary Endpoint
+180,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Non-Serious Adrs,First Dose Of Surveillance Drug Treatment To Within 30 Days After The End Of The Treatment (Up To 153 Weeks),Primary Endpoint
+181,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Abnormal Laboratory Findings Reported As Aes,First Dose Of Surveillance Drug Treatment To Within 30 Days After The End Of The Treatment (Up To 153 Weeks),Primary Endpoint
+182,NCT04980014,Type 2 Diabetes Mellitus,A1C (Hba1C,Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
+183,NCT04980014,Type 2 Diabetes Mellitus,Change,Baseline,Fasting Serum Glucose,"Baseline, Weeks 13 And 26",Secondary Endpoint
+184,NCT04980014,Type 2 Diabetes Mellitus,Change,Baseline,Total Cholesterol,"Baseline, Weeks 13 And 26",Secondary Endpoint
+185,NCT04980014,Type 2 Diabetes Mellitus,-C),Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
+186,NCT04980014,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
+187,NCT04980014,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
+188,NCT04980014,Type 2 Diabetes Mellitus,Change,Baseline,Systolic Blood Pressure,"Baseline, Weeks 13 And 26",Secondary Endpoint
+189,NCT04980014,Type 2 Diabetes Mellitus,Change,Baseline,Blood Pressure,"Baseline, Weeks 13 And 26",Secondary Endpoint
+190,NCT04979936,"Acute Cholecystitis|Empyema, Gallbladder",Not Mentioned,Not Mentioned,Postoperative Complications,30 Days After The Operation,Primary Endpoint
+191,NCT04979481,Mental Health Wellness 1,Not Mentioned,Not Mentioned,Self-Esteem,Up To 8 Months,Primary Endpoint
+192,NCT04979195,Covid-19 Positive Patients With Acute Kidney Injury,Kidney,Not Mentioned,Not Mentioned,30 Days,Primary Endpoint
+193,NCT04979091,Covid19|Critical Illness,Sex Hormone In Critical,Not Mentioned,Not Mentioned,Day At Admission,Primary Endpoint
+194,NCT04979091,Covid19|Critical Illness,Sex Hormone In Critical,Patients,Not Mentioned,Day At Admission,Primary Endpoint
+195,NCT04979026,Deep Venous Thrombosis,Change Of Peak,Not Mentioned,Not Mentioned,"The Peak Flow Velocity Was Determined On The 1St, 3Rd, And 14Th Days After Surgery.",Primary Endpoint
+196,NCT04979026,Deep Venous Thrombosis,Change Of Flow,Not Mentioned,Not Mentioned,"The Flow Volume Was Determined On The 1St, 3Rd, And 14Th Days After Surgery.",Primary Endpoint
+197,NCT04979026,Deep Venous Thrombosis,Number Of Participants,Not Mentioned,Not Mentioned,"Stasis Was Determined On The 1St, 3Rd, And 14Th Days After Surgery.",Primary Endpoint
+198,NCT04979026,Deep Venous Thrombosis,Number Of Participants,Not Mentioned,Not Mentioned,"Deep Venous Thrombosis Was Determined On The 1St, 3Rd, And 14Th Days After Surgery.",Primary Endpoint
+199,NCT04979013,Smoking|Smoking Cessation|Tobacco Use,-Dinor-,B2,Leukotriene E4 (Lte4),14 Days,Primary Endpoint
+200,NCT04979013,Smoking|Smoking Cessation|Tobacco Use,Urinary Aa Metabolites Txm,Not Mentioned,Not Mentioned,7 Days,Secondary Endpoint
+201,NCT04979013,Smoking|Smoking Cessation|Tobacco Use,Additional Aa Metabolites,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+202,NCT04979013,Smoking|Smoking Cessation|Tobacco Use,Biomarkers Of Exposure,Nicotine,Urine:,14 Days,Secondary Endpoint
+203,NCT04979013,Smoking|Smoking Cessation|Tobacco Use,Biomarkers Of Exposure,Not Mentioned,Urine: Tsnas,14 Days,Secondary Endpoint
+204,NCT04979013,Smoking|Smoking Cessation|Tobacco Use,Carboxyhemoglobin,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+205,NCT04979013,Smoking|Smoking Cessation|Tobacco Use,Biomarkers Of Exposure,Cotinine,Not Mentioned,14 Days,Secondary Endpoint
+206,NCT04979013,Smoking|Smoking Cessation|Tobacco Use,Biomarkers Of Potential,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+207,NCT04979013,Smoking|Smoking Cessation|Tobacco Use,Biomarkers Of Potential,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+208,NCT04979013,Smoking|Smoking Cessation|Tobacco Use,Nasal Mucociliary Clearance,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+209,NCT04979013,Smoking|Smoking Cessation|Tobacco Use,Natural Killer (Nk),Not Mentioned,B-Lymphocytes,14 Days,Secondary Endpoint
+210,NCT04979013,Smoking|Smoking Cessation|Tobacco Use,Changes In Platelet,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+211,NCT04978974,"Chronic Conditions, Multiple",Effects Of Stress,Not Mentioned,Not Mentioned,10Th Session (One Month And One Week From First Assessment),Primary Endpoint
+212,NCT04978974,"Chronic Conditions, Multiple",Effects Of Stress,Not Mentioned,Quality Of Life,10Th Session (One Month And One Week From First Assessment),Primary Endpoint
+213,NCT04978974,"Chronic Conditions, Multiple",Effects Of Stress,Not Mentioned,Not Mentioned,10Th Session (One Month And One Week From First Assessment),Primary Endpoint
+214,NCT04978974,"Chronic Conditions, Multiple",Effects Of Stress,Baseline,Not Mentioned,Base Line Were Used In 5Th (Two Weeks And 3 Days) And 10Th Session (One Month And One Week From First Assessment),Secondary Endpoint
+215,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,Self-Reported Physical Disability,Booster (12 Weeks From Baseline),Primary Endpoint
+216,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,Self-Reported Physical Disability,6-Month Follow-Up,Primary Endpoint
+217,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,Intervention,6-Month Follow-Up,Primary Endpoint
+218,NCT04978961,Chronic Pain,Acceptability Of The,Not Mentioned,Fact Intervention,6-Month Follow-Up,Primary Endpoint
+219,NCT04978961,Chronic Pain,Chronic,Not Mentioned,Not Mentioned,Booster (12 Weeks From Baseline),Secondary Endpoint
+220,NCT04978961,Chronic Pain,Chronic,Not Mentioned,Not Mentioned,6-Month Follow-Up,Secondary Endpoint
+221,NCT04978961,Chronic Pain,Engagement,Not Mentioned,Not Mentioned,Booster (12 Weeks From Baseline),Secondary Endpoint
+222,NCT04978961,Chronic Pain,Engagement,Not Mentioned,Not Mentioned,6-Month Follow-Up,Secondary Endpoint
+223,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Visual Analog Scale,1. Week,Primary Endpoint
+224,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Visual Analog Scale,4. Week,Primary Endpoint
+225,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Visual Analog Scale,8. Week,Primary Endpoint
+226,NCT04978714,Urodynamic Stress Incontinence|Detrusor Overactivity,Not Mentioned,Urodynamic,Not Mentioned,November 2010 And October 2020,Primary Endpoint
+227,NCT04978714,Urodynamic Stress Incontinence|Detrusor Overactivity,Not Mentioned,Detrusor,Not Mentioned,November 2010 And October 2020,Primary Endpoint
+228,NCT04978688,Healthy,Area Under The,Relugolix,Concentration-Time Curve From Time Zero To Hour 24 (Auc0-24),Predose And Up To 24 Hours At Weeks 3 And 6,Primary Endpoint
+229,NCT04978688,Healthy,Pk: Maximum Concentration,Relugolix,Not Mentioned,Predose And Up To 24 Hours At Weeks 3 And 6,Primary Endpoint
+230,NCT04978688,Healthy,Pk: Time,Relugolix,Not Mentioned,Predose And Up To 24 Hours At Weeks 3 And 6,Primary Endpoint
+231,NCT04978688,Healthy,Change,Baseline,Serum Follicle,"Baseline, Week 6",Secondary Endpoint
+232,NCT04978688,Healthy,Change,Baseline,Not Mentioned,"Baseline, Week 6",Secondary Endpoint
+233,NCT04978688,Healthy,Change,Baseline,Serum Progesterone (P),"Baseline, Week 6",Secondary Endpoint
+234,NCT04978688,Healthy,At Week 6,Baseline,Not Mentioned,"Baseline, Week 6",Secondary Endpoint
+235,NCT04978688,Healthy,Change,Baseline,N-Telopeptide And C-Telopepetide Concentrations At Week 6,"Baseline, Week 6",Secondary Endpoint
+236,NCT04978688,Healthy,Adverse Events,Not Mentioned,Not Mentioned,8 Weeks,Secondary Endpoint
+237,NCT04978545,Periapical Periodontitis|Polymerase Chain Reaction|Intracanal Medicament|Enterococcus Faecalis Infection,Rrna Genes By,Sanger,Not Mentioned,Change From Baseline To Postoperative 7 Days,Primary Endpoint
+238,NCT04978545,Periapical Periodontitis|Polymerase Chain Reaction|Intracanal Medicament|Enterococcus Faecalis Infection,Not Mentioned,S3,"E.Faecalis In 5 Different Samples (Sr1,",Change From Baseline To Postoperative 7 Days,Primary Endpoint
+239,NCT04978532,"Procedural Pain|Pain, Acute",Change,Not Mentioned,Not Mentioned,Before Venipuncture Procedure And After Venipuncture Procedure (Immediately After The Injector Was Removed),Primary Endpoint
+240,NCT04978532,"Procedural Pain|Pain, Acute",Change,Not Mentioned,Not Mentioned,Before Venipuncture Procedure And After Venipuncture Procedure (Immediately After The Injector Was Removed),Primary Endpoint
+241,NCT04978532,"Procedural Pain|Pain, Acute",Not Mentioned,Rate,Not Mentioned,"Before Venipuncture Procedure, During Venipuncture Procedure (When Needle Insertion And The First Blood Was Seen In Injector, Until Needle Removed), And After Venipuncture Procedure (Immediately After The Injector Was Removed)",Secondary Endpoint
+242,NCT04978441,"Significant Correlation Between Baseline Personality Characteristics, Changing Emotions Throughout The Day, And Glycemic Levels In Patients With T1Dm",Not Mentioned,Baseline,"Personality Characteristics, Changing Emotions Throughout The","Through Study Completion, An Average Of 1 Year",Primary Endpoint
+243,NCT04978402,Interchromosomal Breakpoint|Infertility,Not Mentioned,Not Mentioned,Reproductive Risk,Day 1,Primary Endpoint
+244,NCT04978233,Covid-19,Change In The,Not Mentioned,Acceptability Of The Opal,From Day 1 To Day 14,Primary Endpoint
+245,NCT04978233,Covid-19,Usability Of The,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Primary Endpoint
+246,NCT04978233,Covid-19,Contact With,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+247,NCT04978233,Covid-19,Change,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+248,NCT04978233,Covid-19,Change,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+249,NCT04978233,Covid-19,Change,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+250,NCT04978233,Covid-19,Change,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+251,NCT04978233,Covid-19,Change,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+252,NCT04978233,Covid-19,Change,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+253,NCT04978220,Depression Unipolar|Insomnia,Not Mentioned,Not Mentioned,Depression Scale (Hads),1 Year,Primary Endpoint
+254,NCT04978220,Depression Unipolar|Insomnia,Acute Stress Disorder,Not Mentioned,Not Mentioned,1 Year,Secondary Endpoint
+255,NCT04978155,Arterio-Venous Fistula,Time Of The,Not Mentioned,Avf,6 Weeks,Primary Endpoint
+256,NCT04978155,Arterio-Venous Fistula,Time Of The,Not Mentioned,Rate Of Planning Change Between,During The Surgery,Secondary Endpoint
+257,NCT04978155,Arterio-Venous Fistula,"Primary,",Secondary,Not Mentioned,12 Months,Secondary Endpoint
+258,NCT04977921,Educational Problems,Improve Student'S,Not Mentioned,Not Mentioned,13 Lab Session-13 Weeks,Primary Endpoint
+259,NCT04977921,Educational Problems,Learning Of Elsevier,Not Mentioned,Not Mentioned,Up To 15 Weeks,Secondary Endpoint
+260,NCT04977713,Labor Pain|Hydrotherapy|Acupressure|Postpartum Period,Not Mentioned,Reduce,Not Mentioned,Evaluation Was Done Until Delivery (On Average Between 8-12 Hours),Primary Endpoint
+261,NCT04977713,Labor Pain|Hydrotherapy|Acupressure|Postpartum Period,Maternal Information,Not Mentioned,Not Mentioned,Before Birth,Primary Endpoint
+262,NCT04977713,Labor Pain|Hydrotherapy|Acupressure|Postpartum Period,Not Mentioned,Not Mentioned,Visual Analog Scale For Pain (Vasp),Evaluation Was Done Until Delivery (On Average Between 8-12 Hours),Primary Endpoint
+263,NCT04977713,Labor Pain|Hydrotherapy|Acupressure|Postpartum Period,Not Mentioned,Evalution,Not Mentioned,Evaluation Was Done Until Delivery (On Average Between 8-12 Hours),Primary Endpoint
+264,NCT04977687,Machine Learning|Acute Kidney Injury|Renal Replacement Therapy|Prediction Models,Not Mentioned,Not Mentioned,Patients Required Renal Replacement Therapy,14 Days,Primary Endpoint
+265,NCT04977661,Nonalcoholic Steatohepatitis (Nash),Not Mentioned,Resolution,Not Mentioned,3 Months,Primary Endpoint
+266,NCT04977661,Nonalcoholic Steatohepatitis (Nash),Ast),Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
+267,NCT04977596,"Neuroendocrine Tumor Of Pancreas|Carcinoma, Pancreatic|Ct",Number Of Lesions,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+268,NCT04977596,"Neuroendocrine Tumor Of Pancreas|Carcinoma, Pancreatic|Ct",Complicated Pancreatitis,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+269,NCT04977596,"Neuroendocrine Tumor Of Pancreas|Carcinoma, Pancreatic|Ct",Ct Value Of Pancreas,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+270,NCT04977596,"Neuroendocrine Tumor Of Pancreas|Carcinoma, Pancreatic|Ct",Ct Value Of Lesion,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+271,NCT04977596,"Neuroendocrine Tumor Of Pancreas|Carcinoma, Pancreatic|Ct",Ct Value Of Pancreas,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+272,NCT04977596,"Neuroendocrine Tumor Of Pancreas|Carcinoma, Pancreatic|Ct",Ct Value Of Lesion,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+273,NCT04977596,"Neuroendocrine Tumor Of Pancreas|Carcinoma, Pancreatic|Ct",Ct Value Of Pancreas,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+274,NCT04977596,"Neuroendocrine Tumor Of Pancreas|Carcinoma, Pancreatic|Ct",Ct Value Of Lesion,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+275,NCT04977557,Dry Beriberi,Change In Overall,Not Mentioned,Neuropathy Limitation Scale (Onls),"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Primary Endpoint
+276,NCT04977557,Dry Beriberi,Change In Leg,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+277,NCT04977557,Dry Beriberi,Change In Muscle,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+278,NCT04977557,Dry Beriberi,Change In Muscle,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+279,NCT04977557,Dry Beriberi,Change In Deep,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+280,NCT04977557,Dry Beriberi,Change,Not Mentioned,Squat Test,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+281,NCT04977557,Dry Beriberi,Change,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+282,NCT04977557,Dry Beriberi,Change,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+283,NCT04977557,Dry Beriberi,Change In Vibration,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+284,NCT04977557,Dry Beriberi,Change,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+285,NCT04977518,Infective Endocarditis,"Complications (Neurological Events,",Congestive,Not Mentioned,"During The Hospitalization, Average Of 1 Months",Primary Endpoint
+286,NCT04977505,Shoulder Dislocation,Hounsfield Unit Of Ossification,Not Mentioned,Not Mentioned,2 Years After Surgery,Primary Endpoint
+287,NCT04977505,Shoulder Dislocation,Area Of Anchor,Not Mentioned,Not Mentioned,2 Years After Surgery,Secondary Endpoint
+288,NCT04977440,Intensive Care Unit Syndrome,Effect Of High,Not Mentioned,Not Mentioned,Up To 7 Days,Primary Endpoint
+289,NCT04977440,Intensive Care Unit Syndrome,Effect Of High,Not Mentioned,Not Mentioned,Up To 7 Days,Primary Endpoint
+290,NCT04977440,Intensive Care Unit Syndrome,Effect Of High,Not Mentioned,Not Mentioned,Up To 7 Days,Secondary Endpoint
+291,NCT04977219,Stroke,Not Mentioned,Catherine,Not Mentioned,Up To 55 Days,Primary Endpoint
+292,NCT04977219,Stroke,Not Mentioned,Not Mentioned,Functional Independence Measure (Fim),Up To 55 Days,Secondary Endpoint
+293,NCT04977219,Stroke,Length Of,Not Mentioned,Not Mentioned,Up To 55 Days,Secondary Endpoint
+294,NCT04977011,"Diabetic Ketoacidosis|Heart Disease, Ischemic|Stroke|Gastrointestinal Bleeding|Acute Kidney Injury|Heart Failure|Trauma|Septic Shock|Respiratory Failure|Pneumonia|Intracerebral Hemorrhage|Head Injury|Liver Diseases",Anxiety Visual Analog,Not Mentioned,Not Mentioned,3Day,Primary Endpoint
+295,NCT04977011,"Diabetic Ketoacidosis|Heart Disease, Ischemic|Stroke|Gastrointestinal Bleeding|Acute Kidney Injury|Heart Failure|Trauma|Septic Shock|Respiratory Failure|Pneumonia|Intracerebral Hemorrhage|Head Injury|Liver Diseases",Not Mentioned,Richmond,Not Mentioned,3 Day,Secondary Endpoint
+296,NCT04977011,"Diabetic Ketoacidosis|Heart Disease, Ischemic|Stroke|Gastrointestinal Bleeding|Acute Kidney Injury|Heart Failure|Trauma|Septic Shock|Respiratory Failure|Pneumonia|Intracerebral Hemorrhage|Head Injury|Liver Diseases",Not Mentioned,Not Mentioned,Richards-Campbell Sleep Scale,3 Day,Secondary Endpoint
+297,NCT04976673,"Lichen Planus, Oral",Not Mentioned,Not Mentioned,Size Of Oral Lichen,12 Weeks,Primary Endpoint
+298,NCT04976504,Desaturation Of Blood|Anesthesia,Additional Warning Time,Not Mentioned,Not Mentioned,"From Time Of Starting Preoxygenation Until The Time Of Spo2 90%, Assessed Up To 20 Minutes",Primary Endpoint
+299,NCT04976504,Desaturation Of Blood|Anesthesia,Not Mentioned,Correlation,Not Mentioned,"From Time Of Starting Preoxygenation Until The Time Of Spo2 90%, Assessed Up To 20 Minutes",Secondary Endpoint
+300,NCT04976361,Prp,Not Mentioned,Measurement,Not Mentioned,6 Months,Primary Endpoint
+301,NCT04976361,Prp,Not Mentioned,Measurement,Not Mentioned,6 Months,Primary Endpoint
+302,NCT04976114,Anxiety,Anxiety Level,Not Mentioned,Not Mentioned,"Presurgery, Just The Moment Before To Surgery",Primary Endpoint
+303,NCT04976088,Trauma Injury|Inflammation,Change,Vas,"Pain = 0"" While The",72 ± 2 Hours,Primary Endpoint
+304,NCT04976088,Trauma Injury|Inflammation,Area Under,Not Mentioned,Spid0-8D),Day 4 And Day 8,Secondary Endpoint
+305,NCT04976088,Trauma Injury|Inflammation,Change,Baseline,"""Worst Pain Imaginable = 100"")","Day 1, Day 2, Day 3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+306,NCT04976088,Trauma Injury|Inflammation,Not Mentioned,Baseline,"""Worst Pain Imaginable = 100"")",From Day 1 Until The Date Of Resolution Of Pain At Rest (Maximum Day 8),Secondary Endpoint
+307,NCT04976088,Trauma Injury|Inflammation,Change,Vas,168 ±,2 Hours,Secondary Endpoint
+308,NCT04976088,Trauma Injury|Inflammation,Proportion Of Responder,Baseline,"""Worst Pain Imaginable = 100"")",72 ± 2 Hours,Secondary Endpoint
+309,NCT04976088,Trauma Injury|Inflammation,Proportion Of Patients,Baseline,Not Mentioned,From Baseline To Day 8,Secondary Endpoint
+310,NCT04976088,Trauma Injury|Inflammation,Amount Of,Baseline,Not Mentioned,From Baseline To Day 8,Secondary Endpoint
+311,NCT04976088,Trauma Injury|Inflammation,Plaster Detached,Not Mentioned,Day 8 By,"Day 1, Day 2, Day 3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+312,NCT04976088,Trauma Injury|Inflammation,Not Mentioned,Baseline,To Day,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+313,NCT04976088,Trauma Injury|Inflammation,Not Mentioned,Baseline,Blood Pressure,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+314,NCT04976088,Trauma Injury|Inflammation,Not Mentioned,Baseline,To Day,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+315,NCT04976088,Trauma Injury|Inflammation,Not Mentioned,Baseline,To Day,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+316,NCT04976088,Trauma Injury|Inflammation,Number Of Patient,Baseline,To Day,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+317,NCT04976088,Trauma Injury|Inflammation,Number Of Adverse,Baseline,To Day,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+318,NCT04976088,Trauma Injury|Inflammation,Not Mentioned,Not Mentioned,"8-Point Categorical Scale, Where",=No Evidence,Secondary Endpoint
+319,NCT04976088,Trauma Injury|Inflammation,Not Mentioned,Not Mentioned,"4-Point Categorical Scale, Where",3=,Secondary Endpoint
+320,NCT04976088,Trauma Injury|Inflammation,Not Mentioned,Not Mentioned,"4-Point Categorical Scale, Where",3=,Secondary Endpoint
+321,NCT04976088,Trauma Injury|Inflammation,Not Mentioned,Not Mentioned,"4-Point Categorical Scale, Where",3=,Secondary Endpoint
+322,NCT04976088,Trauma Injury|Inflammation,Not Mentioned,Not Mentioned,Day 8,Day 4 And Day 8,Secondary Endpoint
+323,NCT04975971,Anterior Chamber Inflammation|Ocular Pain|Corneal Edema|Corneal Defect|Penetrating Keratoplasty|Nuclear Cataract|Cortical Cataract|Cataract Senile,Not Mentioned,Resolution,Not Mentioned,Assessed For 1 Months After Drug Insertion,Secondary Endpoint
+324,NCT04975971,Anterior Chamber Inflammation|Ocular Pain|Corneal Edema|Corneal Defect|Penetrating Keratoplasty|Nuclear Cataract|Cortical Cataract|Cataract Senile,Not Mentioned,Resolution,Not Mentioned,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
+325,NCT04975971,Anterior Chamber Inflammation|Ocular Pain|Corneal Edema|Corneal Defect|Penetrating Keratoplasty|Nuclear Cataract|Cortical Cataract|Cataract Senile,Proportion Of Eyes,Not Mentioned,Post-Operative Therapy,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
+326,NCT04975971,Anterior Chamber Inflammation|Ocular Pain|Corneal Edema|Corneal Defect|Penetrating Keratoplasty|Nuclear Cataract|Cortical Cataract|Cataract Senile,Number Of Patient,Not Mentioned,Post-Operative Pain,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
+327,NCT04975971,Anterior Chamber Inflammation|Ocular Pain|Corneal Edema|Corneal Defect|Penetrating Keratoplasty|Nuclear Cataract|Cortical Cataract|Cataract Senile,Number Of Pharmacy,Not Mentioned,Post-Operative Medication,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
+328,NCT04975971,Anterior Chamber Inflammation|Ocular Pain|Corneal Edema|Corneal Defect|Penetrating Keratoplasty|Nuclear Cataract|Cortical Cataract|Cataract Senile,Adverse Events,Not Mentioned,Not Mentioned,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
+329,NCT04975971,Anterior Chamber Inflammation|Ocular Pain|Corneal Edema|Corneal Defect|Penetrating Keratoplasty|Nuclear Cataract|Cortical Cataract|Cataract Senile,Change,Not Mentioned,Not Mentioned,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
+330,NCT04975659,Communication,Not Mentioned,Baseline,Not Mentioned,"Through Study Completion, Average Of 10 Months",Primary Endpoint
+331,NCT04975659,Communication,Association Of Education,Not Mentioned,Not Mentioned,"Through Study Completion, Average Of 10 Months",Secondary Endpoint
+332,NCT04975659,Communication,Association Of Past,Not Mentioned,Not Mentioned,"Through Study Completion, Average Of 10 Months",Secondary Endpoint
+333,NCT04975542,Respiratory Function Impaired,Change,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Chest Wall Excursion Within 5 Minutes Of Treatment Completion.,Primary Endpoint
+334,NCT04975542,Respiratory Function Impaired,Change,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Fvc Value Via Pulmonary Function Testing Within 5 Minutes Of Treatment Completion.,Primary Endpoint
+335,NCT04975542,Respiratory Function Impaired,Change,Not Mentioned,Second (Fev1),Measure Assessing A Change From Baseline In Forced Expiratory Volume At 1 Second Via Pulmonary Function Testing Within 5 Minutes Of Treatment Completion.,Primary Endpoint
+336,NCT04975542,Respiratory Function Impaired,Change,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Fev1/Fvc Ratio Value Via Pulmonary Function Testing Within 5 Minutes Of Treatment Completion.,Primary Endpoint
+337,NCT04975542,Respiratory Function Impaired,Change,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Respiratory Rate Within 5 Minutes Of Treatment Completion.,Secondary Endpoint
+338,NCT04975542,Respiratory Function Impaired,Change,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Heart Rate Within 5 Minutes Of Treatment Completion.,Secondary Endpoint
+339,NCT04975529,Exercise|Diet,Not Mentioned,Baseline,Self-Reported Physical Activity Using The,6-Months,Primary Endpoint
+340,NCT04975529,Exercise|Diet,Not Mentioned,Baseline,Self-Efficacy Scale,6-Months,Secondary Endpoint
+341,NCT04975529,Exercise|Diet,Not Mentioned,Baseline,National Cancer Institute (Nci) Fruit,6-Months,Secondary Endpoint
+342,NCT04975529,Exercise|Diet,Not Mentioned,Baseline,Self-Confidence Assessed Using The,6-Months,Secondary Endpoint
+343,NCT04975412,Acne Vulgaris,Acne Severity,Not Mentioned,Not Mentioned,Initial Consult,Primary Endpoint
+344,NCT04975412,Acne Vulgaris,Not Mentioned,Whole,Not Mentioned,Initial Consult,Primary Endpoint
+345,NCT04975360,Sleep Inertia|Caffeine|Placebo,Acute Sleep Inertia,Not Mentioned,Not Mentioned,At 07:00 Hours After Caffeine And Placebo Administration,Primary Endpoint
+346,NCT04975360,Sleep Inertia|Caffeine|Placebo,Not Mentioned,Caffeine,Not Mentioned,Between 07:15-08:00 Hours After Caffeine And Placebo Administration,Secondary Endpoint
+347,NCT04975360,Sleep Inertia|Caffeine|Placebo,Not Mentioned,Negative,Not Mentioned,Between 07:00-08:15 Hours After Caffeine And Placebo Administration,Secondary Endpoint
+348,NCT04975360,Sleep Inertia|Caffeine|Placebo,Not Mentioned,Not Mentioned,N-Back Task,Between 07:30-07:40 Hours After Caffeine And Placebo Administration,Secondary Endpoint
+349,NCT04975360,Sleep Inertia|Caffeine|Placebo,Cortisol Awakening Response,Not Mentioned,Not Mentioned,Between 07:00-08:00 Hours After Caffeine And Placebo Administration,Secondary Endpoint
+350,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Proximal Contact,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+351,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Color: Match,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+352,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Retention,Not Mentioned,24 Months,Primary Endpoint
+353,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Integrity,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+354,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Secondary Caries,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+355,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",History Of Trauma,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+356,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Clinical Pulp Pathology,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+357,NCT04975282,"Preterm|Feeding, Bottle|Feeding Behavior|Feeding, Breast",Not Mentioned,Transition,Not Mentioned,"From Transition To Breastfeeding, Up To 1 Week.",Primary Endpoint
+358,NCT04975126,Cataract,Number Of Correctly,Not Mentioned,Not Mentioned,Day Of Pre-Assessment Visit (1 Week Before Surgery),Primary Endpoint
+359,NCT04975113,Patellofemoral Pain Syndrome|Kinesiotape|Exercise|Strength,Analogue Pain Scale,Not Mentioned,Not Mentioned,"Before And After Treatment (12 Sessions, 6Th. And 12Th. Weeks)]",Primary Endpoint
+360,NCT04975113,Patellofemoral Pain Syndrome|Kinesiotape|Exercise|Strength,Change From Isokinetic,Not Mentioned,Strength Of The Hamstring,"Before And After Treatment (12 Sessions, 6Th. And 12Th. Weeks)]",Primary Endpoint
+361,NCT04975048,Healthy|Gen1 Gene Mutation,Changes,Not Mentioned,Lipids,"Week 0, Week 4, Week 8, Week 16",Primary Endpoint
+362,NCT04975022,"Pk, Pd, And Safety",Cmax,Not Mentioned,Not Mentioned,"Pre-Dose, 5,10,20,30,40,50,60,75,90,105,120,150,180,210,240,270,300, 330,360,420,480 Minutes；",Primary Endpoint
+363,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Not Mentioned,0-8 H,Primary Endpoint
+364,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,"Aucgir,0-8 H","Pre-Dose, 0-8 Hours",Primary Endpoint
+365,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Not Mentioned,0-2 H,Secondary Endpoint
+366,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Insulin,"Pre-Dose, 5,10,20,30,40,50,60,75,90,105,120,150,180,210,240,270,300, 330,360,420,480 Minutes；",Secondary Endpoint
+367,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Insulin,"Pre-Dose, 5,10,20,30,40,50,60,75,90,105,120,150,180,210,240 Minutes",Secondary Endpoint
+368,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Insulin,"Pre-Dose, 5,10,20,30,45,10,20,30,40,50,60,75,90,105,120,150,180,210,240,270,300, 330,360,420,480 Minutes；",Secondary Endpoint
+369,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Aucgir，0-2 H,"Pre-Dose, 0-2 Hours",Secondary Endpoint
+370,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Aucgir，0-4 H,"Pre-Dose, 0-4 Hours",Secondary Endpoint
+371,NCT04974983,Glioblastoma|Angiogenesis,Functional Outcome,Not Mentioned,Not Mentioned,15 Months,Primary Endpoint

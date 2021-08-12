@@ -48,10 +48,10 @@ def activate_update_job():
 
             while update_needed:
                 print("Run update task")
-                # download_data()
+                download_data()
                 create_results()
                 update_needed = False
-                # os.remove(filename) 
+                os.remove(filename) 
                 time.sleep(3)
                 print("Finished updates")
         else:

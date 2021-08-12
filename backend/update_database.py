@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import time
 import datetime
+from urllib.error import HTTPError
 
 
 
@@ -9,10 +10,14 @@ import datetime
 def get_new_chunk(current_border, tmp_border):
     print("Current Border: " + current_border + ", tmp_border: " + tmp_border)
 
-    url_new_chunk="https://clinicaltrials.gov/api/query/study_fields?expr=Type+2+Diabetes&min_rnk=" + current_border +"&max_rnk="+tmp_border+"&fields=NCTId,Condition,OverallStatus,PrimaryOutcomeMeasure,PrimaryOutcomeTimeFrame,SecondaryOutcomeMeasure,SecondaryOutcomeTimeFrame,WhyStopped,BaselineMeasureTitle&fmt=csv"
-
-    data_new_chunk = pd.read_csv(url_new_chunk,  skiprows = 11, names=["NCTId","Condition","OverallStatus","PrimaryOutcomeMeasure","PrimaryTimeFrame","SecondaryOutcomeMeasure","SecondaryTimeFrame", "WhyStopped", "BaselineMeasureTitle"])
-    return data_new_chunk
+    url_new_chunk="https://clinicaltrials.gov/api/query/study_fields?min_rnk=" + current_border +"&max_rnk="+tmp_border+"&fields=NCTId,Condition,OverallStatus,PrimaryOutcomeMeasure,PrimaryOutcomeTimeFrame,SecondaryOutcomeMeasure,SecondaryOutcomeTimeFrame,WhyStopped,BaselineMeasureTitle&fmt=csv"
+    try:
+        data_new_chunk = pd.read_csv(url_new_chunk,  skiprows = 11, names=["NCTId","Condition","OverallStatus","PrimaryOutcomeMeasure","PrimaryTimeFrame","SecondaryOutcomeMeasure","SecondaryTimeFrame", "WhyStopped", "BaselineMeasureTitle"])
+        return data_new_chunk
+    except HTTPError:
+        time.sleep(5)
+        print("Error, trying to continue the update")
+        return get_new_chunk(current_border, tmp_border)
 
 def download_data():
 
@@ -50,7 +55,7 @@ def download_data():
         tmp_border += 999
         # save and empty the tmp_df
         input_data = new_data_merge
-        time.sleep(1)
+        time.sleep(5)
 
 
     # the last < 1000 values will be retrieved by using new borders based on the diff.
@@ -65,5 +70,4 @@ def download_data():
     input_data.to_csv("input_data_raw_" + date_new +".csv")
     filtered = input_data[(input_data["OverallStatus"] == "Completed") & (input_data["WhyStopped"].astype(str) == "nan")]
     export = filtered.drop(columns=["WhyStopped", "OverallStatus"], axis = 1)
-    export[0:100].to_csv("input_data_filtered.csv")
-    # TODO: Prototype will be using only 100 rows! In full version the whole data will be used
+    export.to_csv("input_data_filtered.csv")
