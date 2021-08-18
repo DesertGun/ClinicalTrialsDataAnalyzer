@@ -6,7 +6,14 @@ import pandas as pd
 # Loading the Model
 nlp = spacy.load("../training/ner_model")
 
+'''
+@author Ervin Joa
 
+The following method iterates over all rows of the 
+database and creates the results of the tagging as a csv file.
+
+@return: DateFrame as .csv file
+'''
 def create_results():
     
 
@@ -36,6 +43,17 @@ def create_results():
     export.to_csv("results.csv")
 
 
+'''
+@author Ervin Joa
+
+The following method takes a DataFrame and processes 
+individual features, per row, labels them and returns a DataFrame 
+filled with the new labels.
+
+@param data: DataFrame from clinicalTrials
+
+@return: DateFrame
+'''
 def data_to_dataframe(data):
     dfTest = pd.DataFrame(columns=["NCTId","Condition","Change","Reference", "Variable", "Timepoint"])
 
@@ -95,7 +113,24 @@ def data_to_dataframe(data):
 
 
 # TODO: If multiple equal labels they must be concatinated
-# TODO: Update training params, for training to be as short as possible 
+# TODO: Update training params, for training to be as short as possible
+'''
+@author Ervin Joa
+
+The following method is responsible for labelling, which 
+processes a single row of data. Care is taken to ensure that if 
+neither time frame nor condition is found, then associated 
+features are considered.
+
+@param ncid: ID of the trial
+@param condition: condition found in the data-row
+@param enpoint_art: art of the endpoint found in the data-row
+@param text: text corpus of the trials endpoint
+@param pointer: pointer of the data, if multilined entry is present
+@param timepoint: timepoint of the trials endpoint found
+
+@return: DateFrame for the specific trial
+''' 
 def process_text_entry(nctid, condition, text, endpoint_art, pointer, timepoint):
     dfTemp = pd.DataFrame(columns=["NCTId","Condition","Change","Reference", "Variable", "Timepoint", "Endpoint Art"])
 

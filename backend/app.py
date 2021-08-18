@@ -19,7 +19,17 @@ app.config.from_object(__name__)
 cors = CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
 
 
+'''
+@author Ervin Joa
 
+If the first API call of the server session is 
+made, the following method will, in a separate
+thread, check if an update of the database is needed, in 
+which case download it, label it and create a csv file 
+for further operations, otherwise it will continue directly.
+
+@return: none
+'''
 @app.before_first_request
 def activate_update_job():
 
@@ -69,6 +79,15 @@ def send_results():
     return result_data.to_json(orient="records")
 
 
+'''
+@author Ervin Joa
+
+The following API call returns the processed 
+data, either as a whole or filtered, depending 
+on the user input.
+
+@return: json()orient=records
+'''
 @app.route('/filter', methods=['POST'])
 def filter():
     empty = b'{"Change":"","Variable":"","Reference":"","Condition":"","Timepoint":"","GroupByOptions":[]}'
