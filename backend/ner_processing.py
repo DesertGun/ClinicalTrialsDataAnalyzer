@@ -112,6 +112,20 @@ def data_to_dataframe(data):
     return dfTest
 
 
+def get_labels(target_list):
+    label_list=[]
+
+    for el in target_list:
+        if el.label_ == "Reference" or el.label_ == "Variable":
+            print(el.text)
+            label_list.append(el.text)
+
+    label_list = list(set(label_list))
+
+    label_str = ", ".join(map(str, label_list))
+    print(label_str)
+    return label_str
+
 # TODO: If multiple equal labels they must be concatinated
 # TODO: Update training params, for training to be as short as possible
 '''
@@ -135,12 +149,19 @@ def process_text_entry(nctid, condition, text, endpoint_art, pointer, timepoint)
     dfTemp = pd.DataFrame(columns=["NCTId","Condition","Change","Reference", "Variable", "Timepoint", "Endpoint Art"])
 
     target = nlp(text)
+    target_list = list(target.ents)
+
+    label_str =  get_labels(target_list)
+    
+
     for entity in target.ents:
         dfTemp.at[pointer,"NCTId"]=nctid
         dfTemp.at[pointer,"Condition"]=condition
         if entity.label_ != "Condition":
             dfTemp[entity.label_]=entity.text
         dfTemp.at[pointer,"Endpoint Art"]=endpoint_art
+        if entity.label_ == "Reference" or entity.label_ == "Variable":
+             dfTemp[entity.label_]= label_str
         if entity.label_ != "Timepoint":
             dfTemp.at[pointer, "Timepoint"] = timepoint
     return dfTemp
