@@ -58,10 +58,10 @@ def activate_update_job():
 
             while update_needed:
                 print("Run update task")
-                download_data()
+                # download_data()
                 create_results()
                 update_needed = False
-                os.remove(filename) 
+                # os.remove(filename) 
                 time.sleep(3)
                 print("Finished updates")
         else:
@@ -86,7 +86,7 @@ The following API call returns the processed
 data, either as a whole or filtered, depending 
 on the user input.
 
-@return: json()orient=records
+@return: json(orient=records)
 '''
 @app.route('/filter', methods=['POST'])
 def filter():

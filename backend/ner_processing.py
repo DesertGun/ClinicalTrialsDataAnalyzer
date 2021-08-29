@@ -117,7 +117,7 @@ def get_labels(target_list):
 
     for el in target_list:
         if el.label_ == "Reference" or el.label_ == "Variable":
-            print(el.text)
+            # print(el.text)
             label_list.append(el.text)
 
     label_list = list(set(label_list))

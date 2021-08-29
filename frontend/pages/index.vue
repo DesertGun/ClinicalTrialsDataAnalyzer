@@ -1,7 +1,7 @@
 <template>
   <div>
     <h3 class="title">ClinicalTrailsEndpointExtraction</h3>
-    <b-container class="container">
+    <b-container fluid="md" class="container">
       <b-row class="projectForm">
         <b-col class="varCol">
           <h4>Filter - Settings</h4>
@@ -81,7 +81,7 @@
         </b-col>
       </b-row>
     </b-container>
-    <b-container>
+    <b-container fluid="md" class="resultcontainer">
       <b-row>
         <b-col />
         <b-col class="outCol">
@@ -233,6 +233,6 @@ export default {
 }
 
 .outCol {
-  min-width: 100%;
+  max-width: 100%;
 }
 </style>
