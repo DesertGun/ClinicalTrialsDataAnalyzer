@@ -123,7 +123,7 @@ def get_labels(target_list):
     label_list = list(set(label_list))
 
     label_str = ", ".join(map(str, label_list))
-    print(label_str)
+    # print(label_str)
     return label_str
 
 # TODO: If multiple equal labels they must be concatinated

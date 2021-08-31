@@ -53,7 +53,7 @@ def activate_update_job():
         date_of_database = datetime.datetime.strptime(date_from_filename, '%m%d%Y')
         date_diff = date_of_database - date_of_today
 
-        if abs(date_diff.days) >= 7:
+        if abs(date_diff.days) >= 21:
             update_needed = True
 
             while update_needed:
@@ -90,7 +90,7 @@ on the user input.
 '''
 @app.route('/filter', methods=['POST'])
 def filter():
-    empty = b'{"Change":"","Variable":"","Reference":"","Condition":"","Timepoint":"","GroupByOptions":[]}'
+    empty = b'{"Change":"","Variable":"","Reference":"","Condition":"","Timepoint":"","GroupByOptions":[], "EndpointArt":""}'
     params_json = request.data
     print(params_json)
 
@@ -105,27 +105,32 @@ def filter():
 
         for key, value in values:
             if value and key == "Change":
-                result = result[result_data[key]==value]
+                result = result[result[key]==value]
             elif value and key == "Reference":
-                result = result[result_data[key]==value]
+                result = result[result[key]==value]
             elif value and key == "Condition":
-                result = result[result_data[key]==value]
+                result = result[result[key]==value]
             elif value and key == "Timepoint":
-                result = result[result_data[key]==value]
+                result = result[result[key]==value]
             elif value and key == "Variable":
-                result = result[result_data[key]==value]
+                result = result[result[key]==value]
+            elif value and key == "EndpointArt":
+                result = result[result["Endpoint Art"]==value]
             elif key == "GroupByOptions" and value != []:
-                for groupByVal in value:
+                for groupByVal in value: 
                     group_by_options.append(groupByVal)
-                    
-                group_by_options.extend(["NCTId","Endpoint Art"])
-                result = result.groupby(by=group_by_options).count().reset_index()
+
+                if "Endpoint Art" not in group_by_options:
+                    group_by_options.extend(["Endpoint Art"])
+                result = result.groupby(by=group_by_options).size().reset_index(name='Counts')
+                
+        if group_by_options:
+            print(result.head())
+            return result.sort_values(by=["Counts"], ascending = False).to_json(orient="records")
+        else:
+            print(result.head())
+            return result.to_json(orient="records")
         
-    
-        result.drop(columns = ["Index"], inplace = True)
-        result.reset_index(level=0, inplace=True)
-        print(result.head())
-        return result.to_json(orient="records")
     else:
         return result_data.to_json(orient="records")
 

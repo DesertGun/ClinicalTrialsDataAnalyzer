@@ -58,6 +58,13 @@
                 :data="autocompleteCondition"
               />
             </div>
+            <p>Enter the Endpoint Art:</p>
+            <div class="p-auto">
+              <b-form-select
+                v-model="endpointArt"
+                :options="endpointOptions"
+              ></b-form-select>
+            </div>
             <b-button variant="primary" @click="sendParams()">
               Submit
             </b-button>
@@ -126,12 +133,18 @@ export default {
       reference: '',
       condition: '',
       timepoint: '',
+      endpointArt: null,
       selected: [],
       options: [
         { text: 'Change', value: 'Change' },
         { text: 'Variable', value: 'Variable' },
         { text: 'Condition', value: 'Condition' },
-        { text: 'reference', value: 'Reference' },
+        { text: 'Reference', value: 'Reference' },
+      ],
+      endpointOptions: [
+        { value: null, text: 'Select one one of the endpoint types' },
+        { value: 'Primary Endpoint', text: 'Primary Endpoint' },
+        { value: 'Secondary Endpoint', text: 'Secondary Endpoint' },
       ],
     }
   },
@@ -176,6 +189,7 @@ export default {
         Condition: this.condition,
         Timepoint: this.timepoint,
         GroupByOptions: this.selected,
+        EndpointArt: this.endpointArt,
       }
       try {
         this.items = await this.$axios
@@ -234,5 +248,6 @@ export default {
 
 .outCol {
   max-width: 100%;
+  min-width: 70%;
 }
 </style>
