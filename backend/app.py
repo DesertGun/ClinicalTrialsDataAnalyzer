@@ -109,7 +109,9 @@ def filter():
             elif value and key == "Reference":
                 result = result[result[key]==value]
             elif value and key == "Condition":
-                result = result[result[key]==value]
+                result = result[(result[key].str.contains(value.lower()))|
+                (result[key].str.contains(value.capitalize()))|
+                (result[key].str.contains(value))]
             elif value and key == "Timepoint":
                 result = result[result[key]==value]
             elif value and key == "Variable":
