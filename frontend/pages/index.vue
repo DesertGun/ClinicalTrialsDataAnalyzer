@@ -248,6 +248,6 @@ export default {
 
 .outCol {
   max-width: 100%;
-  min-width: 70%;
+  min-width: 90%;
 }
 </style>
