@@ -126,8 +126,6 @@ def get_labels(target_list):
     # print(label_str)
     return label_str
 
-# TODO: If multiple equal labels they must be concatinated
-# TODO: Update training params, for training to be as short as possible
 '''
 @author Ervin Joa
 
