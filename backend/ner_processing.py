@@ -1,3 +1,4 @@
+from numpy import nan
 import spacy, random
 from spacy.util import minibatch, compounding
 from spacy.training import Example
@@ -74,6 +75,8 @@ def data_to_dataframe(data):
 
         secondary_endpoint_timepoint = row[6]
         secondary_endpoint_timepoints = []
+
+        multiple_conditions = []
         
         if  primary_endpoint.find("|") != -1:
             primary_endpoints = primary_endpoint.split("|")
@@ -86,6 +89,19 @@ def data_to_dataframe(data):
 
         if  secondary_endpoint_timepoint.find("|") != -1:
             secondary_endpoint_timepoints = secondary_endpoint_timepoint.split('|')
+
+        if  condition.find("|") != -1:
+            multiple_conditions = condition.split('|')
+
+            end_condition = ", "
+            end_condition_items = []
+
+            for cond in multiple_conditions:
+                end_condition_items.append(cond)
+            
+            end_condition = end_condition.join(end_condition_items)
+            condition = end_condition
+            
         
         if primary_endpoints == []:
             endpoint_art = "Primary Endpoint"
@@ -164,3 +180,9 @@ def process_text_entry(nctid, condition, text, endpoint_art, pointer, timepoint)
             dfTemp.at[pointer, "Timepoint"] = timepoint
     return dfTemp
 
+def process_condition(multiple_conditions):
+    
+    
+
+    print(end_condition)
+    return end_condition
