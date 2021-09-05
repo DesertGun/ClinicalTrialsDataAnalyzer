@@ -179,10 +179,3 @@ def process_text_entry(nctid, condition, text, endpoint_art, pointer, timepoint)
         if entity.label_ != "Timepoint":
             dfTemp.at[pointer, "Timepoint"] = timepoint
     return dfTemp
-
-def process_condition(multiple_conditions):
-    
-    
-
-    print(end_condition)
-    return end_condition
