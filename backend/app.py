@@ -124,11 +124,11 @@ def filter():
 
                 if "Endpoint Art" not in group_by_options:
                     group_by_options.extend(["Endpoint Art"])
-                result = result.groupby(by=group_by_options).size().reset_index(name='Counts')
+                result = result.groupby(by=group_by_options).size().reset_index(name='Number of Accurances:')
                 
         if group_by_options:
             print(result.head())
-            return result.sort_values(by=["Counts"], ascending = False).to_json(orient="records")
+            return result.sort_values(by=["Number of Accurances:"], ascending = False).to_json(orient="records")
         else:
             print(result.head())
             return result.to_json(orient="records")
