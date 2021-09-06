@@ -1,512 +1,556 @@
 Index,NCTId,Condition,Change,Reference,Variable,Timepoint,Endpoint Art
-0,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,"Irritation Assessments, Treatment-Emergent Adverse Events (Teae)",3 Days,Primary Endpoint
-1,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Treatment-Emergent Adverse Events (Teae),3 Days,Primary Endpoint
-2,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Treatment-Emergent Adverse Events (Teae),3 Days,Primary Endpoint
-3,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Treatment-Emergent Adverse Events (Teae),3 Days,Primary Endpoint
-4,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Study Drug Related Teaes,3 Days,Primary Endpoint
-5,NCT04984707,Androgenetic Alopecia,Auc From,Not Mentioned,Total Exposure(Aucinf),48 Hours,Secondary Endpoint
-6,NCT04984707,Androgenetic Alopecia,Auc From Time,Not Mentioned,Not Mentioned,48 Hours,Secondary Endpoint
-7,NCT04984707,Androgenetic Alopecia,Maximum Observed Concentration,Not Mentioned,Not Mentioned,48 Hours,Secondary Endpoint
-8,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Half Life（T½）,48 Hours,Secondary Endpoint
-9,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Apparent Total Systemic Clearance,48 Hours,Secondary Endpoint
-10,NCT04984707,Androgenetic Alopecia,Distribution(Vd/F),Not Mentioned,Apparent Volume,48 Hours,Secondary Endpoint
-11,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Elimination Rate Constant（Kel）,48 Hours,Secondary Endpoint
-12,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Global Cognition,At Baseline.,Primary Endpoint
-13,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Global Cognition,Immediately After Intervention.,Primary Endpoint
-14,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Global Cognition,At 4 Weeks After Intervention.,Primary Endpoint
-15,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Global Cognition,At 12 Weeks After Intervention.,Primary Endpoint
-16,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Global Cognition,At 24 Weeks After Intervention.,Primary Endpoint
-17,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Memory,At Baseline.,Primary Endpoint
-18,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Memory,Immediately After Intervention.,Primary Endpoint
-19,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Memory,At 4 Weeks After Intervention.,Primary Endpoint
-20,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Memory,At 12 Weeks After Intervention.,Primary Endpoint
-21,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Memory,At 24 Weeks After Intervention.,Primary Endpoint
-22,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Attention,At Baseline.,Primary Endpoint
-23,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Attention,Immediately After Intervention.,Primary Endpoint
-24,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Attention,At 4 Weeks After Intervention.,Primary Endpoint
-25,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Attention,At 12 Weeks After Intervention.,Primary Endpoint
-26,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Attention,At 24 Weeks After Intervention.,Primary Endpoint
-27,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Visual/Spatial Function,At Baseline.,Primary Endpoint
-28,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Visual/Spatial Function,Immediately After Intervention.,Primary Endpoint
-29,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Visual/Spatial Function,At 4 Weeks After Intervention.,Primary Endpoint
-30,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Visual/Spatial Function,At 12 Weeks After Intervention.,Primary Endpoint
-31,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Visual/Spatial Function,At 24 Weeks After Intervention.,Primary Endpoint
-32,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Executive Function,At Baseline.,Primary Endpoint
-33,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Executive Function,Immediately After Intervention.,Primary Endpoint
-34,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Executive Function,At 4 Weeks After Intervention.,Primary Endpoint
-35,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Executive Function,At 12 Weeks After Intervention.,Primary Endpoint
-36,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Executive Function,At 24 Weeks After Intervention.,Primary Endpoint
-37,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Global,At Baseline.,Secondary Endpoint
-38,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Global,Immediately After Intervention.,Secondary Endpoint
-39,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Global,At 4 Weeks After Intervention.,Secondary Endpoint
-40,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Global,At 12 Weeks After Intervention.,Secondary Endpoint
-41,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Global,At 24 Weeks After Intervention.,Secondary Endpoint
-42,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Interpersonal Relationship Scale (Irs),At Baseline.,Secondary Endpoint
-43,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Interpersonal Relationship Scale (Irs),Immediately After Intervention.,Secondary Endpoint
-44,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Interpersonal Relationship Scale (Irs),At 4 Weeks After Intervention.,Secondary Endpoint
-45,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Interpersonal Relationship Scale (Irs),At 12 Weeks After Intervention.,Secondary Endpoint
-46,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Interpersonal Relationship Scale (Irs),At 24 Weeks After Intervention.,Secondary Endpoint
-47,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Geriatric Depression Scale-Short Form (Gds-Sf),At Baseline.,Secondary Endpoint
-48,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Geriatric Depression Scale-Short Form (Gds-Sf),Immediately After Intervention.,Secondary Endpoint
-49,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Geriatric Depression Scale-Short Form (Gds-Sf),At 4 Weeks After Intervention.,Secondary Endpoint
-50,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Geriatric Depression Scale-Short Form (Gds-Sf),At 12 Weeks After Intervention.,Secondary Endpoint
-51,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Psychosocial Factors-Geriatric Depression Scale-Short Form (Gds-Sf),At 24 Weeks After Intervention.,Secondary Endpoint
-52,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Utility,At Baseline.,Secondary Endpoint
-53,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Utility,Immediately After Intervention.,Secondary Endpoint
-54,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Utility,At 4 Weeks After Intervention.,Secondary Endpoint
-55,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Utility,At 12 Weeks After Intervention.,Secondary Endpoint
-56,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Utility,At 24 Weeks After Intervention.,Secondary Endpoint
-57,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Visual Analogue,At Baseline.,Secondary Endpoint
-58,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Visual Analogue,Immediately After Intervention.,Secondary Endpoint
-59,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Visual Analogue,At 4 Weeks After Intervention.,Secondary Endpoint
-60,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Visual Analogue,At 12 Weeks After Intervention.,Secondary Endpoint
-61,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Quality Of Life-Eq5D-Visual Analogue,At 24 Weeks After Intervention.,Secondary Endpoint
-62,NCT04984564,Educational Problems,Not Mentioned,"Feedback Of Individual, Simulator Based Learning, Training On Virtual","Feedback Of Individual, Simulator Based Learning, Training On Virtual",Survey Was Conducted From August To July 2020. Subjects Had Two Month Period To Respond.,Primary Endpoint
-63,NCT04984564,Educational Problems,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-64,NCT04984135,"Coronary Stenosis, Drug-Coated Balloon",In-Segment Late Lumen Loss,Not Mentioned,Not Mentioned,6 Months,Primary Endpoint
-65,NCT04984135,"Coronary Stenosis, Drug-Coated Balloon",Not Mentioned,Not Mentioned,Target Lesion Failure,6 Months,Secondary Endpoint
-66,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Mmp8,Not Mentioned,Not Mentioned,Baseline - 1 Week,Primary Endpoint
-67,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Il1,Not Mentioned,Not Mentioned,Baseline - 1 Week,Primary Endpoint
-68,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Not Mentioned,Not Mentioned,Rank-L,Baseline - 1 Week,Primary Endpoint
-69,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Opg,Not Mentioned,Not Mentioned,Baseline - 1 Week,Primary Endpoint
-70,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Cal,Not Mentioned,Not Mentioned,Baseline - 1 Week,Secondary Endpoint
-71,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Ppd,Not Mentioned,Not Mentioned,Baseline - 1 Week,Secondary Endpoint
-72,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Fmps,Not Mentioned,Not Mentioned,Baseline - 1 Week,Secondary Endpoint
-73,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Fmbs,Not Mentioned,Not Mentioned,Baseline - 1 Week,Secondary Endpoint
-74,NCT04983719,"Atypical, Myoma",Not Mentioned,"Evaluation, Video","Evaluation, Video",Day 1,Primary Endpoint
-75,NCT04983719,"Atypical, Myoma",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-76,NCT04983641,Orthopedic Disorder,Not Mentioned,Not Mentioned,Not Mentioned,1 Week,Primary Endpoint
-77,NCT04983641,Orthopedic Disorder,At-Visit Promis Completion Rates,"Orthopaedic Patients, Receiving Reminder E-Mails, Digital Patient Portal (""Mychart"") Message, Messages Prior","Orthopaedic Patients, Receiving Reminder E-Mails, Digital Patient Portal (""Mychart"") Message, Messages Prior",1 Week,Primary Endpoint
-78,NCT04983641,Orthopedic Disorder,Not Mentioned,"Orthopaedic Patients, Overall (Pre-Visit, Receiving Reminder E-Mails, Digital Patient Portal (""Mychart"") Message, Messages Prior","Orthopaedic Patients, Overall (Pre-Visit, Receiving Reminder E-Mails, Digital Patient Portal (""Mychart"") Message, Messages Prior",1 Week,Primary Endpoint
-79,NCT04983641,Orthopedic Disorder,Promis Form,Not Mentioned,Not Mentioned,1 Week,Secondary Endpoint
-80,NCT04983524,"Post-Operative Pain, Chronic, Necrotic Pulp",Not Mentioned,Not Mentioned,Post-Operative Pain,One Week. Line Of 10 Points,Primary Endpoint
-81,NCT04983524,"Post-Operative Pain, Chronic, Necrotic Pulp",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-82,NCT04983459,"Prostatic Neoplasms, Recurrence",Rate Per Patient,"Pet-Psma, Biochemical Recurrence, Detection, Detection","Pet-Psma, Biochemical Recurrence, Detection, Detection",12 Months,Primary Endpoint
-83,NCT04983459,"Prostatic Neoplasms, Recurrence",Rate Per,"Biochemical Recurrence, Region Of Psma-, Detection, Detection","Biochemical Recurrence, Region Of Psma-, Detection, Detection",12 Months,Secondary Endpoint
-84,NCT04983381,"Pelvic Pain, Pelvic Floor; Relaxation",Not Mentioned,Not Mentioned,Pelvic Examination,6 Months,Primary Endpoint
-85,NCT04983381,"Pelvic Pain, Pelvic Floor; Relaxation",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-86,NCT04983212,Peri-Implantitis,Peri-Implantitis,Not Mentioned,Not Mentioned,01/01/2015 - 01/01/2020,Primary Endpoint
-87,NCT04983212,Peri-Implantitis,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-88,NCT04983160,Chronic Kidney Disease,Not Mentioned,Not Mentioned,"Microparticles Derived From Endothelial Cells, Circulating Endothelial Progenitor Cells Concentration","Data Collected After 4 Weeks, 8 Weeks And 12 Weeks.",Primary Endpoint
-89,NCT04983160,Chronic Kidney Disease,Micro Inflammation,Not Mentioned,Not Mentioned,"After Patient Visit (0 Weeks, 4, 8 And 12 Weeks)",Secondary Endpoint
-90,NCT04983160,Chronic Kidney Disease,Not Mentioned,Not Mentioned,Blood Pressure,"Each Visit (0 Weeks, 4 Weeks, 8 Weeks And 12 Weeks) For 24 Hours",Secondary Endpoint
-91,NCT04983160,Chronic Kidney Disease,Not Mentioned,Not Mentioned,Not Mentioned,"After Patient Visit (0 Weeks, 4 Weeks, 8 Weeks And 12 Weeks)",Secondary Endpoint
-92,NCT04983160,Chronic Kidney Disease,Microalbuminuria / Proteinuria,Not Mentioned,Not Mentioned,"Daily, Using First Urine Of The Day As A Sample.",Secondary Endpoint
-93,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Scale In Obesity,Up To 12 Weeks,Primary Endpoint
-94,NCT04983147,Obesity,Health,"Scale In Obesity, Importance","Scale In Obesity, Importance",Up To 12 Weeks,Primary Endpoint
-95,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Not Mentioned,Obesity- Perceived Sensitivity,Primary Endpoint
-96,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Not Mentioned,Obesity- Perceived Severity,Primary Endpoint
-97,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Not Mentioned,Obesity- Perceived Benefit,Primary Endpoint
-98,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Not Mentioned,Obesity- Perceived Barrier,Primary Endpoint
-99,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Not Mentioned,Up To 12 Weeks,Primary Endpoint
-100,NCT04983147,Obesity,Weighing Machine,Not Mentioned,Not Mentioned,Up To 12 Weeks,Primary Endpoint
-101,NCT04983147,Obesity,Body Mass Index Calculation,Not Mentioned,Not Mentioned,Up To 12 Weeks,Primary Endpoint
-102,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Scale In Obesity,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
-103,NCT04983147,Obesity,Health,"Scale In Obesity, Importance","Scale In Obesity, Importance","Through Study Completion, An Average Of 1 Year",Secondary Endpoint
-104,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Not Mentioned,Obesity- Perceived Sensitivity,Secondary Endpoint
-105,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Not Mentioned,Obesity- Perceived Severity,Secondary Endpoint
-106,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Not Mentioned,Obesity- Perceived Benefit,Secondary Endpoint
-107,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Not Mentioned,Obesity- Perceived Barrier,Secondary Endpoint
-108,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Not Mentioned,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
-109,NCT04983147,Obesity,Weighing Machine,Not Mentioned,Not Mentioned,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
-110,NCT04983147,Obesity,Body Mass Index Calculation,Not Mentioned,Not Mentioned,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
-111,NCT04983056,Fournier Gangrene,Number Of Patients,Not Mentioned,Not Mentioned,Six Months,Primary Endpoint
-112,NCT04983056,Fournier Gangrene,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-113,NCT04982978,Vaping Related Disorder,Not Mentioned,"Effect, Vaping Intention","Effect, Vaping Intention",6-Weeks,Primary Endpoint
-114,NCT04982978,Vaping Related Disorder,Perceived Vulnerability,Effect,Not Mentioned,6-Weeks,Secondary Endpoint
-115,NCT04982978,Vaping Related Disorder,Perceived Severity,"Intention, Effect","Intention, Effect",6-Weeks,Secondary Endpoint
-116,NCT04982874,Drug Use,Not Mentioned,Not Mentioned,Geometric Mean Ratio,1 Month,Primary Endpoint
-117,NCT04982874,Drug Use,Not Mentioned,Not Mentioned,Not Mentioned,90% Confidence,Primary Endpoint
-118,NCT04982874,Drug Use,Pharmacokinetics Parameter,Not Mentioned,Not Mentioned,1 Month,Secondary Endpoint
-119,NCT04982874,Drug Use,Pharmacokinetics Parameter,Not Mentioned,Not Mentioned,1 Month,Secondary Endpoint
-120,NCT04982861,Drug Use,Not Mentioned,Not Mentioned,Geometric Mean Ratio,3 Months,Primary Endpoint
-121,NCT04982861,Drug Use,Not Mentioned,Not Mentioned,Not Mentioned,90% Confidence,Primary Endpoint
-122,NCT04982861,Drug Use,Pharmacokinetics Parameter,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
-123,NCT04982861,Drug Use,Pharmacokinetics Parameter,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
-124,NCT04982809,Interstitial Lung Disease,Not Mentioned,Not Mentioned,Lungen - 6 (Kl-6),3 Months,Primary Endpoint
-125,NCT04982809,Interstitial Lung Disease,Not Mentioned,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
-126,NCT04982809,Interstitial Lung Disease,Not Mentioned,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
-127,NCT04982809,Interstitial Lung Disease,Not Mentioned,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
-128,NCT04982809,Interstitial Lung Disease,Not Mentioned,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
-129,NCT04982809,Interstitial Lung Disease,Not Mentioned,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
-130,NCT04982601,"Temporomandibular Disorders, Myofascial Pain Dysfunction Syndrome, Temporomandibular Joint Pain, Range Of Motion, Yoga, Quality Of Life",Pittsburg Sleep Quality Index (Puqi),Not Mentioned,Not Mentioned,6 Weeks,Secondary Endpoint
-131,NCT04982601,"Temporomandibular Disorders, Myofascial Pain Dysfunction Syndrome, Temporomandibular Joint Pain, Range Of Motion, Yoga, Quality Of Life",Not Mentioned,Not Mentioned,Not Mentioned,6 Weeks,Secondary Endpoint
-132,NCT04982601,"Temporomandibular Disorders, Myofascial Pain Dysfunction Syndrome, Temporomandibular Joint Pain, Range Of Motion, Yoga, Quality Of Life",Not Mentioned,Not Mentioned,Not Mentioned,6 Weeks,Secondary Endpoint
-133,NCT04982523,Post Traumatic Stress Disorder,Change Of Post-Traumatic Stress Symptoms,Not Mentioned,Not Mentioned,"Baseline, 4 Weeks, 8Weeks",Primary Endpoint
-134,NCT04982523,Post Traumatic Stress Disorder,Change,Not Mentioned,Depression,"Baseline, 4 Weeks, 8Weeks",Secondary Endpoint
-135,NCT04982523,Post Traumatic Stress Disorder,Not Mentioned,Not Mentioned,Not Mentioned,"Baseline, 4 Weeks, 8Weeks",Secondary Endpoint
-136,NCT04982484,"Ophthalmopathy, Wet Macular Degeneration",Reading Speed,Not Mentioned,Not Mentioned,Day 0,Primary Endpoint
-137,NCT04982484,"Ophthalmopathy, Wet Macular Degeneration",Reading Speed,Not Mentioned,Not Mentioned,Month 3,Primary Endpoint
-138,NCT04982484,"Ophthalmopathy, Wet Macular Degeneration",Not Mentioned,"Visual Acuity, Etdrs Chart Day",Not Mentioned,Day 0,Secondary Endpoint
-139,NCT04982484,"Ophthalmopathy, Wet Macular Degeneration",Not Mentioned,"Visual Acuity, Etdrs Chartm3",Not Mentioned,Month 3,Secondary Endpoint
-140,NCT04982341,Hypoxemic Respiratory Failure,Number Of Patients,Not Mentioned,Intubation,"Through Study Completion, An Average Of 28 Days",Primary Endpoint
-141,NCT04982341,Hypoxemic Respiratory Failure,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-142,NCT04982263,Covid19,Not Mentioned,"Correlation, Results Of Laboratory Test, Disease Severity","Correlation, Results Of Laboratory Test, Disease Severity",Baseline Results Of Coagulation Profile And Baseline Disease Severity Assessment,Primary Endpoint
-143,NCT04982263,Covid19,Not Mentioned,"Measured Inflammatory Markers, Coagulation Profile","Measured Inflammatory Markers, Coagulation Profile",Baseline Measurement Of Inflammatory Markers,Secondary Endpoint
-144,NCT04982159,Invasive Fusariosis,Clinical Evolution,Not Mentioned,Not Mentioned,6 Weeks After Diagnosis,Primary Endpoint
-145,NCT04982159,Invasive Fusariosis,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-146,NCT04982055,Critical Illness,Not Mentioned,Not Mentioned,Anti-Xa Activity,Peak Anti-Xa Activity Obtained 4 Hours After Start Of Low Molecular Weight Heparin Administration,Primary Endpoint
-147,NCT04982055,Critical Illness,Auc (,Not Mentioned,Not Mentioned,0-24H,Secondary Endpoint
-148,NCT04981652,"Dairy Products, Muscle Protein Synthesis, Aging, Physical Activity",Not Mentioned,Not Mentioned,Not Mentioned,"Assessed At Baseline (Day 0-3), Intervention Diet (4-7) And Intervention Diet + Activity (Day 8-10)",Primary Endpoint
-149,NCT04981652,"Dairy Products, Muscle Protein Synthesis, Aging, Physical Activity",Not Mentioned,Not Mentioned,Not Mentioned,"Assessed At Baseline (Day 0-3), Intervention Diet (4-7) And Intervention Diet + Activity (Day 8-10)",Secondary Endpoint
-150,NCT04981561,Major Depressive Disorder,Not Mentioned,Not Mentioned,Treatment Emergent Adverse Events,28 Days,Primary Endpoint
-151,NCT04981561,Major Depressive Disorder,Not Mentioned,Not Mentioned,Not Mentioned,24 Hours,Secondary Endpoint
-152,NCT04981561,Major Depressive Disorder,Not Mentioned,Not Mentioned,Not Mentioned,24 Hours,Secondary Endpoint
-153,NCT04981561,Major Depressive Disorder,Not Mentioned,Not Mentioned,Plasma Concentration,72 Hours,Secondary Endpoint
-154,NCT04981483,Placenta Accreta,Uterus,Not Mentioned,Not Mentioned,Intraoperative,Primary Endpoint
-155,NCT04981483,Placenta Accreta,Number Of Units,Not Mentioned,Not Mentioned,Till 48 Hours Postpartum,Secondary Endpoint
-156,NCT04981483,Placenta Accreta,Not Mentioned,Not Mentioned,Rate Of Cesarean Hysterectomy Needed,Intraoperative And 48 Hours Postpartum,Secondary Endpoint
-157,NCT04981483,Placenta Accreta,Not Mentioned,Not Mentioned,Puerperal Sepsis,Till 6 Weeks Postpartum,Secondary Endpoint
-158,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Clinical Findings,During The Study,Primary Endpoint
-159,NCT04981379,Covid19,Complete Resolution,Not Mentioned,Not Mentioned,Fifth Day After Examination,Secondary Endpoint
-160,NCT04981379,Covid19,Complete Resolution,Not Mentioned,Not Mentioned,Tenth Day After Examination,Secondary Endpoint
-161,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Not Mentioned,Tenth Day After Examination,Secondary Endpoint
-162,NCT04981379,Covid19,"Igm,","Determination, Igg Levels","Determination, Igg Levels",Tenth Day After Examination,Secondary Endpoint
-163,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Not Mentioned,Thirtieth Day After Examination,Secondary Endpoint
-164,NCT04981379,Covid19,"Igm,",Determination,Not Mentioned,Thirtieth Day After Examination,Secondary Endpoint
-165,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Pneumonia,During The Study,Secondary Endpoint
-166,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Mechanical Ventilation,During The Study,Secondary Endpoint
-167,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Not Mentioned,During The Study,Secondary Endpoint
-168,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Rate Of Discontinuation Of Treatments Due,During The Study,Secondary Endpoint
-169,NCT04981379,Covid19,Not Mentioned,"Study Drugs, Symptoms After","Study Drugs, Symptoms After",During The Study,Secondary Endpoint
-170,NCT04981249,"Covid-19, Chronic Disease",Not Mentioned,Not Mentioned,Covid-19 Severe Infection,From 27-February-2020 To 15-June-2020,Primary Endpoint
-171,NCT04981249,"Covid-19, Chronic Disease",Not Mentioned,Not Mentioned,Covid-19 Mortality,From 27-February-2020 To 15-June-2020,Primary Endpoint
-172,NCT04981249,"Covid-19, Chronic Disease",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-173,NCT04981197,Heart Failure,Not Mentioned,"Modified Piper Fatigue Scale Scores, Changes","Modified Piper Fatigue Scale Scores, Changes","Baseline, 4 Week, 8 Week, 12 Week",Primary Endpoint
-174,NCT04981197,Heart Failure,Not Mentioned,Not Mentioned,Changes,"Baseline, 4 Week, 8 Week, 12 Week",Primary Endpoint
-175,NCT04981197,Heart Failure,Not Mentioned,Not Mentioned,Changes,"Baseline, 4 Week, 8 Week, 12 Week",Secondary Endpoint
-176,NCT04981197,Heart Failure,Not Mentioned,Not Mentioned,Changes,"Baseline, 4 Week, 8 Week, 12 Week",Secondary Endpoint
-177,NCT04981197,Heart Failure,Not Mentioned,Not Mentioned,"Heart Rate Variability, Changes In","Baseline, 4 Week, 8 Week, 12 Week",Secondary Endpoint
-178,NCT04981106,Exercise,Tampa Kinesiophobia Index,Not Mentioned,Not Mentioned,First Measurement Two Weeks After Surgery (Intervetion 58.2; Control 54.1),Primary Endpoint
-179,NCT04981106,Exercise,Not Mentioned,Not Mentioned,Not Mentioned,First Measurement Two Weeks After Surgery (Intervetion 89.3; Control 88.1),Primary Endpoint
-180,NCT04981106,Exercise,Tampa Kinesiophobia Index,Not Mentioned,Not Mentioned,Second Measurement Six Weeks After Surgery (Intervetion 36.9; Control 42.9),Secondary Endpoint
-181,NCT04981106,Exercise,Not Mentioned,Not Mentioned,Not Mentioned,Second Measurement Six Weeks After Surgery (Intervetion 29; Control 70.5),Secondary Endpoint
-182,NCT04981080,"Detrusor Underactivity, Bladder Outlet Obstruction",Detrusor Underactivity,Not Mentioned,Not Mentioned,February 2005 And December 2020,Primary Endpoint
-183,NCT04981080,"Detrusor Underactivity, Bladder Outlet Obstruction",Bladder Outlet Obstruction,Not Mentioned,Not Mentioned,February 2005 And December 2020,Primary Endpoint
-184,NCT04981080,"Detrusor Underactivity, Bladder Outlet Obstruction",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-185,NCT04981054,"Bladder Oversensitivity, Detrusor, Overactive",Bladder Oversensitivity,Not Mentioned,Not Mentioned,November 2010 And October 2020,Primary Endpoint
-186,NCT04981054,"Bladder Oversensitivity, Detrusor, Overactive",Detrusor Overactivity,Not Mentioned,Not Mentioned,November 2010 And October 2020,Primary Endpoint
-187,NCT04981054,"Bladder Oversensitivity, Detrusor, Overactive",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-188,NCT04981015,Bladder Oversensitivity,Between Parameters,Correlation,Not Mentioned,July 2009 To December 2020,Primary Endpoint
-189,NCT04981015,Bladder Oversensitivity,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-190,NCT04980989,"Breast Cancer, Early-Onset",Modality,Not Mentioned,Not Mentioned,At 12 Months During Follow-Up Of Early Breast Cancer,Primary Endpoint
-191,NCT04980989,"Breast Cancer, Early-Onset",Not Mentioned,Not Mentioned,Quality Of Life During Follow-Up Modality,"At Baseline, 6 Months And 12 Months",Secondary Endpoint
-192,NCT04980989,"Breast Cancer, Early-Onset",Not Mentioned,Not Mentioned,Patient Satisfaction,At 6 Months And 12 Months,Secondary Endpoint
-193,NCT04980989,"Breast Cancer, Early-Onset",Not Mentioned,Not Mentioned,Not Mentioned,"At Baseline, 6 Months And 12 Months",Secondary Endpoint
-194,NCT04980989,"Breast Cancer, Early-Onset",Other Healthcare,Not Mentioned,Not Mentioned,At 6 Months And 12 Months,Secondary Endpoint
-195,NCT04980937,"Traumatic Injury, Peroneal Nerve Injury, Sport Injury",Successful Nerve Reconstruction,Not Mentioned,Not Mentioned,1 Year,Primary Endpoint
-196,NCT04980937,"Traumatic Injury, Peroneal Nerve Injury, Sport Injury",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-197,NCT04980729,Pelvic Tumor,Not Mentioned,"Template-Guided Group, Traditional Operation Group, Rotation Center Before","Template-Guided Group, Traditional Operation Group, Rotation Center Before","""Through Study Completion, An Average Of 2 Years""",Primary Endpoint
-198,NCT04980729,Pelvic Tumor,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-199,NCT04980586,"Obstructive Sleep Apnea, Breathing, Sleep-Disordered, Muscle Weakness, Muscle Disorder, Face, Swallowing Disorder",Not Mentioned,Not Mentioned,Not Mentioned,Immediately After The Evaluation,Primary Endpoint
-200,NCT04980586,"Obstructive Sleep Apnea, Breathing, Sleep-Disordered, Muscle Weakness, Muscle Disorder, Face, Swallowing Disorder",Specific Orofacial Muscles,Not Mentioned,Thickness Evaluation,Immediately After The Evaluation,Secondary Endpoint
-201,NCT04980586,"Obstructive Sleep Apnea, Breathing, Sleep-Disordered, Muscle Weakness, Muscle Disorder, Face, Swallowing Disorder",Not Mentioned,Not Mentioned,Cheeks Pressure,Immediately After The Evaluation,Secondary Endpoint
-202,NCT04980508,"Erectile Dysfunction Due To Diseases Classified Elsewhere, Covid19",Not Mentioned,Not Mentioned,Corpus Cavernosum Electromyography Amplitudes,1 Hour,Primary Endpoint
-203,NCT04980508,"Erectile Dysfunction Due To Diseases Classified Elsewhere, Covid19",Not Mentioned,Not Mentioned,Corpus Cavernosum Electromyography Relaxation Degree,1 Hour,Primary Endpoint
-204,NCT04980508,"Erectile Dysfunction Due To Diseases Classified Elsewhere, Covid19",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-205,NCT04980274,Critically Ill Patients,Not Mentioned,Not Mentioned,Not Mentioned,48 Hours,Primary Endpoint
-206,NCT04980274,Critically Ill Patients,Not Mentioned,Not Mentioned,Not Mentioned,28 Day Mortality,Secondary Endpoint
-207,NCT04980274,Critically Ill Patients,Not Mentioned,Mechanical Ventilation,Not Mentioned,28 Days,Secondary Endpoint
-208,NCT04980209,Femoroacetabular Impingement,Vas Scale,Not Mentioned,Not Mentioned,1 Year After Operation,Primary Endpoint
-209,NCT04980209,Femoroacetabular Impingement,Mhhs Scale,Not Mentioned,Not Mentioned,1 Year After Operation,Primary Endpoint
-210,NCT04980209,Femoroacetabular Impingement,Not Mentioned,Not Mentioned,Not Mentioned,1 Day After Operation,Primary Endpoint
-211,NCT04980209,Femoroacetabular Impingement,Not Mentioned,Not Mentioned,Not Mentioned,1 Day After Operation,Primary Endpoint
-212,NCT04980209,Femoroacetabular Impingement,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-213,NCT04980196,Urogenital Prolapse,Urological Outcome,Not Mentioned,Pelvic Organ Prolapse,3Months,Primary Endpoint
-214,NCT04980196,Urogenital Prolapse,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-215,NCT04980131,Vertebral Fracture,Insertions Before,"Desired Position, Radiation Dosage Before Reaching, Rate,Number, Desired Position,","Desired Position, Radiation Dosage Before Reaching, Rate,Number, Desired Position,",Twenty Months,Primary Endpoint
-216,NCT04980131,Vertebral Fracture,Vas Scores After,Not Mentioned,Not Mentioned,Twenty-Two Months,Primary Endpoint
-217,NCT04980131,Vertebral Fracture,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-218,NCT04980118,"Breast Cancer, Body Weight Changes, Weight Loss, Nutrition Related Cancer",Women Newly Diagnosed,"Breast Cancer 9 Weight Control, To Evaluate A Nutritional Intervention","Breast Cancer 9 Weight Control, To Evaluate A Nutritional Intervention",Six Months,Primary Endpoint
-219,NCT04980118,"Breast Cancer, Body Weight Changes, Weight Loss, Nutrition Related Cancer",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-220,NCT04980040,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Adverse Events (Saes),From First Dose Of Study Drug Up To 30 Days Post Last Dose Of Study Drug (Up To 79.77 Weeks),Primary Endpoint
-221,NCT04980040,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Unexpected Adverse Events,From First Dose Of Study Drug Up To 30 Days Post Last Dose Of Study Drug (Up To 79.77 Weeks),Primary Endpoint
-222,NCT04980040,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Unexpected Adverse Drug Reactions (Adrs),From First Dose Of Study Drug Up To 30 Days Post Last Dose Of Study Drug (Up To 79.77 Weeks),Primary Endpoint
-223,NCT04980040,Type 2 Diabetes Mellitus,Haemoglobin (Hba1C) Levels,Not Mentioned,Not Mentioned,"Baseline (Before Administration Of Alogliptin), 13 Weeks (±2 Weeks) And 26 Weeks (±2 Weeks) After Administration",Secondary Endpoint
-224,NCT04980040,Type 2 Diabetes Mellitus,Fasting Blood Glucose Levels,Not Mentioned,Not Mentioned,"Baseline (Before Administration Of Alogliptin), 13 Weeks (±2 Weeks) And 26 Weeks (±2 Weeks) After Administration",Secondary Endpoint
-225,NCT04980040,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Overall Improvement,Up To Week 26,Secondary Endpoint
-226,NCT04980014,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Adverse Events (Saes),First Dose Of Surveillance Drug Treatment To Within 30 Days After The End Of The Treatment (Up To 153 Weeks),Primary Endpoint
-227,NCT04980014,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,"Adverse Drug Reactions (Adrs) Not Mentioned In Precautions, Unexpected Adverse Events (Aes)",First Dose Of Surveillance Drug Treatment To Within 30 Days After The End Of The Treatment (Up To 153 Weeks),Primary Endpoint
-228,NCT04980014,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Expected/Already Known Adrs,Week 13,Primary Endpoint
-229,NCT04980014,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Expected/Already Known Adrs,Week 26,Primary Endpoint
-230,NCT04980014,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Expected/Already Known Adrs,Week 39,Primary Endpoint
-231,NCT04980014,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Expected/Already Known Adrs,Week 52,Primary Endpoint
-232,NCT04980014,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Expected/Already Known Adrs,Week 153,Primary Endpoint
-233,NCT04980014,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Abnormal Laboratory Findings Reported As Aes,First Dose Of Surveillance Drug Treatment To Within 30 Days After The End Of The Treatment (Up To 153 Weeks),Primary Endpoint
-234,NCT04980014,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
-235,NCT04980014,Type 2 Diabetes Mellitus,Change,"Fasting Serum Glucose, Baseline","Fasting Serum Glucose, Baseline","Baseline, Weeks 13 And 26",Secondary Endpoint
-236,NCT04980014,Type 2 Diabetes Mellitus,Change,"Baseline, Total Cholesterol","Baseline, Total Cholesterol","Baseline, Weeks 13 And 26",Secondary Endpoint
-237,NCT04980014,Type 2 Diabetes Mellitus,Low Density Lipoprotein-Cholesterol (Ldl-C),Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
-238,NCT04980014,Type 2 Diabetes Mellitus,High Density Lipoprotein-Cholesterol (Hdl-C),Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
-239,NCT04980014,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
-240,NCT04980014,Type 2 Diabetes Mellitus,Change,"Blood Pressure, Baseline","Blood Pressure, Baseline","Baseline, Weeks 13 And 26",Secondary Endpoint
-241,NCT04980014,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,Diastolic,Secondary Endpoint
-242,NCT04979936,"Acute Cholecystitis, Empyema, Gallbladder",Not Mentioned,Not Mentioned,Operative Difficulties,At The Time Of Cholecysctomy,Primary Endpoint
-243,NCT04979936,"Acute Cholecystitis, Empyema, Gallbladder",Postoperative Complications,Not Mentioned,Not Mentioned,30 Days After The Operation,Primary Endpoint
-244,NCT04979936,"Acute Cholecystitis, Empyema, Gallbladder",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-245,NCT04979689,Erbs Palsy,Not Mentioned,Not Mentioned,Not Mentioned,12Th Weeks,Primary Endpoint
-246,NCT04979689,Erbs Palsy,Not Mentioned,Not Mentioned,Not Mentioned,"12Th Weeks, 5Th Day",Secondary Endpoint
-247,NCT04979481,Mental Health Wellness 1,Not Mentioned,Not Mentioned,Not Mentioned,Up To 8 Months,Primary Endpoint
-248,NCT04979481,Mental Health Wellness 1,Resilience,Not Mentioned,Not Mentioned,Up To 8 Months,Primary Endpoint
-249,NCT04979481,Mental Health Wellness 1,Not Mentioned,Not Mentioned,Not Mentioned,Up To 8 Months,Primary Endpoint
-250,NCT04979481,Mental Health Wellness 1,Not Mentioned,Not Mentioned,Self-Esteem,Up To 8 Months,Primary Endpoint
-251,NCT04979481,Mental Health Wellness 1,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-252,NCT04979364,"Chronic Pain, Opioid Misuse",Pomi Scale,Not Mentioned,Not Mentioned,Once. At Inclusion (Test Phase),Primary Endpoint
-253,NCT04979364,"Chronic Pain, Opioid Misuse",Pomi Scale,Not Mentioned,Not Mentioned,Once. At 2 To 4 Weeks (Re-Test Phase),Primary Endpoint
-254,NCT04979364,"Chronic Pain, Opioid Misuse",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-255,NCT04979208,"Coronavirus Disease 2019, Stroke, Acute Myocardial Infarction",Not Mentioned,Delay For Ami Patient,Not Mentioned,At Inclusion In The Cohort During The Acute Episode,Primary Endpoint
-256,NCT04979208,"Coronavirus Disease 2019, Stroke, Acute Myocardial Infarction",Not Mentioned,Delay For Stroke Patient,Not Mentioned,At Inclusion In The Cohort During The Acute Episode,Primary Endpoint
-257,NCT04979208,"Coronavirus Disease 2019, Stroke, Acute Myocardial Infarction",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-258,NCT04979195,Covid-19 Positive Patients With Acute Kidney Injury,Patient Survival,Not Mentioned,Not Mentioned,30 Days,Primary Endpoint
-259,NCT04979195,Covid-19 Positive Patients With Acute Kidney Injury,Not Mentioned,Not Mentioned,Not Mentioned,30 Days,Primary Endpoint
-260,NCT04979195,Covid-19 Positive Patients With Acute Kidney Injury,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-261,NCT04979091,"Covid19, Critical Illness",Sex,Not Mentioned,Covid-19 Patients,Day At Admission,Primary Endpoint
-262,NCT04979091,"Covid19, Critical Illness",Sex,Critical Ill,Not Mentioned,Day At Admission,Primary Endpoint
-263,NCT04979091,"Covid19, Critical Illness",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-264,NCT04979026,Deep Venous Thrombosis,Change Of,Not Mentioned,Not Mentioned,"The Peak Flow Velocity Was Determined On The 1St, 3Rd, And 14Th Days After Surgery.",Primary Endpoint
-265,NCT04979026,Deep Venous Thrombosis,Change,Not Mentioned,Not Mentioned,"The Flow Volume Was Determined On The 1St, 3Rd, And 14Th Days After Surgery.",Primary Endpoint
-266,NCT04979026,Deep Venous Thrombosis,Number Of Participants,Not Mentioned,Not Mentioned,"Stasis Was Determined On The 1St, 3Rd, And 14Th Days After Surgery.",Primary Endpoint
-267,NCT04979026,Deep Venous Thrombosis,Number Of Participants,Not Mentioned,Not Mentioned,"Deep Venous Thrombosis Was Determined On The 1St, 3Rd, And 14Th Days After Surgery.",Primary Endpoint
-268,NCT04979026,Deep Venous Thrombosis,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-269,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Not Mentioned,Not Mentioned,14 Days,Primary Endpoint
-270,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Not Mentioned,Not Mentioned,7 Days,Secondary Endpoint
-271,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
-272,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,"Biomarkers Of Exposure, Nicotine Equivalents, Urine","Biomarkers Of Exposure, Nicotine Equivalents, Urine",14 Days,Secondary Endpoint
-273,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Tsnas,"Urine:, Biomarkers Of Exposure","Urine:, Biomarkers Of Exposure",14 Days,Secondary Endpoint
-274,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Carboxyhemoglobin,"Biomarkers Of Exposure, Blood:","Biomarkers Of Exposure, Blood:",14 Days,Secondary Endpoint
-275,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Cotinine,"Biomarkers Of Exposure, Nicotine And, Blood:","Biomarkers Of Exposure, Nicotine And, Blood:",14 Days,Secondary Endpoint
-276,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Feno,Biomarkers Of Potential,Not Mentioned,14 Days,Secondary Endpoint
-277,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Biomarkers Of Potential,Not Mentioned,14 Days,Secondary Endpoint
-278,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
-279,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Not Mentioned,B-Lymphocytes And,14 Days,Secondary Endpoint
-280,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,"Platelet, Changes","Platelet, Changes",14 Days,Secondary Endpoint
-281,NCT04978974,"Chronic Conditions, Multiple",Not Mentioned,Not Mentioned,Not Mentioned,10Th Session (One Month And One Week From First Assessment),Primary Endpoint
-282,NCT04978974,"Chronic Conditions, Multiple",Life,Not Mentioned,Not Mentioned,10Th Session (One Month And One Week From First Assessment),Primary Endpoint
-283,NCT04978974,"Chronic Conditions, Multiple",Not Mentioned,Not Mentioned,Strategies Questionnaire,10Th Session (One Month And One Week From First Assessment),Primary Endpoint
-284,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,Self-Reported Physical Disability,Booster (12 Weeks From Baseline),Primary Endpoint
-285,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,Self-Reported Physical Disability,6-Month Follow-Up,Primary Endpoint
-286,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,"Study (Attrition, Satisfaction Ratings)",6-Month Follow-Up,Primary Endpoint
-287,NCT04978961,Chronic Pain,Not Mentioned,Fact Intervention,Not Mentioned,6-Month Follow-Up,Primary Endpoint
-288,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,Not Mentioned,Booster (12 Weeks From Baseline),Secondary Endpoint
-289,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,Not Mentioned,6-Month Follow-Up,Secondary Endpoint
-290,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,Not Mentioned,Booster (12 Weeks From Baseline),Secondary Endpoint
-291,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,Not Mentioned,6-Month Follow-Up,Secondary Endpoint
-292,NCT04978883,Sjogren'S Syndrome,Not Mentioned,Not Mentioned,Risk Factors,6 Months From Baseline,Primary Endpoint
-293,NCT04978883,Sjogren'S Syndrome,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-294,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Not Mentioned,1. Week,Primary Endpoint
-295,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Not Mentioned,4. Week,Primary Endpoint
-296,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Not Mentioned,8. Week,Primary Endpoint
-297,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Not Mentioned,1.Week,Primary Endpoint
-298,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Not Mentioned,4.Week,Primary Endpoint
-299,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Not Mentioned,8.Week,Primary Endpoint
-300,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Not Mentioned,1.Week,Primary Endpoint
-301,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Not Mentioned,4.Week,Primary Endpoint
-302,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Not Mentioned,8.Week,Primary Endpoint
-303,NCT04978805,Cancer,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-304,NCT04978714,"Urodynamic Stress Incontinence, Detrusor Overactivity",Not Mentioned,Not Mentioned,Not Mentioned,November 2010 And October 2020,Primary Endpoint
-305,NCT04978714,"Urodynamic Stress Incontinence, Detrusor Overactivity",Detrusor Overactivity,Not Mentioned,Not Mentioned,November 2010 And October 2020,Primary Endpoint
-306,NCT04978714,"Urodynamic Stress Incontinence, Detrusor Overactivity",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-307,NCT04978688,Healthy,Area Under,Not Mentioned,Not Mentioned,Predose And Up To 24 Hours At Weeks 3 And 6,Primary Endpoint
-308,NCT04978688,Healthy,Maximum Concentration,Not Mentioned,Not Mentioned,Predose And Up To 24 Hours At Weeks 3 And 6,Primary Endpoint
-309,NCT04978688,Healthy,Change,Baseline,Not Mentioned,"Baseline, Week 6",Secondary Endpoint
-310,NCT04978688,Healthy,Change,Baseline,Not Mentioned,"Baseline, Week 6",Secondary Endpoint
-311,NCT04978688,Healthy,Change,Baseline,Not Mentioned,"Baseline, Week 6",Secondary Endpoint
-312,NCT04978688,Healthy,Change,Baseline,Not Mentioned,"Baseline, Week 6",Secondary Endpoint
-313,NCT04978688,Healthy,In N-Telopeptide,Baseline,Not Mentioned,"Baseline, Week 6",Secondary Endpoint
-314,NCT04978688,Healthy,Not Mentioned,Not Mentioned,Treatment-Emergent Adverse Events,8 Weeks,Secondary Endpoint
-315,NCT04978545,"Periapical Periodontitis, Polymerase Chain Reaction, Intracanal Medicament, Enterococcus Faecalis Infection",Sanger,Not Mentioned,Not Mentioned,Change From Baseline To Postoperative 7 Days,Primary Endpoint
-316,NCT04978545,"Periapical Periodontitis, Polymerase Chain Reaction, Intracanal Medicament, Enterococcus Faecalis Infection",Not Mentioned,"Total Bacteria, S3)","Total Bacteria, S3)",Change From Baseline To Postoperative 7 Days,Primary Endpoint
-317,NCT04978545,"Periapical Periodontitis, Polymerase Chain Reaction, Intracanal Medicament, Enterococcus Faecalis Infection",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-318,NCT04978532,"Procedural Pain, Pain, Acute",Change Of Pain From Before,Not Mentioned,Children),Before Venipuncture Procedure And After Venipuncture Procedure (Immediately After The Injector Was Removed),Primary Endpoint
-319,NCT04978532,"Procedural Pain, Pain, Acute",Change Of Pain From Before,Observer),Not Mentioned,Before Venipuncture Procedure And After Venipuncture Procedure (Immediately After The Injector Was Removed),Primary Endpoint
-320,NCT04978532,"Procedural Pain, Pain, Acute",Not Mentioned,Not Mentioned,Not Mentioned,"Before Venipuncture Procedure, During Venipuncture Procedure (When Needle Insertion And The First Blood Was Seen In Injector, Until Needle Removed), And After Venipuncture Procedure (Immediately After The Injector Was Removed)",Secondary Endpoint
-321,NCT04978532,"Procedural Pain, Pain, Acute",Not Mentioned,Not Mentioned,Not Mentioned,"Before Venipuncture Procedure, During Venipuncture Procedure (When Needle Insertion And The First Blood Was Seen In Injector, Until Needle Removed), And After Venipuncture Procedure (Immediately After The Injector Was Removed)",Secondary Endpoint
-322,NCT04978441,"Significant Correlation Between Baseline Personality Characteristics, Changing Emotions Throughout The Day, And Glycemic Levels In Patients With T1Dm",Not Mentioned,"Correlation, Glycemic Levels In Patients, Baseline, Changing Emotions","Correlation, Glycemic Levels In Patients, Baseline, Changing Emotions","Through Study Completion, An Average Of 1 Year",Primary Endpoint
-323,NCT04978441,"Significant Correlation Between Baseline Personality Characteristics, Changing Emotions Throughout The Day, And Glycemic Levels In Patients With T1Dm",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-324,NCT04978402,"Interchromosomal Breakpoint, Infertility",Not Mentioned,Not Mentioned,"Estimate The, Reproductive Risk, It Carrier",Day 1,Primary Endpoint
-325,NCT04978402,"Interchromosomal Breakpoint, Infertility",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-326,NCT04978233,Covid-19,Change,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Primary Endpoint
-327,NCT04978233,Covid-19,Change,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Primary Endpoint
-328,NCT04978233,Covid-19,Not Mentioned,Healthcare Team,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
-329,NCT04978233,Covid-19,Change In Symptoms,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
-330,NCT04978233,Covid-19,Not Mentioned,Not Mentioned,Patient Satisfaction,From Day 1 To Day 14,Secondary Endpoint
-331,NCT04978233,Covid-19,Change In,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
-332,NCT04978233,Covid-19,Change In,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
-333,NCT04978233,Covid-19,Change In,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
-334,NCT04978233,Covid-19,Change In,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
-335,NCT04978233,Covid-19,Change In,Not Mentioned,Blood Pressure,From Day 1 To Day 14,Secondary Endpoint
-336,NCT04978220,"Depression Unipolar, Insomnia",Not Mentioned,Not Mentioned,Not Mentioned,1 Year,Primary Endpoint
-337,NCT04978220,"Depression Unipolar, Insomnia",Not Mentioned,Not Mentioned,Not Mentioned,1 Year,Secondary Endpoint
-338,NCT04978155,Arterio-Venous Fistula,Not Mentioned,Not Mentioned,"Time Of, Postoperative",6 Weeks,Primary Endpoint
-339,NCT04978155,Arterio-Venous Fistula,Planning Change,Not Mentioned,"Rate Of, Consultation, Surgical Project",During The Surgery,Secondary Endpoint
-340,NCT04978155,Arterio-Venous Fistula,Not Mentioned,Secondary Permeability,Not Mentioned,12 Months,Secondary Endpoint
-341,NCT04977921,Educational Problems,Not Mentioned,Not Mentioned,Improve Student,13 Lab Session-13 Weeks,Primary Endpoint
-342,NCT04977921,Educational Problems,Not Mentioned,Not Mentioned,Evaluate Effectiveness,Week 14,Primary Endpoint
-343,NCT04977921,Educational Problems,Not Mentioned,Not Mentioned,Assess Students' Perception Of Usability,Up To 15 Weeks,Secondary Endpoint
-344,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Reduce Labor Pain,Not Mentioned,Not Mentioned,Evaluation Was Done Until Delivery (On Average Between 8-12 Hours),Primary Endpoint
-345,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Postpartum Comfort Levels,Not Mentioned,Not Mentioned,2 Hours After Birth,Primary Endpoint
-346,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",A Maternal Information,Not Mentioned,Not Mentioned,Before Birth,Primary Endpoint
-347,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Vasp),Not Mentioned,Not Mentioned,Evaluation Was Done Until Delivery (On Average Between 8-12 Hours),Primary Endpoint
-348,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Not Mentioned,Not Mentioned,Not Mentioned,2 Hours After Birth,Primary Endpoint
-349,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Evalution Labour Pain,Not Mentioned,Not Mentioned,Evaluation Was Done Until Delivery (On Average Between 8-12 Hours),Primary Endpoint
-350,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Evalution Postpartum Comfort,Not Mentioned,Not Mentioned,2 Hours After Birth,Primary Endpoint
-351,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-352,NCT04977687,"Machine Learning, Acute Kidney Injury, Renal Replacement Therapy, Prediction Models",Patients Required,Not Mentioned,Renal Replacement Therapy,14 Days,Primary Endpoint
-353,NCT04977687,"Machine Learning, Acute Kidney Injury, Renal Replacement Therapy, Prediction Models",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-354,NCT04977661,Nonalcoholic Steatohepatitis (Nash),Nash,Not Mentioned,Not Mentioned,3 Months,Primary Endpoint
-355,NCT04977661,Nonalcoholic Steatohepatitis (Nash),Not Mentioned,Not Mentioned,Normalization Of Hepatic Aminotransferases(Alt,3 Months,Secondary Endpoint
-356,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Tumor Size,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-357,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Tumor Location,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-358,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,"Number, Lesions","Number, Lesions",Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-359,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Margin,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-360,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Tumor Texture,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-361,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Pancreatic Tail Contraction,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-362,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Complicated Pancreatitis,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-363,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Pancreatic Duct/Bile Duct Dilatation,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-364,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Extrapancreatic Tissue Invasion,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-365,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-366,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-367,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Ct Value Of Pancreas Plain Scan,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-368,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,"Ct Value, Lesion Plain Scan",Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-369,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Ct Value Of Pancreas Artery Phase,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-370,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,"Ct Value, Lesion Artery Phase",Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-371,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Ct Value Of Pancreas Portal Phase,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-372,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,"Lesion Portal Phase, Ct Value",Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
-373,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-374,NCT04977557,Dry Beriberi,Onls) Score,Not Mentioned,Overall Neuropathy,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Primary Endpoint
-375,NCT04977557,Dry Beriberi,Change,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
-376,NCT04977557,Dry Beriberi,Change In,Muscle Power,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
-377,NCT04977557,Dry Beriberi,Change In,Not Mentioned,Muscle Cramp,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
-378,NCT04977557,Dry Beriberi,Change In Deep Tendon Reflexes,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
-379,NCT04977557,Dry Beriberi,Change,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
-380,NCT04977557,Dry Beriberi,Change In Pain Sensation,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
-381,NCT04977557,Dry Beriberi,Change,Not Mentioned,Position Sensation,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
-382,NCT04977557,Dry Beriberi,Change,Not Mentioned,Vibration Sensation,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
-383,NCT04977557,Dry Beriberi,Change,Not Mentioned,Touch Sensation,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
-384,NCT04977518,Infective Endocarditis,Not Mentioned,Not Mentioned,"Complications (Neurological Events, Congestive Heart Failure)","During The Hospitalization, Average Of 1 Months",Primary Endpoint
-385,NCT04977518,Infective Endocarditis,Mortality,Not Mentioned,Not Mentioned,"During The Hospitalization, Average Of 1 Months",Primary Endpoint
-386,NCT04977518,Infective Endocarditis,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-387,NCT04977505,Shoulder Dislocation,Not Mentioned,Hounsfield Unit,Not Mentioned,2 Years After Surgery,Primary Endpoint
-388,NCT04977505,Shoulder Dislocation,The Diameter,Not Mentioned,Not Mentioned,2 Years After Surgery,Primary Endpoint
-389,NCT04977505,Shoulder Dislocation,Hounsfield Unit,Not Mentioned,Ossification Site,2 Years After Surgery,Primary Endpoint
-390,NCT04977505,Shoulder Dislocation,Not Mentioned,Not Mentioned,Unossified Area,2 Years After Surgery,Secondary Endpoint
-391,NCT04977505,Shoulder Dislocation,Ossification Quality Score,Not Mentioned,Not Mentioned,2 Years After Surgery,Secondary Endpoint
-392,NCT04977440,Intensive Care Unit Syndrome,Glycemic Control,Effect,Not Mentioned,Up To 7 Days,Primary Endpoint
-393,NCT04977440,Intensive Care Unit Syndrome,High Protein Intake,"Effect, Serum Electrolytes","Effect, Serum Electrolytes",Up To 7 Days,Primary Endpoint
-394,NCT04977440,Intensive Care Unit Syndrome,Icu Outcome,Effect,Not Mentioned,Up To 7 Days,Secondary Endpoint
-395,NCT04977219,Stroke,Not Mentioned,Not Mentioned,Not Mentioned,Up To 55 Days,Primary Endpoint
-396,NCT04977219,Stroke,Not Mentioned,Not Mentioned,Not Mentioned,Up To 55 Days,Secondary Endpoint
-397,NCT04977219,Stroke,Not Mentioned,Not Mentioned,Not Mentioned,Up To 55 Days,Secondary Endpoint
-398,NCT04977219,Stroke,Not Mentioned,Not Mentioned,Discharge Destination,Up To 55 Days,Secondary Endpoint
-399,NCT04977011,"Diabetic Ketoacidosis, Heart Disease, Ischemic, Stroke, Gastrointestinal Bleeding, Acute Kidney Injury, Heart Failure, Trauma, Septic Shock, Respiratory Failure, Pneumonia, Intracerebral Hemorrhage, Head Injury, Liver Diseases",Not Mentioned,Not Mentioned,Anxiety Visual,3Day,Primary Endpoint
-400,NCT04977011,"Diabetic Ketoacidosis, Heart Disease, Ischemic, Stroke, Gastrointestinal Bleeding, Acute Kidney Injury, Heart Failure, Trauma, Septic Shock, Respiratory Failure, Pneumonia, Intracerebral Hemorrhage, Head Injury, Liver Diseases",Not Mentioned,Not Mentioned,Not Mentioned,3 Day,Secondary Endpoint
-401,NCT04977011,"Diabetic Ketoacidosis, Heart Disease, Ischemic, Stroke, Gastrointestinal Bleeding, Acute Kidney Injury, Heart Failure, Trauma, Septic Shock, Respiratory Failure, Pneumonia, Intracerebral Hemorrhage, Head Injury, Liver Diseases",Richards-Campbell Sleep Scale,Not Mentioned,Not Mentioned,3 Day,Secondary Endpoint
-402,NCT04976673,"Lichen Planus, Oral",Not Mentioned,"Oral Lichen Planus, Size","Oral Lichen Planus, Size",12 Weeks,Primary Endpoint
-403,NCT04976673,"Lichen Planus, Oral",Not Mentioned,Not Mentioned,Rating,12 Weeks,Secondary Endpoint
-404,NCT04976543,"Cirrhosis, Portal Vein Thrombosis, Esophageal Varices",Not Mentioned,Not Mentioned,Rebleeding,6-Week,Primary Endpoint
-405,NCT04976543,"Cirrhosis, Portal Vein Thrombosis, Esophageal Varices",Not Mentioned,Not Mentioned,Death,6-Week,Secondary Endpoint
-406,NCT04976504,"Desaturation Of Blood, Anesthesia",Not Mentioned,Not Mentioned,Additional Warning Time,"From Time Of Starting Preoxygenation Until The Time Of Spo2 90%, Assessed Up To 20 Minutes",Primary Endpoint
-407,NCT04976504,"Desaturation Of Blood, Anesthesia",Between Ori,Correlation,Not Mentioned,"From Time Of Starting Preoxygenation Until The Time Of Spo2 90%, Assessed Up To 20 Minutes",Secondary Endpoint
-408,NCT04976439,"Colorectal Cancer, Apc Gene Mutation, Tp53 Gene Mutation, Pik3Ca Gene Mutation, Kras Mutation-Related Tumors, Mlh1 Gene Mutation",Clinical Characteristics,Description,Not Mentioned,January 2017 - June 2021,Primary Endpoint
-409,NCT04976439,"Colorectal Cancer, Apc Gene Mutation, Tp53 Gene Mutation, Pik3Ca Gene Mutation, Kras Mutation-Related Tumors, Mlh1 Gene Mutation",Not Mentioned,"Description, Tumor Nature","Description, Tumor Nature",January 2017 - June 2021,Primary Endpoint
-410,NCT04976439,"Colorectal Cancer, Apc Gene Mutation, Tp53 Gene Mutation, Pik3Ca Gene Mutation, Kras Mutation-Related Tumors, Mlh1 Gene Mutation",Not Mentioned,"Description, Survival","Description, Survival",January 2017 - June 2021,Primary Endpoint
-411,NCT04976439,"Colorectal Cancer, Apc Gene Mutation, Tp53 Gene Mutation, Pik3Ca Gene Mutation, Kras Mutation-Related Tumors, Mlh1 Gene Mutation",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-412,NCT04976361,Prp,Not Mentioned,Not Mentioned,Vessel Density,6 Months,Primary Endpoint
-413,NCT04976361,Prp,Not Mentioned,Not Mentioned,Not Mentioned,6 Months,Primary Endpoint
-414,NCT04976361,Prp,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-415,NCT04976114,Anxiety,Not Mentioned,Not Mentioned,Anxiety Level,"Presurgery, Just The Moment Before To Surgery",Primary Endpoint
-416,NCT04976114,Anxiety,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-417,NCT04976088,"Trauma Injury, Inflammation",""" While","Treatment Start, Right Extreme Means ""Worst, Baseline, Left Extreme Means ""No Pain","Treatment Start, Right Extreme Means ""Worst, Baseline, Left Extreme Means ""No Pain",72 Hours,Primary Endpoint
-418,NCT04976088,"Trauma Injury, Inflammation",Area Under,Curve (Auc),Not Mentioned,Day 4 And Day 8,Secondary Endpoint
-419,NCT04976088,"Trauma Injury, Inflammation","Where ""No Pain",Baseline,Not Mentioned,"100"")",Secondary Endpoint
-420,NCT04976088,"Trauma Injury, Inflammation","Where ""No Pain",Baseline,Not Mentioned,From Day 1 Until The Date Of Resolution Of Pain At Rest (Maximum Day 8),Secondary Endpoint
-421,NCT04976088,"Trauma Injury, Inflammation","Where ""No Pain","Baseline, Treatment Start","Baseline, Treatment Start",Day 4 And Day 8,Secondary Endpoint
-422,NCT04976088,"Trauma Injury, Inflammation",Movement),Not Mentioned,"Responder Patients (Defined, Treatment Start",Day 4,Secondary Endpoint
-423,NCT04976088,"Trauma Injury, Inflammation",Not Mentioned,Baseline,Not Mentioned,From Baseline To Day 8,Secondary Endpoint
-424,NCT04976088,"Trauma Injury, Inflammation",Not Mentioned,"Baseline, Rescue Medication Consumed","Baseline, Rescue Medication Consumed",From Baseline To Day 8,Secondary Endpoint
-425,NCT04976088,"Trauma Injury, Inflammation",Plaster Detached,Not Mentioned,Not Mentioned,"Day 1, Day 2, Day 3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
-426,NCT04976088,"Trauma Injury, Inflammation",Not Mentioned,Baseline,Not Mentioned,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
-427,NCT04976088,"Trauma Injury, Inflammation",Not Mentioned,Baseline,Not Mentioned,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
-428,NCT04976088,"Trauma Injury, Inflammation",Not Mentioned,Baseline,Not Mentioned,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
-429,NCT04976088,"Trauma Injury, Inflammation",Not Mentioned,Baseline,Not Mentioned,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
-430,NCT04976088,"Trauma Injury, Inflammation",Not Mentioned,Baseline,Not Mentioned,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
-431,NCT04976088,"Trauma Injury, Inflammation",Not Mentioned,"Baseline, Adverse Events","Baseline, Adverse Events","Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
-432,NCT04976088,"Trauma Injury, Inflammation",Not Mentioned,Not Mentioned,"Local Tolerability (Erythema), Investigator At Day, =Strong Reaction Spreading Beyond Test Site, =No Evidence","Day 1, Day 4 And Day 8",Secondary Endpoint
-433,NCT04976088,"Trauma Injury, Inflammation",Not Mentioned,Not Mentioned,"=Absent, Investigator At Day, =Severe, Local Tolerability (Itching)","Day 1, Day 4 And Day 8",Secondary Endpoint
-434,NCT04976088,"Trauma Injury, Inflammation",Not Mentioned,Not Mentioned,"Local Tolerability (Burning), Investigator At Day, =Severe, =Absent","Day 1, Day 4 And Day 8",Secondary Endpoint
-435,NCT04976088,"Trauma Injury, Inflammation",Not Mentioned,Not Mentioned,"=Absent, Local Tolerability (Local Pain), Investigator At Day, =Severe","Day 1, Day 4 And Day 8",Secondary Endpoint
-436,NCT04976088,"Trauma Injury, Inflammation",Not Mentioned,"=Poor, =Excellent;, Global Assessment, =Good;, =Fair;, Investigator And Patient, Following Score","=Poor, =Excellent;, Global Assessment, =Good;, =Fair;, Investigator And Patient, Following Score",Day 4 And Day 8,Secondary Endpoint
-437,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Change In Pain Score,Mean,Not Mentioned,Assessed For 3 Months After Drug Insertion,Primary Endpoint
-438,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Change,"Mean, Inflammation",Not Mentioned,Assessed For 3 Months After Drug Insertion,Primary Endpoint
-439,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Not Mentioned,Chamber Inflammation,Not Mentioned,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
-440,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Not Mentioned,Not Mentioned,Eyes Requiring Additional Post-Operative Therapy,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
-441,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Number Of Patient Call-Backs,Not Mentioned,Not Mentioned,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
-442,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Number Of Pharmacy,Not Mentioned,Not Mentioned,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
-443,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Not Mentioned,Not Mentioned,Adverse Events,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
-444,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Change In Iop,Mean,Not Mentioned,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
-445,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Change In Bcva,Not Mentioned,Not Mentioned,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
-446,NCT04975659,Communication,Pain Score,Not Mentioned,Not Mentioned,"Throughout Study Completion, Average Of 10 Months",Primary Endpoint
-447,NCT04975659,Communication,Not Mentioned,"Baseline, Anxiety Score","Baseline, Anxiety Score","Through Study Completion, Average Of 10 Months",Primary Endpoint
-448,NCT04975659,Communication,Education Level,Not Mentioned,Anxiety Score,"Through Study Completion, Average Of 10 Months",Secondary Endpoint
-449,NCT04975659,Communication,Association Of Past History,Not Mentioned,Anxiety Score,"Through Study Completion, Average Of 10 Months",Secondary Endpoint
-450,NCT04975542,Respiratory Function Impaired,Change In Chest Wall Excursion,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Chest Wall Excursion Within 5 Minutes Of Treatment Completion.,Primary Endpoint
-451,NCT04975542,Respiratory Function Impaired,Change In,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Fvc Value Via Pulmonary Function Testing Within 5 Minutes Of Treatment Completion.,Primary Endpoint
-452,NCT04975542,Respiratory Function Impaired,Change,Not Mentioned,Not Mentioned,1 Second (Fev1,Primary Endpoint
-453,NCT04975542,Respiratory Function Impaired,Change,Not Mentioned,Fev1,Measure Assessing A Change From Baseline Fev1/Fvc Ratio Value Via Pulmonary Function Testing Within 5 Minutes Of Treatment Completion.,Primary Endpoint
-454,NCT04975542,Respiratory Function Impaired,Change In,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Respiratory Rate Within 5 Minutes Of Treatment Completion.,Secondary Endpoint
-455,NCT04975542,Respiratory Function Impaired,Change In Heart Rate,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Heart Rate Within 5 Minutes Of Treatment Completion.,Secondary Endpoint
-456,NCT04975542,Respiratory Function Impaired,Not Mentioned,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Oxygen Saturation Within 5 Minutes Of Treatment Completion.,Secondary Endpoint
-457,NCT04975529,"Exercise, Diet",Change,"Mean, Baseline, Self-Reported Physical Activity","Mean, Baseline, Self-Reported Physical Activity",6-Months,Primary Endpoint
-458,NCT04975529,"Exercise, Diet",Change,"Mean, Validated Physical, Baseline, Self-Reported Self-Efficacy For Physical Activity","Mean, Validated Physical, Baseline, Self-Reported Self-Efficacy For Physical Activity",6-Months,Secondary Endpoint
-459,NCT04975529,"Exercise, Diet",Change,"Mean, Baseline, Self-Reported Dietary Intake","Mean, Baseline, Self-Reported Dietary Intake",6-Months,Secondary Endpoint
-460,NCT04975529,"Exercise, Diet",Change,"Self-Confidence, Mean, Baseline, Positive Youth Development (Pyd) Short","Self-Confidence, Mean, Baseline, Positive Youth Development (Pyd) Short",6-Months,Secondary Endpoint
-461,NCT04975412,Acne Vulgaris,Not Mentioned,Not Mentioned,Acne Severity,Initial Consult,Primary Endpoint
-462,NCT04975412,Acne Vulgaris,Whole Blood,Not Mentioned,Not Mentioned,Initial Consult,Primary Endpoint
-463,NCT04975412,Acne Vulgaris,Not Mentioned,Not Mentioned,Demographics,Initial Consult,Secondary Endpoint
-464,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Not Mentioned,Not Mentioned,Not Mentioned,At 07:00 Hours After Caffeine And Placebo Administration,Primary Endpoint
-465,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Not Mentioned,Not Mentioned,Recording Of Nocturnal Sleep,Between 03:00-07:00 Hours After Caffeine And Placebo Administration,Secondary Endpoint
-466,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Caffeine Effects,Not Mentioned,Not Mentioned,Between 07:15-08:00 Hours After Caffeine And Placebo Administration,Secondary Endpoint
-467,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Not Mentioned,Not Mentioned,Not Mentioned,Between 07:00-08:15 Hours After Caffeine And Placebo Administration,Secondary Endpoint
-468,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Not Mentioned,Not Mentioned,Not Mentioned,Between 07:15-07:30 Hours After Caffeine And Placebo Administration,Secondary Endpoint
-469,NCT04975360,"Sleep Inertia, Caffeine, Placebo",N-Back Task,Not Mentioned,Not Mentioned,Between 07:30-07:40 Hours After Caffeine And Placebo Administration,Secondary Endpoint
-470,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Not Mentioned,Not Mentioned,Cortisol Awakening Response,Between 07:00-08:00 Hours After Caffeine And Placebo Administration,Secondary Endpoint
-471,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Opportunity,Not Mentioned,Recording Of,Between 08:00-09:00 Hours After Caffeine And Placebo Administration,Secondary Endpoint
-472,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Fitting,24 Months,Primary Endpoint
-473,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
-474,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Proximal Contact,24 Months,Primary Endpoint
-475,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Marginal Adaptation,24 Months,Primary Endpoint
-476,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Staining/Color Change,24 Months,Primary Endpoint
-477,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Gingival Status,24 Months,Primary Endpoint
-478,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Crown,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
-479,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Veneer/Composite,Not Mentioned,24 Months,Primary Endpoint
-480,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Secondary Caries,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
-481,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Trauma,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
-482,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Clinical Pulp Pathology,24 Months,Primary Endpoint
-483,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Radiographical Pulp Pathology,24 Months,Primary Endpoint
-484,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Esthetic Satisfaction,24 Months,Primary Endpoint
-485,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-486,NCT04975282,"Preterm, Feeding, Bottle, Feeding Behavior, Feeding, Breast",Not Mentioned,Not Mentioned,Not Mentioned,"From Transition To Breastfeeding, Up To 1 Week.",Primary Endpoint
-487,NCT04975282,"Preterm, Feeding, Bottle, Feeding Behavior, Feeding, Breast",Not Mentioned,Not Mentioned,Not Mentioned,"From Admission To Discharge, Up To 4 Weeks",Primary Endpoint
-488,NCT04975282,"Preterm, Feeding, Bottle, Feeding Behavior, Feeding, Breast",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-489,NCT04975126,Cataract,Decisional Conflict,Not Mentioned,Scale Score,Day Of Pre-Assessment Visit (1 Week Before Surgery),Primary Endpoint
-490,NCT04975126,Cataract,Not Mentioned,Not Mentioned,Decision Regret Scale Score,1 Month After Surgery,Primary Endpoint
-491,NCT04975126,Cataract,Number Of Correctly,Not Mentioned,Not Mentioned,Day Of Pre-Assessment Visit (1 Week Before Surgery),Primary Endpoint
-492,NCT04975126,Cataract,Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-493,NCT04975113,"Patellofemoral Pain Syndrome, Kinesiotape, Exercise, Strength",Weeks,Not Mentioned,Not Mentioned,"Before And After Treatment (12 Sessions, 6Th. And 12Th. Weeks)]",Primary Endpoint
-494,NCT04975113,"Patellofemoral Pain Syndrome, Kinesiotape, Exercise, Strength",Weeks,Not Mentioned,Quadriceps Femoris Muscles,"Before And After Treatment (12 Sessions, 6Th. And 12Th. Weeks)]",Primary Endpoint
-495,NCT04975113,"Patellofemoral Pain Syndrome, Kinesiotape, Exercise, Strength",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-496,NCT04975048,"Healthy, Gen1 Gene Mutation",Not Mentioned,Not Mentioned,"Serum Lipids, Changes","Week 0, Week 4, Week 8, Week 16",Primary Endpoint
-497,NCT04975048,"Healthy, Gen1 Gene Mutation",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
-498,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Not Mentioned,"Pre-Dose, 5,10,20,30,40,50,60,75,90,105,120,150,180,210,240,270,300, 330,360,420,480 Minutes；",Primary Endpoint
-499,NCT04975022,"Pk, Pd, And Safety",Auc 0,Not Mentioned,Not Mentioned,"Pre-Dose, 5,10,20,30,45,10,20,30,40,50,60,75,90,105,120,150,180,210,240,270,300, 330,360,420,480 Minutes；",Primary Endpoint
-500,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Not Mentioned,"Pre-Dose, 0-8 Hours",Primary Endpoint
-501,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Tmax,"Pre-Dose, 5,10,20,30,40,50,60,75,90,105,120,150,180,210,240,270,300,330,360,420,480 Minutes；",Secondary Endpoint
-502,NCT04975022,"Pk, Pd, And Safety",Auc 0,Not Mentioned,Not Mentioned,"Pre-Dose, 5,10,20,30,40,50,60,75,90,105,120 Minutes",Secondary Endpoint
-503,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Elimination Half-Life (T1/2),"Pre-Dose, 5,10,20,30,40,50,60,75,90,105,120,150,180,210,240,270,300, 330,360,420,480 Minutes；",Secondary Endpoint
-504,NCT04975022,"Pk, Pd, And Safety",The Auc,Not Mentioned,Not Mentioned,4 H,Secondary Endpoint
-505,NCT04975022,"Pk, Pd, And Safety",The Auc,Not Mentioned,Not Mentioned,"Pre-Dose, 5,10,20,30,45,10,20,30,40,50,60,75,90,105,120,150,180,210,240,270,300, 330,360,420,480 Minutes；",Secondary Endpoint
-506,NCT04975022,"Pk, Pd, And Safety",Aucgir，0-2 H,Not Mentioned,Not Mentioned,"Pre-Dose, 0-2 Hours",Secondary Endpoint
-507,NCT04975022,"Pk, Pd, And Safety",Aucgir，0-4 H,Not Mentioned,Not Mentioned,"Pre-Dose, 0-4 Hours",Secondary Endpoint
-508,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Tgirmax,"Pre-Dose, 0-8 Hours",Secondary Endpoint
-509,NCT04974983,"Glioblastoma, Angiogenesis",Functional Outcome,Not Mentioned,Not Mentioned,15 Months,Primary Endpoint
-510,NCT04974983,"Glioblastoma, Angiogenesis",Nan,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+0,NCT04984707,Androgenetic Alopecia,Incidence Of Treatment-Emergent Adverse Events (Teae),Not Mentioned,Assessments,3 Days,Primary Endpoint
+1,NCT04984707,Androgenetic Alopecia,Incidence Of Treatment-Emergent Adverse Events (Teae),Not Mentioned,Not Mentioned,3 Days,Primary Endpoint
+2,NCT04984707,Androgenetic Alopecia,Incidence Of Treatment-Emergent Adverse Events (Teae),Not Mentioned,Not Mentioned,3 Days,Primary Endpoint
+3,NCT04984707,Androgenetic Alopecia,Incidence Of Treatment-Emergent Adverse Events (Teae),Not Mentioned,Tests,3 Days,Primary Endpoint
+4,NCT04984707,Androgenetic Alopecia,Incidence Of Study Drug Related Teaes,Not Mentioned,Not Mentioned,3 Days,Primary Endpoint
+5,NCT04984707,Androgenetic Alopecia,Auc From Time 0,Not Mentioned,"Total Exposure(Aucinf), Extrapolated To Infinite Time",48 Hours,Secondary Endpoint
+6,NCT04984707,Androgenetic Alopecia,-Zero Concentration(Auclast),Not Mentioned,Not Mentioned,48 Hours,Secondary Endpoint
+7,NCT04984707,Androgenetic Alopecia,Maximum Observed Concentration (Cmax),Not Mentioned,Not Mentioned,48 Hours,Secondary Endpoint
+8,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Time At Which Cmax Was First Observed(Tmax),48 Hours,Secondary Endpoint
+9,NCT04984707,Androgenetic Alopecia,Not Mentioned,Not Mentioned,Half Life（T½）,48 Hours,Secondary Endpoint
+10,NCT04984707,Androgenetic Alopecia,Dose/Aucinf(Cl/F),Not Mentioned,Apparent Total Systemic Clearance,48 Hours,Secondary Endpoint
+11,NCT04984707,Androgenetic Alopecia,Distribution(Vd/F),Not Mentioned,Not Mentioned,48 Hours,Secondary Endpoint
+12,NCT04984707,Androgenetic Alopecia,Elimination Rate Constant（Kel）,Not Mentioned,Not Mentioned,48 Hours,Secondary Endpoint
+13,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Global Cognition,At Baseline.,Primary Endpoint
+14,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Global Cognition,Immediately After Intervention.,Primary Endpoint
+15,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Global Cognition,At 4 Weeks After Intervention.,Primary Endpoint
+16,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Global Cognition,At 12 Weeks After Intervention.,Primary Endpoint
+17,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Global Cognition,At 24 Weeks After Intervention.,Primary Endpoint
+18,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Memory,At Baseline.,Primary Endpoint
+19,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Memory,Immediately After Intervention.,Primary Endpoint
+20,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Memory,At 4 Weeks After Intervention.,Primary Endpoint
+21,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Memory,At 12 Weeks After Intervention.,Primary Endpoint
+22,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Memory,At 24 Weeks After Intervention.,Primary Endpoint
+23,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Attention,At Baseline.,Primary Endpoint
+24,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Attention,Immediately After Intervention.,Primary Endpoint
+25,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Attention,At 4 Weeks After Intervention.,Primary Endpoint
+26,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Attention,At 12 Weeks After Intervention.,Primary Endpoint
+27,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Attention,At 24 Weeks After Intervention.,Primary Endpoint
+28,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Visual/Spatial Function,At Baseline.,Primary Endpoint
+29,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Visual/Spatial Function,Immediately After Intervention.,Primary Endpoint
+30,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Visual/Spatial Function,At 4 Weeks After Intervention.,Primary Endpoint
+31,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Visual/Spatial Function,At 12 Weeks After Intervention.,Primary Endpoint
+32,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Visual/Spatial Function,At 24 Weeks After Intervention.,Primary Endpoint
+33,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Executive Function,At Baseline.,Primary Endpoint
+34,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Executive Function,Immediately After Intervention.,Primary Endpoint
+35,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Executive Function,At 4 Weeks After Intervention.,Primary Endpoint
+36,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Executive Function,At 12 Weeks After Intervention.,Primary Endpoint
+37,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Cognition-Executive Function,At 24 Weeks After Intervention.,Primary Endpoint
+38,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Not Mentioned,At Baseline.,Secondary Endpoint
+39,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Not Mentioned,Immediately After Intervention.,Secondary Endpoint
+40,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Not Mentioned,At 4 Weeks After Intervention.,Secondary Endpoint
+41,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Not Mentioned,At 12 Weeks After Intervention.,Secondary Endpoint
+42,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Not Mentioned,Not Mentioned,Not Mentioned,At 24 Weeks After Intervention.,Secondary Endpoint
+43,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",-Senior Fitness Test (Sft),Not Mentioned,Not Mentioned,At Baseline.,Secondary Endpoint
+44,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",-Senior Fitness Test (Sft),Not Mentioned,Not Mentioned,Immediately After Intervention.,Secondary Endpoint
+45,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",-Senior Fitness Test (Sft),Not Mentioned,Not Mentioned,At 4 Weeks After Intervention.,Secondary Endpoint
+46,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",-Senior Fitness Test (Sft),Not Mentioned,Not Mentioned,At 12 Weeks After Intervention.,Secondary Endpoint
+47,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",-Senior Fitness Test (Sft),Not Mentioned,Not Mentioned,At 24 Weeks After Intervention.,Secondary Endpoint
+48,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Test (Ust),Not Mentioned,Not Mentioned,At Baseline.,Secondary Endpoint
+49,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Test (Ust),Not Mentioned,Not Mentioned,Immediately After Intervention.,Secondary Endpoint
+50,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Test (Ust),Not Mentioned,Not Mentioned,At 4 Weeks After Intervention.,Secondary Endpoint
+51,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Test (Ust),Not Mentioned,Not Mentioned,At 12 Weeks After Intervention.,Secondary Endpoint
+52,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Test (Ust),Not Mentioned,Not Mentioned,At 24 Weeks After Intervention.,Secondary Endpoint
+53,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Psychosocial Factors-Global,Not Mentioned,Being Scale (Gwbs),At Baseline.,Secondary Endpoint
+54,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Psychosocial Factors-Global,Not Mentioned,Being Scale (Gwbs),Immediately After Intervention.,Secondary Endpoint
+55,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Psychosocial Factors-Global,Not Mentioned,Being Scale (Gwbs),At 4 Weeks After Intervention.,Secondary Endpoint
+56,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Psychosocial Factors-Global,Not Mentioned,Being Scale (Gwbs),At 12 Weeks After Intervention.,Secondary Endpoint
+57,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Psychosocial Factors-Global,Not Mentioned,Being Scale (Gwbs),At 24 Weeks After Intervention.,Secondary Endpoint
+58,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Psychosocial Factors-Interpersonal Relationship Scale (Irs),Not Mentioned,Not Mentioned,At Baseline.,Secondary Endpoint
+59,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Psychosocial Factors-Interpersonal Relationship Scale (Irs),Not Mentioned,Not Mentioned,Immediately After Intervention.,Secondary Endpoint
+60,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Psychosocial Factors-Interpersonal Relationship Scale (Irs),Not Mentioned,Not Mentioned,At 4 Weeks After Intervention.,Secondary Endpoint
+61,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Psychosocial Factors-Interpersonal Relationship Scale (Irs),Not Mentioned,Not Mentioned,At 12 Weeks After Intervention.,Secondary Endpoint
+62,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Psychosocial Factors-Interpersonal Relationship Scale (Irs),Not Mentioned,Not Mentioned,At 24 Weeks After Intervention.,Secondary Endpoint
+63,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Sf),Not Mentioned,Scale-Short,At Baseline.,Secondary Endpoint
+64,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Sf),Not Mentioned,Scale-Short,Immediately After Intervention.,Secondary Endpoint
+65,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Sf),Not Mentioned,Scale-Short,At 4 Weeks After Intervention.,Secondary Endpoint
+66,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Sf),Not Mentioned,Scale-Short,At 12 Weeks After Intervention.,Secondary Endpoint
+67,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Sf),Not Mentioned,Scale-Short,At 24 Weeks After Intervention.,Secondary Endpoint
+68,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Quality Of Life-Eq5D-Utility,Not Mentioned,Not Mentioned,At Baseline.,Secondary Endpoint
+69,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Quality Of Life-Eq5D-Utility,Not Mentioned,Not Mentioned,Immediately After Intervention.,Secondary Endpoint
+70,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Quality Of Life-Eq5D-Utility,Not Mentioned,Not Mentioned,At 4 Weeks After Intervention.,Secondary Endpoint
+71,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Quality Of Life-Eq5D-Utility,Not Mentioned,Not Mentioned,At 12 Weeks After Intervention.,Secondary Endpoint
+72,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Quality Of Life-Eq5D-Utility,Not Mentioned,Not Mentioned,At 24 Weeks After Intervention.,Secondary Endpoint
+73,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Quality Of Life-Eq5D-Visual Analogue Scale,Not Mentioned,Not Mentioned,At Baseline.,Secondary Endpoint
+74,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Quality Of Life-Eq5D-Visual Analogue Scale,Not Mentioned,Not Mentioned,Immediately After Intervention.,Secondary Endpoint
+75,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Quality Of Life-Eq5D-Visual Analogue Scale,Not Mentioned,Not Mentioned,At 4 Weeks After Intervention.,Secondary Endpoint
+76,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Quality Of Life-Eq5D-Visual Analogue Scale,Not Mentioned,Not Mentioned,At 12 Weeks After Intervention.,Secondary Endpoint
+77,NCT04984694,"Cognitive Dysfunction, Cognitive Change, Independent Living, Quality Of Life, Video Games",Quality Of Life-Eq5D-Visual Analogue Scale,Not Mentioned,Not Mentioned,At 24 Weeks After Intervention.,Secondary Endpoint
+78,NCT04984564,Educational Problems,Training On Virtual,Not Mentioned,Simulator Based Learning.,Survey Was Conducted From August To July 2020. Subjects Had Two Month Period To Respond.,Primary Endpoint
+79,NCT04984564,Educational Problems,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+80,NCT04984135,"Coronary Stenosis, Drug-Coated Balloon",In-Segment Late Lumen Loss,Not Mentioned,Not Mentioned,6 Months,Primary Endpoint
+81,NCT04984135,"Coronary Stenosis, Drug-Coated Balloon",Not Mentioned,Not Mentioned,Target Lesion Failure,6 Months,Secondary Endpoint
+82,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Mmp8,Not Mentioned,Not Mentioned,Baseline - 1 Week,Primary Endpoint
+83,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs","Il1, Il6,Il8,Il17",Not Mentioned,Not Mentioned,Baseline - 1 Week,Primary Endpoint
+84,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Tnf Alfa,Not Mentioned,Not Mentioned,Baseline - 1 Week,Primary Endpoint
+85,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Rank-L,Not Mentioned,Not Mentioned,Baseline - 1 Week,Primary Endpoint
+86,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Opg,Not Mentioned,Not Mentioned,Baseline - 1 Week,Primary Endpoint
+87,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Cal,Not Mentioned,Not Mentioned,Baseline - 1 Week,Secondary Endpoint
+88,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Not Mentioned,Not Mentioned,Not Mentioned,Baseline - 1 Week,Secondary Endpoint
+89,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Gi,Not Mentioned,Not Mentioned,Baseline - 1 Week,Secondary Endpoint
+90,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Not Mentioned,Not Mentioned,Not Mentioned,Baseline - 1 Week,Secondary Endpoint
+91,NCT04983849,"Mmp8, Mmp9, Il1, Il6, Il8, Il17, Tnf Alfa, Rank-L, Opg, Cal, Ppd, Gi, Fmps, Fmbs",Not Mentioned,Not Mentioned,Fmbs,Baseline - 1 Week,Secondary Endpoint
+92,NCT04983719,"Atypical, Myoma",Not Mentioned,"Video, Evaluation","Video, Evaluation",Day 1,Primary Endpoint
+93,NCT04983719,"Atypical, Myoma",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+94,NCT04983641,Orthopedic Disorder,Scheduled Clinic Visit,Patient Portal,Not Mentioned,1 Week,Primary Endpoint
+95,NCT04983641,Orthopedic Disorder,Scheduled Clinic Visit,"At-Visit Promis, Patient Portal","At-Visit Promis, Patient Portal",1 Week,Primary Endpoint
+96,NCT04983641,Orthopedic Disorder,Scheduled Clinic Visit,"At-Visit) Promis, Patient Portal, Overall (Pre-Visit","At-Visit) Promis, Patient Portal, Overall (Pre-Visit",1 Week,Primary Endpoint
+97,NCT04983641,Orthopedic Disorder,Not Mentioned,Not Mentioned,Time To Pre-Visit Promis,1 Week,Secondary Endpoint
+98,NCT04983641,Orthopedic Disorder,Not Mentioned,Patient Demographics,Not Mentioned,1 Week,Secondary Endpoint
+99,NCT04983524,"Post-Operative Pain, Chronic, Necrotic Pulp",Not Mentioned,Not Mentioned,Not Mentioned,One Week. Line Of 10 Points,Primary Endpoint
+100,NCT04983524,"Post-Operative Pain, Chronic, Necrotic Pulp",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+101,NCT04983459,"Prostatic Neoplasms, Recurrence",Detection Rate Per Patient,"Detection, Biochemical Recurrence., Pet-Psma","Detection, Biochemical Recurrence., Pet-Psma",12 Months,Primary Endpoint
+102,NCT04983459,"Prostatic Neoplasms, Recurrence",Biochemical Recurrence,"Detection, Psma-Pet","Detection, Psma-Pet",12 Months,Secondary Endpoint
+103,NCT04983381,"Pelvic Pain, Pelvic Floor; Relaxation",Not Mentioned,Not Mentioned,Pelvic Examination,6 Months,Primary Endpoint
+104,NCT04983381,"Pelvic Pain, Pelvic Floor; Relaxation",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+105,NCT04983212,Peri-Implantitis,Not Mentioned,Not Mentioned,Prevalence,01/01/2015 - 01/01/2020,Primary Endpoint
+106,NCT04983212,Peri-Implantitis,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+107,NCT04983160,Chronic Kidney Disease,Not Mentioned,Not Mentioned,"Microparticles Derived From Endothelial Cells, Circulating Endothelial Progenitor Cells Concentration","Data Collected After 4 Weeks, 8 Weeks And 12 Weeks.",Primary Endpoint
+108,NCT04983160,Chronic Kidney Disease,Level Of Oxidative Stress,Not Mentioned,Not Mentioned,"After Patient Visit (0 Weeks, 4, 8 And 12 Weeks)",Secondary Endpoint
+109,NCT04983160,Chronic Kidney Disease,Level Of Micro Inflammation,Not Mentioned,Not Mentioned,"After Patient Visit (0 Weeks, 4, 8 And 12 Weeks)",Secondary Endpoint
+110,NCT04983160,Chronic Kidney Disease,Level Of Endothelial Dysfunction,Not Mentioned,Not Mentioned,"After Patient Visit (0 Weeks, 4, 8 And 12 Weeks)",Secondary Endpoint
+111,NCT04983160,Chronic Kidney Disease,Not Mentioned,Not Mentioned,Blood Pressure,"Each Visit (0 Weeks, 4 Weeks, 8 Weeks And 12 Weeks) For 24 Hours",Secondary Endpoint
+112,NCT04983160,Chronic Kidney Disease,Glomerular Filtration Ratio,Not Mentioned,Not Mentioned,"After Patient Visit (0 Weeks, 4 Weeks, 8 Weeks And 12 Weeks)",Secondary Endpoint
+113,NCT04983160,Chronic Kidney Disease,Microalbuminuria / Proteinuria,Not Mentioned,Not Mentioned,"Daily, Using First Urine Of The Day As A Sample.",Secondary Endpoint
+114,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Introductory Information,Up To 12 Weeks,Primary Endpoint
+115,NCT04983147,Obesity,-Scale),Not Mentioned,Not Mentioned,Up To 12 Weeks,Primary Endpoint
+116,NCT04983147,Obesity,-Scale),Importance,Not Mentioned,Up To 12 Weeks,Primary Endpoint
+117,NCT04983147,Obesity,-Scale),Scale,Not Mentioned,Up To 12 Weeks,Primary Endpoint
+118,NCT04983147,Obesity,-Scale),Scale,Not Mentioned,Up To 12 Weeks,Primary Endpoint
+119,NCT04983147,Obesity,-Scale),Scale,Not Mentioned,Up To 12 Weeks,Primary Endpoint
+120,NCT04983147,Obesity,-Scale),Scale,Not Mentioned,Up To 12 Weeks,Primary Endpoint
+121,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Not Mentioned,Up To 12 Weeks,Primary Endpoint
+122,NCT04983147,Obesity,Weighing Machine,Not Mentioned,Not Mentioned,Up To 12 Weeks,Primary Endpoint
+123,NCT04983147,Obesity,Body Mass Index Calculation,Not Mentioned,Not Mentioned,Up To 12 Weeks,Primary Endpoint
+124,NCT04983147,Obesity,Scale In Obesity ((Questionnaire-Scale),Not Mentioned,Not Mentioned,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
+125,NCT04983147,Obesity,-Scale),Importance,Not Mentioned,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
+126,NCT04983147,Obesity,-Scale),Scale,Not Mentioned,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
+127,NCT04983147,Obesity,-Scale),Scale,Not Mentioned,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
+128,NCT04983147,Obesity,-Scale),Scale,Not Mentioned,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
+129,NCT04983147,Obesity,-Scale),Scale,Not Mentioned,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
+130,NCT04983147,Obesity,Not Mentioned,Not Mentioned,Not Mentioned,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
+131,NCT04983147,Obesity,Weighing Machine,Not Mentioned,Not Mentioned,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
+132,NCT04983147,Obesity,Body Mass Index Calculation,Not Mentioned,Not Mentioned,"Through Study Completion, An Average Of 1 Year",Secondary Endpoint
+133,NCT04983056,Fournier Gangrene,Number Of Patients,Not Mentioned,Not Mentioned,Six Months,Primary Endpoint
+134,NCT04983056,Fournier Gangrene,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+135,NCT04982978,Vaping Related Disorder,Not Mentioned,Not Mentioned,"Vaping Intention, Effect Of Threat Appraisal",6-Weeks,Primary Endpoint
+136,NCT04982978,Vaping Related Disorder,Perceived Vulnerability,"Effect, Intention","Effect, Intention",6-Weeks,Secondary Endpoint
+137,NCT04982978,Vaping Related Disorder,Perceived Severity,"Effect, Intention","Effect, Intention",6-Weeks,Secondary Endpoint
+138,NCT04982874,Drug Use,Not Mentioned,Geometric Mean,Not Mentioned,1 Month,Primary Endpoint
+139,NCT04982874,Drug Use,90% Confidence Intervals,Not Mentioned,Not Mentioned,1 Month,Primary Endpoint
+140,NCT04982874,Drug Use,Pharmacokinetics Parameter,Not Mentioned,Not Mentioned,1 Month,Secondary Endpoint
+141,NCT04982874,Drug Use,Pharmacokinetics Parameter,Not Mentioned,Not Mentioned,1 Month,Secondary Endpoint
+142,NCT04982861,Drug Use,Not Mentioned,Geometric Mean,Not Mentioned,3 Months,Primary Endpoint
+143,NCT04982861,Drug Use,90% Confidence Intervals,Not Mentioned,Not Mentioned,3 Months,Primary Endpoint
+144,NCT04982861,Drug Use,Pharmacokinetics Parameter,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
+145,NCT04982861,Drug Use,Pharmacokinetics Parameter,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
+146,NCT04982809,Interstitial Lung Disease,Not Mentioned,Not Mentioned,Lungen - 6 (Kl-6),3 Months,Primary Endpoint
+147,NCT04982809,Interstitial Lung Disease,Not Mentioned,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
+148,NCT04982809,Interstitial Lung Disease,Not Mentioned,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
+149,NCT04982809,Interstitial Lung Disease,Not Mentioned,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
+150,NCT04982809,Interstitial Lung Disease,Not Mentioned,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
+151,NCT04982809,Interstitial Lung Disease,% O2 Desaturation,Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
+152,NCT04982601,"Temporomandibular Disorders, Myofascial Pain Dysfunction Syndrome, Temporomandibular Joint Pain, Range Of Motion, Yoga, Quality Of Life",Not Mentioned,Not Mentioned,Visual Analog Scale(Vas),6 Weeks,Primary Endpoint
+153,NCT04982601,"Temporomandibular Disorders, Myofascial Pain Dysfunction Syndrome, Temporomandibular Joint Pain, Range Of Motion, Yoga, Quality Of Life",Not Mentioned,Not Mentioned,Disability Scale (Npds),6 Weeks,Primary Endpoint
+154,NCT04982601,"Temporomandibular Disorders, Myofascial Pain Dysfunction Syndrome, Temporomandibular Joint Pain, Range Of Motion, Yoga, Quality Of Life",Neck And Jaw Range Of Motion (Rom),Not Mentioned,Not Mentioned,6 Weeks,Primary Endpoint
+155,NCT04982601,"Temporomandibular Disorders, Myofascial Pain Dysfunction Syndrome, Temporomandibular Joint Pain, Range Of Motion, Yoga, Quality Of Life",Quality Index (Puqi),Not Mentioned,Not Mentioned,6 Weeks,Secondary Endpoint
+156,NCT04982601,"Temporomandibular Disorders, Myofascial Pain Dysfunction Syndrome, Temporomandibular Joint Pain, Range Of Motion, Yoga, Quality Of Life",Inventory (Bdi),Not Mentioned,Not Mentioned,6 Weeks,Secondary Endpoint
+157,NCT04982601,"Temporomandibular Disorders, Myofascial Pain Dysfunction Syndrome, Temporomandibular Joint Pain, Range Of Motion, Yoga, Quality Of Life",36 (Sf36),Not Mentioned,Not Mentioned,6 Weeks,Secondary Endpoint
+158,NCT04982523,Post Traumatic Stress Disorder,Change Of Post-Traumatic Stress Symptoms,Not Mentioned,Not Mentioned,"Baseline, 4 Weeks, 8Weeks",Primary Endpoint
+159,NCT04982523,Post Traumatic Stress Disorder,Change Of Depression,Not Mentioned,Not Mentioned,"Baseline, 4 Weeks, 8Weeks",Secondary Endpoint
+160,NCT04982523,Post Traumatic Stress Disorder,Not Mentioned,Not Mentioned,Not Mentioned,"Baseline, 4 Weeks, 8Weeks",Secondary Endpoint
+161,NCT04982523,Post Traumatic Stress Disorder,Not Mentioned,Not Mentioned,Not Mentioned,"Baseline, 4 Weeks, 8Weeks",Secondary Endpoint
+162,NCT04982484,"Ophthalmopathy, Wet Macular Degeneration",Day 0,Not Mentioned,Reading Speed,Day 0,Primary Endpoint
+163,NCT04982484,"Ophthalmopathy, Wet Macular Degeneration",Not Mentioned,Not Mentioned,Reading Speed M3,Month 3,Primary Endpoint
+164,NCT04982484,"Ophthalmopathy, Wet Macular Degeneration",Etdrs Chart,Not Mentioned,Not Mentioned,Day 0,Secondary Endpoint
+165,NCT04982484,"Ophthalmopathy, Wet Macular Degeneration",Visual Acuity,Not Mentioned,Not Mentioned,Month 3,Secondary Endpoint
+166,NCT04982484,"Ophthalmopathy, Wet Macular Degeneration",Maculare Thickness Day0,Not Mentioned,Not Mentioned,Day 0,Secondary Endpoint
+167,NCT04982484,"Ophthalmopathy, Wet Macular Degeneration",Maculare Thickness M3,Not Mentioned,Not Mentioned,Month 3,Secondary Endpoint
+168,NCT04982341,Hypoxemic Respiratory Failure,Number Of Patients,Not Mentioned,Intubation,"Through Study Completion, An Average Of 28 Days",Primary Endpoint
+169,NCT04982341,Hypoxemic Respiratory Failure,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+170,NCT04982263,Covid19,Not Mentioned,"Results Of Laboratory Test, Correlation, Disease Severity","Results Of Laboratory Test, Correlation, Disease Severity",Baseline Results Of Coagulation Profile And Baseline Disease Severity Assessment,Primary Endpoint
+171,NCT04982263,Covid19,Not Mentioned,Not Mentioned,Coagulation Profile,Baseline Measurement Of Inflammatory Markers,Secondary Endpoint
+172,NCT04982159,Invasive Fusariosis,Not Mentioned,Clinical Evolution,Not Mentioned,6 Weeks After Diagnosis,Primary Endpoint
+173,NCT04982159,Invasive Fusariosis,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+174,NCT04982055,Critical Illness,Peak Anti-Xa Activity,Not Mentioned,Not Mentioned,Peak Anti-Xa Activity Obtained 4 Hours After Start Of Low Molecular Weight Heparin Administration,Primary Endpoint
+175,NCT04982055,Critical Illness,Not Mentioned,Not Mentioned,Activity,Trough Anti-Xa Activity Measured 24 Hours After Start Of Low Molecular Weight Administration,Secondary Endpoint
+176,NCT04982055,Critical Illness,Auc (0-24H,Not Mentioned,Not Mentioned,0-24 Hours,Secondary Endpoint
+177,NCT04981652,"Dairy Products, Muscle Protein Synthesis, Aging, Physical Activity",Not Mentioned,Not Mentioned,Not Mentioned,"Assessed At Baseline (Day 0-3), Intervention Diet (4-7) And Intervention Diet + Activity (Day 8-10)",Primary Endpoint
+178,NCT04981652,"Dairy Products, Muscle Protein Synthesis, Aging, Physical Activity",Not Mentioned,Not Mentioned,Not Mentioned,"Assessed At Baseline (Day 0-3), Intervention Diet (4-7) And Intervention Diet + Activity (Day 8-10)",Secondary Endpoint
+179,NCT04981561,Major Depressive Disorder,Not Mentioned,Not Mentioned,Treatment Emergent Adverse Events,28 Days,Primary Endpoint
+180,NCT04981561,Major Depressive Disorder,Not Mentioned,Not Mentioned,Concentration,24 Hours,Secondary Endpoint
+181,NCT04981561,Major Depressive Disorder,Not Mentioned,Not Mentioned,Time To Maximum Plasma Concentration,24 Hours,Secondary Endpoint
+182,NCT04981561,Major Depressive Disorder,Not Mentioned,Not Mentioned,"Area Under The Curve, Concentration",72 Hours,Secondary Endpoint
+183,NCT04981483,Placenta Accreta,Incidence Rate Of Conserving Woman'S Uterus,Not Mentioned,Not Mentioned,Intraoperative,Primary Endpoint
+184,NCT04981483,Placenta Accreta,Number Of Units Of Packed,Not Mentioned,Blood Cells,Till 48 Hours Postpartum,Secondary Endpoint
+185,NCT04981483,Placenta Accreta,Incidence Rate Of Cesarean Hysterectomy Needed,Not Mentioned,Not Mentioned,Intraoperative And 48 Hours Postpartum,Secondary Endpoint
+186,NCT04981483,Placenta Accreta,Incidence Of Puerperal Sepsis,Not Mentioned,Not Mentioned,Till 6 Weeks Postpartum,Secondary Endpoint
+187,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Not Mentioned,During The Study,Primary Endpoint
+188,NCT04981379,Covid19,Complete Resolution Of Symptoms,Not Mentioned,Not Mentioned,Fifth Day After Examination,Secondary Endpoint
+189,NCT04981379,Covid19,Complete Resolution Of Symptoms,Not Mentioned,Not Mentioned,Tenth Day After Examination,Secondary Endpoint
+190,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Negative Rt-Pcr Test,Tenth Day After Examination,Secondary Endpoint
+191,NCT04981379,Covid19,"Determination Of Igm, Igg Levels",Not Mentioned,Not Mentioned,Tenth Day After Examination,Secondary Endpoint
+192,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Negative Rt-Pcr Test,Thirtieth Day After Examination,Secondary Endpoint
+193,NCT04981379,Covid19,"Determination Of Igm, Igg Antibodies",Not Mentioned,Not Mentioned,Thirtieth Day After Examination,Secondary Endpoint
+194,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Pneumonia,During The Study,Secondary Endpoint
+195,NCT04981379,Covid19,Oxygen Mask,Not Mentioned,Not Mentioned,During The Study,Secondary Endpoint
+196,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Not Mentioned,During The Study,Secondary Endpoint
+197,NCT04981379,Covid19,Requirement Of Mechanical Ventilation,Not Mentioned,Not Mentioned,During The Study,Secondary Endpoint
+198,NCT04981379,Covid19,Not Mentioned,Not Mentioned,Not Mentioned,During The Study,Secondary Endpoint
+199,NCT04981379,Covid19,The Rate Of Discontinuation,Not Mentioned,Treatments,During The Study,Secondary Endpoint
+200,NCT04981379,Covid19,Not Mentioned,Not Mentioned,"Time To Improvement Of Symptoms, Drugs",During The Study,Secondary Endpoint
+201,NCT04981249,"Covid-19, Chronic Disease",Not Mentioned,Not Mentioned,Not Mentioned,From 27-February-2020 To 15-June-2020,Primary Endpoint
+202,NCT04981249,"Covid-19, Chronic Disease",Covid-19 Mortality,Not Mentioned,Not Mentioned,From 27-February-2020 To 15-June-2020,Primary Endpoint
+203,NCT04981249,"Covid-19, Chronic Disease",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+204,NCT04981197,Heart Failure,Not Mentioned,Not Mentioned,"Scale Scores, Changes","Baseline, 4 Week, 8 Week, 12 Week",Primary Endpoint
+205,NCT04981197,Heart Failure,Not Mentioned,Not Mentioned,Changes,"Baseline, 4 Week, 8 Week, 12 Week",Primary Endpoint
+206,NCT04981197,Heart Failure,Not Mentioned,Not Mentioned,"Quality Index Scores, Changes","Baseline, 4 Week, 8 Week, 12 Week",Secondary Endpoint
+207,NCT04981197,Heart Failure,Depression Scale Scores,Not Mentioned,Changes,"Baseline, 4 Week, 8 Week, 12 Week",Secondary Endpoint
+208,NCT04981197,Heart Failure,Changes In Heart Rate Variability,Not Mentioned,Not Mentioned,"Baseline, 4 Week, 8 Week, 12 Week",Secondary Endpoint
+209,NCT04981106,Exercise,Tampa Kinesiophobia Index,Not Mentioned,Not Mentioned,First Measurement Two Weeks After Surgery (Intervetion 58.2; Control 54.1),Primary Endpoint
+210,NCT04981106,Exercise,Not Mentioned,Not Mentioned,Index,First Measurement Two Weeks After Surgery (Intervetion 89.3; Control 88.1),Primary Endpoint
+211,NCT04981106,Exercise,Not Mentioned,Not Mentioned,Not Mentioned,First Measurement Two Weeks After Surgery (Intervetion 21.6; Control 22.1),Primary Endpoint
+212,NCT04981106,Exercise,Tampa Kinesiophobia Index,Not Mentioned,Not Mentioned,Second Measurement Six Weeks After Surgery (Intervetion 36.9; Control 42.9),Secondary Endpoint
+213,NCT04981106,Exercise,Not Mentioned,Not Mentioned,Index,Second Measurement Six Weeks After Surgery (Intervetion 29; Control 70.5),Secondary Endpoint
+214,NCT04981106,Exercise,Not Mentioned,Not Mentioned,Not Mentioned,Second Measurement Six Weeks After Surgery (Intervetion 6.9; Control 13.2),Secondary Endpoint
+215,NCT04981080,"Detrusor Underactivity, Bladder Outlet Obstruction",Not Mentioned,Not Mentioned,Not Mentioned,February 2005 And December 2020,Primary Endpoint
+216,NCT04981080,"Detrusor Underactivity, Bladder Outlet Obstruction",Not Mentioned,Not Mentioned,Bladder Outlet Obstruction,February 2005 And December 2020,Primary Endpoint
+217,NCT04981080,"Detrusor Underactivity, Bladder Outlet Obstruction",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+218,NCT04981054,"Bladder Oversensitivity, Detrusor, Overactive",Bladder Oversensitivity,Not Mentioned,Not Mentioned,November 2010 And October 2020,Primary Endpoint
+219,NCT04981054,"Bladder Oversensitivity, Detrusor, Overactive",Detrusor Overactivity,Not Mentioned,Not Mentioned,November 2010 And October 2020,Primary Endpoint
+220,NCT04981054,"Bladder Oversensitivity, Detrusor, Overactive",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+221,NCT04981015,Bladder Oversensitivity,Parameters,Correlation,Not Mentioned,July 2009 To December 2020,Primary Endpoint
+222,NCT04981015,Bladder Oversensitivity,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+223,NCT04980989,"Breast Cancer, Early-Onset",Up Modality,Not Mentioned,Not Mentioned,At 12 Months During Follow-Up Of Early Breast Cancer,Primary Endpoint
+224,NCT04980989,"Breast Cancer, Early-Onset",Quality Of Life During Follow-Up Modality,Not Mentioned,Not Mentioned,"At Baseline, 6 Months And 12 Months",Secondary Endpoint
+225,NCT04980989,"Breast Cancer, Early-Onset",Not Mentioned,Not Mentioned,Patient Satisfaction,At 6 Months And 12 Months,Secondary Endpoint
+226,NCT04980989,"Breast Cancer, Early-Onset",Not Mentioned,Not Mentioned,Not Mentioned,"At Baseline, 6 Months And 12 Months",Secondary Endpoint
+227,NCT04980989,"Breast Cancer, Early-Onset",Not Mentioned,Not Mentioned,Not Mentioned,At 6 Months And 12 Months,Secondary Endpoint
+228,NCT04980937,"Traumatic Injury, Peroneal Nerve Injury, Sport Injury",Successful Nerve Reconstruction,Not Mentioned,Not Mentioned,1 Year,Primary Endpoint
+229,NCT04980937,"Traumatic Injury, Peroneal Nerve Injury, Sport Injury",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+230,NCT04980729,Pelvic Tumor,Rotation Center Before,"Template-Guided Group, Traditional Operation Group., Surgery","Template-Guided Group, Traditional Operation Group., Surgery","""Through Study Completion, An Average Of 2 Years""",Primary Endpoint
+231,NCT04980729,Pelvic Tumor,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+232,NCT04980586,"Obstructive Sleep Apnea, Breathing, Sleep-Disordered, Muscle Weakness, Muscle Disorder, Face, Swallowing Disorder",Not Mentioned,Not Mentioned,Cheeks Appearance,Immediately After The Evaluation,Primary Endpoint
+233,NCT04980586,"Obstructive Sleep Apnea, Breathing, Sleep-Disordered, Muscle Weakness, Muscle Disorder, Face, Swallowing Disorder",Thickness Evaluation,Not Mentioned,Orofacial Muscles,Immediately After The Evaluation,Secondary Endpoint
+234,NCT04980586,"Obstructive Sleep Apnea, Breathing, Sleep-Disordered, Muscle Weakness, Muscle Disorder, Face, Swallowing Disorder",Not Mentioned,Not Mentioned,Tongue,Immediately After The Evaluation,Secondary Endpoint
+235,NCT04980508,"Erectile Dysfunction Due To Diseases Classified Elsewhere, Covid19",Corpus Cavernosum Electromyography Amplitudes,Not Mentioned,Not Mentioned,1 Hour,Primary Endpoint
+236,NCT04980508,"Erectile Dysfunction Due To Diseases Classified Elsewhere, Covid19",Corpus Cavernosum Electromyography Relaxation Degree,Not Mentioned,Not Mentioned,1 Hour,Primary Endpoint
+237,NCT04980508,"Erectile Dysfunction Due To Diseases Classified Elsewhere, Covid19",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+238,NCT04980274,Critically Ill Patients,Sofa Score After 48 Hours Of Icu Stay,Improvement,Not Mentioned,48 Hours,Primary Endpoint
+239,NCT04980274,Critically Ill Patients,28 Day Mortality,Not Mentioned,Not Mentioned,28 Days,Secondary Endpoint
+240,NCT04980274,Critically Ill Patients,Length Of Time Without Mechanical Ventilation,Not Mentioned,Not Mentioned,28 Days,Secondary Endpoint
+241,NCT04980274,Critically Ill Patients,Length Of Time Without Vasopressor,Not Mentioned,Not Mentioned,28 Days,Secondary Endpoint
+242,NCT04980209,Femoroacetabular Impingement,Vas Scale,Not Mentioned,Not Mentioned,1 Year After Operation,Primary Endpoint
+243,NCT04980209,Femoroacetabular Impingement,Mhhs Scale,Not Mentioned,Not Mentioned,1 Year After Operation,Primary Endpoint
+244,NCT04980209,Femoroacetabular Impingement,Hip Ct,Not Mentioned,Not Mentioned,1 Day After Operation,Primary Endpoint
+245,NCT04980209,Femoroacetabular Impingement,Hip X-Ray,Not Mentioned,Not Mentioned,1 Day After Operation,Primary Endpoint
+246,NCT04980209,Femoroacetabular Impingement,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+247,NCT04980196,Urogenital Prolapse,Urinary Tract Dysfunction.,Not Mentioned,Pelvic Organ Prolapse,3Months,Primary Endpoint
+248,NCT04980196,Urogenital Prolapse,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+249,NCT04980131,Vertebral Fracture,Dosage Before,Not Mentioned,Time Before Reaching The Desired Position,Twenty Months,Primary Endpoint
+250,NCT04980131,Vertebral Fracture,Vas Scores After Surgery,Not Mentioned,Not Mentioned,Twenty-Two Months,Primary Endpoint
+251,NCT04980131,Vertebral Fracture,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+252,NCT04980118,"Breast Cancer, Body Weight Changes, Weight Loss, Nutrition Related Cancer",Physical Activity Program.,Not Mentioned,Cancer 9 Weight Control,Six Months,Primary Endpoint
+253,NCT04980118,"Breast Cancer, Body Weight Changes, Weight Loss, Nutrition Related Cancer",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+254,NCT04980040,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Not Mentioned,From First Dose Of Study Drug Up To 30 Days Post Last Dose Of Study Drug (Up To 79.77 Weeks),Primary Endpoint
+255,NCT04980040,Type 2 Diabetes Mellitus,Reactions (Adrs),Not Mentioned,Not Mentioned,From First Dose Of Study Drug Up To 30 Days Post Last Dose Of Study Drug (Up To 79.77 Weeks),Primary Endpoint
+256,NCT04980040,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Adverse Events,From First Dose Of Study Drug Up To 30 Days Post Last Dose Of Study Drug (Up To 79.77 Weeks),Primary Endpoint
+257,NCT04980040,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Not Mentioned,From First Dose Of Study Drug Up To 30 Days Post Last Dose Of Study Drug (Up To 79.77 Weeks),Primary Endpoint
+258,NCT04980040,Type 2 Diabetes Mellitus,Haemoglobin (Hba1C) Levels,Not Mentioned,Not Mentioned,"Baseline (Before Administration Of Alogliptin), 13 Weeks (±2 Weeks) And 26 Weeks (±2 Weeks) After Administration",Secondary Endpoint
+259,NCT04980040,Type 2 Diabetes Mellitus,Not Mentioned,Not Mentioned,Fasting Blood Glucose Levels,"Baseline (Before Administration Of Alogliptin), 13 Weeks (±2 Weeks) And 26 Weeks (±2 Weeks) After Administration",Secondary Endpoint
+260,NCT04980040,Type 2 Diabetes Mellitus,7.00%,Not Mentioned,Not Mentioned,"Baseline (Before Administration Of Alogliptin), 13 Weeks (±2 Weeks) And 26 Weeks (±2 Weeks) After Administration",Secondary Endpoint
+261,NCT04980040,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Final Effectiveness Assessment,Up To Week 26,Secondary Endpoint
+262,NCT04980014,Type 2 Diabetes Mellitus,Reactions (Sadrs),Not Mentioned,Not Mentioned,First Dose Of Surveillance Drug Treatment To Within 30 Days After The End Of The Treatment (Up To 153 Weeks),Primary Endpoint
+263,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,"Adverse Drug Reactions (Adrs) Not Mentioned, Unexpected Adverse Events (Aes)",First Dose Of Surveillance Drug Treatment To Within 30 Days After The End Of The Treatment (Up To 153 Weeks),Primary Endpoint
+264,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Adrs,Week 13,Primary Endpoint
+265,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Adrs,Week 26,Primary Endpoint
+266,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Adrs,Week 39,Primary Endpoint
+267,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Adrs,Week 52,Primary Endpoint
+268,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Adrs,Week 153,Primary Endpoint
+269,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Not Mentioned,First Dose Of Surveillance Drug Treatment To Within 30 Days After The End Of The Treatment (Up To 153 Weeks),Primary Endpoint
+270,NCT04980014,Type 2 Diabetes Mellitus,Percentage Of Participants,Not Mentioned,Abnormal Laboratory Findings Reported As Aes,First Dose Of Surveillance Drug Treatment To Within 30 Days After The End Of The Treatment (Up To 153 Weeks),Primary Endpoint
+271,NCT04980014,Type 2 Diabetes Mellitus,Haemoglobin A1C (Hba1C) Levels,Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
+272,NCT04980014,Type 2 Diabetes Mellitus,Change,"Fasting Serum Glucose, Baseline","Fasting Serum Glucose, Baseline","Baseline, Weeks 13 And 26",Secondary Endpoint
+273,NCT04980014,Type 2 Diabetes Mellitus,Change,"Total Cholesterol, Baseline","Total Cholesterol, Baseline","Baseline, Weeks 13 And 26",Secondary Endpoint
+274,NCT04980014,Type 2 Diabetes Mellitus,Ldl-C),Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
+275,NCT04980014,Type 2 Diabetes Mellitus,-C),Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
+276,NCT04980014,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
+277,NCT04980014,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
+278,NCT04980014,Type 2 Diabetes Mellitus,Change,Baseline,Not Mentioned,"Baseline, Weeks 13 And 26",Secondary Endpoint
+279,NCT04979936,"Acute Cholecystitis, Empyema, Gallbladder",Not Mentioned,Not Mentioned,Operative Difficulties,At The Time Of Cholecysctomy,Primary Endpoint
+280,NCT04979936,"Acute Cholecystitis, Empyema, Gallbladder",Postoperative Complications,Not Mentioned,Not Mentioned,30 Days After The Operation,Primary Endpoint
+281,NCT04979936,"Acute Cholecystitis, Empyema, Gallbladder",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+282,NCT04979689,Erbs Palsy,Not Mentioned,Not Mentioned,Not Mentioned,12Th Weeks,Primary Endpoint
+283,NCT04979689,Erbs Palsy,Not Mentioned,Not Mentioned,Not Mentioned,"12Th Weeks, 5Th Day",Secondary Endpoint
+284,NCT04979481,Mental Health Wellness 1,Not Mentioned,Not Mentioned,Not Mentioned,Up To 8 Months,Primary Endpoint
+285,NCT04979481,Mental Health Wellness 1,Resilience,Not Mentioned,Not Mentioned,Up To 8 Months,Primary Endpoint
+286,NCT04979481,Mental Health Wellness 1,Not Mentioned,Not Mentioned,Not Mentioned,Up To 8 Months,Primary Endpoint
+287,NCT04979481,Mental Health Wellness 1,Not Mentioned,Not Mentioned,Not Mentioned,Up To 8 Months,Primary Endpoint
+288,NCT04979481,Mental Health Wellness 1,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+289,NCT04979364,"Chronic Pain, Opioid Misuse",Psychometric Properties,Not Mentioned,Pomi Scale,Once. At Inclusion (Test Phase),Primary Endpoint
+290,NCT04979364,"Chronic Pain, Opioid Misuse",Psychometric Properties,Not Mentioned,Pomi Scale,Once. At 2 To 4 Weeks (Re-Test Phase),Primary Endpoint
+291,NCT04979364,"Chronic Pain, Opioid Misuse",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+292,NCT04979208,"Coronavirus Disease 2019, Stroke, Acute Myocardial Infarction",Not Mentioned,Not Mentioned,Not Mentioned,At Inclusion In The Cohort During The Acute Episode,Primary Endpoint
+293,NCT04979208,"Coronavirus Disease 2019, Stroke, Acute Myocardial Infarction",Not Mentioned,Not Mentioned,Stroke Patient,At Inclusion In The Cohort During The Acute Episode,Primary Endpoint
+294,NCT04979208,"Coronavirus Disease 2019, Stroke, Acute Myocardial Infarction",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+295,NCT04979195,Covid-19 Positive Patients With Acute Kidney Injury,Patient Survival,Not Mentioned,Not Mentioned,30 Days,Primary Endpoint
+296,NCT04979195,Covid-19 Positive Patients With Acute Kidney Injury,Not Mentioned,Not Mentioned,Kidney Survival,30 Days,Primary Endpoint
+297,NCT04979195,Covid-19 Positive Patients With Acute Kidney Injury,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+298,NCT04979091,"Covid19, Critical Illness",Sex Hormone In Critical,Patients,Not Mentioned,Day At Admission,Primary Endpoint
+299,NCT04979091,"Covid19, Critical Illness",Sex Hormone In Critical,Patients,Not Mentioned,Day At Admission,Primary Endpoint
+300,NCT04979091,"Covid19, Critical Illness",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+301,NCT04979026,Deep Venous Thrombosis,Change Of Peak Flow Velocity,Not Mentioned,Not Mentioned,"The Peak Flow Velocity Was Determined On The 1St, 3Rd, And 14Th Days After Surgery.",Primary Endpoint
+302,NCT04979026,Deep Venous Thrombosis,Change Of Flow Volume,Not Mentioned,Not Mentioned,"The Flow Volume Was Determined On The 1St, 3Rd, And 14Th Days After Surgery.",Primary Endpoint
+303,NCT04979026,Deep Venous Thrombosis,Number Of Participants,Not Mentioned,Not Mentioned,"Stasis Was Determined On The 1St, 3Rd, And 14Th Days After Surgery.",Primary Endpoint
+304,NCT04979026,Deep Venous Thrombosis,Number Of Participants,Not Mentioned,Not Mentioned,"Deep Venous Thrombosis Was Determined On The 1St, 3Rd, And 14Th Days After Surgery.",Primary Endpoint
+305,NCT04979026,Deep Venous Thrombosis,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+306,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use","Acid (Aa) Metabolites 2,3-Dinor-Thromboxane B2 (Txm)",Not Mentioned,Leukotriene E4 (Lte4),14 Days,Primary Endpoint
+307,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Not Mentioned,Not Mentioned,7 Days,Secondary Endpoint
+308,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+309,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Nicotine Equivalents,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+310,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+311,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+312,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Not Mentioned,Cotinine,14 Days,Secondary Endpoint
+313,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+314,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+315,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Clearance (Nmc) Saccharin Transit Time (Stt),Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+316,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",T- And B-Lymphocytes,Not Mentioned,(Nk) Cell Profiles,14 Days,Secondary Endpoint
+317,NCT04979013,"Smoking, Smoking Cessation, Tobacco Use",Not Mentioned,Not Mentioned,Not Mentioned,14 Days,Secondary Endpoint
+318,NCT04978974,"Chronic Conditions, Multiple",Perceived Stress Scale,Not Mentioned,Not Mentioned,10Th Session (One Month And One Week From First Assessment),Primary Endpoint
+319,NCT04978974,"Chronic Conditions, Multiple",Effects Of Stress Management Program,Not Mentioned,Not Mentioned,10Th Session (One Month And One Week From First Assessment),Primary Endpoint
+320,NCT04978974,"Chronic Conditions, Multiple",Effects Of Stress Management Program,Not Mentioned,Not Mentioned,10Th Session (One Month And One Week From First Assessment),Primary Endpoint
+321,NCT04978974,"Chronic Conditions, Multiple",Effects Of Stress Management Program,Baseline,Not Mentioned,Base Line Were Used In 5Th (Two Weeks And 3 Days) And 10Th Session (One Month And One Week From First Assessment),Secondary Endpoint
+322,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,Reported Physical Disability,Booster (12 Weeks From Baseline),Primary Endpoint
+323,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,Reported Physical Disability,6-Month Follow-Up,Primary Endpoint
+324,NCT04978961,Chronic Pain,Ratings),Not Mentioned,Not Mentioned,6-Month Follow-Up,Primary Endpoint
+325,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,"Acceptability, Fact Intervention",6-Month Follow-Up,Primary Endpoint
+326,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,Acceptance,Booster (12 Weeks From Baseline),Secondary Endpoint
+327,NCT04978961,Chronic Pain,Not Mentioned,Not Mentioned,Acceptance,6-Month Follow-Up,Secondary Endpoint
+328,NCT04978961,Chronic Pain,Engagement In Valued Activities,Not Mentioned,Not Mentioned,Booster (12 Weeks From Baseline),Secondary Endpoint
+329,NCT04978961,Chronic Pain,Engagement In Valued Activities,Not Mentioned,Not Mentioned,6-Month Follow-Up,Secondary Endpoint
+330,NCT04978883,Sjogren'S Syndrome,Not Mentioned,Not Mentioned,"Risk Factors, Pss-Ild",6 Months From Baseline,Primary Endpoint
+331,NCT04978883,Sjogren'S Syndrome,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+332,NCT04978805,Cancer,Visual Analog Scale,Not Mentioned,Not Mentioned,1. Week,Primary Endpoint
+333,NCT04978805,Cancer,Visual Analog Scale,Not Mentioned,Not Mentioned,4. Week,Primary Endpoint
+334,NCT04978805,Cancer,Visual Analog Scale,Not Mentioned,Not Mentioned,8. Week,Primary Endpoint
+335,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Pittsburgh Sleep Quality Index (Psqi),1.Week,Primary Endpoint
+336,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Pittsburgh Sleep Quality Index (Psqi),4.Week,Primary Endpoint
+337,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Pittsburgh Sleep Quality Index (Psqi),8.Week,Primary Endpoint
+338,NCT04978805,Cancer,(Mmrc),Not Mentioned,Not Mentioned,1.Week,Primary Endpoint
+339,NCT04978805,Cancer,(Mmrc),Not Mentioned,Not Mentioned,4.Week,Primary Endpoint
+340,NCT04978805,Cancer,(Mmrc),Not Mentioned,Not Mentioned,8.Week,Primary Endpoint
+341,NCT04978805,Cancer,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+342,NCT04978714,"Urodynamic Stress Incontinence, Detrusor Overactivity",Not Mentioned,Not Mentioned,Urodynamic Stress Incontinence,November 2010 And October 2020,Primary Endpoint
+343,NCT04978714,"Urodynamic Stress Incontinence, Detrusor Overactivity",Detrusor Overactivity,Not Mentioned,Not Mentioned,November 2010 And October 2020,Primary Endpoint
+344,NCT04978714,"Urodynamic Stress Incontinence, Detrusor Overactivity",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+345,NCT04978688,Healthy,Ee),Not Mentioned,Not Mentioned,Predose And Up To 24 Hours At Weeks 3 And 6,Primary Endpoint
+346,NCT04978688,Healthy,Not Mentioned,Not Mentioned,"(Cmax) Of Relugolix, E2",Predose And Up To 24 Hours At Weeks 3 And 6,Primary Endpoint
+347,NCT04978688,Healthy,Not Mentioned,Not Mentioned,Not Mentioned,Predose And Up To 24 Hours At Weeks 3 And 6,Primary Endpoint
+348,NCT04978688,Healthy,Change,Baseline,Not Mentioned,Week 6,Secondary Endpoint
+349,NCT04978688,Healthy,(Lh),Baseline,Not Mentioned,Week 6,Secondary Endpoint
+350,NCT04978688,Healthy,(P),Baseline,Not Mentioned,Week 6,Secondary Endpoint
+351,NCT04978688,Healthy,Change,"And, Baseline",Not Mentioned,Week 6,Secondary Endpoint
+352,NCT04978688,Healthy,And C-Telopepetide Concentrations At Week 6,Baseline,Not Mentioned,"Baseline, Week 6",Secondary Endpoint
+353,NCT04978688,Healthy,Incidence Of Treatment-Emergent Adverse Events,Not Mentioned,Not Mentioned,8 Weeks,Secondary Endpoint
+354,NCT04978688,Healthy,Incidence Of Hot Flush,Not Mentioned,Not Mentioned,8 Weeks,Secondary Endpoint
+355,NCT04978545,"Periapical Periodontitis, Polymerase Chain Reaction, Intracanal Medicament, Enterococcus Faecalis Infection",Sanger Sequencing,Not Mentioned,Not Mentioned,Change From Baseline To Postoperative 7 Days,Primary Endpoint
+356,NCT04978545,"Periapical Periodontitis, Polymerase Chain Reaction, Intracanal Medicament, Enterococcus Faecalis Infection",S3) Taken From Teeth Were Measured Using The,Not Mentioned,Not Mentioned,Change From Baseline To Postoperative 7 Days,Primary Endpoint
+357,NCT04978545,"Periapical Periodontitis, Polymerase Chain Reaction, Intracanal Medicament, Enterococcus Faecalis Infection",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+358,NCT04978532,"Procedural Pain, Pain, Acute",Venipuncture (Assessed By Children),Not Mentioned,Not Mentioned,Before Venipuncture Procedure And After Venipuncture Procedure (Immediately After The Injector Was Removed),Primary Endpoint
+359,NCT04978532,"Procedural Pain, Pain, Acute",Observer),Not Mentioned,Not Mentioned,Before Venipuncture Procedure And After Venipuncture Procedure (Immediately After The Injector Was Removed),Primary Endpoint
+360,NCT04978532,"Procedural Pain, Pain, Acute",Not Mentioned,Not Mentioned,Not Mentioned,"Before Venipuncture Procedure, During Venipuncture Procedure (When Needle Insertion And The First Blood Was Seen In Injector, Until Needle Removed), And After Venipuncture Procedure (Immediately After The Injector Was Removed)",Secondary Endpoint
+361,NCT04978532,"Procedural Pain, Pain, Acute",Not Mentioned,Not Mentioned,Not Mentioned,"Before Venipuncture Procedure, During Venipuncture Procedure (When Needle Insertion And The First Blood Was Seen In Injector, Until Needle Removed), And After Venipuncture Procedure (Immediately After The Injector Was Removed)",Secondary Endpoint
+362,NCT04978441,"Significant Correlation Between Baseline Personality Characteristics, Changing Emotions Throughout The Day, And Glycemic Levels In Patients With T1Dm",Glycemic Levels,"Patients, Correlation, Baseline, T1Dm","Patients, Correlation, Baseline, T1Dm","Through Study Completion, An Average Of 1 Year",Primary Endpoint
+363,NCT04978441,"Significant Correlation Between Baseline Personality Characteristics, Changing Emotions Throughout The Day, And Glycemic Levels In Patients With T1Dm",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+364,NCT04978402,"Interchromosomal Breakpoint, Infertility",Estimate The It Carrier'S Reproductive Risk,Not Mentioned,Not Mentioned,Day 1,Primary Endpoint
+365,NCT04978402,"Interchromosomal Breakpoint, Infertility",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+366,NCT04978233,Covid-19,Change,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Primary Endpoint
+367,NCT04978233,Covid-19,Change,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Primary Endpoint
+368,NCT04978233,Covid-19,Healthcare Team,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+369,NCT04978233,Covid-19,Change In Symptoms,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+370,NCT04978233,Covid-19,Not Mentioned,Not Mentioned,"Scheduled Teleconsultations, Patient Satisfaction",From Day 1 To Day 14,Secondary Endpoint
+371,NCT04978233,Covid-19,Change In Vital Signs Temperature,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+372,NCT04978233,Covid-19,Change In Vital Signs Respiration Rate,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+373,NCT04978233,Covid-19,Change In Vital Signs Oxygen Saturation,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+374,NCT04978233,Covid-19,Change In Vital Signs Heart Rate,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+375,NCT04978233,Covid-19,Change In Vital Signs Blood Pressure,Not Mentioned,Not Mentioned,From Day 1 To Day 14,Secondary Endpoint
+376,NCT04978220,"Depression Unipolar, Insomnia",Depression Scale (Hads),Not Mentioned,Not Mentioned,1 Year,Primary Endpoint
+377,NCT04978220,"Depression Unipolar, Insomnia",Scale (Asds),Not Mentioned,Not Mentioned,1 Year,Secondary Endpoint
+378,NCT04978155,Arterio-Venous Fistula,Time Of The Postoperative,Not Mentioned,Not Mentioned,6 Weeks,Primary Endpoint
+379,NCT04978155,Arterio-Venous Fistula,Avf That Is Finally Placed,Not Mentioned,Surgical Project,During The Surgery,Secondary Endpoint
+380,NCT04978155,Arterio-Venous Fistula,Our Accesses,Not Mentioned,Not Mentioned,12 Months,Secondary Endpoint
+381,NCT04977921,Educational Problems,Not Mentioned,Not Mentioned,Not Mentioned,13 Lab Session-13 Weeks,Primary Endpoint
+382,NCT04977921,Educational Problems,Evaluate Effectiveness,Not Mentioned,Not Mentioned,Week 14,Primary Endpoint
+383,NCT04977921,Educational Problems,Assess Students' Perception,Not Mentioned,Not Mentioned,Up To 15 Weeks,Secondary Endpoint
+384,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Reduce Labor Pain,Not Mentioned,Not Mentioned,Evaluation Was Done Until Delivery (On Average Between 8-12 Hours),Primary Endpoint
+385,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Postpartum Comfort Levels,Not Mentioned,Not Mentioned,2 Hours After Birth,Primary Endpoint
+386,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",A Maternal Information,Not Mentioned,Not Mentioned,Before Birth,Primary Endpoint
+387,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Pain (Vasp),Not Mentioned,Not Mentioned,Evaluation Was Done Until Delivery (On Average Between 8-12 Hours),Primary Endpoint
+388,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Ppcq),Not Mentioned,Not Mentioned,2 Hours After Birth,Primary Endpoint
+389,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Evalution Labour Pain,Not Mentioned,Not Mentioned,Evaluation Was Done Until Delivery (On Average Between 8-12 Hours),Primary Endpoint
+390,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Evalution Postpartum Comfort,Not Mentioned,Not Mentioned,2 Hours After Birth,Primary Endpoint
+391,NCT04977713,"Labor Pain, Hydrotherapy, Acupressure, Postpartum Period",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+392,NCT04977687,"Machine Learning, Acute Kidney Injury, Renal Replacement Therapy, Prediction Models",Not Mentioned,"Patients, Renal Replacement Therapy","Patients, Renal Replacement Therapy",14 Days,Primary Endpoint
+393,NCT04977687,"Machine Learning, Acute Kidney Injury, Renal Replacement Therapy, Prediction Models",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+394,NCT04977661,Nonalcoholic Steatohepatitis (Nash),Resolution Of Nash,Not Mentioned,Not Mentioned,3 Months,Primary Endpoint
+395,NCT04977661,Nonalcoholic Steatohepatitis (Nash),Ast),Not Mentioned,Not Mentioned,3 Months,Secondary Endpoint
+396,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Tumor Size,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+397,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Tumor Location,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+398,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Number Of Lesions,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+399,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+400,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Tumor Texture,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+401,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Tail Contraction,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+402,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+403,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Pancreatic Duct/Bile Duct Dilatation,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+404,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+405,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+406,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Not Mentioned,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+407,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,"Pancreas Plain Scan, Ct Value",Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+408,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Plain Scan,Not Mentioned,Ct Value,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+409,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,"Pancreas Artery Phase, Ct Value",Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+410,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,"Of Lesion Artery Phase, Ct Value",Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+411,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,"Pancreas Portal Phase, Ct Value",Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+412,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Ct Value,Preoperative Contrast-Enhanced Ct Performed Within 2 Months Before Surgery Or Biopsy,Primary Endpoint
+413,NCT04977596,"Neuroendocrine Tumor Of Pancreas, Carcinoma, Pancreatic, Ct",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+414,NCT04977557,Dry Beriberi,Change In Overall Neuropathy Limitation Scale (Onls) Score,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Primary Endpoint
+415,NCT04977557,Dry Beriberi,Change In Leg Swelling,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+416,NCT04977557,Dry Beriberi,Change In Muscle Power,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+417,NCT04977557,Dry Beriberi,Change In Muscle Cramp,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+418,NCT04977557,Dry Beriberi,Change In Deep Tendon Reflexes,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+419,NCT04977557,Dry Beriberi,Change In Squat Test,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+420,NCT04977557,Dry Beriberi,Change In Pain Sensation,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+421,NCT04977557,Dry Beriberi,Change In Position Sensation,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+422,NCT04977557,Dry Beriberi,Change In Vibration Sensation,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+423,NCT04977557,Dry Beriberi,Change In Touch Sensation,Not Mentioned,Not Mentioned,"Before Treatment With Thiamine (Baseline ) And After 1 Week, 6Week, 12 Week Of Treatment",Secondary Endpoint
+424,NCT04977518,Infective Endocarditis,Heart Failure) Of Infective Endocarditis,Not Mentioned,Not Mentioned,"During The Hospitalization, Average Of 1 Months",Primary Endpoint
+425,NCT04977518,Infective Endocarditis,Not Mentioned,Not Mentioned,Not Mentioned,"During The Hospitalization, Average Of 1 Months",Primary Endpoint
+426,NCT04977518,Infective Endocarditis,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+427,NCT04977505,Shoulder Dislocation,Hounsfield Unit Of Anchor Tunnel,Not Mentioned,Not Mentioned,2 Years After Surgery,Primary Endpoint
+428,NCT04977505,Shoulder Dislocation,The Diameter Of Anchor Tunnel,Not Mentioned,Not Mentioned,2 Years After Surgery,Primary Endpoint
+429,NCT04977505,Shoulder Dislocation,Not Mentioned,Not Mentioned,Hounsfield Unit Of Ossification Site,2 Years After Surgery,Primary Endpoint
+430,NCT04977505,Shoulder Dislocation,Unossified Area Of Anchor Tunnel,Not Mentioned,Not Mentioned,2 Years After Surgery,Secondary Endpoint
+431,NCT04977505,Shoulder Dislocation,Ossification Quality Score,Not Mentioned,Not Mentioned,2 Years After Surgery,Secondary Endpoint
+432,NCT04977440,Intensive Care Unit Syndrome,Glycemic Control,Effect,Not Mentioned,Up To 7 Days,Primary Endpoint
+433,NCT04977440,Intensive Care Unit Syndrome,Serum Electrolytes,Effect,Not Mentioned,Up To 7 Days,Primary Endpoint
+434,NCT04977440,Intensive Care Unit Syndrome,High Protein Intake,"Effect, Icu Outcome","Effect, Icu Outcome",Up To 7 Days,Secondary Endpoint
+435,NCT04977219,Stroke,Not Mentioned,Scale,Not Mentioned,Up To 55 Days,Primary Endpoint
+436,NCT04977219,Stroke,Not Mentioned,Not Mentioned,Not Mentioned,Up To 55 Days,Secondary Endpoint
+437,NCT04977219,Stroke,Not Mentioned,Not Mentioned,Not Mentioned,Up To 55 Days,Secondary Endpoint
+438,NCT04977219,Stroke,Not Mentioned,Not Mentioned,Discharge Destination,Up To 55 Days,Secondary Endpoint
+439,NCT04977011,"Diabetic Ketoacidosis, Heart Disease, Ischemic, Stroke, Gastrointestinal Bleeding, Acute Kidney Injury, Heart Failure, Trauma, Septic Shock, Respiratory Failure, Pneumonia, Intracerebral Hemorrhage, Head Injury, Liver Diseases",Analog Scale.,Not Mentioned,Not Mentioned,3Day,Primary Endpoint
+440,NCT04977011,"Diabetic Ketoacidosis, Heart Disease, Ischemic, Stroke, Gastrointestinal Bleeding, Acute Kidney Injury, Heart Failure, Trauma, Septic Shock, Respiratory Failure, Pneumonia, Intracerebral Hemorrhage, Head Injury, Liver Diseases",Not Mentioned,Not Mentioned,Not Mentioned,3 Day,Secondary Endpoint
+441,NCT04977011,"Diabetic Ketoacidosis, Heart Disease, Ischemic, Stroke, Gastrointestinal Bleeding, Acute Kidney Injury, Heart Failure, Trauma, Septic Shock, Respiratory Failure, Pneumonia, Intracerebral Hemorrhage, Head Injury, Liver Diseases",Richards-Campbell Sleep Scale,Not Mentioned,Not Mentioned,3 Day,Secondary Endpoint
+442,NCT04976673,"Lichen Planus, Oral",Size Of Oral Lichen Planus,Not Mentioned,Not Mentioned,12 Weeks,Primary Endpoint
+443,NCT04976673,"Lichen Planus, Oral",Not Mentioned,Not Mentioned,Not Mentioned,12 Weeks,Secondary Endpoint
+444,NCT04976543,"Cirrhosis, Portal Vein Thrombosis, Esophageal Varices",Rebleeding,Not Mentioned,Not Mentioned,6-Week,Primary Endpoint
+445,NCT04976543,"Cirrhosis, Portal Vein Thrombosis, Esophageal Varices",Death,Not Mentioned,Not Mentioned,6-Week,Secondary Endpoint
+446,NCT04976504,"Desaturation Of Blood, Anesthesia",Not Mentioned,Not Mentioned,Additional Warning Time Provided,"From Time Of Starting Preoxygenation Until The Time Of Spo2 90%, Assessed Up To 20 Minutes",Primary Endpoint
+447,NCT04976504,"Desaturation Of Blood, Anesthesia",Not Mentioned,Correlation,Not Mentioned,Ori And Pao2,Secondary Endpoint
+448,NCT04976439,"Colorectal Cancer, Apc Gene Mutation, Tp53 Gene Mutation, Pik3Ca Gene Mutation, Kras Mutation-Related Tumors, Mlh1 Gene Mutation",Not Mentioned,Not Mentioned,Not Mentioned,January 2017 - June 2021,Primary Endpoint
+449,NCT04976439,"Colorectal Cancer, Apc Gene Mutation, Tp53 Gene Mutation, Pik3Ca Gene Mutation, Kras Mutation-Related Tumors, Mlh1 Gene Mutation",Not Mentioned,Not Mentioned,Tumor Nature,January 2017 - June 2021,Primary Endpoint
+450,NCT04976439,"Colorectal Cancer, Apc Gene Mutation, Tp53 Gene Mutation, Pik3Ca Gene Mutation, Kras Mutation-Related Tumors, Mlh1 Gene Mutation",Not Mentioned,Not Mentioned,Not Mentioned,January 2017 - June 2021,Primary Endpoint
+451,NCT04976439,"Colorectal Cancer, Apc Gene Mutation, Tp53 Gene Mutation, Pik3Ca Gene Mutation, Kras Mutation-Related Tumors, Mlh1 Gene Mutation",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+452,NCT04976361,Prp,Not Mentioned,Not Mentioned,Not Mentioned,6 Months,Primary Endpoint
+453,NCT04976361,Prp,Not Mentioned,Not Mentioned,Retinal Thickness,6 Months,Primary Endpoint
+454,NCT04976361,Prp,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+455,NCT04976114,Anxiety,Anxiety Level,Not Mentioned,Not Mentioned,"Presurgery, Just The Moment Before To Surgery",Primary Endpoint
+456,NCT04976114,Anxiety,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+457,NCT04976088,"Trauma Injury, Inflammation","100"")","Baseline, Pain","Baseline, Pain",72 ± 2 Hours (Day 4) After Treatment Start.,Primary Endpoint
+458,NCT04976088,"Trauma Injury, Inflammation",Day 8 (Spid0-4D,Not Mentioned,"Spid0-8D), Pain",Day 4 And Day 8,Secondary Endpoint
+459,NCT04976088,"Trauma Injury, Inflammation","100"")","Time-Points (Including Patients' Home Measurements), From Day 1 To Day 8., Baseline, Pain","Time-Points (Including Patients' Home Measurements), From Day 1 To Day 8., Baseline, Pain","Day 1, Day 2, Day 3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+460,NCT04976088,"Trauma Injury, Inflammation","100"") During","Time To Resolution Of Pain, Baseline, Day 8","Time To Resolution Of Pain, Baseline, Day 8",From Day 1 Until The Date Of Resolution Of Pain At Rest (Maximum Day 8),Secondary Endpoint
+461,NCT04976088,"Trauma Injury, Inflammation","100"")","Treatment Start, Baseline","Treatment Start, Baseline",Day 4 And Day 8,Secondary Endpoint
+462,NCT04976088,"Trauma Injury, Inflammation","100"")","Movement), Baseline, Pain","Movement), Baseline, Pain",72 ± 2 Hours (Day 4) After Treatment Start,Secondary Endpoint
+463,NCT04976088,"Trauma Injury, Inflammation",Patient Diary,"Rescue Medication (Paracetamol), Baseline, Day 8","Rescue Medication (Paracetamol), Baseline, Day 8",From Baseline To Day 8,Secondary Endpoint
+464,NCT04976088,"Trauma Injury, Inflammation",Patient Diary,"Baseline, Day 8",Not Mentioned,From Baseline To Day 8,Secondary Endpoint
+465,NCT04976088,"Trauma Injury, Inflammation",75% Adhered; 3:<50% Adhered But Not Detached,"Patients, Ordinal Scale: 0:≥90","Patients, Ordinal Scale: 0:≥90","Day 1, Day 2, Day 3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+466,NCT04976088,"Trauma Injury, Inflammation",Physical Examination Using Observation,"Auscultation, Baseline, Day 8","Auscultation, Baseline, Day 8","Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+467,NCT04976088,"Trauma Injury, Inflammation",Safety As Change,"Blood Pressure Measured In Mmhg, Baseline, Day 8","Blood Pressure Measured In Mmhg, Baseline, Day 8","Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+468,NCT04976088,"Trauma Injury, Inflammation",Safety As Change,"Blood Pressure Measured In Mmhg, Baseline, Day 8","Blood Pressure Measured In Mmhg, Baseline, Day 8","Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+469,NCT04976088,"Trauma Injury, Inflammation",Heart Rate Measured In Bpm,"Baseline, Day 8",Not Mentioned,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+470,NCT04976088,"Trauma Injury, Inflammation",Number Of Patient,"Baseline, Day 8",Not Mentioned,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+471,NCT04976088,"Trauma Injury, Inflammation",Number Of Adverse Events,"Baseline, Day 8",Not Mentioned,"Day 1, Day 2, Day3, Day 4, Day 5,Day 6, Day 7, Day 8",Secondary Endpoint
+472,NCT04976088,"Trauma Injury, Inflammation",8 Based,"Day, Local Tolerability (Erythema), Beyond Test Site, Site","Day, Local Tolerability (Erythema), Beyond Test Site, Site","Day 1, Day 4 And Day 8",Secondary Endpoint
+473,NCT04976088,"Trauma Injury, Inflammation",8 Based,"Day, Site, Local Tolerability (Itching)","Day, Site, Local Tolerability (Itching)",4-Point,Secondary Endpoint
+474,NCT04976088,"Trauma Injury, Inflammation",8 Based,"Day, Local Tolerability (Burning), Site","Day, Local Tolerability (Burning), Site",4-Point,Secondary Endpoint
+475,NCT04976088,"Trauma Injury, Inflammation",8 Based,"Day, Local Tolerability (Local Pain), Site","Day, Local Tolerability (Local Pain), Site",4-Point,Secondary Endpoint
+476,NCT04976088,"Trauma Injury, Inflammation",Day 4,Not Mentioned,"Day 8., Following Score: 3, Local Tolerability, Administration Site",Day 4 And Day 8,Secondary Endpoint
+477,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Mean Change In Pain Score,Not Mentioned,Not Mentioned,Assessed For 3 Months After Drug Insertion,Primary Endpoint
+478,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Flare) Scores,Not Mentioned,Not Mentioned,Assessed For 3 Months After Drug Insertion,Primary Endpoint
+479,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Resolution Of Pain,Not Mentioned,Not Mentioned,Assessed For 1 Months After Drug Insertion,Secondary Endpoint
+480,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Resolution Of Anterior Chamber Inflammation,Not Mentioned,Not Mentioned,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
+481,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Not Mentioned,Not Mentioned,Not Mentioned,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
+482,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Number Of Patient,Not Mentioned,Call-Backs Regarding Post-Operative Pain,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
+483,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Number Of Pharmacy Call-Backs Regarding Post-Operative Medication,Not Mentioned,Not Mentioned,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
+484,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Not Mentioned,Not Mentioned,Adverse Events,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
+485,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Mean Change In Iop,Not Mentioned,Not Mentioned,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
+486,NCT04975971,"Anterior Chamber Inflammation, Ocular Pain, Corneal Edema, Corneal Defect, Penetrating Keratoplasty, Nuclear Cataract, Cortical Cataract, Cataract Senile",Change In Bcva,Not Mentioned,Not Mentioned,Assessed For 3 Months After Drug Insertion,Secondary Endpoint
+487,NCT04975659,Communication,Pain Score,Not Mentioned,Not Mentioned,"Throughout Study Completion, Average Of 10 Months",Primary Endpoint
+488,NCT04975659,Communication,Anxiety Score,Baseline,Not Mentioned,"Through Study Completion, Average Of 10 Months",Primary Endpoint
+489,NCT04975659,Communication,Not Mentioned,Not Mentioned,Not Mentioned,"Through Study Completion, Average Of 10 Months",Primary Endpoint
+490,NCT04975659,Communication,Anxiety Score,Not Mentioned,Not Mentioned,"Through Study Completion, Average Of 10 Months",Secondary Endpoint
+491,NCT04975659,Communication,Anxiety Score,Not Mentioned,Not Mentioned,"Through Study Completion, Average Of 10 Months",Secondary Endpoint
+492,NCT04975542,Respiratory Function Impaired,Change In Chest Wall Excursion,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Chest Wall Excursion Within 5 Minutes Of Treatment Completion.,Primary Endpoint
+493,NCT04975542,Respiratory Function Impaired,Change In Forced Vital Capacity (Fvc),Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Fvc Value Via Pulmonary Function Testing Within 5 Minutes Of Treatment Completion.,Primary Endpoint
+494,NCT04975542,Respiratory Function Impaired,1 Second (Fev1),Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline In Forced Expiratory Volume At 1 Second Via Pulmonary Function Testing Within 5 Minutes Of Treatment Completion.,Primary Endpoint
+495,NCT04975542,Respiratory Function Impaired,Fev1/Fvc Ratio,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Fev1/Fvc Ratio Value Via Pulmonary Function Testing Within 5 Minutes Of Treatment Completion.,Primary Endpoint
+496,NCT04975542,Respiratory Function Impaired,Change In Respiratory Rate,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Respiratory Rate Within 5 Minutes Of Treatment Completion.,Secondary Endpoint
+497,NCT04975542,Respiratory Function Impaired,Change In Heart Rate,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Heart Rate Within 5 Minutes Of Treatment Completion.,Secondary Endpoint
+498,NCT04975542,Respiratory Function Impaired,Not Mentioned,Not Mentioned,Not Mentioned,Measure Assessing A Change From Baseline Oxygen Saturation Within 5 Minutes Of Treatment Completion.,Secondary Endpoint
+499,NCT04975529,"Exercise, Diet",Patient-Reported Outcomes Measurement Information System (Promis,Baseline,Not Mentioned,6-Months,Primary Endpoint
+500,NCT04975529,"Exercise, Diet",Mean Change,Baseline,Not Mentioned,6-Months,Secondary Endpoint
+501,NCT04975529,"Exercise, Diet",Institute (Nci) Fruit,"Vegetable Screener, Baseline","Vegetable Screener, Baseline",6-Months,Secondary Endpoint
+502,NCT04975529,"Exercise, Diet",Confidence Scale,Baseline,Not Mentioned,6-Months,Secondary Endpoint
+503,NCT04975412,Acne Vulgaris,Not Mentioned,Not Mentioned,Acne Severity,Initial Consult,Primary Endpoint
+504,NCT04975412,Acne Vulgaris,Whole Blood Zinc Level,Not Mentioned,Not Mentioned,Initial Consult,Primary Endpoint
+505,NCT04975412,Acne Vulgaris,Not Mentioned,Demographics,Not Mentioned,Initial Consult,Secondary Endpoint
+506,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Not Mentioned,Not Mentioned,Not Mentioned,At 07:00 Hours After Caffeine And Placebo Administration,Primary Endpoint
+507,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Not Mentioned,Not Mentioned,Recording Of Nocturnal Sleep,Between 03:00-07:00 Hours After Caffeine And Placebo Administration,Secondary Endpoint
+508,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Not Mentioned,Not Mentioned,Caffeine Effects Questionnaire,Between 07:15-08:00 Hours After Caffeine And Placebo Administration,Secondary Endpoint
+509,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Negative Affect Schedule,Not Mentioned,Not Mentioned,Between 07:00-08:15 Hours After Caffeine And Placebo Administration,Secondary Endpoint
+510,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Psychomotor Vigilance Task,Not Mentioned,Not Mentioned,Between 07:15-07:30 Hours After Caffeine And Placebo Administration,Secondary Endpoint
+511,NCT04975360,"Sleep Inertia, Caffeine, Placebo",N-Back Task,Not Mentioned,Not Mentioned,Between 07:30-07:40 Hours After Caffeine And Placebo Administration,Secondary Endpoint
+512,NCT04975360,"Sleep Inertia, Caffeine, Placebo",D2 Attention Task,Not Mentioned,Not Mentioned,Between 07:40-07:45 Hours After Caffeine And Placebo Administration,Secondary Endpoint
+513,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Not Mentioned,Not Mentioned,Not Mentioned,Between 07:00-08:00 Hours After Caffeine And Placebo Administration,Secondary Endpoint
+514,NCT04975360,"Sleep Inertia, Caffeine, Placebo",Not Mentioned,Not Mentioned,Recording Of Morning Nap Opportunity,Between 08:00-09:00 Hours After Caffeine And Placebo Administration,Secondary Endpoint
+515,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+516,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+517,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Proximal Contact,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+518,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Marginal Adaptation,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+519,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+520,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Gingival Status,24 Months,Primary Endpoint
+521,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",The Crown,Not Mentioned,Retention,24 Months,Primary Endpoint
+522,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",The Veneer/Composite,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+523,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+524,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",History Of Trauma,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+525,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Clinical Pulp Pathology,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+526,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Radiographical Pulp Pathology,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+527,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Parent'S Esthetic Satisfaction,Not Mentioned,Not Mentioned,24 Months,Primary Endpoint
+528,NCT04975321,"Primary Dental Caries, Multisurface Origin (Diagnosis)",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+529,NCT04975282,"Preterm, Feeding, Bottle, Feeding Behavior, Feeding, Breast",Transition To,Not Mentioned,Not Mentioned,"From Transition To Breastfeeding, Up To 1 Week.",Primary Endpoint
+530,NCT04975282,"Preterm, Feeding, Bottle, Feeding Behavior, Feeding, Breast",Not Mentioned,Not Mentioned,Not Mentioned,"From Admission To Discharge, Up To 4 Weeks",Primary Endpoint
+531,NCT04975282,"Preterm, Feeding, Bottle, Feeding Behavior, Feeding, Breast",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+532,NCT04975126,Cataract,Decisional Conflict Scale Score,Not Mentioned,Not Mentioned,Day Of Pre-Assessment Visit (1 Week Before Surgery),Primary Endpoint
+533,NCT04975126,Cataract,Decision Regret Scale Score,Not Mentioned,Not Mentioned,1 Month After Surgery,Primary Endpoint
+534,NCT04975126,Cataract,Number Of Correctly Answered Questions Assessing Knowledge,Not Mentioned,Not Mentioned,Day Of Pre-Assessment Visit (1 Week Before Surgery),Primary Endpoint
+535,NCT04975126,Cataract,Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+536,NCT04975113,"Patellofemoral Pain Syndrome, Kinesiotape, Exercise, Strength",Scale Score,Not Mentioned,And 12Th. Weeks,"Before And After Treatment (12 Sessions, 6Th. And 12Th. Weeks)]",Primary Endpoint
+537,NCT04975113,"Patellofemoral Pain Syndrome, Kinesiotape, Exercise, Strength",Change From Isokinetic Muscle Strength,Not Mentioned,"And 12Th. Weeks, Femoris Muscles","Before And After Treatment (12 Sessions, 6Th. And 12Th. Weeks)]",Primary Endpoint
+538,NCT04975113,"Patellofemoral Pain Syndrome, Kinesiotape, Exercise, Strength",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+539,NCT04975048,"Healthy, Gen1 Gene Mutation",Changes In Serum Lipids,Not Mentioned,Not Mentioned,"Week 0, Week 4, Week 8, Week 16",Primary Endpoint
+540,NCT04975048,"Healthy, Gen1 Gene Mutation",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
+541,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Not Mentioned,"Pre-Dose, 5,10,20,30,40,50,60,75,90,105,120,150,180,210,240,270,300, 330,360,420,480 Minutes；",Primary Endpoint
+542,NCT04975022,"Pk, Pd, And Safety",Auc 0-8 H,Not Mentioned,Not Mentioned,"Pre-Dose, 5,10,20,30,45,10,20,30,40,50,60,75,90,105,120,150,180,210,240,270,300, 330,360,420,480 Minutes；",Primary Endpoint
+543,NCT04975022,"Pk, Pd, And Safety","Aucgir,0-8 H",Not Mentioned,Not Mentioned,"Pre-Dose, 0-8 Hours",Primary Endpoint
+544,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Not Mentioned,"Pre-Dose, 0-8 Hours",Primary Endpoint
+545,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,Not Mentioned,"Pre-Dose, 5,10,20,30,40,50,60,75,90,105,120,150,180,210,240,270,300,330,360,420,480 Minutes；",Secondary Endpoint
+546,NCT04975022,"Pk, Pd, And Safety",Auc 0-2 H,Not Mentioned,Not Mentioned,"Pre-Dose, 5,10,20,30,40,50,60,75,90,105,120 Minutes",Secondary Endpoint
+547,NCT04975022,"Pk, Pd, And Safety",The Elimination Half-Life (T1/2) Of Serum Insulin,Not Mentioned,Not Mentioned,"Pre-Dose, 5,10,20,30,40,50,60,75,90,105,120,150,180,210,240,270,300, 330,360,420,480 Minutes；",Secondary Endpoint
+548,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,"Time Zero To 4 H, Insulin","Pre-Dose, 5,10,20,30,40,50,60,75,90,105,120,150,180,210,240 Minutes",Secondary Endpoint
+549,NCT04975022,"Pk, Pd, And Safety",Not Mentioned,Not Mentioned,"Time Zero To Infinite Time, Insulin","Pre-Dose, 5,10,20,30,45,10,20,30,40,50,60,75,90,105,120,150,180,210,240,270,300, 330,360,420,480 Minutes；",Secondary Endpoint
+550,NCT04975022,"Pk, Pd, And Safety",Aucgir，0-2 H,Not Mentioned,Not Mentioned,"Pre-Dose, 0-2 Hours",Secondary Endpoint
+551,NCT04975022,"Pk, Pd, And Safety",Aucgir，0-4 H,Not Mentioned,Not Mentioned,"Pre-Dose, 0-4 Hours",Secondary Endpoint
+552,NCT04975022,"Pk, Pd, And Safety",Tgirmax,Not Mentioned,Not Mentioned,"Pre-Dose, 0-8 Hours",Secondary Endpoint
+553,NCT04974983,"Glioblastoma, Angiogenesis",Not Mentioned,Not Mentioned,Not Mentioned,15 Months,Primary Endpoint
+554,NCT04974983,"Glioblastoma, Angiogenesis",Not Mentioned,Not Mentioned,Not Mentioned,Nan,Secondary Endpoint
