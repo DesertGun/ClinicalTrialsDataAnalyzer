@@ -128,18 +128,27 @@ def data_to_dataframe(data):
     return dfTest
 
 
+'''
+@author Ervin Joa
+
+The following method takes a list of labels with
+their corresponding text and if multiple keyword have
+the same label, concatinates them into a single String.
+
+@param target_list: list if target data (label: text)
+
+@return: String
+'''
 def get_labels(target_list):
     label_list=[]
 
     for el in target_list:
         if el.label_ == "Reference" or el.label_ == "Variable":
-            # print(el.text)
             label_list.append(el.text)
 
     label_list = list(set(label_list))
 
     label_str = ", ".join(map(str, label_list))
-    # print(label_str)
     return label_str
 
 '''
