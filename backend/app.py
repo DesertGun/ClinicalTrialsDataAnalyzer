@@ -53,7 +53,7 @@ def activate_update_job():
         date_of_database = datetime.datetime.strptime(date_from_filename, '%m%d%Y')
         date_diff = date_of_database - date_of_today
 
-        if abs(date_diff.days) >= 21:
+        if abs(date_diff.days) >= 28:
             update_needed = True
 
             while update_needed:

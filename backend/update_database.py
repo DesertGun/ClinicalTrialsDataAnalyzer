@@ -55,6 +55,7 @@ def download_data():
         tmp_border += 999
         # save and empty the tmp_df
         input_data = new_data_merge
+        # wait 5 seconds to avoid spam-protection
         time.sleep(5)
 
 
@@ -63,7 +64,7 @@ def download_data():
     input_data_last_chunk = get_new_chunk(str(current_border), str(current_border + diff_border))
 
     concat_frames_final = [input_data, input_data_last_chunk] 
-    input_data = pd.concat(concat_frames)
+    input_data = pd.concat(concat_frames_final)
 
     # create input_data.csv
     date_new = datetime.datetime.now().strftime("%m%d%Y")

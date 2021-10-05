@@ -142,7 +142,7 @@ export default {
         { text: 'Reference', value: 'Reference' },
       ],
       endpointOptions: [
-        { value: null, text: 'Select one one of the endpoint types' },
+        { value: null, text: 'Select one of the endpoint types' },
         { value: 'Primary Endpoint', text: 'Primary Endpoint' },
         { value: 'Secondary Endpoint', text: 'Secondary Endpoint' },
       ],
