@@ -72,3 +72,4 @@ def download_data():
     filtered = input_data[(input_data["OverallStatus"] == "Completed") & (input_data["WhyStopped"].astype(str) == "nan")]
     export = filtered.drop(columns=["WhyStopped", "OverallStatus"], axis = 1)
     export.to_csv("input_data_filtered.csv")
+    # input_data = input_data[0:]

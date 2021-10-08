@@ -38,45 +38,65 @@ def activate_update_job():
         rootdir = "./"
         regex = re.compile(r"input_data_raw_(\d+\d+\d+).csv")
         filename = ""
+        found = False
 
         for root, dirs, files in os.walk(rootdir):
             for file in files:
                 if regex.match(file):
                     filename = file
+                    found = True
+        
+        if found: 
+            date_pattern = re.compile(r"_(\d+\d+\d+).csv")
+            date_from_filename = date_pattern.search(filename).group(1)
 
-        date_pattern = re.compile(r"_(\d+\d+\d+).csv")
-        date_from_filename = date_pattern.search(filename).group(1)
+            print(date_from_filename)
 
-        print(date_from_filename)
+            date_of_today = datetime.datetime.now()
+            date_of_database = datetime.datetime.strptime(date_from_filename, '%m%d%Y')
+            date_diff = date_of_database - date_of_today
 
-        date_of_today = datetime.datetime.now()
-        date_of_database = datetime.datetime.strptime(date_from_filename, '%m%d%Y')
-        date_diff = date_of_database - date_of_today
+            if abs(date_diff.days) >= 28:
+                update_needed = True
 
-        if abs(date_diff.days) >= 28:
-            update_needed = True
-
-            while update_needed:
-                print("Run update task")
-                # download_data()
-                create_results()
-                update_needed = False
-                # os.remove(filename) 
-                time.sleep(3)
-                print("Finished updates")
+                while update_needed:
+                    print("Run update task")
+                    download_data()
+                    create_results()
+                    update_needed = False
+                    os.remove(filename) 
+                    time.sleep(3)
+                    print("Finished updates")
+            else:
+                print("No Update Needed")
+            
         else:
-            print("No Update Needed")
+            print("Starting download")
+            download_data()
+            create_results()
+            time.sleep(3)
+            print("Download finished")
 
     thread = threading.Thread(target=run_job)
     thread.start()
 
-result_data = pd.read_csv('./results.csv')
-# TODO: Check if Data is present
-# TODO: If Not then Frontend should show warning
+
+
+try:
+    result_data = pd.read_csv('./results.csv')
+except FileNotFoundError:
+    print("Results not found, please wait for the update/download to finish and refresh the page after some minutes!")
+
+@app.errorhandler(500)
+def internal_error(error):
+    return "Result database not found!"
+
 @app.route('/results', methods=['GET'])
 def send_results():
     print(result_data.head())
     return result_data.to_json(orient="records")
+    
+
 
 
 '''
@@ -99,8 +119,6 @@ def filter():
         result = result_data.copy()
         params_data  = json.loads(params_json)
         values = params_data.items()
-
-        aggregation_filters = []
         group_by_options = []
 
         for key, value in values:
@@ -128,9 +146,11 @@ def filter():
                 
         if group_by_options:
             print(result.head())
+            print(result.size)
             return result.sort_values(by=["Number of Accurances:"], ascending = False).to_json(orient="records")
         else:
             print(result.head())
+            print(result.size)
             return result.to_json(orient="records")
         
     else:

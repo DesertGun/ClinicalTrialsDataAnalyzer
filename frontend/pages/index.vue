@@ -88,25 +88,49 @@
         </b-col>
       </b-row>
     </b-container>
-    <b-container fluid="md" class="resultcontainer">
+    <div v-if="!databaseNotPresent">
+      <b-container fluid="md" class="resultcontainer">
+        <b-row>
+          <b-col />
+          <b-col class="outCol">
+            <h4>Results</h4>
+            <div class="mb-2">
+              <b-pagination
+                v-model="currentPage"
+                :total-rows="rows"
+                :per-page="perPage"
+                aria-controls="result-table"
+              ></b-pagination>
+
+              <p class="mt-3">Current Page: {{ currentPage }}</p>
+              <b-table
+                id="result-table"
+                sticky-header="500px"
+                :no-border-collapse="noCollapse"
+                responsive
+                striped
+                :per-page="perPage"
+                :current-page="currentPage"
+                hover
+                :items="items"
+              ></b-table>
+            </div>
+          </b-col>
+          <b-col />
+        </b-row>
+      </b-container>
+    </div>
+    <div v-else>
       <b-row>
         <b-col />
-        <b-col class="outCol">
-          <h4>Results</h4>
-          <div class="mb-2">
-            <b-table
-              sticky-header="500px"
-              :no-border-collapse="noCollapse"
-              responsive
-              striped
-              hover
-              :items="items"
-            ></b-table>
-          </div>
+        <b-col cols="10">
+          <h4>Database not present!</h4>
+          <h5>Please wait while database gets created!</h5>
+          <h5>This can take up to 30 - 60 minutes</h5>
         </b-col>
         <b-col />
       </b-row>
-    </b-container>
+    </div>
   </div>
 </template>
 
@@ -128,6 +152,8 @@ export default {
       autocompleteVariable: [],
       autocompleteTimepoint: [],
       autocompleteCondition: [],
+      perPage: 50,
+      currentPage: 1,
       change: '',
       variable: '',
       reference: '',
@@ -135,6 +161,7 @@ export default {
       timepoint: '',
       endpointArt: null,
       selected: [],
+      databaseNotPresent: null,
       options: [
         { text: 'Change', value: 'Change' },
         { text: 'Variable', value: 'Variable' },
@@ -148,34 +175,47 @@ export default {
       ],
     }
   },
+  computed: {
+    rows() {
+      return this.items.length
+    },
+  },
   async mounted() {
     try {
       this.items = await this.$axios
         .get('/results')
         .then((response) => response.data)
-      this.autocompleteItems = this.items
-      this.autocompleteChange = this.autocompleteItems.map((d) => d.Change)
-      this.autocompleteChange = Array.from(new Set(this.autocompleteChange))
-      this.autocompleteReference = this.autocompleteItems.map(
-        (d) => d.Reference
-      )
-      this.autocompleteReference = Array.from(
-        new Set(this.autocompleteReference)
-      )
-      this.autocompleteVariable = this.autocompleteItems.map((d) => d.Variable)
-      this.autocompleteVariable = Array.from(new Set(this.autocompleteVariable))
-      this.autocompleteTimepoint = this.autocompleteItems.map(
-        (d) => d.Timepoint
-      )
-      this.autocompleteTimepoint = Array.from(
-        new Set(this.autocompleteTimepoint)
-      )
-      this.autocompleteCondition = this.autocompleteItems.map(
-        (d) => d.Condition
-      )
-      this.autocompleteCondition = Array.from(
-        new Set(this.autocompleteCondition)
-      )
+      if (this.items === 'Result database not found!') {
+        this.databaseNotPresent = true
+      } else {
+        this.autocompleteItems = this.items
+        this.autocompleteChange = this.autocompleteItems.map((d) => d.Change)
+        this.autocompleteChange = Array.from(new Set(this.autocompleteChange))
+        this.autocompleteReference = this.autocompleteItems.map(
+          (d) => d.Reference
+        )
+        this.autocompleteReference = Array.from(
+          new Set(this.autocompleteReference)
+        )
+        this.autocompleteVariable = this.autocompleteItems.map(
+          (d) => d.Variable
+        )
+        this.autocompleteVariable = Array.from(
+          new Set(this.autocompleteVariable)
+        )
+        this.autocompleteTimepoint = this.autocompleteItems.map(
+          (d) => d.Timepoint
+        )
+        this.autocompleteTimepoint = Array.from(
+          new Set(this.autocompleteTimepoint)
+        )
+        this.autocompleteCondition = this.autocompleteItems.map(
+          (d) => d.Condition
+        )
+        this.autocompleteCondition = Array.from(
+          new Set(this.autocompleteCondition)
+        )
+      }
     } catch (e) {
       alert(e.toString())
     }
