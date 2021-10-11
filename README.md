@@ -13,6 +13,7 @@ Bachelor’s Thesis - Web-App
 4) Download relevant model for spacy (for further custom training) with 'python -m spacy download en_core_web_sm'
 5) Install Node.js
 6) Navigate to /frontend/ and install all needed dependancies via 'npm install'
+7) After the installation run 'npm audit fix' if vulnerabilities are shown
 
 ## Launching the App in Dev-Mode
 
