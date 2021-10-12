@@ -85,6 +85,26 @@
               name="flavour-1"
             ></b-form-checkbox-group>
           </b-form-group>
+          <h4>Additional Information</h4>
+          <ul>
+            <li>
+              The aggregation option returns the result based on the aggregation
+              Variable. These oprions return the "Number of Accurances" of of
+              the aggregated feature/s based on their cuantity found threw the
+              model
+            </li>
+            <li>
+              Multiple aggregations of the features are possible, but to find
+              best parameters for a certain condition (or other feature) it is
+              recomended to use only one aggregation option at a time.
+            </li>
+            <li>
+              Besides the autocompletion, in the "Filter Settings", it is
+              possible to manually enter the values in the corresponding forms,
+              results will be found for values that have similarities to the
+              input
+            </li>
+          </ul>
         </b-col>
       </b-row>
     </b-container>

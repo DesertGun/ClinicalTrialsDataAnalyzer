@@ -71,7 +71,7 @@ html {
 
 .contentContainer {
   margin: 0 auto;
-  min-height: 70vh;
+  min-height: 100vh;
   background-color: ghostwhite;
   padding-bottom: 15vh;
   padding-top: 10vh;
