@@ -65,7 +65,7 @@
                 :options="endpointOptions"
               ></b-form-select>
             </div>
-            <b-button variant="primary" @click="sendParams()">
+            <b-button class="mt-3" variant="primary" @click="sendParams()">
               Submit
             </b-button>
           </div>
