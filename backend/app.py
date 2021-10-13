@@ -33,7 +33,6 @@ thread, check if an update of the database is needed, in
 which case download it, label it and create a csv file 
 for further operations, otherwise it will continue directly.
 
-@return: result_data as DataFrame
 '''
 @app.before_first_request
 def activate_update_job():
@@ -54,8 +53,6 @@ def activate_update_job():
         if found: 
             date_pattern = re.compile(r"_(\d+\d+\d+).csv")
             date_from_filename = date_pattern.search(filename).group(1)
-
-            print(date_from_filename)
 
             date_of_today = datetime.datetime.now()
             date_of_database = datetime.datetime.strptime(date_from_filename, '%m%d%Y')
@@ -156,11 +153,9 @@ def filter():
                 
         if group_by_options:
             print(result.head())
-            print(result.size)
             return result.sort_values(by=["Number of Accurances:"], ascending = False).to_json(orient="records")
         else:
             print(result.head())
-            print(result.size)
             return result.to_json(orient="records")
         
     else:
