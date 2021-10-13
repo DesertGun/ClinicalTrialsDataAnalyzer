@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import time
 import datetime
-from urllib.error import HTTPError
+from urllib.error import HTTPError, URLError
 
 
 '''
@@ -14,6 +14,7 @@ This method gets the next chunk from the ClinicalTrials.gov-API
 @param tmp_boarder: int-value of the current boarder + 1000 (max. allowed chunk-size)
 
 @except HTTPError in case the API blocks further downloads (possibly due to ddos-prevention)
+@except URLError in case the API cannot be reached, because of connection problems
 
 @return dataframe as a chunk
 '''
@@ -28,9 +29,9 @@ def get_new_chunk(current_border, tmp_border):
         data_new_chunk = pd.read_csv(url_new_chunk,  skiprows=11, names=[
                                      "NCTId", "Condition", "OverallStatus", "PrimaryOutcomeMeasure", "PrimaryTimeFrame", "SecondaryOutcomeMeasure", "SecondaryTimeFrame", "WhyStopped", "BaselineMeasureTitle"])
         return data_new_chunk
-    except HTTPError:
+    except (HTTPError, URLError):
         time.sleep(5)
-        print("Error, trying to continue the update")
+        print("Error, trying to continue the download")
         return get_new_chunk(current_border, tmp_border)
 
 
@@ -42,15 +43,22 @@ After download completed created 2 .csv-files:
 1) File containing the whole data
 2) File containing filtered data with only relevant entries and features
 
+@except HTTPError in case the API blocks access (possibly due to ddos-prevention)
+@except URLError in case the API cannot be reached, because of connection problems
+
 @return dataframe as a chunk
 '''
 
 
 def download_data():
-
-    # retrieve the information of the data avalible
-    url_info = "https://clinicaltrials.gov/api/query/study_fields?min_rnk=1&max_rnk=1&fields=NCTId&fmt=csv"
-    info = pd.read_csv(url_info, nrows=8, names=["art"])
+    try:
+        # retrieve the information of the data avalible
+        url_info = "https://clinicaltrials.gov/api/query/study_fields?min_rnk=1&max_rnk=1&fields=NCTId&fmt=csv"
+        info = pd.read_csv(url_info, nrows=8, names=["art"])
+    except (HTTPError, URLError):
+        print("Error, while retreaving information, restarting")
+        time.sleep(5)
+        return download_data()
 
     max_border = int(info.iloc[3]["art"].split(": ")[1])
 
@@ -97,9 +105,14 @@ def download_data():
     input_data.head(
         (input_data.shape[0]//4)).to_csv("input_data_raw_" + date_new + ".csv")
 
+    input_data_reduced = pd.read_csv("input_data_raw_" + date_new + ".csv")
+
+    # Deletes the col 'Unnamed' which gets created via read_csv
+    input_data_reduced.drop(input_data_reduced.filter(regex="Unnamed"), axis=1, inplace=True)
+
     # filtering data, which only consits of finished trails with results
-    filtered = input_data[(input_data["OverallStatus"] == "Completed") & (
-        input_data["WhyStopped"].astype(str) == "nan")]
+    filtered = input_data_reduced[(input_data_reduced["OverallStatus"] == "Completed") & (
+        input_data_reduced["WhyStopped"].astype(str) == "nan")]
 
     # droping unneeded features
     export = filtered.drop(columns=["WhyStopped", "OverallStatus"], axis=1)
