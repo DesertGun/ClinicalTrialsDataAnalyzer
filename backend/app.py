@@ -18,6 +18,11 @@ app.config.from_object(__name__)
 # enable CORS
 cors = CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
 
+try:
+    result_data = pd.read_csv('./results.csv')
+except (NameError, FileNotFoundError):
+    print("Results not found, please wait for the update/download to finish and refresh the page after some minutes!")
+
 
 '''
 @author Ervin Joa
@@ -28,7 +33,7 @@ thread, check if an update of the database is needed, in
 which case download it, label it and create a csv file 
 for further operations, otherwise it will continue directly.
 
-@return: none
+@return: result_data as DataFrame
 '''
 @app.before_first_request
 def activate_update_job():
@@ -40,7 +45,7 @@ def activate_update_job():
         filename = ""
         found = False
 
-        for root, dirs, files in os.walk(rootdir):
+        for root_directory, directories, files in os.walk(rootdir):
             for file in files:
                 if regex.match(file):
                     filename = file
@@ -62,30 +67,32 @@ def activate_update_job():
                 while update_needed:
                     print("Run update task")
                     download_data()
+                    print("Creating results")
                     create_results()
                     update_needed = False
                     os.remove(filename) 
                     time.sleep(3)
+                    result_data = pd.read_csv('./results.csv')
                     print("Finished updates")
+                    return result_data
             else:
                 print("No Update Needed")
             
         else:
             print("Starting download")
             download_data()
+            print("Creating results")
             create_results()
             time.sleep(3)
-            print("Download finished")
+            result_data = pd.read_csv('./results.csv')
+            print("Download and result creation finished")
+            return result_data
 
     thread = threading.Thread(target=run_job)
     thread.start()
 
 
 
-try:
-    result_data = pd.read_csv('./results.csv')
-except FileNotFoundError:
-    print("Results not found, please wait for the update/download to finish and refresh the page after some minutes!")
 
 @app.errorhandler(500)
 def internal_error(error):
@@ -93,8 +100,11 @@ def internal_error(error):
 
 @app.route('/results', methods=['GET'])
 def send_results():
-    print(result_data.head())
-    return result_data.to_json(orient="records")
+    try:
+        print(result_data.head())
+        return result_data.to_json(orient="records")
+    except (NameError, FileNotFoundError):
+        return "Result database not found!"
     
 
 
